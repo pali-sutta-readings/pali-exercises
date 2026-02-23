@@ -1,4 +1,4 @@
-*.pdf
+exercises/*.pdf
 
 # Emacs temp files
 auto/
