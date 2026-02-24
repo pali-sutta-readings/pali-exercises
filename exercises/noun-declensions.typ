@@ -1,10 +1,12 @@
-#import "style.typ": document-setup, quote, tblfill, B, E, pali, red, Bred, fillin, note
+#import "style.typ": document-setup, table-of-contents, quote, tblfill, B, E, pali, red, Bred, fillin, note
 
 #show: document-setup.with(
-  title: "Pāli Noun Declension Exercises",
+  title: "Pāli Exercises",
 )
 
-= Exercises
+#table-of-contents()
+
+= Noun Declensions
 
 == Method
 
@@ -26,6 +28,7 @@ Practise writing out the table of the first two declension cases on paper from m
   columns: (1.8fr, 1.4fr, 1.4fr),
   align: (left, left, left),
   stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
+  row-gutter: 0pt,
   table.header[*Case*][*Singular*][*Plural*],
   [1. Nominative (subject)],   [nar#B[o]],    [nar#B[ā]],
   [2. Accusative (object)],    [nar#B[aṁ]],   [nar#B[e]],
@@ -309,6 +312,7 @@ Practise writing the declension cases on paper from memory.
   columns: (1.8fr, 1.4fr, 1.4fr),
   align: (left, left, left),
   stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
+  row-gutter: 0pt,
   table.header[*Case*][*Singular*][*Plural*],
   [1. Nominative (subject)],   [nar#B[o]],    [nar#B[ā]],
   [2. Accusative (object)],    [nar#B[aṁ]],   [nar#B[e]],
@@ -461,6 +465,7 @@ The *8. Vocative* is used when addressing the subject: Nara! "Hey, man!"
   stroke: 0.4pt + luma(200),
   inset: 6pt,
   fill: (_, y) => if (y in (1,2) or y in (5,6) or y in (10,11)) { color.hsl(195deg, 35%, 92%) },
+  row-gutter: 0pt,
   table.header[*Case*][*Singular*][*Plural*],
   [1. Nom. masc. (subject)],   [nar#B[o]],    [nar#B[ā]],
   [1. Nom. nt. (subject)],   [citt#Bred[aṁ]],   [citt#B[ā], citt#Bred[āni]],
@@ -489,6 +494,7 @@ Practise the *neuter -a stem* declension table on paper:
   columns: (1.8fr, 1.4fr, 1.4fr),
   align: (left, left, left),
   stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
+  row-gutter: 0pt,
   table.header[*Case*][*Singular*][*Plural*],
   [1. Nominative (subject)],   [citt#B[aṁ]],   [citt#B[ā], citt#B[āni]],
   [2. Accusative (object)],    [citt#B[aṁ]],  [citt#B[e], citt#B[āni]],
@@ -570,31 +576,114 @@ _pamādo maccuno padaṁ_ \
   [#strong[ābādha]], [#emph[\(masc)] disease; illness; affliction],
   [#strong[bhatta]], [#emph[\(nt)] food; boiled rice],
   [#strong[cīvara]], [#emph[\(nt)] robe; cloth;],
-  [#strong[paduma]], [#emph[\(nt)] lotus],
+  [#strong[dibba]], [#emph[\(adj)] divine; heavenly; celestial],
+  [#strong[kiñci]], [#emph[\(ind)] something; anything],
   [#strong[phala]], [#emph[\(nt)] fruit],
   [#strong[puppha]], [#emph[\(nt)] flower],
   [#strong[rukkhamūla]], [#emph[\(nt)] root of a tree; base of a tree],
   [#strong[rūpa]], [#emph[\(nt)] form; materiality],
   [#strong[saṅkhāra]], [#emph[\(masc)] intention; volitional formation],
+  [#strong[sukha]], [#emph[\(nt)] ease; comfort; happiness],
+  [#strong[tasmā]], [#emph[\(ind)] therefore; that is why #emph[abl.sg. of ta]],
   [#strong[viññāṇa]], [#emph[\(nt)] awareness; consciousness; cognition #emph[from vijānāti]],
+  [#strong[yaṁ]], [#emph[\(pron)] which; whoever; whatever; #emph[nt.nom.sg. of ya]],
+  [], [],
+  [#strong[papatati]], [falls (from); falls away (from)],
 )
 
 === Translate into English
 
-TODO
+*NOTE:* The neuter accusative plural also ends in #B[-e], alongside #B[-āni]: #pali[pupphe] or #pali[pupphāni] (flowers), #pali[rūpe] or #pali[rūpāni] (forms), #pali[kamme] or #pali[kammāni] (deeds).
+
+#grid(
+columns: (1fr, 1fr),
+block[
+#set enum(start: 1)
+
++ Sissā ācariyassa bhattaṁ haranti. \
+  #fillin(6cm, "The students carry the food for the teacher.")
+
++ Kusalaṁ kammaṁ sukhāya saṁvattati. \
+  #fillin(6cm, "Wholesome action leads to happiness.")
+
++ Narā phalāni bhuñjanti. \
+  #fillin(6cm, "The men eat the fruits.")
+
++ Sissā pupphāni passanti. \
+  #fillin(6cm, "The students see the flowers.")
+
+], block[
+#set enum(start: 5)
+
++ Narā pupphe haranti. \
+  #fillin(6cm, "The men carry the flowers.")
+
++ Sisso rūpe passati. \
+  #fillin(6cm, "The student sees forms.")
+
++ Narā kusalāni kammāni karonti. \
+  #fillin(6cm, "The men perform wholesome deeds.")
+
++ Dibbāni pupphāni papatanti. \
+  #fillin(6cm, "Heavenly flowers are falling.")
+
+])
+
+#set enum(start: 9)
+
++ Rūpaṁ anattā, tasmā rūpaṁ ābādhāya saṁvattati. \
+  #fillin(15cm, "Form is not self, therefore form leads to affliction.")
+
++ Taṁ kiṁ maññatha bhikkhave, rūpaṁ niccaṁ vā aniccaṁ vā’ti? Aniccaṁ bhante. \
+  #fillin(15cm, "What do you think bhikkhus, form is permanent or impermanent? Impermanent, venerable sir.")
+
+*Nicca* and *anicca* are adjectives qualifying *rūpa* (nt.), hence they get the same ending of nt.acc.sg. *-ṁ*: *rūpaṁ niccaṁ vā aniccaṁ vā*.
+
++ Yaṁ kiñci rūpaṁ atītānāgata-paccuppannaṁ ajjhattaṁ vā bahiddhā vā ... \
+  #fillin(15cm, "Whatever form, future, past or present, internal or external ...")
+
+Both *ajjhattaṁ* and *bahiddhā* are adverbs qualifying *rūpaṁ* (nt.acc.sg.), but they have different morphological origins, hence the different ending:
+
+*Ajjhattaṁ:* *ajjhatta* (indeclinable adverb) + *-ṁ* (agrees with nt.acc.sg. *-ṁ* of *rūpaṁ*)
+
+*Bahiddhā:* *bahi* ('outside') + the adverbial suffix *-dhā*. A 'pure/unchangeable adverb', which never changes form (hence doesn't get the *-ṁ* of *rūpaṁ*).
+
++ Ye keci saṅkhārā atītānāgata-paccuppannā ajjhattā vā bahiddhā vā ... \
+  #fillin(15cm, "Whatever mental formations, future, past or present, internal or external ...")
+
+*Saṅkhārā* (masc.acc.pl.) has *-ā* ending, hence *ajjhattā* aggrees with the same ending.
+
+*Bahiddhā* didn't change from the earlier form (adverbial suffix *-dhā*), the *-ā* ending only happens to be the same as the plural *-ā* of *ajjhattā*.
 
 === Translate into Pāli
 
-TODO
+#set enum(start: 1)
+
++ The boys carry the flowers to the monk. \
+  #fillin(15cm, "Kumārā bhikkhussa pupphāni haranti.")
+
++ The student cultivates the mind. \
+  #fillin(15cm, "Sisso cittaṁ bhāveti.")
+
++ The men perform (do) wholesome actions. \
+  #fillin(15cm, "Narā kusalāni kammāni karonti.")
+
++ The cook prepares (cooks) the food for the students. \
+  #fillin(15cm, "Sūdo sissānaṁ bhattaṁ pacati.")
+
++ The students eat the food together with the teacher. \
+  #fillin(15cm, "Sissā ācariyena saddhiṁ bhattaṁ bhuñjanti.")
 
 #pagebreak()
+#set enum(start: 1)
 
-== Level 4: Masculine -a stems, Ablative 
+== Level 4: Masculine -a stems, Ablative
 
 #table(
   columns: (1.8fr, 1.4fr, 1.4fr),
   align: (left, left, left),
   stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
+  row-gutter: 0pt,
   table.header[*Case*][*Singular*][*Plural*],
   [1. Nominative (subject)],   [nar#B[o]],    [nar#B[ā]],
   [2. Accusative (object)],    [nar#B[aṁ]],   [nar#B[e]],
@@ -613,6 +702,10 @@ TODO
 
 TODO
 
+// Dibbāni mandāravapupphāni antalikkhā papatanti.
+
+// Rūpe aniccato jānato passato avijjā pahīyati, vijjā uppajjati.
+
 === Translate into Pāli
 
 TODO
@@ -628,6 +721,7 @@ Adding the *6. Genitive* and *7. Locative* cases (the same for masc. and nt.), w
   columns: (1.8fr, 1.4fr, 1.4fr),
   align: (left, left, left),
   stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
+  row-gutter: 0pt,
   table.header[*Masculine -a case*][*Singular*][*Plural*],
   [1. Nominative (subject)],   [nar#B[o]],    [nar#B[ā]],
   [2. Accusative (object)],    [nar#B[aṁ]],   [nar#B[e]],
@@ -643,6 +737,7 @@ Adding the *6. Genitive* and *7. Locative* cases (the same for masc. and nt.), w
   columns: (1.8fr, 1.4fr, 1.4fr),
   align: (left, left, left),
   stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
+  row-gutter: 0pt,
   table.header[*Neuter -a case*][*Singular*][*Plural*],
   [1. Nominative (subject)],   [citt#B[aṁ]],   [citt#B[ā], citt#B[āni]],
   [2. Accusative (object)],    [citt#B[aṁ]],  [citt#B[e], citt#B[āni]],
@@ -716,3 +811,128 @@ ariyānaṁ gocare ratā. (Dhp 21-22)
 
 // yathāvimuttaṁ cittaṁ paccavekkhati— ime kho, bhikkhave, pañca dhammā sekhassa bhikkhuno aparihānāya saṁvattantī”ti.
 
+#pagebreak()
+
+== Level 7: Feminine -ā stems, Cases 1-4, Nom. Acc. Instr. Dat.
+
+#table(
+  columns: (1.8fr, 1.4fr, 1.4fr),
+  align: (left, left, left),
+  stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
+  row-gutter: 0pt,
+  table.header[*Case*][*Singular*][*Plural*],
+  [1. Nominative (subject)],   [vedan#B[ā]], [vedan#B[ā], vedan#B[āyo]],
+  [2. Accusative (object)],    [vedan#B[aṁ]], [vedan#B[ā], vedan#B[āyo]],
+  [3. Instrumental (by/with)], [vedan#B[āya]], [vedan#B[āhi]],
+  [4. Dative (to/for)],        [vedan#B[āya]], [vedan#B[ānaṁ]],
+)
+
+=== Vocabulary
+
+TODO
+
+=== Translate into English
+
+TODO
+
+=== Translate into Pāli
+
+TODO
+
+#pagebreak()
+
+== Level 8: Feminine -ā stems, Cases 5-8, Abl. Gen. Loc. Voc.
+
+#table(
+  columns: (1.8fr, 1.4fr, 1.4fr),
+  align: (left, left, left),
+  stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
+  row-gutter: 0pt,
+  table.header[*Case*][*Singular*][*Plural*],
+  [1. Nominative (subject)],   [vedan#B[ā]], [vedan#B[ā], vedan#B[āyo]],
+  [2. Accusative (object)],    [vedan#B[aṁ]], [vedan#B[ā], vedan#B[āyo]],
+  [3. Instrumental (by/with)], [vedan#B[āya]], [vedan#B[āhi]],
+  [4. Dative (to/for)],        [vedan#B[āya]], [vedan#B[ānaṁ]],
+  [5. Ablative (from)],        [vedan#B[āya]], [vedan#B[āhi]],
+  [6. Genitive (of)],          [vedan#B[āya]], [vedan#B[ānaṁ]],
+  [7. Locative (to/at)],       [vedan#B[āya], vedan#B[āyaṁ]], [vedan#B[āsu]],
+  [8. Vocative (address)],     [vedan#B[e]], [vedan#B[ā], vedan#B[āyo]],
+)
+
+=== Vocabulary
+
+TODO
+
+=== Translate into English
+
+TODO
+
+=== Translate into Pāli
+
+TODO
+
+#pagebreak()
+
+== Level 9: Feminine -i stems, Cases 1-4, Nom. Acc. Instr. Dat.
+
+#table(
+  columns: (1.8fr, 1.4fr, 1.4fr),
+  align: (left, left, left),
+  stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
+  row-gutter: 0pt,
+  table.header[*Case*][*Singular*][*Plural*],
+  [1. Nominative (subject)],   [bhūm#B[i]], [bhūm#B[ī], bhūm#B[iyo]],
+  [2. Accusative (object)],    [bhūm#B[iṁ]], [bhūm#B[ī], bhūm#B[iyo]],
+  [3. Instrumental (by/with)], [bhūm#B[iyā]], [bhūm#B[īhi]],
+  [4. Dative (to/for)],        [bhūm#B[iyā]], [bhūm#B[īnaṁ]],
+)
+
+=== Vocabulary
+
+TODO
+
+=== Translate into English
+
+TODO
+
+=== Translate into Pāli
+
+TODO
+
+#pagebreak()
+
+== Level 9: Feminine -i stems, Cases 5-8, Abl. Gen. Loc. Voc.
+
+#table(
+  columns: (1.8fr, 1.4fr, 1.4fr),
+  align: (left, left, left),
+  stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
+  row-gutter: 0pt,
+  table.header[*Case*][*Singular*][*Plural*],
+  [1. Nominative (subject)],   [bhūm#B[i]], [bhūm#B[ī], bhūm#B[iyo]],
+  [2. Accusative (object)],    [bhūm#B[iṁ]], [bhūm#B[ī], bhūm#B[iyo]],
+  [3. Instrumental (by/with)], [bhūm#B[iyā]], [bhūm#B[īhi]],
+  [4. Dative (to/for)],        [bhūm#B[iyā]], [bhūm#B[īnaṁ]],
+  [5. Ablative (from)],        [bhūm#B[iyā]], [bhūm#B[īhi]],
+  [6. Genitive (of)],          [bhūm#B[iyā]], [bhūm#B[īnaṁ]],
+  [7. Locative (to/at)],       [bhūm#B[iyā], bhūm#B[iyaṁ]], [bhūm#B[isu], bhūm#B[īsu]],
+  [8. Vocative (address)],     [bhūm#B[i]], [bhūm#B[ī], bhūm#B[iyo]],
+)
+
+=== Vocabulary
+
+TODO
+
+=== Translate into English
+
+TODO
+
+=== Translate into Pāli
+
+TODO
+
+#pagebreak()
+
+== Level 10: Quotes
+
+TODO

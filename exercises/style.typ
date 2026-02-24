@@ -12,7 +12,7 @@
     thai-heading: "Garuda",          // Thai script for headings
     chinese-body: "Noto Serif CJK HK",
   ),
-  
+
   // Font sizes
   sizes: (
     body: 11pt,          // Standard reading size
@@ -24,14 +24,14 @@
     thai-heading: 18pt,  // Reference: Thai text in headings (functions now inherit size)
     thai-normal: 12pt,   // Reference: Thai text in body (functions now inherit size)
   ),
-  
+
   // Line spacing (leading)
   leading: (
     body: 0.9em,         // ~120% line height (1.2 - 1 = 0.2, then * font-size-factor)
     header: 0.5em,       // ~100% line height for headers
     footnote: 0.8em,
   ),
-  
+
   // Paragraph spacing
   spacing: (
     after-paragraph: 20pt,      // Space after body paragraphs
@@ -45,18 +45,18 @@
     before-footnote: 4pt,     // Space before footnotes
     after-footnote: 6pt,      // Space after footnotes
   ),
-  
+
   // Colors
   colors: (
     text: black,         // Pure black for high-contrast readability
   ),
-  
+
   // Page settings
   page: (
     paper: "a4",
     margin: (x: 2.5cm, y: 2.5cm),
   ),
-  
+
   // Image settings
   image: (
     wrap-side: right,           // Default side for wrapped images
@@ -74,7 +74,7 @@
   if content == none {
     return none
   }
-  
+
   // Replace linebreaks with spaces in the content
   show linebreak: " "
   content
@@ -100,14 +100,14 @@
     fill: document-style.colors.text,
     lang: "en",
   )
-  
+
   // Paragraph settings - justified with generous spacing
   set par(
     justify: true,
     leading: document-style.leading.body,
     spacing: document-style.spacing.after-paragraph,
   )
-  
+
   // Block spacing
   set block(
     spacing: document-style.spacing.after-paragraph,
@@ -121,7 +121,7 @@
   // ============================================================================
   // TITLE PAGE
   // ============================================================================
-  
+
   if title != none {
     set page(
       paper: document-style.page.paper,
@@ -129,52 +129,61 @@
       numbering: none,  // No page number on title page
       header: none,
     )
-    
+
     if title-image != none {
       set align(center)
       image(title-image, width: 135mm)
       v(1.5em)
     }
-    
+
     set align(center)
     set text(
       font: document-style.fonts.heading1,
       size: document-style.sizes.heading1 * 1.2,
       weight: "regular",
     )
+
     text(title)
+    v(1em)
 
-    block[#subtitle-content]
-
-    v(1.5cm)
-    line(length: 40%, stroke: 0.5pt + luma(180))
-    v(0.4cm)
-    if answerkey {
-      text(size: 12pt, fill: rgb("#c0392b"), weight: "bold")[ANSWER KEY EDITION]
-    } else {
-      text(size: 12pt, fill: luma(120))[Student Edition]
+    if subtitle-content != none {
+      block[
+        #set text(size: 18pt)
+        #subtitle-content
+      ]
+      v(1em)
     }
 
-    pagebreak()
+    // v(1.5cm)
+    // line(length: 40%, stroke: 0.5pt + luma(180))
+    // v(0.4cm)
+    block(height: 14pt)[
+      #if answerkey {
+        text(size: 14pt, fill: rgb("#c0392b"), weight: "bold")[ANSWER KEY]
+      }
+    ]
+
+    // pagebreak()
+    v(1em)
   }
-  
+
   // ============================================================================
   // PAGE CONFIGURATION WITH RUNNING HEADERS
   // ============================================================================
-  
+
   // State to track current section for running headers
   let section-state = state("current-section", none)
-  
+
   set page(
     paper: document-style.page.paper,
     margin: document-style.page.margin,
     numbering: "1",
     number-align: center,
-    
+
     header: context {
       let page-num = here().page()
       let headings = query(selector(heading).before(here()))
-      
+
       // Find the most recent level-1 or level-2 heading
       // let current-section = none
       // for h in headings.rev() {
@@ -192,7 +201,7 @@
           break
         }
       }
-      
+
       // Check if we're on a chapter page (page starts with level-1 heading)
       let is-chapter-page = false
       let headings-on-page = query(selector(heading.where(level: 1)).after(here()))
@@ -202,7 +211,7 @@
           is-chapter-page = true
         }
       }
-      
+
       // Also check if a level-1 heading is very close to the top of this page
       let all-headings = query(heading.where(level: 1))
       for h in all-headings {
@@ -211,13 +220,13 @@
           break
         }
       }
-      
+
       if is-chapter-page {
         // Chapter pages: no header
         none
       } else if current-section != none {
         set text(size: 12pt, style: "italic")
-        
+
         if calc.odd(page-num) {
           // Odd pages: section on left, page number on right
           grid(
@@ -237,10 +246,10 @@
         }
       }
     },
-    
+
     footer: context {
       let page-num = here().page()
-      
+
       // Check if we're on a chapter page
       let is-chapter-page = false
       let all-headings = query(heading.where(level: 1))
@@ -250,7 +259,7 @@
           break
         }
       }
-      
+
       if is-chapter-page {
         // Chapter pages: centered page number in footer
         set align(center)
@@ -259,16 +268,15 @@
       }
     }
   )
-  
+
   // ============================================================================
   // HEADING STYLING
   // ============================================================================
-  
+
   // Level 1 headings - chapters, start on odd pages
   show heading.where(level: 1): it => {
-    // Force chapter to start on odd page
-    pagebreak(to: "odd", weak: true)
-    
+    // Chapter may start on any page, expecting office paper prints
+
     set text(
       font: document-style.fonts.heading1,
       size: document-style.sizes.heading1,
@@ -320,11 +328,11 @@
       it.body
     )
   }
-  
+
   // ============================================================================
   // FOOTNOTE STYLING - NO SEPARATOR LINE
   // ============================================================================
-  
+
   set footnote.entry(
     separator: none,  // No rule above footnotes
     indent: -0.8em, // hanging indent for numbered-list-like paragraphs
@@ -346,6 +354,69 @@
 
   body
 }
+
+// Custom table of contents with Thai title
+// Shows level-1 and level-2 headings only
+#let table-of-contents(after-content: none) = {
+  set page(
+    numbering: none,  // No page number on TOC
+    header: none,
+  )
+
+  set align(center)
+  set text(
+    font: document-style.fonts.heading1,
+    size: document-style.sizes.heading1,
+    weight: "regular",
+  )
+
+  [Contents]
+
+  v(2em)
+
+  set align(left)
+  set text(size: document-style.sizes.body)
+
+  // Custom outline showing only level 1 and 2
+  show outline.entry.where(level: 1): it => {
+    set text(
+      font: document-style.fonts.heading1,
+      size: document-style.sizes.heading3,
+      weight: "regular"
+    )
+    v(0.8em, weak: false)
+    block(
+      width: 100%,
+      {
+        // Add spacing after level-1 entries
+        it
+      }
+    )
+  }
+
+  show outline.entry.where(level: 2): it => {
+    set text(
+      font: document-style.fonts.body,
+      size: document-style.sizes.body
+    )
+    block(
+      inset: (left: 1.5em),
+      width: 100%,
+      it
+    )
+  }
+
+  outline(
+    title: none,
+    depth: 2,
+    indent: auto,
+  )
+
+  if after-content != none {
+    [#after-content]
+  }
+}
+
 
 // ============================================================================
 // CUSTOM FORMATTING FUNCTIONS
