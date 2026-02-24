@@ -1,0 +1,1903 @@
+Pāli Primer Language Guide Edition 1 (January 08, 2004)
+
+Pāli Primer
+- Language Guide This guide is prepared to help students who are studying the Pāli Primer
+(ISBN: 81-7414-014-X). It is divided into three sections. The first two sections
+deal with (noun) declension and (verb) conjugation. The third section contains
+a list of words occurred in the book arranged according to the Pali alphabet.
+
+1. Grammar: Nouns
+1.1 Declension of masculine nouns ending in –a
+nara (man)
+Singular
+Nominative
+naro
+Accusative
+naraṃ
+Instrumental
+narena
+narā, naramhā, narasmā
+Ablative
+narāya, narassa
+Dative
+narassa
+Genitive
+nare, naramhi, narasmiṃ
+Locative
+nara
+Vocative
+
+Plural
+Narā
+nare
+narehi (narebhi)
+narehi (narebhi)
+narānaṃ
+narānaṃ
+naresu
+narā
+
+1.2 Declension of neuter nouns ending in –a
+phala (fruit)
+Singular
+Nominative
+phalaṃ
+Accusative
+phalaṃ
+Vocative
+phala
+
+Plural
+phalā, phalāni
+phale, phalāni
+phalāni
+
+The rest is similar to the declension of masculine nouns ending in –a.
+1.3 Declension of feminine nouns ending in –ā
+vanitā (woman)
+Singular
+Nominative
+vanitā
+vanitaṃ
+Accusative
+vanitāya
+Instrumental
+Ablative
+vanitāya
+Dative
+vanitāya
+vanitāya
+Genitive
+vanitāya, vanitāyaṃ
+Locative
+vanite
+Vocative
+
+Plural
+vanitā, vanitāyo
+vanitā, vanitāyo
+vanitāhi (vanitābhi)
+vanitāhi (vanitābhi)
+vanitānaṃ
+vanitānaṃ
+vanitāsu
+vanitā, vanitāyo
+
+1.4 Declension of masculine nouns ending in –i
+aggi (fire)
+Singular
+Nominative
+aggi
+Accusative
+aggiṃ
+Instrumental
+agginā
+Ablative
+agginā, aggimhā, aggismā
+aggino, aggissa
+Dative
+aggino, aggissa
+Genitive
+aggimhi, aggismiṃ
+Locative
+aggi
+Vocative
+
+Plural
+aggī, aggayo
+aggī, aggayo
+aggīhi (aggībhi)
+aggīhi (aggībhi)
+aggīnaṃ
+aggīnaṃ
+aggīsu
+aggī, aggayo
+
+1.5 Declension of masculine nouns ending in –ī
+pakkhī (bird)
+Singular
+Plural
+Nominative
+pakkhī
+pakkhī, pakkhino
+Accusative
+pakkhinaṃ, pakkhiṃ
+pakkhī, pakkhino
+pakkhini, pakkhimhi,
+Locative
+pakkhīsu
+pakkhismiṃ
+pakkhī
+pakkhī, pakkhino
+Vocative
+The rest is similar to the declension of masculine nouns ending in –i.
+1.6 Declension of neuter nouns ending in –i
+aṭṭhi (bone, seed)
+Singular
+Nominative
+aṭṭhi
+Accusative
+aṭṭhiṃ
+aṭṭhi
+Vocative
+
+Plural
+aṭṭhī, aṭṭhīni
+aṭṭhī, aṭṭhīni
+aṭṭhī, aṭṭhīni
+
+The rest is similar to the declension of masculine nouns ending in –i.
+1.7 Declension of feminine nouns ending in –i
+bhūmi (earth)
+Singular
+Nominative
+bhūmi
+Accusative
+bhūmiṃ
+Instrumental
+bhūmiyā
+bhūmiyā
+Ablative
+bhūmiyā
+Dative
+bhūmiyā
+Genitive
+bhūmiyā, bhūmiyaṃ
+Locative
+bhūmi
+Vocative
+
+Plural
+bhūmī, bhūmiyo
+bhūmī, bhūmiyo
+bhūmīhi (bhūmībhi)
+bhūmīhi (bhūmībhi)
+bhūmīnaṃ
+bhūmīnaṃ
+bhūmīsu
+bhūmī, bhūmiyo
+
+1.8 Declension of feminine nouns ending in –ī
+nārī (woman)
+Singular
+nārī
+Nominative
+nārī
+Vocative
+
+Plural
+nārī, nāriyo
+nārī, nāriyo
+
+The rest is similar to the declension of feminine nouns ending in –i.
+
+Pali Alphabet: a ā i ī u ū e o : k kh g gh ṅ : c ch j jh ñ : ṭ ṭh ḍ ḍh ṇ : t th d dh n : p ph b bh m : y r l v s h ḷ ṃ
+An electronic copy of this guide is available from Tipitaka Network (http://www.tipitaka.net)
+
+Page 1
+
+Pāli Primer Language Guide Edition 1 (January 08, 2004)
+
+1.9 Declension of masculine nouns ending in –u
+garu (teacher)
+Singular
+Plural
+Nominative
+garu
+garū, garavo
+Accusative
+garuṃ
+garū, garavo
+Instrumental
+garunā
+garūhi (garūbhi)
+Ablative
+garunā
+garūhi (garūbhi)
+garuno, garussa
+garūnaṃ
+Dative
+garuno, garussa
+garūnaṃ
+Genitive
+garumhi, garusmiṃ
+garūsu
+Locative
+garu
+garū, garavo
+Vocative
+1.10 Declension of masculine nouns ending in –ū
+vidū (wise man)
+Singular
+Plural
+Nominative
+vidū
+vidū, viduno
+Accusative
+viduṃ
+vidū, viduno
+Vocative
+vidū
+vidū, viduno
+The rest is similar to the declension of masculine nouns ending in –u.
+1.11 Declension of neuter nouns ending in –u
+cakkhu (eye)
+Singular
+Nominative
+cakkhu
+Accusative
+cakkhuṃ
+Vocative
+cakkhu
+
+Plural
+cakkhū, cakkhūni
+cakkhū, cakkhūni
+cakkhū, cakkhūni
+
+The rest is similar to the declension of masculine nouns ending in –u.
+1.12 Declension of feminine nouns ending in –u
+dhenu (cow)
+Singular
+Plural
+Nominative
+dhenu
+dhenū, dhenuyo
+Accusative
+dhenuṃ
+dhenū, dhenuyo
+Instrumental
+dhenuyā
+dhenūhi (dhenūbhi)
+dhenuyā
+dhenūhi (dhenūbhi)
+Ablative
+dhenuyā
+dhenūnaṃ
+Dative
+dhenuyā
+dhenūnaṃ
+Genitive
+dhenuyā, dhenuyaṃ
+dhenūsu
+Locative
+dhenu
+dhenū, dhenuyo
+Vocative
+
+1.13 Declension of masculine nouns ending in –u/–ar
+satthu/satthar
+(teacher)
+Singular
+Plural
+Nominative
+satthā
+satthāro
+Accusative
+satthāraṃ
+satthāro
+Instrumental
+satthārā
+satthārehi, satthūhi
+satthārā
+satthārehi, satthūhi
+Ablative
+satthu, satthuno, satthussa
+satthārānaṃ, satthūnaṃ
+Dative
+satthu, satthuno, satthussa
+satthārānaṃ, satthūnaṃ
+Genitive
+satthari
+satthāresu, satthūsu
+Locative
+satthā, sattha
+satthāro
+Vocative
+1.14 Declension of masculine nouns expressing relationships
+pitu/pitar
+(father)
+Singular
+Plural
+Nominative
+pitā
+pitaro
+Accusative
+pitaraṃ
+pitaro
+Instrumental
+pitarā
+pitarehi, pitūhi
+pitarā
+pitarehi, pitūhi
+Ablative
+pitu, pituno, pitussa
+pitarānaṃ, pitūnaṃ
+Dative
+pitu, pituno, pitussa
+pitarānaṃ, pitūnaṃ
+Genitive
+pitari
+pitaresu, pitūsu
+Locative
+pitā, pita
+pitaro
+Vocative
+Bhātu (brother) is similarly declined.
+1.15 Declension of feminine nouns expressing relationships
+mātu/mātar
+(mother)
+Singular
+Plural
+Nominative
+mātā
+mātaro
+Accusative
+mātaraṃ
+mātaro
+Instrumental mātarā, mātuyā
+mātarehi, mātūhi
+mātarā, mātuyā
+mātarehi, mātūhi
+Ablative
+mātu, mātuyā, mātāya
+mātarānaṃ, mātūnaṃ, mātānaṃ
+Dative
+mātu, mātuyā, mātāya
+mātarānaṃ, mātūnaṃ, mātānaṃ
+Genitive
+mātari, mātuyā,
+mātaresu, mātūsu
+Locative
+mātuyaṃ
+mātā, māta, māte
+mātaro
+Vocative
+Dhītu (daughter) and duhitu (daughter) are similarly declined.
+
+Pali Alphabet: a ā i ī u ū e o : k kh g gh ṅ : c ch j jh ñ : ṭ ṭh ḍ ḍh ṇ : t th d dh n : p ph b bh m : y r l v s h ḷ ṃ
+An electronic copy of this guide is available from Tipitaka Network (http://www.tipitaka.net)
+
+Page 2
+
+Pāli Primer Language Guide Edition 1 (January 08, 2004)
+
+1.16 Declension of personal pronouns
+The first personal pronoun
+amha
+Singular
+Nominative
+ahaṃ
+=I
+Accusative
+maṃ, mamaṃ
+= me
+Instrumental mayā, me
+mayā
+Ablative
+mama, mayhaṃ, mamaṃ, me
+Dative
+mama, mayhaṃ, mamaṃ, me
+Genitive
+mayi
+Locative
+The second personal pronoun
+tumha
+Singular
+Nominative
+tvaṃ, tuvaṃ
+= you
+Accusative
+taṃ, tavaṃ, tuvaṃ
+Instrumental tvayā, tayā, te
+tvayā, tayā
+Ablative
+tava, tuyhaṃ, te
+Dative
+tava, tuyhaṃ, te
+Genitive
+tvayi, tayi
+Locative
+
+Plural
+mayaṃ, amhe
+= we
+amhe, amhākaṃ, no = us
+amhehi, no
+amhehi
+amhaṃ, amhākaṃ, no
+amhaṃ, amhākaṃ, no
+amhesu
+
+Plural
+tumhe
+= you
+tumhe, tumhākaṃ, vo
+tumhehi, vo
+tumhehi, vo
+tumhaṃ, tumhākaṃ, vo
+tumhaṃ, tumhākaṃ, vo
+tumhesu
+
+1.17 Declension of relative, demonstrative and interrogative pronouns
+Masculine gender, singular number
+Relative
+Demonstrative
+Nominative
+yo = he, who
+so
+= he, that
+yaṃ
+taṃ
+Accusative
+Instrumental yena
+tena
+Ablative
+yamhā, yasmā
+tamhā, tasmā
+Dative
+yassa
+tassa
+yassa
+tassa
+Genitive
+yamhi
+tamhi, tasmiṃ
+Locative
+
+Neuter gender, singular number
+Relative
+Nominative
+yaṃ = that, which
+Accusative
+yaṃ
+
+Demonstrative
+taṃ = it, that
+taṃ
+
+Interrogative
+ko
+= who
+kaṃ
+kena
+kasmā, kismā
+kassa, kissa
+kassa, kissa
+kamhi, kasmiṃ,
+kimhi, kismiṃ
+
+Interrogative
+kim
+= which
+kim
+
+Feminine gender, singular number
+Relative
+Demonstrative
+Nominative
+yā = she, who
+sā
+= she, that
+Accusative
+yaṃ
+taṃ
+Instrumental yāya
+tāya
+Ablative
+yāya
+tāya
+yassā, yāya
+tassā, tāya
+Dative
+yassā, yāya
+tassā, tāya
+Genitive
+yassaṃ, yāyaṃ
+tassaṃ, tāyaṃ
+Locative
+
+Interrogative
+kā
+= who
+kaṃ
+kāya
+kāya
+kassā, kāya
+kassā, kāya
+kassaṃ, kāyaṃ
+
+Masculine gender, plural number
+Relative
+Nominative
+ye = they, who
+Accusative
+ye
+Instrumental yehi
+Ablative
+yehi
+yesaṃ (yesānaṃ)
+Dative
+yesaṃ (yesānaṃ)
+Genitive
+yesu
+Locative
+
+Interrogative
+ke
+= who
+ke
+kehi
+kehi
+kesaṃ(kesānaṃ)
+kesaṃ(kesānaṃ)
+kesu
+
+Demonstrative
+te
+= they, those
+te
+tehi
+tehi
+tesaṃ (tesānaṃ)
+tesaṃ (tesānaṃ)
+tesu
+
+Neuter gender, plural number
+Relative
+Demonstrative
+Nominative
+yāni, ye = those,
+tāni, te = those
+which
+Accusative
+yāni, ye
+tāni, te
+The rest is similar to the masculine declension.
+Feminine gender, plural number
+Relative
+Nominative
+yā, yāyo = they,
+who
+Accusative
+yā, yāyo
+Instrumental yāhi
+yāhi
+Ablative
+yāsaṃ (yāsānaṃ)
+Dative
+yāsaṃ (yāsānaṃ)
+Genitive
+yāsu
+Locative
+
+Demonstrative
+tā, tāyo = they,
+those
+tā, tāyo
+tāhi
+tāhi
+tāsaṃ (tāsānaṃ)
+tāsaṃ (tāsānaṃ)
+tāsu
+
+Interrogative
+kāni, ke = which
+kāni, ke
+
+Interrogative
+kā, kāyo = who
+kā, kāyo
+kāhi
+kāhi
+kāsaṃ(kāsānaṃ)
+kāsaṃ(kāsānaṃ)
+kāsu
+
+The rest is similar to the masculine declension.
+
+Pali Alphabet: a ā i ī u ū e o : k kh g gh ṅ : c ch j jh ñ : ṭ ṭh ḍ ḍh ṇ : t th d dh n : p ph b bh m : y r l v s h ḷ ṃ
+An electronic copy of this guide is available from Tipitaka Network (http://www.tipitaka.net)
+
+Page 3
+
+Pāli Primer Language Guide Edition 1 (January 08, 2004)
+
+1.18 Declension of adjectives ending in –vantu and –mantu
+Attributive adjectives ending in –vantu and –mantu can be declined in all three
+genders. They agree with the nouns they qualify in gender, number and case.
+Masculine gender
+guṇavant
+(virtuous)
+Singular
+Plural
+Nominative
+guṇavā, guṇavanto
+guṇavanto, guṇavantā
+Accusative
+guṇavantaṃ
+guṇavanto, guṇavante
+Instrumental guṇavatā, guṇavantena
+guṇavantehi (guṇavantebhi)
+Ablative
+guṇavatā, guṇavantamhā,
+guṇavantehi (guṇavantebhi)
+guṇavantasmā
+guṇavato, guṇavantassa
+guṇavantaṃ, guṇavantānaṃ
+Dative
+guṇavato, guṇavantassa
+guṇavantaṃ, guṇavantānaṃ
+Genitive
+guṇavati, guṇavante,
+guṇavantesu
+Locative
+guṇavantamhi,
+guṇavantasmiṃ
+guṇavā, guṇava, guṇavanta
+guṇavanto, guṇavantā
+Vocative
+Note the similarities of this declension to the declension of the present
+participle masculine gender ending in –nta (2.4). Adjectives ending in –mantu
+are declined as cakkhumā, cakkhumanto etc.
+Neuter gender
+guṇavant
+(virtuous)
+Singular
+guṇavantaṃ
+Nominative
+Accusative
+guṇavantaṃ
+
+1.19 Declension of pronominal adverbs
+Relative
+Demonstrative
+yattha - where
+tattha - there
+yatra - where
+tatra - there
+yato - whence, where
+tato
+- thence, therefore
+yathā - how, in what manner
+tathā - in that manner
+yasmā - because
+tasmā - therefore
+yadā - when
+tadā - then
+yena - where
+tena - there
+yāva - how long/far
+tāva - so long/far
+
+Interrogative
+kattha - where
+kutra - where
+kuto
+- whence
+kathaṃ - how
+kasmā - why
+kadā
+- when
+
+Notes:
+
+Plural
+guṇavantāni
+guṇavantāni
+
+The rest is similar to the declension of masculine adjectives ending in –vantu
+and –mantu.
+Feminine gender
+Guṇavatī/guṇavantī and cakkhumatī/cakkhumantī are the feminine forms of
+the adjectives ending in –vantu and –mantu. They are declined like kumārī,
+i.e. feminine nouns ending in –ī (1.8).
+
+Pali Alphabet: a ā i ī u ū e o : k kh g gh ṅ : c ch j jh ñ : ṭ ṭh ḍ ḍh ṇ : t th d dh n : p ph b bh m : y r l v s h ḷ ṃ
+An electronic copy of this guide is available from Tipitaka Network (http://www.tipitaka.net)
+
+Page 4
+
+Pāli Primer Language Guide Edition 1 (January 08, 2004)
+
+2. Grammar: Verbs
+2.1 Present Tense, Active Voice
+pacati (cooks)
+Singular
+Third Person
+pacati
+Second Person
+pacasi
+First Person
+pacāmi
+
+Plural
+pacanti
+pacatha
+pacāma
+
+coreti/corayati (steals)
+Third Person
+Second Person
+First Person
+kiṇāti (buys)
+Third Person
+Second Person
+First Person
+
+Singular
+coreti/corayati
+coresi/corayasi
+coremi/corayāmi
+Singular
+kiṇāti
+kiṇāsi
+kiṇāmi
+
+Plural
+corenti/corayanti
+coretha/corayatha
+corema/corayāma
+Plural
+kiṇanti
+kiṇātha
+kiṇāma
+
+karoti (does)
+Third Person
+Second Person
+First Person
+
+Singular
+karoti
+karosi
+karomi
+
+Plural
+karonti
+karotha
+karoma
+
+atthi (is)
+Third Person
+Second Person
+First Person
+
+Singular
+atthi
+asi
+asmi/amhi
+
+Plural
+santi
+attha
+asma/amha
+
+2.2 Future Tense
+pacati (cooks)
+Third Person
+Second Person
+First Person
+coreti (steals)
+Third Person
+Second Person
+First Person
+
+Singular
+pacissati
+pacissasi
+pacissāmi
+Singular
+coressati
+coressasi
+coressāmi
+
+Plural
+pacissanti
+pacissatha
+pacissāma
+Plural
+coressanti
+coressatha
+coressāma
+
+kiṇāti (buys)
+Third Person
+Second Person
+First Person
+
+Singular
+kiṇissati
+kiṇissasi
+kiṇissāmi
+
+Plural
+kiṇissanti
+kiṇissatha
+kiṇissāma
+
+karoti (does)
+Third Person
+Second Person
+First Person
+
+Singular
+karissati
+karissasi
+karissāmi
+
+Plural
+karissanti
+karissatha
+karissāma
+
+Special cases:
+•
+āgacchati: āgamissati
+•
+gacchati: gamissati
+•
+tiṭṭhati: ṭhassati
+•
+dadāti: dadissati, dassati
+
+Pali Alphabet: a ā i ī u ū e o : k kh g gh ṅ : c ch j jh ñ : ṭ ṭh ḍ ḍh ṇ : t th d dh n : p ph b bh m : y r l v s h ḷ ṃ
+An electronic copy of this guide is available from Tipitaka Network (http://www.tipitaka.net)
+
+Page 5
+
+Pāli Primer Language Guide Edition 1 (January 08, 2004)
+
+2.3 Past Tense
+pacati (cooks)
+Third Person
+Second Person
+First Person
+coreti (steals)
+Third Person
+Second Person
+First Person
+
+Singular
+apaci, paci
+apaci, paci
+apaciṃ, paciṃ
+Singular
+coresi, corayi
+coresi
+coresiṃ, corayiṃ
+
+Plural
+apaciṃsu, paciṃsu
+apacittha, pacittha
+apacimha, pacimha
+Plural
+coresuṃ, corayiṃsu
+corayitha
+corayimha
+
+kiṇāti (buys)
+Third Person
+Second Person
+First Person
+
+Singular
+akiṇi, kiṇi
+akiṇi, kiṇi
+akiṇiṃ, kiṇiṃ
+
+Plural
+akiṇiṃsu, kiṇiṃsu
+akiṇittha, kiṇittha
+akiṇimha, kiṇimha
+
+Special cases:
+•
+āgacchati: āgacchi, āgamāsi
+•
+ādadāti: ādiyi
+•
+gacchati: agacchi, agami
+•
+dadāti: adadi, adāsi
+
+2.4 The Present Participle
+Present participles function as adjectives and agree in gender, number and
+case with the nouns they qualify. The masculine and neuter genders are
+formed by adding –nta/māna to the verbal base. They are declined like –a
+ending nouns in the masculine and neuter.
+•
+kiṇāti: kiṇanta / kiṇamāna
+•
+coreti: corenta / corayamāna
+•
+pacati: pacanta / pacamāna
+The feminine gender is formed by adding –ntī/mānā to the verbal base.
+When –ntī is added, the present participle feminine is declined like feminine
+nouns ending in –ī. When –mānā is added, it is declined like feminine nouns
+ending in –ā.
+•
+kiṇāti: kiṇantī / kiṇamānā
+•
+coreti: corentī / corayamānā
+•
+pacati: pacantī / pacamānā
+
+2.5 The Past Participle
+Past participles are mostly formed by added –ta to the root with or without the
+connecting vowel –i–. Past participles have a passive meaning when they are
+formed from transitive verbs, but from intransitive verbs they have an active
+meaning. They are declined in the three genders, as –a ending nouns in the
+masculine and the neuter, and –ā ending nouns in the feminine.
+•
+āmasati: āmasita, āmaṭṭha
+•
+ārabhati: āraddha
+•
+āsiñcati: āsitta
+•
+karoti: kata
+•
+kasati: kasita, kaṭṭha
+•
+kiṇāti: kīta
+•
+kujjhati: kuddha
+•
+khipati: khitta
+•
+gacchati: gata
+•
+gaṇhāti: gahita
+•
+cavati: cuta
+•
+coreti: corita
+•
+chindati: chinna
+•
+jānāti: ñāta
+•
+ḍasati: daṭṭha
+•
+tarati: tiṇṇa
+•
+tiṭṭhati: ṭhita
+•
+dadāti: dinna
+•
+dhovati: dhovita, dhota
+•
+nayati/neti: nīta
+•
+nikkhamati: nikkhanta
+•
+pacati: pacita, pakka
+•
+pajahati: pahīna
+•
+pavisati: paviṭṭha
+•
+passati: diṭṭha
+•
+pasīdati: pasanna
+•
+pāpuṇāti: patta
+•
+pivati: pīta
+•
+pucchati: pucchita, puṭṭha
+•
+phusati: phuṭṭha
+•
+bhavati: bhūta
+•
+bhindati: bhinna
+•
+bhuñjati: bhuñjita, bhutta
+•
+mināti: mita
+•
+muñcati: mutta
+•
+labhati: labhita, laddha
+•
+vapati: vutta
+•
+vasati: vuttha
+
+Pali Alphabet: a ā i ī u ū e o : k kh g gh ṅ : c ch j jh ñ : ṭ ṭh ḍ ḍh ṇ : t th d dh n : p ph b bh m : y r l v s h ḷ ṃ
+An electronic copy of this guide is available from Tipitaka Network (http://www.tipitaka.net)
+
+Page 6
+
+Pāli Primer Language Guide Edition 1 (January 08, 2004)
+
+•
+•
+•
+•
+•
+
+vippakirati: vippakiṇṇa
+vivarati: vivaṭa
+suṇāti: suta
+hanati: hata
+harati: haṭa
+
+2.6 The Future Passive Participle
+The future passive participle is formed by adding –tabba/–anīya to the base of
+the verb; –tabba is mostly added with the connecting vowel –i–. These
+participles are declined like a ending nouns in the masculine and neuter
+genders, and like ā ending nouns in the feminine.
+•
+karoti: kātabba / karaṇīya
+•
+pacati: pacitabba / pacanīya
+•
+bhuñjati: bhuñjitabba / bhojanīya
+
+2.7 The Causative
+Causative verbs are formed by adding –e/–aya/–āpe/–āpaya to the root or
+verbal base. Sometimes the vowel in the root is strengthened when the
+suffixes are added. Verbal bases ending in –e/–aya invariably take the suffixes
+–ape/–āpaya to form the causative.
+•
+karoti: kāreti / kārāpayati
+•
+kiṇāti: kiṇāpeti / kiṇāpayati
+•
+coreti: corāpeti / corāpayati
+•
+dadāti/deti: dāpeti / dāpayati
+•
+pacati: pāceti / pācayati / pacāpeti / pācāpayati
+•
+bhuñjati: bhojeti / bhojāpeti
+
+2.8 The Potential Mood (Optative)
+pacati (cooks)
+Singular
+Third Person
+paceyya
+Second Person
+paceyyāsi
+First Person
+paceyyāmi
+
+Plural
+paceyyuṃ
+paceyyātha
+paceyyāma
+
+2.9 The Imperative Mood
+pacati (cooks)
+Singular
+Third Person
+pacatu
+Second Person
+paca, pacāhi
+First Person
+pacāmi
+
+Plural
+pacantu
+pacatha
+pacāma
+
+2.10 The Absolutive (Gerund or Indeclinable Participle)
+•
+āgacchati: āgantvā, āgamma
+•
+ādadāti: ādāya
+•
+āruhati: āruyha
+•
+uṭṭhahati: uṭṭhahitvā, uṭṭhāya
+•
+oruhati: oruyha
+•
+karoti: katvā
+•
+kiṇāti: kiṇitvā
+•
+gacchati: gantvā
+•
+gaṇhāti: gaṇhitvā, gahetvā
+•
+coreti: coretvā
+•
+jānāti: jānitvā, ñatvā
+•
+tiṭṭhati: ṭhatvā
+•
+dadāti: daditvā, datvā
+•
+nahāyati: nahāyitvā, nahātvā
+•
+nikkhamati: nikkhamitvā, nikkhamma
+•
+pacati: pacitvā
+•
+pajahati: pajahitvā, pahāya
+•
+passati: passitvā, disvā
+•
+pāpuṇāti/pappoti: pāpuṇitvā, patvā
+•
+bhuñjati: bhuñjitvā, bhutvā
+•
+suṇāti: suṇitvā, sutvā
+•
+hanati: hanitvā, hantvā
+•
+hoti: hutvā
+2.11 The Infinitive
+•
+karoti: kātuṃ
+•
+kiṇāti: kiṇituṃ
+•
+gacchati: gantuṃ
+•
+gaṇhāti: gaṇhituṃ, gahetuṃ
+•
+coreti: coretuṃ
+•
+jānāti: ñātuṃ
+•
+tiṭṭhati: ṭhātuṃ
+•
+dadāti: dātuṃ
+•
+pacati: pacituṃ
+•
+pivati: pivituṃ, pātuṃ
+•
+suṇāti: suṇituṃ, sotuṃ
+
+Notes:
+
+Pali Alphabet: a ā i ī u ū e o : k kh g gh ṅ : c ch j jh ñ : ṭ ṭh ḍ ḍh ṇ : t th d dh n : p ph b bh m : y r l v s h ḷ ṃ
+An electronic copy of this guide is available from Tipitaka Network (http://www.tipitaka.net)
+
+Page 7
+
+Pāli Primer Language Guide Edition 1 (January 08, 2004)
+
+3. Vocabulary
+3.1 The Pāli Alphabet
+Vowels
+a, ā, i, ī, u, ū, e, o
+Consonants
+Gutturals
+k, kh, g, gh, ṅ
+Palatals
+c, ch, j, jh, ñ
+Cerebrals
+ṭ, ṭh, ḍ, ḍh, ṇ
+Dentals
+t, th, d, dh, n
+Labials
+p, ph, b, bh, m
+Miscellaneous
+y, r, l, v, s, h, ḷ, ṃ
+3.2 Abbreviations
+adj. adjective.
+adv. adverb.
+conj. conjunction.
+f. feminine noun.
+ind. indeclinable.
+m. masculine noun.
+n. neuter noun.
+pron. pronoun.
+v. verb.
+A
+akusala (n.) evil, demerit.
+akkosati (v.) scolds.
+akkhi (n.) eye.
+aggi (m.) fire.
+aṅguli (f.) finger.
+acci (n.) flame.
+aja (m.) goat.
+ajja (ind.) today.
+aṭavi (f.) forest.
+aṭṭhi (n.) bone, seed.
+atithi (m.) guest.
+atthaññū (m.) benevolent person.
+atthi (v.) verb to be, is.
+addhā (ind. adv.) certainly, indeed.
+adhigacchati (v.) understands, attains.
+adhipati (m.) lord, leader, chief.
+anicca (adj.) impermanent.
+anukampati (v.) feels compassionate.
+
+anugacchati (v.) follows.
+anubandhati (v.) follows, chases after.
+anusāsati (v.) instructs, admonishes.
+antarā (ind.) between
+amacca (m.) minister.
+ambu (n.) water.
+ammā (f.) mother.
+arañña (n.) forest.
+ari (m.) enemy.
+asakkoti (v.) unable.
+asani (f.) thunder.
+asanisadda (m.) peal/sound of thunder.
+asappurisa (m.) wicked man.
+asi (m.) sword.
+assa (m.) horse.
+assu (n.) tear.
+ahaṃ (pron.) I.
+ahi (m.) serpent.
+Ā
+ākaṅkhati (v.) hopes, expects.
+ākaḍḍhati (v.) drags, pulls.
+ākāsa (m.) sky.
+ākhu (m.) rat, mouse.
+āgacchati (v.) comes.
+ācariya (m.) teacher.
+ādadāti (v.) takes.
+āneti (v.) brings, leads.
+āpaṇa (n.) shop, bazaar.
+āmanteti (v.) addresses.
+āmasati (v.) touches, strokes.
+ārabhati (v.) begins, starts, commences.
+āruhati (v.) climbs, ascends.
+āroceti (v.) informs.
+āloka (m.) light.
+āvahati (v.) brings forth.
+āvāṭa (m.) pit.
+āsana (n.) seat.
+āsiñcati (v.) sprinkles.
+āharati (v.) brings.
+āhiṇḍati (v.) wanders, roams.
+I
+
+icchati (v.) wishes, desires.
+itthī (f.) woman.
+iddhi (f.) psychic power.
+isi (m.) sage.
+Ī
+U
+uggaṇhāti (v.) learns.
+ucchu (m.) sugar cane.
+uṭṭhahati (v.) gets up, stands up.
+uttarati (v.) comes out of (water).
+uḍḍeti (v.) flies.
+udaka (n.) water.
+udadhi (m.) ocean, sea.
+udeti (v.) (sun or moon) rises.
+upamā (f.) simile.
+upalimpati (v.) smears.
+upasaṅkamati (v.) approaches.
+upāsaka (m.) lay devotee.
+uppajjati (v.) is born.
+uppatati (v.) flies, jumps up.
+uyyāna (n.) park.
+uraga (m.) reptile.
+ussahati (v.) tries.
+ussāpeti (v.) hoists.
+Ū
+E
+O
+ocināti (v.) picks, collects.
+ojavant (adj.) nourishing, luscious.
+otarati (v.) gets down, descends (into water).
+odana (m.) cooked rice.
+obhāseti (v.) illuminates.
+oruhati (v.) climbs down, descends.
+oloketi (v.) looks at.
+ovadati (v.) advises.
+ovaraka (m.) bedroom.
+
+Pali Alphabet: a ā i ī u ū e o : k kh g gh ṅ : c ch j jh ñ : ṭ ṭh ḍ ḍh ṇ : t th d dh n : p ph b bh m : y r l v s h ḷ ṃ
+An electronic copy of this guide is available from Tipitaka Network (http://www.tipitaka.net)
+
+Page 8
+
+Pāli Primer Language Guide Edition 1 (January 08, 2004)
+
+ovāda (m.) advice.
+K
+kakaca (m.) saw.
+kaññā (f.) girl.
+kaṭacchu (m.) spoon.
+kaṇeru (f.) cow-elephant.
+kattar (m.) doer.
+kathā (f.) speech.
+katheti (v.) speaks.
+kadalī (f.) banana, plantain.
+kapi (m.) monkey.
+kamma (n.) deed, action.
+kadāci karahaci (adv.) sometimes, seldom.
+karoti (v.) verb to do, does, commits.
+karī (m.) elephant.
+kavi (m.) poet.
+kasati (v.) ploughs.
+kassaka (m.) farmer.
+kāka (m.) crow.
+kāya (m.) body.
+kāruṇika (adj.) kind, compassionate.
+kāsu (f.) pit.
+kiṇāti (v.) buys.
+kilañjā (f.) mat.
+kīḷati (v.) plays.
+kukkura (m.) dog.
+kucchi (m.) belly.
+kujjhati (v.) gets angry.
+kuṭṭhī (m.) leper.
+kuddāla (m.) hoe.
+kumāra (m.) boy.
+kumārī (f.) girl.
+kulavant (adj.) man of good family.
+kulāvaka (n.) nest.
+kusala (n.) good, merit.
+kusuma (n.) flower.
+kuhiṃ (adv.) where.
+ketu (m.) banner.
+Kh
+khagga (m.) sword.
+
+khaṇati (v.) digs.
+khaṇḍa (n.) piece.
+khādati (v.) eats.
+khādanīya (n.) food.
+khipati (v.) throws.
+khippaṃ (adv.) soon.
+khīra (n.) milk.
+khudā (f.) hunger.
+khetta (n.) field.
+G
+Gaṅgā (f.) river Ganges.
+gacchati (v.) goes.
+gaṇhāti (v.) takes.
+gantar (m.) one who goes.
+garu (m.) teacher.
+gahapati (m.) householder.
+gāma (m.) village.
+gāyati (v.) sings.
+gāvī (f.) cow.
+giri (m.) mountain.
+gilāna (adj.) sick man.
+gīta (n.) song.
+gīvā (f.) neck.
+guṇavant (adj.) virtuous.
+guhā (f.) cave.
+geha (n.) house, home.
+goṇa (m.) ox, bull.
+
+citta (n.) mind.
+cinteti (v.) thinks.
+cīvara (n.) robe.
+cumbati (v.) kisses.
+cora (m.) thief.
+coreti (v.) steals.
+Ch
+chaḍḍeti (v.) throws away.
+chādeti (v.) covers, conceals.
+chāyā (f.) shadow, shade.
+chindati (v.) cuts.
+J
+jaṇṇu (n.) knee. Also: jāṇu
+jala (n.) water.
+jāṇu (n.) knee. Also: jaṇṇu
+jānāti (v.) knows.
+jāleti (v.) kindles, lights.
+jināti (v.) wins.
+jivhā (f.) tongue.
+jīvati (v.) lives.
+jetar (m.) victor.
+Jh
+Ñ
+
+Gh
+
+Ṭ
+
+ghaṭa (m.) pot.
+ghara (n.) house.
+
+Ṭh
+ṭhapeti (v.) keeps, places.
+
+C
+Ḍ
+ca (ind. conj.) and.
+cakkhu (n.) eye.
+cakkhumant (adj.) having eyes.
+caṇḍāla (m.) outcast.
+canda (m.) moon.
+carati (v.) walks, wonders, conducts oneself.
+cavati (v.) departs, dies.
+
+ḍasati (v.) bites, stings.
+T
+taṇḍula (n.) raw rice.
+tattha (adv.) there.
+
+Pali Alphabet: a ā i ī u ū e o : k kh g gh ṅ : c ch j jh ñ : ṭ ṭh ḍ ḍh ṇ : t th d dh n : p ph b bh m : y r l v s h ḷ ṃ
+An electronic copy of this guide is available from Tipitaka Network (http://www.tipitaka.net)
+
+Page 9
+
+Pāli Primer Language Guide Edition 1 (January 08, 2004)
+
+tattha tattha (adv.) here and there.
+tathā (adv.) likewise.
+Tathāgata (m.) the Buddha.
+tarati (v.) crosses (water).
+taru (m.) tree.
+taruṇī (f.) young woman.
+tāpasa (m.) hermit.
+tiṭṭhati (v.) stands, stays.
+tiṇa (n.) grass.
+tīra (n.) bank.
+tuṇḍa (n.) beak.
+tela (n.) oil.
+tvaṃ (pron.) you.
+Th
+thaketi (v.) shuts, closes.
+thoka (adj.) little.
+
+devatā (f.) deity.
+devī (f.) queen.
+deseti (v.) preaches, instructs, points out.
+doṇi (f.) boat.
+dvāra (n.) door.
+Dh
+dhañña (n.) corn.
+dhana (n.) wealth.
+dhanavant (adj.) rich.
+dhanu (n.) bow.
+dhamma (m.) doctrine, truth.
+dhātu (f.) element, relic.
+dhāvati (v.) runs.
+dhītar (f.) daughter.
+dhīvara (m.) fisherman.
+dhenu (f.) cow.
+dhovati (v.) washes.
+
+D
+N
+dakkha (adj.) clever.
+dadāti (v.) gives. Also: deti
+daddu (f.) eczema.
+dadhi (n.) curd.
+dāṭhī (m.) tusker.
+dātar (m.) giver.
+dāna (n.) alms, charity.
+dāraka (m.) child.
+dārikā (f.) girl.
+dāru (n.) firewood.
+dāsa (m.) servant.
+dīghajīvī (m.) one with long life.
+dīpa (m.) island, lamp.
+dīpi (m.) leopard.
+dukkha (n.) suffering.
+dubbala (adj.) weak.
+dussa (n.) cloth.
+duhati (v.) milks.
+duhitar (f.) daughter.
+dūta (m.) messenger.
+dūseti (v.) pollutes, spoils.
+deti (v.) gives. Also: dadāti
+deva (m.) deity, god.
+
+na (ind. adv.) not.
+nagara (n.) city, town.
+naccati (v.) dances.
+nattar (m.) grandson.
+natthi (adj.) no.
+nadī (f.) river.
+namassati (v.) salutes, worships.
+nayana (n.) eye.
+nara (m.) man, person.
+naraka hell, purgatory.
+nava (adj.) new.
+nahāyati (v.) bathes.
+nānā (ind.) various.
+nānākammani (n.) various work.
+nārī (f.) woman.
+nāvā (f.) ship.
+nāvika (m.) sailor.
+nāseti (v.) destroys.
+nāḷi (f.) a unit of measure.
+nikkhamati (v.) leaves, sets out, renounces.
+nikkhipati (v.) puts down, throws away.
+nidhi (m.) (hidden) treasure.
+
+nimanteti (v.) invites.
+niraya (m.) purgatory.
+nilīyati (v.) hides.
+nivāreti (v.) prevents.
+nivāsa (m.) house.
+nisīdati (v.) sits.
+nīhareti (v.) takes out.
+netar (m.) leader.
+neti (v.) leads, takes away.
+P
+pakka (adj.) ripe.
+pakkosati (v.) calls, summons.
+pakkhipati (v.) puts, places, deposits.
+pakkhī (m.) bird.
+pacati (v.) cooks.
+pajahati (v.) gives up, abandons, rejects.
+pañjara (m.) cage.
+paññavant (adj.) wise.
+paññā (f.) wisdom.
+pañha (m.) question.
+paṭiccādeti (v.) conceals, hides.
+paṭiyādeti (v.) prepares.
+paṇḍita (m.) wise man, sage.
+paṇṇa (n.) leaf.
+patati (v.) falls.
+pati (m.) husband, master.
+patta (m.) bowl.
+patthanā (f.) aspirations, hope, expectation.
+pattharati (v.) spreads.
+pattheti (v.) aspires, hopes, wishes.
+paduma (n.) lotus.
+pappoti (v.) reaches, attains.
+pabbajati (v.) renounces the world,
+gets/becomes ordained, goes forth.
+pabbata (m.) mountain.
+pabhāta (m.) morning.
+pabhū (m.) eminent person.
+parājeti (v.) defeats.
+pariyesati (v.) searches, seeks, explores.
+parivajjeti (v.) avoids.
+parivāreti (v.) accompanies, surrounds.
+parisā (f.) retinue.
+
+Pali Alphabet: a ā i ī u ū e o : k kh g gh ṅ : c ch j jh ñ : ṭ ṭh ḍ ḍh ṇ : t th d dh n : p ph b bh m : y r l v s h ḷ ṃ
+An electronic copy of this guide is available from Tipitaka Network (http://www.tipitaka.net)
+
+Page 10
+
+Pāli Primer Language Guide Edition 1 (January 08, 2004)
+
+palobheti (v.) tempts.
+pavattar (m.) reciter.
+pavatteti (v.) sets in motion.
+(assūni) pavatteti (v.) sheds tears.
+pavisati (v.) enters.
+pasīdati (v.) becomes glad, is pleased with.
+pasu (m.) beast, animal.
+passati (v.) sees.
+paharati (v.) hits, strikes.
+pahiṇāti (v.) sends, dispatches.
+pahūta (adj.) much.
+pājeti (v.) drives.
+pāṇi (m.) hand, palm.
+pāṇī (m.) living being.
+pāteti (v.) fells.
+pāda (m.) foot.
+pānīya (n.) drinking water.
+pāpa (n.) evil, sin.
+pāpakārī (m.) evil doer.
+pāpamitta (m.) evil friend.
+pāpuṇāti (v.) reaches.
+pāleti (v.) rules, governs.
+pāsāṇa (m.) rock, stone.
+pāsāda (m.) palace, mansion.
+pi (ind. adv.) too, also.
+piṭaka (m.) basket.
+pitar (m.) father.
+pipāsā (f.) thirst.
+pipāsita (adj.) thirsty.
+pibati (v.) drinks.
+piyāyati (v.) is dear.
+pivati (v.) drinks.
+pīḷeti (v.) oppresses.
+pucchati (v.) questions.
+puñña (n.) merit.
+puññavant (adj.) fortunate, meritorious.
+putta (m.) son.
+puttadāra (m.) children and wife.
+puna (ind. adv.) again.
+puppha (n.) flower.
+pupphāsana (n.) (flower) altar.
+pubbaka (adj.) ancient.
+purisa (m.) man, person.
+pūjeti (v.) honours, offers, worships.
+
+pūreti (v.) fills.
+peseti (v.) sends.
+pokkharaṇī (f.) pond.
+potthaka (n.) book.
+poseti (v.) brings up, nourishes, looks after.
+Ph
+pharasu (m.) axe.
+phala (n.) fruit.
+phalavant (adj.) fruitful.
+phusati (v.) touches.
+B
+bandhati (v.) ties, binds.
+bandhu (m.) relative.
+bandhumant (adj.) having relations.
+balavant (adj.) powerful.
+balī (m.) powerful one.
+bahu (adj.) many.
+bāhu (m.) arm.
+bīja (n.) seed.
+Buddha (m.) the Buddha.
+buddhi (f.) intelligence.
+buddhimant (adj.) intelligent.
+brāhmaṇa (m.) brahmin.
+brāhmaṇi (f.) brahmin woman.
+Bh
+Bhagavant (adj.) the Fortunate One, Buddha.
+bhaginī (f.) sister.
+bhajati (v.) keeps company.
+bhañjati (v.) breaks.
+bhaṇḍa (n.) goods.
+bhatta (mṇ.) rice.
+bhattar (m.) husband.
+bhamara (m.) bee.
+bhariyā (f.) wife.
+bhavati (v.) verb to be, becomes.
+bhātar (m.) brother.
+bhānumant (adj.) sun, radiant.
+bhāyati (v.) fears.
+
+bhāsati (v.) speaks.
+bhikkhu (m.) monk.
+bhindati (v.) breaks.
+bhuñjati (v.) eats, enjoys, partakes of.
+bhūpati (m.) king.
+bhūpāla (m.) king.
+bhūmi (f.) earth, ground.
+bhojana (n.) food, meal.
+M
+makkaṭa (m.) monkey.
+magga (m.) path, road.
+maccha (m.) fish.
+mañca (m.) bed.
+mañjūsā (f.) box.
+maṇi (m.) gem.
+mattaññū (m.) moderate or abstemious one.
+madhu (n.) honey.
+madhukara (m.) bee.
+manussa (m.) man, human being.
+manta (n.) magic spell.
+mantī (m.) minister.
+manteti (v.) discusses, takes counsel.
+mahanta (adj.) much.
+mā (adj., prohibitive particle) do not.
+mātar (f.) mother.
+mātula (m.) uncle.
+māpeti (v.) builds, creates.
+māra (m.) the evil one.
+māreti (v.) kills.
+mālā (f.) garland.
+miga (m.) deer.
+mitta (m.) friend.
+mināti (v.) measures.
+mukha (n.) face, mouth.
+muñcati (v.) releases, frees.
+muṭṭhi (m.) fist, hammer.
+muni (m.) sage.
+mūla (n.) root, money.
+modaka (m.) sweetmeat.
+modati (v.) is happy, enjoys, takes delight.
+Y
+
+Pali Alphabet: a ā i ī u ū e o : k kh g gh ṅ : c ch j jh ñ : ṭ ṭh ḍ ḍh ṇ : t th d dh n : p ph b bh m : y r l v s h ḷ ṃ
+An electronic copy of this guide is available from Tipitaka Network (http://www.tipitaka.net)
+
+Page 11
+
+Pāli Primer Language Guide Edition 1 (January 08, 2004)
+
+yaṭṭhi (f.) walking stick.
+yadi (ind. conj.) if.
+yasavant (adj.) famous.
+yāgu (f.) gruel.
+yācaka (m.) beggar.
+yācati (v.) begs.
+yuvati (f.) maiden, young woman.
+R
+rakkhati (v.) protects, observes precepts,
+practises virtue.
+rajaka (m.) washerman.
+rajju (f.) rope.
+ratti (f.) night.
+ratha (m.) vehicle, chariot.
+ravi (m.) sun.
+rasa (n.) taste.
+rasmi (f.) ray.
+rājinī (f.) queen.
+rāsi (m.) heap.
+rukkha (m.) tree.
+rukkhamūla (n.) foot of a tree.
+rūpa (n.) object, form.
+rodati (v.) cries, weeps.
+ropeti (v.) plants.
+L
+latā (f.) creeper.
+labhati (v.) gets, receives.
+lābha (m.) profit, gain.
+likhati (v.) writes.
+luddaka (m.) hunter.
+loka (m.) world.
+locana (n.) eye.
+V
+vaḍḍhakī (m.) carpenter.
+vaḍḍheti (v.) develops, increases.
+vaṇṇavant (adj.) colourful.
+vattar (m.) speaker, sayer.
+
+vattha (n.) cloth.
+vatthu (n.) ground, base, site, estate.
+vadaññū (m.) philanthropist, generous one.
+vadhu (f.) daughter-in-law.
+vana (n.) forest.
+vanitā (f.) woman.
+vandati (v.) worships, salutes.
+vapati (v.) sows.
+vammika (m.) ant-hill.
+varāha (m.) pig.
+vasati (v.) lives, dwells.
+vasu (n.) wealth.
+vā (ind. conj.) or.
+vāceti (v.) teaches.
+vāṇija (m.) merchant.
+vāta (m.) wind.
+vānara (m.) monkey.
+vāpī (f.) tank.
+vāyamati (v.) tries, exerts.
+vāri (n.) water, river.
+vālukā (f.) sand.
+vikkiṇāti (v.) sells.
+vijju (f.) lightning.
+vijjhati (v.) shoots.
+viññātar (m.) knower, knowledgeable man.
+viññū (m.) wise man.
+vidū (m.) wise man.
+vinetar (m.) disciplinarian.
+vindati (v.) experiences, feels.
+vippakirati (v.) scatters.
+vibhajati (v.) divides, distributes, analyses.
+viya (ind. adj.) like, similar.
+vivarati (v.) opens.
+vissajjeti (v.) spends, explains.
+viharati (v.) dwells.
+vihāra (m.) monastery.
+vihiṃsati (v.) harms, hurts.
+viheṭheti (v.) harasses.
+vīsati (f.) twenty.
+vīhi (m.) paddy.
+vega (m.) speed.
+vejja (m.) doctor.
+veṭheti (v.) wraps.
+vetana (n.) wage, pay.
+
+veḷu (m.) bamboo.
+vyākaroti (v.) explains.
+vyādhi (m.) illness, sickness.
+S
+sakaṭa (m.) cart.
+sakala (adj.) entire.
+sakuṇa (m.) bird.
+sakkoti (v.) can, is able.
+sakhī (f.) female friend.
+sagga (m.) heaven.
+sace (ind. conj.) if.
+sacca (n.) truth.
+satimant (adj.) mindful.
+sattu (m.) enemy.
+satthar (m.) teacher.
+satthi (n.) thigh.
+sadda (m.) sound.
+saddhā (f.) faith, devotion.
+saddhāvant (adj.) devoted.
+saddhiṃ (ind.) with.
+sannipatati (v.) assembles, gathers together.
+sappa (m.) serpent.
+sappi (n.) ghee.
+sappurisa (m.) virtuous man.
+sabba (adj.) all.
+sabbaññū (m.) omniscient/all knowing one.
+sabhā (f.) assembly.
+samaṇa (m.) recluse, monk.
+samassāseti (v.) comforts, consoles.
+samijjhati (v.) fulfils, succeeds.
+samudda (m.) ocean, sea.
+sammajjati (v.) sweeps.
+sammajjani (f.) broom.
+sammā (ind.) correctly, right, well.
+sammisseti (v.) mixes.
+sayati (v.) sleeps.
+sara (m.) arrow.
+sallapati (v.) converses.
+sassu (f.) mother-in-law.
+saha (ind.) with.
+sahāya (m.) friend.
+sahāyaka (m.) friend.
+
+Pali Alphabet: a ā i ī u ū e o : k kh g gh ṅ : c ch j jh ñ : ṭ ṭh ḍ ḍh ṇ : t th d dh n : p ph b bh m : y r l v s h ḷ ṃ
+An electronic copy of this guide is available from Tipitaka Network (http://www.tipitaka.net)
+
+Page 12
+
+Pāli Primer Language Guide Edition 1 (January 08, 2004)
+
+saṃharati (v.) collects.
+sākhā (f.) branch.
+sāṭaka (m.) garment.
+sādiyati (v.) tastes, enjoys.
+sāmī (m.) lord, husband.
+sārathī (m.) charioteer.
+sālā (f.) hall.
+sāvaka (m.) disciple.
+sikhī (m.) peacock.
+sigāla (m.) jackal.
+sindhu (m.) sea, ocean.
+sippa (n.) arts and science.
+sibbati (v.) sews.
+sissa (m.) pupil.
+sīgha (adv.) quickly, fast.
+sīla (n.) virtue, precept.
+sīlavant (adj.) virtuous.
+sīsa (n.) head.
+sīha (m.) lion.
+suka (m.) parrot.
+sukha (n.) joy.
+sukhī (m.) happy person.
+Sugata (m.) the Buddha.
+suṇāti (v.) hears, listens.
+sunakha (m.) dog.
+sura (m.) deity, god.
+surā (f.) liquor.
+suriya (m.) sun.
+suva (m.) parrot.
+suvaṇṇa (n.) gold.
+susu (m.) young one.
+sūkara (m.) pig.
+seṭṭhī (m.) banker.
+setu (m.) bridge.
+soṇa (m.) dog.
+sota (n.) ear.
+sotar (m.) hearer, listener.
+sotavant (adj.) attentive, having ears.
+sopāna (m.) stairway.
+
+hanati (v.) kills.
+harati (v.) carries, takes away.
+hasati (v.) laughs.
+himavant (adj.) Himalayas, possessor of snow.
+hirañña (n.) gold.
+hoti (v.) verb to be, is, becomes.
+
+Notes:
+
+H
+hattha (m.) hand.
+hatthī (m.) elephant.
+
+Pali Alphabet: a ā i ī u ū e o : k kh g gh ṅ : c ch j jh ñ : ṭ ṭh ḍ ḍh ṇ : t th d dh n : p ph b bh m : y r l v s h ḷ ṃ
+An electronic copy of this guide is available from Tipitaka Network (http://www.tipitaka.net)
+
+Page 13
+

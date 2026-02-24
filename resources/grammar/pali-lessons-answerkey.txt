@@ -1,0 +1,13235 @@
+Pāḷi Lessons
+https://pali-sutta-readings.github.io/pali-lessons/
+LAST UPDATED ON
+
+27th May 2025
+
+contents
+Lesson 1
+Language Notes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Attribution, Nominal Sentence (A is B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Breaking Noun Compounds . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Simple Present Tense (-āmi, -asi, -ati) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Present Tense of Irregular Verb √as (to be) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Present Tense of Irregular Verb √hū (to be) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Declensions (-a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Nominative Case: naro – the man (subject) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Accusative Case: naraṁ – the man (object) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Declension Cases Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Cases Exercise: The Elephant . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Translate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Extra Challenge: Pāli Chat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+1
+1
+2
+3
+3
+4
+4
+4
+4
+5
+6
+7
+7
+9
+9
+
+Lesson 2
+Review Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Compounds of Nouns: Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Memory Aids . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Declensions (-a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Vocative Case: nara / narā – Hey, man! . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Imperative Verbs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Instrumental Case: narena – with, by, because of the man . . . . . . . . . . . . . . . . . . . . . .
+Dative Case: narāya / narassa – to the man, for the man . . . . . . . . . . . . . . . . . . . . . . .
+Readings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Genitive Case: narassa – of the man, the man’s . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Optative or Potential Verbs: May / Should (-eyya) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Optative of √as (to be) has two forms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Future Passive Participle: Should Be Done (-tabba) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Translate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Readings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Extra Challenge: Pāli Chat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Extra Challenge: Crossword . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+17
+17
+18
+19
+20
+20
+20
+21
+22
+22
+24
+25
+25
+26
+27
+27
+28
+29
+37
+
+Lesson 3
+Review Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Indeclinables and Idioms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Adverbs of Time . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+39
+39
+39
+41
+
+ii
+Future Tense (-issāmi, -issasi, -issati) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Gerund (e.g. bhavitvā) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Infinitive (e.g. bhavituṁ) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Declensions (-a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Locative Case: nare / naramhi / narasmiṁ – in, on, at the man . . . . . . . . . . . . . . . . . . .
+Ablative Case: narā / naramhā / narasmā – from, out of the man . . . . . . . . . . . . . . . . . .
+Pronouns . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Translate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Readings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+41
+42
+45
+46
+46
+47
+49
+49
+49
+51
+
+Lesson 4
+Review Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Adverbs of Place . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Past Participle (-ta, -ita, -na) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Aorist Past Tense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Causative: Having It Done (-e, -aya, -āpe, -āpaya) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+53
+53
+54
+55
+56
+57
+58
+
+Lesson 5
+Review Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Present Participle (-nt, -māna) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Adjectives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Indeclinables and Idioms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Translate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Readings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+59
+59
+60
+61
+62
+63
+63
+64
+
+Appendix
+Simple Present . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Future Tense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Aorist Past Tense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Declension of Nouns . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Masculine Nouns Ending in -a (nara) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Masculine Nouns Ending in -i (aggi) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Masculine Nouns Ending in -ī (pakkhī) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Masculine Nouns Ending in -u (bhikkhu) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Neuter Nouns Ending in -a (citta) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Neuter Nouns Ending in -i . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Neuter Nouns ending in -u . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Feminine Nouns Ending in -ā . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Feminine Nouns ending in -i . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Feminine Nouns ending in -ī . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Feminine Nouns ending in -u . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Comparison Between Masculine and Neuter Nouns Ending in -a . . . . . . . . . . . . . . . . .
+Comparison Between Masculine and Neuter Nouns Ending in -i . . . . . . . . . . . . . . . . . .
+Comparison Between Masculine and Neuter Nouns -u . . . . . . . . . . . . . . . . . . . . . . .
+Declension Examples . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Irregular verb √as (to be) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Present Tense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+65
+65
+65
+66
+66
+67
+67
+67
+67
+68
+68
+68
+69
+69
+69
+69
+70
+70
+70
+71
+73
+73
+
+iii
+Imperative Mood . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Aorist Past Tense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Irregular verb √hū (to be) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Present Tense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Imperative Mood . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Aorist Past Tense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Past Participle . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+root + ta . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+root + ita . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+base + ita . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+root + na . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Interrogatives, Asking Questions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Negation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Compound Types . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Tappurisa (expr: case-relation) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Kammadhāraya (expr: attribution, equivalence) . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Dvanda (expr: a list) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Bahubbīhi (expr: compound as a quality) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Avyayībhāva (expr: adverbial) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Digu (expr: numerical kammadhāraya) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+73
+73
+74
+74
+74
+74
+75
+75
+75
+75
+76
+76
+76
+78
+78
+78
+80
+80
+82
+82
+
+Vocabulary: Words
+
+83
+
+Vocabulary: Sentences
+
+101
+
+References
+
+111
+
+lesson 1
+
+Kiṁ nāmo si:
+
+Language Notes
+The gender of a noun is either masculine, feminine or neuter. Its number is either singular or plural. Its declension have eight cases, which indicate the subject, object, location, etc.
+Nouns ending in -a are either masculine or neuter. Nouns ending in -ā are feminine.
+Other nouns end in -i, -ī, -u, -ū.
+Word order in the simplest case is Subject-Object-Verb, but since the case indicates the role of a noun, word
+order is often altered for emphasis.
+Sūdo (nom.sg.) bhattaṁ (acc.) pacati (3rd.sg.).
+
+Dārakā (nom.pl.) bhojanīyaṁ (acc.) bhuñjanti (3rd.pl.).
+
+The chef cooks the rice.
+
+The boys eat the food.
+
+The subject and verb must agree in number: Sakuṇā ākāse uḍḍayanti (Birds fly in the sky).
+Sakuṇā
+
+masc.nom.pl.
+
+Birds
+
+ākāse / ākāsamhi / ākāsasmiṁ
+
+masc.loc.sg.
+
+in the sky
+
+uḍḍayanti.
+
+pr.3.pl.
+
+they fly.
+
+The verb ‘to be’ (is / are) is often implied and dropped from the sentence.
+An adjective agrees with the noun it qualifies in gender, number and case.
+Generally, the order is adjective + noun. E.g. seto asso: a white horse, setā assā: white horses.
+Adverbs are indeclinable: idha (here), tattha / tatra (there), tato (from there), idāni (now), pubbe (before), pacchā
+(after), etc.
+Plural / singular for nominative cases:
+
+Personal pronouns in nominative case:
+sg.
+
+pl.
+
+1st
+
+ahaṁ
+
+amhe, mayaṁ, no
+
+rūpaṁ
+
+2nd
+
+tuvaṁ, tvaṁ
+
+tumhe, vo
+
+-ā, -āni
+
+rūpāni
+
+3rd.masc.
+
+so, sa
+
+te
+
+fem.sg.
+
+-ā
+
+vedanā
+
+3rd.nt.
+
+taṁ, tad
+
+tāni
+
+fem.pl.
+
+-ā, -āyo,
+
+vedanāyo
+
+3rd.fem.
+
+sā
+
+tā, tāyo
+
+masc.sg.
+
+-o
+
+devo
+
+masc.pl.
+
+-ā
+
+devā
+
+nt.sg.
+
+-aṁ
+
+nt.pl.
+
+sā taṁ bhāsati: she speaks (to) him/them
+ta →
+
+(nom.sg.) so / taṁ / sā
+
+(nom.pl.) te / tāni / tā, tāyo
+
+(acc.sg.) taṁ
+
+(acc.pl.) te / tāni / tā, tāyo
+
+The 1st and 2nd personal pronouns are gender neutral, the 3rd person pronouns are gendered.
+Pronouns take on the person and number of the noun they represent.
+
+2
+A relative sentence begins with a relative clause, followed by a demonstrative:
+yo
+
+gilānaṁ
+
+upaṭṭhāti
+
+he who
+
+to the ill
+
+attends
+
+so
+
+maṁ
+
+upaṭṭhāti
+
+he
+
+to me
+
+attends
+
+Negation: The particle na before verbs, shortened as
+the a- prefix for nouns. mā + aorist past is a (present)
+prohibition.
+
+Questions begin with interrogatives such as api, api
+nu, kiṁ, kahaṁ, kathaṁ. Kiṁ may be placed at the end
+of the sentence.
+
+avera: [na + vera] non-hostility
+Na jānāmi. I don’t know.
+Mā akāsi! Don’t you do!
+
+Api nu gacchasi? Do you go?
+Kiṁ nāmo si? What is your name?
+Gacchasi kiṁ? Do you go?
+
+Declension Table: Masculine Nouns Ending in -a
+Case
+
+Singular
+
+Plural
+
+Meaning (sg.)
+
+1. Nominative
+
+naro
+
+narā
+
+the man does sth (object)
+
+2. Accusative
+
+naraṁ
+
+nare
+
+sth happens to the man (subject)
+
+3. Instrumental
+
+narena
+
+narehi
+
+by, with, through the man
+
+4. Dative
+
+narāya, narassa
+
+narānaṁ
+
+to the man, for the man
+
+5. Ablative
+
+narā, naramhā, narasmā
+
+narehi
+
+from the man
+
+6. Genitive
+
+narassa
+
+narānaṁ
+
+of the man, the man’s
+
+7. Locative
+
+nare, naramhi, narasmiṁ
+
+naresu
+
+in, on, at the man
+
+8. Vocative
+
+nara, narā
+
+narā
+
+Hey, man!
+
+This the most common declension, worth memorizing by heart. 87% of all masculine nouns are ending in -a,
+97% of all neuter nouns are ending in -aṁ, in addition to adjectives and participles with the same declensions.
+
+Attribution, Nominal Sentence (A is B)
+Although word order varies relatively freely, Subject Object Verb is the most common:
+Dārako
+
+samaṇaṁ
+
+(hoti.)
+
+nom.sg.
+
+acc.sg.
+
+pr.3rd.sg.
+
+the boy
+
+a monk
+
+he is
+
+The boy is a monk.
+
+In Pāli, the definite and indefinite articles (a, an, the) are not specified. Sometimes eko fulfils this role.
+In an attribute sentence, hoti is often omitted as it can be easily inferred. The attribute can be also placed in the
+nominative case and follows the subject:
+Dārako
+
+samaṇo.
+
+nom.sg.
+
+nom.sg.
+
+3
+The nominatives may form pairs, read them as equational phrases: A is the B, and C is the D, etc. Such a sequence
+forms a ‘nominal clause’.
+Kammaṁ khettaṁ viññāṇaṁ bījaṁ taṇhā sneho.
+kammaṁ → khettaṁ
+
+viññāṇaṁ → bījaṁ
+
+taṇhā → sneho.
+
+action is the field
+
+awareness is the seed
+
+craving is the sap.
+
+Breaking Noun Compounds
+Two or more noun-stems can be combined to form long words. In order to correctly read the meaning, we have
+to recognize the type of the compound.
+Tappurisa expresses: A has case-relation to B.
+brahma-loko: world of Brahma (gen.)
+arañña-vāso: living in forest (loc.)
+Kammadhāraya expresses: A is an attribute of B,
+or A is equivalent to B.
+
+Bahubbīhi: a compound is used to qualify
+something else.
+buddha-bhāsito dhammo: the Buddha-spoken doctrine
+brāhmaṇo chinna-kukkucco: a brahmin (whose)
+worries (are) cut
+Avyayībhāva: a prefix or indeclinable + noun
+
+mahā-nadī: great river
+
+functions as an adverb.
+
+rāja-isi: a king (who is a) sage
+Dvanda expresses: a list, with no added meaning.
+nāma-rūpaṁ: name & form
+buddha-dhamma-saṇgha: Buddha & dhamma & saṇgha
+
+paṭisotaṁ: against the stream
+yathābhūtaṁ: as it is
+Digu is a numerical kammadhāraya.
+ekapuggalo: one person
+ticīvaraṁ: three robes
+
+See Compounds of Nouns: Overview on p.18, for more examples and Appendix: Compound Types on p.78.
+
+Simple Present Tense (-āmi, -asi, -ati)
+Actions that are happening at the present moment, occurring regularly, or general truths.
+Verbal bases can end in -a, -ā, -e, -o.
+Verbal terminations:
+sg.
+
+pl.
+
+1st
+
+-mi
+
+-ma
+
+2nd
+
+-si
+
+3rd
+
+-ti
+
+Root: √dhāv (to run), base: dhāva
+sg.
+
+pl.
+
+1st
+
+dhāvāmi
+
+dhāvāma
+
+-tha
+
+2nd
+
+dhāvasi
+
+dhāvatha
+
+-(a)nti
+
+3rd
+
+dhāvati
+
+dhāvanti
+
+The base is obtained by removing the 3rd.sg.
+termination -ti from the conjugated form.
+
+The final -a of the base is lengthened before m:
+dhāvāmi, dhāvāma.
+
+4
+he goes
+
+gacchati
+
+we go
+
+he sees
+
+gacchāma
+
+he comes
+
+you (sg.) see
+
+āgacchati
+
+they come
+
+caranti
+
+deti
+
+you (pl.) give (to)
+
+khādati
+
+he informs
+khādasi
+
+you (sg.) chew
+
+detha
+āroceti
+ārocemi
+
+I inform
+
+bhuñjati
+
+they eat
+
+uddisāmi
+
+he gives (to)
+
+they walk
+
+he eats (enjoys)
+
+uddisati
+
+I recite
+
+carati
+
+he chews
+
+passasi
+
+he recites
+
+āgacchanti
+
+he walks
+
+passati
+
+he confesses
+
+bhuñjanti
+
+āvikaroti
+
+you (sg.) confess
+
+āvikarosi
+
+Present Tense of Irregular Verb √as (to be)
+sg.
+
+pl.
+
+1st
+
+amhi, asmi
+
+I am
+
+amha, amhā, asma
+
+we are
+
+2nd
+
+asi
+
+you are
+
+attha
+
+you all are
+
+3rd
+
+atthi
+
+he is
+
+santi
+
+they are
+
+n’eso’ham’asmi: [na + eso + ahaṁ + asmi] lit. not this I am
+Atthi, bhikkhave, ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ. (Ud 8.3)
+There is, monks, an unborn, unoriginated, uncreated, unfabricated.
+Present Tense of Irregular Verb √hū (to be)
+sg.
+
+pl.
+
+1st
+
+homi
+
+I am
+
+homa
+
+we are
+
+2nd
+
+hosi
+
+you are
+
+hotha
+
+you all are
+
+3rd
+
+hoti
+
+he is
+
+honti
+
+they are
+
+Declensions (-a)
+Nominative Case: naro – the man (subject)
+‘Who is doing it?’ Indicates the subject of a sentence.
+
+Naro nisīdati.
+
+The man sits.
+
+Dārako tiṭṭhati.
+
+The boy stands (tiṭṭhati).
+
+Mātugāmo uṭṭhahati.
+
+The woman stands up (uṭṭhahati).
+
+Sīhā na dhāvanti.
+
+The lions are not running.
+
+a
+
+iva
+
+Jātā mīyanti.
+
+The born die.
+
+Mallako bhindati.
+
+The cup breaks.
+
+Abhisatto’vaa nipatati, vayo. (Thag 118)
+Like a curse, it falls, old age.
+
+5
+Accusative Case: naraṁ – the man (object)
+(a) ‘What is he eating?’ Indicates the object of a sentence.
+
+I use the requisite.
+
+Parikkhāraṁ paṭisevāmi.
+
+The birds eat the seeds. (bīja, nt.)
+
+Sakuṇā bījāni bhuñjanti.
+
+The lion doesn’t see the dogs. (sunakha)
+
+Sīho sunakhe na passati.
+
+The dogs are barking (bhussati) at the moon. (canda)
+
+Sunakhā candaṁ bhussanti.
+
+The disciple (sāvaka) eats the lion.
+
+Sāvako sīhaṁ khādati.
+
+The lion eats the disciple.
+
+Sīho sāvakaṁ khādati.
+
+They fill up (paripūreti) the ocean (sāgara).1
+
+Paripūrenti sāgaraṁ.
+
+(b) ‘Where is he going to?’ Indicates where the subject is going to or going along.
+A.k.a. ‘the accusative of motion’.
+Māluvābījaṁ sālamūle nipatati. (MN 45)
+The māluva-seed (māluvābīja) falls at the base of sal trees. (sālamūla)
+Bhagavā kosalesu cārikaṁ carati… (Ud 5.9)
+The Buddha is wandering in the land of the Kosalans…
+
+The elder is going on a walk.
+The layman (upāsaka) doesn’t go to the village.
+
+Upāsako gāmaṁ na gacchati.
+
+We go up to (upasaṅkamati) the layman.
+
+Upāsakaṁ upasaṅkamāma.
+
+The men run to the barn. (koṭṭhāgāra)
+
+Narā koṭṭhāgāraṁ dhāvanti.
+
+The birds fly to the sal trees. (sālarukkha)
+
+Sakuṇā sālarukkhe uḍḍayant.
+
+We enter (pavisati) the hut. (agāra)
+
+2
+
+Thero cārikaṁ carati.
+
+Yathā vāri-vahā pūrā…
+
+Agāraṁ pavisāma.
+
+6
+
+Declension Cases Overview
+1. Nominative
+
+subject performing the action
+
+Who is giving?
+
+2. Accusative
+
+direct object
+
+What is he/she giving?
+
+3. Instrumental
+
+means, instrument
+
+With/by/through what?
+
+4. Dative
+
+indirect object, recipient, purpose
+
+To whom? For what?
+
+5. Ablative
+
+motion/separation from, comparison
+
+From where? Better than what?
+
+6. Genitive
+
+possession, relationship
+
+Whose?
+
+7. Locative
+
+location, time
+
+Where?
+
+8. Vocative
+
+direct address
+
+Form, bhikkhus, is not-self.
+Mnemonics:
+
+1. Nominate who will do it.
+
+5. Pieces fall from the ablative heat-shield.
+
+2. Give an objective accusation.
+
+6. The genitive glues possessions to people.
+
+3. Fix it with this instrument.
+
+7. Locate him in space and time.
+
+4. Donate a date to him.
+
+8. Shout a vocal address.
+
+Origin of the word ‘Dative’:
+PIE root:
+
+√do- to give
+
+Latin:
+
+donum gift, donatio a giving, dativus pertaining to giving
+
+Pāli/Sanskrit:
+
+dadāti gives [√dā + dā + a → dadā]
+
+Origin of the word ‘Ablative’:
+Latin
+
+PIE
+
+Pāli/Sanskrit
+
+ab-
+
+√apo
+
+apa-
+
+off, away from
+
+apocalypse, apology, apostle
+
+ferre
+
+√bher-
+
+√bhar / √bhṛ
+
+to carry, to bear
+
+birth, bring, burden,
+differ, offer, suffer, transfer
+
+7
+
+Exercises
+Cases Exercise: The Elephant
+Jetavane hatthinī soṇḍāya vā dīghahatthena vā
+attano hatthipotakassa tiṇaṁ datvā,
+
+hatthinī (f.)
+
+female elephant [hatthī + inī]
+
+soṇḍā (f.)
+
+elephant’s trunk
+
+hattha (m.)
+
+hand
+
+potaka (m.)
+
+young animal
+
+tiṅa (nt.)
+
+grass; straw
+
+word
+
+meaning
+
+case
+
+Jetavane
+
+at Jetavana
+
+loc.
+
+hatthinī
+
+the female elephant
+
+nom.
+
+soṇḍāya vā
+
+by the trunk
+
+inst.
+
+or by the long hand
+
+inst.
+
+her own
+
+gen.
+
+to the baby-elephant
+
+dat.
+
+tiṇaṁ
+
+grass
+
+acc.
+
+datvā
+
+having given
+
+ger.
+
+dīghahatthena vā
+attano
+hatthipotakassa
+
+8
+tato soṇḍato mahāsaddaṁ pahiṇi.
+Imassa hatthipotakassa tiṇena kucchi mahanto ahosi.
+
+pahiṇi (aor.)
+
+sent; aor. of pahiṇāti
+
+kucchi (m.)
+
+stomach; belly
+
+mahanta (adj.)
+
+big; large
+
+ahosi (aor.)
+
+was; became; aor. of hoti
+
+word
+tato
+
+meaning
+
+case
+then
+
+ind.
+
+soṇḍato
+
+from the trunk
+
+abl.
+
+mahāsaddaṁ
+
+a loud noise
+
+acc.
+
+pahiṇi
+
+sent (→ pahiṇāti)
+
+aor.
+
+imassa
+
+pron. of this (→ ima)
+
+gen.sg.
+
+hatthipotakassa
+
+of the baby elephant
+
+gen.
+
+tiṇena
+
+with grass
+
+inst.
+
+kucchi
+
+belly, stomach
+
+nom.
+
+mahanto
+
+adj. great, large
+
+nom.
+
+was, became (→ hoti)
+
+aor.
+
+ahosi
+
+9
+Translate
+Saṅgho uposathaṁ karoti.
+
+The Sangha performs the uposatha.
+
+Āpattiṁ āvikaroti.
+
+He confesses the offense.
+
+Suññāgāraṁ pavisāmi.
+
+I enter the empty hut.
+
+Rukkhamūle gacchāma.
+
+We go to the roots of trees.
+
+Cattāro satipaṭṭhānā satta bojjhaṅge paripūrenti.2
+Sunakhā biḷāre bhussanti.
+
+The 4 found. of mindf. fulfil the 7 fact. of enligh.
+The dogs are barking at the cats (biḷāra).
+
+Extra Challenge: Pāli Chat
+Greetings: Getting By
+here
+
+idha (ind.)
+
+he comes
+
+āgacchati
+
+master; gentleman; sir
+
+ayya (m.)
+
+I hope; I trust
+
+kacci (ind.)
+
+I hope you are…
+
+kacci’si [kacci + asi]
+
+bearable; tolearable
+
+khamanīya (adj.)
+
+able to keep going; sustainable
+
+yāpanīya (adj.)
+
+May he come here. (imperative)
+Idha āgacchatu.
+May the master come here. (imperative)
+Ayyo idha āgacchatu.
+Venerable, may the master come and sit here.
+Bhante, ayyo āgacchatu, idha nisīdatu.
+I hope you’re keeping well Ven., I hope you’re getting by?
+Kacci, bhante, khamanīyaṁ kacci yāpanīyaṁ?
+
+3
+
+MN 118
+
+10
+Greetings: Tired from Travelling
+few; not much
+
+appa (adj.)
+
+fatigue; tiredness
+
+kilamatha (m.)
+
+worn out; tired
+
+kilanta (adj)
+
+little fatigue; little tiredness
+
+appakilamatha (m.)
+
+long road; journey
+
+addhāna (nt.)
+
+coming; arrival
+
+āgata (nt.)
+
+from travelling (from going on the journey)
+
+addhānaṁ āgato
+
+I am ’√as’
+
+asmi
+
+from there
+
+tato (ind.)
+
+where? from where?
+
+kuto (ind.)
+
+(1) place; region (2) point; item; detail
+
+desa (m.)
+
+Portugal-region
+
+Portugal-desa
+
+country; province; area
+
+janapada (m.)
+
+I hope you are with little fatigue?
+Kacci’si appakilamathena?
+I hope you’re with little fatigue from traveling?
+Kacci’si appakilamathena addhānaṁ āgato?
+I’m keeping well, friend, I’m getting by.
+(Ahaṁ) Khamanīyaṁ, āvuso, yāpanīyaṁ.
+… and I’m not tired, friend, from traveling.
+... appakilamathena cāhaṁ [ca ahaṁ], āvuso, addhānaṁ āgato.
+I am tired. (Me tired I am ’√as’)
+Ahaṁ kilantosmi. [kilanto + asmi]
+And where from, you Ven., have you come?
+Kuto ca tvaṁ bhante, āgacchasi?
+There is, Ven., in the region (of) Portugal, the monastery called Sumedhārāma.
+Atthi, bhante, Portugal-dese Sumedhārāma-vihāro nāma.
+That’s where I, Ven., am coming from.
+Tato ahaṁ, bhante, āgacchāmi.
+
+11
+Greetings: Almsfood
+(1) ball; lump (2) bit of food
+
+piṇḍa (m.)
+
+alms food; lit. lump-like thing
+
+piṇḍaka (m.)
+
+(1) fall (2) drop; dropping; lit. made to drop
+
+pāta (m.)
+
+alms food; lit. lump dropping
+
+piṇḍapāta (m.)
+
+enters
+
+pavisati
+
+town
+
+nigama (m.)
+
+day
+
+aṇha (m.)
+
+time; occasion
+
+samaya (m.)
+
+before, previously
+
+pubbe (ind.)
+
+morning-time
+
+pubbaṇhasamaya (m.)
+
+day-time
+
+majjhanhikasamaya (m.)
+
+evening-time
+
+sāyanhasamaya (m.)
+
+Have you not had trouble? (not tired/weary you are ’√as’)
+Na kilantosi?
+And have you not had trouble getting almsfood? (And not, with the almsfood, you are tired?)
+Na ca piṇḍakena kilantosi?
+I had no trouble getting almsfood. (tired I am ’√as’)
+Na ca piṇḍakena kilantomhi.
+I am entering the town Ericeira.
+Ericeira-nigamaṁ pavisāmi.
+This morning
+Idha pubbaṇhasamayaṁ
+This morning I am entering the town Ericeira for alms-round.
+Idha pubbaṇhasamayaṁ Ericeira-nigamaṁ piṇḍāya pavisāmi.
+
+12
+Phrases
+Good morning (daybreak) Ven. Sir!
+
+Suppabhātaṁ bhante.
+
+Good morning everyone.
+
+Suppabhātaṁ sabbesaṁ.
+
+Thank you.
+
+Anumodāmi.
+
+(See you) tomorrow.
+
+Suve.
+
+(Sorry,) I’ll make amends.
+
+Paṭikarissāmi.
+
+remorse; regret; lit. remembering back negatively
+
+vippaṭisāra (m.)
+
+(Sorry, I have) regret.
+
+Vippaṭisāraṁ.
+
+(I feel) sorry. (for your situation)
+
+Kāruññaṁ.
+
+Yes.
+
+Āma / Evaṁ bhante.
+
+No.
+
+No hetaṁ, bhante.
+
+Never mind (leave it aside).
+
+Tiṭṭhatu, bhante.
+
+It is hot today.
+
+Ajj’āccuṇhaṁ. [ajja (ind.) + ati + uṇha]
+
+It is cold today.
+
+Ajj’ātisītaṁ.
+
+Excuse me!
+
+Okāsa, bhante.
+
+Welcome here.
+
+Svāgataṁ.
+
+Please sit.
+
+Nisīdatha.
+
+Wait (stay) here.
+
+Ettheva tiṭṭha.
+
+knows; understands; distinguishes
+
+pajānāti
+
+Why is that? Of what cause?
+
+Taṁ kissa hetu?
+
+Where?
+
+kattha (ind.)
+
+market; bazaar; market place
+
+antarāpaṇa (m.)
+
+thinks; presumes; supposes
+
+maññati
+
+How?
+
+kinti (ind.)
+
+if
+
+sace (ind.)
+
+says; speaks
+
+vadeti
+
+I (we) must go.
+
+Handa dāni mayaṁ gacchāma.
+
+Go at your convenience.
+
+Yassadāni tvaṁ kālaṁ maññasi.
+
+I don’t understand.
+Na pajānāmi.
+Where is the market?
+Kattha antarāpaṇo?
+What do you think?
+Taṁ kiṁ maññasi?
+How can I help (do)?
+Kinti karomi?
+
+13
+What is your name?
+Kinnāmosi?
+My name is …
+Ahaṁ bhante ... nāma.
+What is your preceptor’s name?
+Ko nāma te upajjhāyo?
+My preceptor’s name is Ven. …
+Upajjhāyo me bhante āyasmā ... nāma.
+I hope you are well (enduring)?
+Kacci te bhante khamanīyaṁ?
+I hope you all are well.
+Kacci vo khamanīyaṁ.
+I am alright.
+Khamanīyaṁ me, āvuso.
+I am not well.
+Na me, bhante, khamanīyaṁ.
+And where are you now?
+Idāni katthañca hosi?
+Are you at your mother and father’s house?
+Api nu Idāni mātāpitūgāraṁ / -garamhi / -gare viharasi?
+
+14
+Conversation 1
+sunrise; dawn; daybreak
+
+pabhāta (nt.) [pa + √bhā + ta]
+
+good morning
+
+suppabhāta [su + pabhāta]
+
+good midday
+
+sumajjhanhika [su + majjha + anha + ika]
+
+good evening
+
+susāyanha [su + sāya + anha]
+
+hot
+
+uṇha (adj.)
+
+cold
+
+sīta (adj.)
+
+drink; beverage
+
+pāna (nt.)
+
+water
+
+udaka (nt.)
+
+hot water
+
+uṇhodaka (nt.) [uṇha + udaka]
+
+cold water
+
+sītodaka (nt.) [sīta + udaka]
+
+feels; experiences; senses; lit. causes to know
+
+vedayati
+
+desires; wants
+
+icchati
+
+more; greater; bigger
+
+bahutara
+
+food; fuel; sustenance
+
+āhāra (m.)
+
+(1) analyses; dissects (2) divides; distributes; shares
+
+vibhajati
+
+immediately after that; with no interval
+
+anantaraṁ (ind.)
+
+for a week; for seven days
+
+sattāhaṁ (ind.)
+
+takes
+
+harati
+
+brings
+
+āharati
+
+will bring
+
+āharissati
+
+thought; reflection
+
+vitakka (m.)
+
+agreeable; nice
+
+piyarūpa (adj.)
+
+right here
+
+ettheva [ettha + eva]
+
+goal; purpose; want
+
+attha (m.)
+
+always
+
+sabbadā (ind.)
+
+ever; sometime
+
+kadāci (ind.)
+
+never
+
+na kadāci (idiom)
+
+next; after
+
+para (adj.)
+
+master; gentleman
+
+ayya (m.)
+
+long road; journey
+
+addhāna (nt.)
+
+guest
+
+āgata (m.)
+
+coming; arrival
+
+āgata (nt.)
+
+helpful; useful
+
+upakāra (adj.)
+
+healthy; well; lit. able
+
+kallaka (adj.)
+
+15
+([A] is senior, [B] is junior)
+
+[A] Good morning friend! Are you well?
+Suppabhātaṁ āvuso. Kacci si khamanīyaṁ?
+[B] I am not well, Sir. I feel cold.
+Na me, bhante, khamanīyaṁ. Sītaṁ vedayāmi / paṭisaṁvediyāmi.
+[A] Tomorrow will be hot. Do you want a hot drink?
+Suve uṇhaṁ bhavissati. Uṇhapānaṁ icchasi?
+[B] A cup with hot water is a good idea (agreeable thought).
+Mallako uṇhodakassa vitakkaṁ piyarūpaṁ. / Uṇhodaka’mallako vitakko piyarūpo (hoti).
+[A] Right here friend. Do you come from the region (of) Spain?
+Etthevaṁ / Etthāyaṁ āvuso. Spain-desamhā āgacchasi?
+[B] No Sir. I come from the country …
+No hetaṁ, bhante. ... janapadasmā āgacchāmi.
+[B] And where do you live Sir?
+Katthañca vasatha / viharatha bhante?
+[A] I live in Norway. There it is always cold.
+Norway janapade vasāmi. Tatra sītaṁ sabbadā.
+[A] In the region (of) …, is it hot?
+Api nu ...-dese uṇho hoti?
+[B] Here in the morning it is cold, and in the daytime is it hot.
+Idha pubbaṇhasamaye ca sīto hoti, majjhanhikasamaye ca uṇho hoti.
+[A] I must go now. Bye for a week.
+Handa dāni ahaṁ gacchāmi. (Anantaraṁ) sattāhaṁ.
+[B] Go at your convenience.
+Yassadāni tumhe kālaṁ maññatha.
+
+16
+Conversation 2
+([A] is junior, [B] is senior)
+
+[A] Welcome, Sir! May the master come here. I hope you are not tired?
+Svāgataṁ bhante. Ayyo idha āgacchatu. Kacci’si appakilamathena?
+[B] Thank you friend, I am tired from coming on the journey.
+Anumodāmi āvuso. Kilamathena addhānaṁ āgato.
+[A] Why is that? Today is not hot.
+Taṁ kissa hetu? Na ajj’āccuṇhaṁ / ajjūṇho.
+[B] Having walked for alms, having received a lot of food, my bowl is heavy.
+Piṇḍāya caritvā / gatvā, bahu khādanīyaṁ paṭiggahetvā / labbhitvā, me patto garo.
+[B] I got more food than (of) Ven. Kovilo. I will share with him.
+Āyasmato Kovilassa bahutaraṁ āhāraṁ labbhāmi. Ahaṁ tena vibhajissāmi.
+[A] Please sit here. Where does the master go for alms?
+Ettheva / Idha nisīdatha. Kuhiṁ / Kathaṁ piṇḍāya ayyo gacchatha?
+[B] In the town called Ericeira, there is the market. I go there for alms.
+Gāme / nigame Ericeira nāmo, atthi antarāpaṇo. Tatra piṇḍāya gacchāmi.
+[A] How can I help (do), Sir?
+Kinti karomi bhante?
+[B] Having taken my bowl, the alms should be shared with the bhikkhus.
+Me pattaṁ gahetvā / ādāya, piṇḍaṁ bhikkhūhi saddhiṁ saṁvibhajitabbaṁ.
+[A] If you want water, please tell me Sir.
+Sace udakaṁ icchasi, vadetha me bhante.
+[B] A cup of cold water will be refreshing (healthy).
+Sītodakamallako kallako bhavissati.
+[A] Wait right here Sir, I will bring (it to you).
+Ettheva bhante, tiṭṭha / tiṭṭhatha. (Taṁ taṁ) āharissāmi.
+
+lesson 2
+
+Kiṁ nāmo si:
+
+Review Exercises
+The elders make an effort.
+They give ear.
+Privately, he takes a seat.
+Who seeks privacy, he wants solitude.
+Discontent is a dauther of Māra.
+He gives her the cloth.
+
+Therā viriyaṁ ārabhanti (begins; undertakes).
+Te sotaṁ odahanti (applies; gives).
+Raho (ind. privately) nisajjaṁ kappeti.
+Yo rahāyati (seeks privacy), so vivekaṁ icchati.
+Aratī ekā māradhītarā.
+So tassā dussaṁ (cloth) deti.
+
+The man eats rice.
+
+Naro bhattaṁ bhuñjati.
+
+The men are cooking.
+Prince Abhaya goes up to the Buddha.
+
+Narā pacanti.
+Abhayo rājakumāro yena bhagavā ten’upasaṅkamati.
+
+I see the moon.
+
+Candaṁ passāmi.
+
+You (pl.) don’t see the dogs.
+
+Sunakhe na passatha.
+
+The boys are running.
+
+Dārakā dhāvanti.
+
+You are sitting here.
+
+Idha nisīdasi.
+
+She comes from there.
+
+Sā tato āgacchati.
+
+We run to the boys.
+
+Mayaṁ dārake dhāvāma.
+
+dhītar: f. daughter
+kappeti: [√kapp + *e + ti] prepares; arranges; forms; fashions; constructs
+nisajjaṁ kappeti: idiom. takes a seat (on); sits down (in); lit. prepares a sitting place
+kappati: [√kapp + a + ti]: it is suitable (for); it is proper (for); it is fitting (for); it is allowable
+tassā: f.dat.sg.pron. to/for her; to/for that [ta + ssā]
+purisa: m. (1) man; person (2) servant; labourer (3) grammatical person
+rājakumāra: m. prince
+yena … ten’upasaṅkamati: (idiom) wherever … he approaches (him/it)
+
+18
+
+Compounds of Nouns: Overview
+See also: Appendix: Compound Types on p.78. Grammar term: a substantive, a.k.a. nominal, is a word or a group of words that functions as
+a noun or noun phrase, including adjectives or verbal forms.
+
+Tappurisa
+
+Kammadhāraya
+
+Dvanda
+
+Bahubbīhi
+
+expresses:
+
+A is an attribute of B
+
+List
+
+AB is a quality of C
+
+A has case-relation to B
+
+A is equivalent to B
+
+case
+
+A −−→ B
+
+an A-like B
+
+AB → obj. outside of the comp.
+A&B
+
+[AB] → C
+
+an A that is B
+Case relation: any except nom. voc.
+
+A B in same case
+
+A B in same case
+
+case depends on [AB]
+
+brahma-loko
+
+mahā-nadī
+
+samaṇa-brāhmaṇā
+
+su-desito dhammo
+
+gen
+
+A −−→ B
+
+Aadj Bsub
+
+world of Brahma
+
+great river
+
+recluses & priests
+
+the well-taught doctrine
+
+arañña-vāso
+
+sabba-seta
+
+nāma-rūpaṁ
+
+brāhmaṇo chinna-kukkucco
+
+loc
+
+Aadj Bsub → C
+
+A −→ B
+
+Aadj Badj
+
+living in forest
+
+all white
+
+name & form
+
+a brahmin (whose) worries (are) cut
+
+rukkha-patito
+
+mano-seṭṭha
+
+jarā-maraṇaṁ
+
+buddha-bhāsito dhammo
+
+abl
+
+C ← Aadj Bsub
+
+A −→ B
+
+Asub Badj
+
+fallen from tree
+
+mind as foremost
+
+old age & death
+
+the Buddha-spoken doctrine
+
+saraṇa-gamanaṁ
+
+sāriputta-thera
+
+hattha-pādaṁ
+
+kām’-andho puriso
+
+acc
+
+Asub Badj → C
+
+A −→ B
+
+Asub Bsub
+
+going for refuge
+
+Sāriputta, the elder
+
+hands & feet
+
+a desire-blinded man
+
+kūṭāgārasālā
+
+mukha-canda
+
+candima-suriyā
+
+pīti-sukhaṁ paṭhamaṁ jhānaṁ
+
+gen
+
+gen
+
+A −−→ B −−→ C
+
+Asub Bsub
+
+hall of house with a ridge
+
+moon-like face
+
+Asub Badj → C
+
+A&B →C
+
+moon & sun
+
+the 1st jhāna (that is) joy & ease
+
+Avyayībhāva
+
+Digu
+
+sub-type of
+
+Adverbial
+
+Numerical
+
+kammadhāraya
+
+adv. don’t take a case
+
+A B in same case
+
+Aprefix Bnoun
+
+Aind Bnoun
+
+Anum B (sg.nt.)
+
+Anum B (not nt.)
+
+paṭisotaṁ
+
+yathābhūtaṁ
+
+sattāhaṁ
+
+ekapuggalo
+
+against the stream
+
+as it is
+
+seven days
+
+one person
+
+nimmakasaṁ
+
+yāvajīvaṁ
+
+saḷāyatanaṁ
+
+tibhavā
+
+mosquito-free
+
+for the length of life
+
+six senses
+
+three spheres of existence
+
+ajjhattaṁ [adhi + atta]
+
+pacchābhattaṁ
+
+ticīvaraṁ
+
+catuddisā
+
+inner; personal; subjective
+
+after the meal
+
+three robes
+
+four directions
+
+19
+Memory Aids
+Tappurisa
+
+Kammadhāraya
+
+Dvanda
+
+Bahubbīhi
+
+case-relation
+
+attribute / equivalent
+
+List
+
+quality of
+
+an A-like B
+
+A&B
+
+[AB] → C
+
+Vanda’s shopping list
+
+A Bad Hungry Bee’s Hive
+
+case
+
+A −−→ B
+
+an A that is B
+
+Tapping a purisa on his
+shoulder: ‘You are a bad
+case!’
+
+Gramma likes ya!
+
+Avyayībhāva
+
+Digu
+
+Adverbial
+
+Numerical
+
+Adversary adverbial
+compounds
+
+Two cows
+
+20
+
+Declensions (-a)
+Vocative Case: nara / narā – Hey, man!
+Used when addressing people directly: ‘Hey layman, come here!’ Ehi upāsaka!
+Vocative singular: all stems ending in -a, -i, -u remain unchanged, the final long -ī, -ū become short.
+Vocative plural: same form as the nominative plural.
+Some special vocative forms:
+
+stem
+
+sg.
+
+pl.
+
+Buddha
+
+Buddha
+
+Buddhā
+
+muni
+
+muni
+
+munī
+
+garu
+
+garu
+
+garū
+
+senānī
+
+senāni
+
+senānī, senānino
+
+vidū
+
+vidu
+
+vidū
+
+go
+
+go
+
+gāvo
+
+• Bho, he: Hello / hey! (sg.)
+• Bhavanto (pl.)
+• āvuso (sg.)
+• bhante (sg.)
+
+Imperative Verbs
+sg.
+
+pl.
+
+sg.
+
+pl.
+
+1st
+
+-mi
+
+-ma
+
+1st
+
+dhāvāmi
+
+dhāvāma
+
+2nd
+
+-hi
+
+-tha
+
+2nd
+
+dhāva, dhāvāhi
+
+dhāvatha
+
+3rd
+
+-tu
+
+-(a)ntu
+
+3rd
+
+dhāvatu
+
+dhāvantu
+
+Before -hi, the final -a is lenghened: dhāvāhi. The -hi may be dropped and the -ā shortened: dhāva.
+The imperative in Pali can express a supplication, a blessing, a command, a gentle advice or a curse.
+The particle mā is used to express a prohibition.
+dhāvāmi
+
+I may run / May I run / Let me run.
+
+dhāvatha
+
+Run! / You may run / May you run / Let you run.
+
+dhāvatu
+
+He may run / May he run / Let him run.
+
+Buddho paṭiggaṇhātu accayantaṁ.
+
+May the Buddha accept (that) transgression.
+
+Phāsu (comfortably) viharatu!
+
+Let him live comfortably!
+
+Vassasataṁ jīva!
+
+May you live 100 years!
+
+Samitaṁ (calm) vedehi!
+Mā gaccha!
+Kāmarāgena mā ḍayhatha (burn)!
+Kilese tapantu (burn)!
+Suṇātu me bhante saṅgho …
+Pārisuddhiṁ āyasmanto ārocetha.
+
+May you feel calm!
+Don’t go!
+May you not burn with sensual desire!
+May they burn the defilements!
+Let the Sangha hear me.
+Let the Venerables declare purity.
+
+21
+Instrumental Case: narena – with, by, because of the man
+‘With whom/what? By whom/what? By means of, because of whom/what?’
+Buddhena: with the Buddha, by the Buddha, by means of the Buddha, because of the Buddha.
+Final -a of the stem becomes -ena: Buddha → Buddhena.
+In the singular case, to the stems ending in i, ī, u, ū, the ending -nā is added. The final long vowel of the stem
+becomes short.
+In the plural case, the final long vowel becomes long and -hi is added.
+sg.
+
+pl.
+
+ācariyena
+
+ācariyehi
+
+ācariya (teacher)
+
+→
+
+paṇḍita (sage)
+
+→
+
+senānī (general)
+
+→
+
+senāninā
+
+senānīhi
+
+garu (guru)
+
+→
+
+garunā
+
+garūhi
+
+satthu (master’s)
+
+→
+
+satthunā
+
+satthūhi, satthārehi
+
+vidū (seer)
+
+→
+
+vidunā
+
+vidūhi
+
+viññū (wise man)
+
+→
+
+paṇḍitena
+
+viññunā
+
+paṇḍitehi
+
+viññūhi
+
+The particles saddhiṁ, saha used with the instrumental case, expresses the meaning of ‘together with / accompanied by’.
+Saddhiṁ is added after a noun, saha is used as a preposition.
+
+Buddhena saddhiṁ
+
+together with the Buddha
+
+ācariyena / ācariyā saddhiṁ
+
+together with the teacher
+
+viññūhi saddhiṁ
+
+together with the wise men
+
+Etena saccena suvatthi [su + atthi] hotu. (Snp 2.1)
+Ahaṁ mittena saddhiṁ gāmaṁ gacchāmi.
+Mātugāmena saddhiṁ cārikaṁ carati.
+
+By this truth may there be well-being.
+I, together with a friend, go to the village.
+He wanders about with a woman. (mātugāma)
+
+Aṭṭhi tacena onaddhaṁ, saha vatthebhi3 sobhati. (MN 82)
+A bone covered with skin; it looks beautiful with clothes.
+
+• onaddha: pp. of onandhati, covered (with); wrapped (with)
+• vattha: nt. cloth; clothes; robe
+• sobhati: shines (in); looks beautiful (in)
+
+4
+
+The only occurrence of vatthebhi, normally it’s vatthehi.
+
+22
+Dative Case: narāya / narassa – to the man, for the man
+‘To whom/what? For whom/what?’
+Singular: final -a of the stem becomes -āya or -assa.
+To the stems ending in i, ī, u, ū, the ending -no or -ssa are added.
+Buddhāya, Buddhassa: to or for the Buddha.
+Plural: -naṁ is added to the noun-stem and the final vowel of the stem becomes long.
+Buddhānaṁ, munīnaṁ, vidūnaṁ.
+Saṅgho imaṁ kaṭhinadussaṁ āyasmato Amarassa deti. (Vin. Kd 7)
+Origin of the word ‘Dative’:
+PIE root:
+
+√do- to give
+
+Latin:
+
+donum gift, donatio a giving, dativus pertaining to giving
+
+Pāli/Sanskrit:
+
+dadāti gives [√dā + dā + a → dadā]
+
+Homage to the Buddha.
+
+Namo Buddhāya / Buddhassa.
+
+It leads to Nibbāna.
+
+Nibbānāya saṁvattati.
+
+We eat the almsfood not for fun or indulgence… Mayaṁ piṇḍapātaṁ bhuñjāma neva davāya, na madāya...
+Readings
+Dasa atthavase:
+(1.) saṅghasuṭṭhutāya,
+(2.) saṅghaphāsutāya,
+(3.) dummaṅkūnaṁ puggalānaṁ niggahāya,
+(4.) pesalānaṁ bhikkhūnaṁ phāsuvihārāya,
+(5.) diṭṭhadhammikānaṁ āsavānaṁ saṁvarāya,
+(6.) samparāyikānaṁ āsavānaṁ paṭighātāya,
+(7). appasannānaṁ pasādāya,
+(8.) pasannānaṁ bhiyyobhāvāya,
+(9.) saddhammaṭṭhitiyā,
+(10.) vinayānuggahāya.
+(AN 10.31)
+
+suṭṭhutā: f. well-being; excellence
+dummaṅku: adj. unrepentant; obdurate; obstinate; lit.
+difficult to embarrass into silence [dur + maṅku]
+niggaha: adj. holding back; restraining; arresting; lit.
+holding down [ni + √gah + a]
+pesala: adj. well-behaved; good; honest
+diṭṭha: pp. of √dis; seen; found; visible
+samparāyika: adj. in the future; hereafter
+pasanna: adj. who has faith (in); who has confidence (in);
+lit. settled
+appasanna: m. one without faith or confidence
+pasāda: m. inspiration; faith; trust; confidence; lit. settling
+bhiyyobhāva: m. growth (of); increase (of)
+anuggaha: m. support; help; assistance [anu + √gah + a]
+
+23
+Ime dhammā kusalā … hitāya sukhāya saṁvattantī’ti
+These things are wholesome ... lead to long-term happiness,
+atha tumhe, kālāmā, upasampajja vihareyyātha. (AN 3.65)
+then you, K., having entered them you should abide in them...
+upasampajja: undertaking; entering on; attaining; ger. of upasampajjati
+
+24
+Genitive Case: narassa – of the man, the man’s
+‘Of whom/what? Whose?’
+Singular: -ssa is added to the final -a.
+Plural: -naṁ is added to the noun-stem and the final vowel of the stem becomes long (same as the Dative plural).
+Buddhānaṁ, munīnaṁ, vidūnaṁ.
+Genitive singular forms of other nouns are the same as the Dative singulars.
+Dative
+
+Genitive
+
+Buddha
+
+Buddhassa
+
+to/for the Buddha
+
+of the Buddha, the Buddha’s
+
+muni
+
+munino, munissa
+
+to/for the hermit
+
+of the hermit, the hermit’s
+
+senānī
+
+senānino, senānissa
+
+to/for the general
+
+of the general, the general’s
+
+garu
+
+garuno, garussa
+
+to/for the teacher
+
+of the teacher, the teacher’s
+
+vidū
+
+viduno, vidussa
+
+to/for the seer
+
+of the seer, the seer’s
+
+The irregular go (cow, ox) has two forms: gavassa, gāvassa (to/for the cow, of the cow, the cow’s).
+Na kho pana mayaṁ passāma āyasmato upasenassa kāyassa vā aññathattaṁ indriyānaṁ vā vipariṇāmaṁ.
+But we don’t see any impairment in the body or deterioration of Ven. Upasena’s faculties.
+(SN 35.69)
+Aggi uṭṭhāya (rose up) gahapatikassa gehaṁ (house) ḍahati (burns down).
+Fire, having rose up, burns down the householder’s house.
+Sūdā gahapatino sevakānaṁ (servants) odanaṁ pacanti.
+The cooks cook the rice for the householder’s servants.
+Corehi haritvā, gahapatino gāvo (acc.pl.irreg.) haññanti (slaughtered).
+Taken away by thieves, the householder’s oxen are slaughtered.
+Suriyassa ālokena andhakāro (darkness) apagato (lit. gone away).
+The darkness was dispelled by the sun’s light.
+hanati: hits; beats; stabs
+haññati: pr. pass. of hanati; is hurt; is killed;
+is slaughtered
+
+yāti: goes to; travels to
+yanti: they go to; they travel to (3rd.pl of yāti)
+
+We don’t see the change of the body of the man.
+
+Na passāma manussassa kāyassa vipariṇāmaṁ.
+
+By means of the Teaching, men go / travel to the far shore.
+
+Manussā dhammena pāraṁ gacchanti / yanti.
+
+The man’s oxen are slaughtered.
+Rice cooked by the cook was eaten (khādito)
+by the beggar’s (yācaka) dog.
+
+Purisassa goṇo / gāvo haññanti.
+Sūdena pacitvā odanaṁ / pacito odano
+yācakassa sunakhena khādito.
+
+25
+
+Optative or Potential Verbs: May / Should (-eyya)
+Verbal terminations:
+
+Root: √dhāv (to run), base: dhāva
+
+sg.
+
+pl.
+
+1st
+
+-eyyāmi, -emi
+
+-eyyāma, -ema
+
+2nd
+
+-eyyāsi, -esi
+
+-eyyātha, -etha
+
+3rd
+
+-eyya, -e
+
+-eyyuṁ
+
+sg.
+
+pl.
+
+1st
+
+dhāveyyāmi, dhāvemi
+
+dhāveyyāma, dhāvema
+
+2nd
+
+dhāveyyāsi, dhāvesi
+
+dhāveyyātha, dhāvetha
+
+3rd
+
+dhāveyya, dhāve
+
+dhāveyyuṁ
+
+Irregular forms:
+√as (to be), atthi
+
+√kar (to do, make, work), karo
+
+sg.
+
+pl.
+
+1st
+
+siyaṁ, assaṁ
+
+assāma
+
+2nd
+
+siyā, assa
+
+assatha
+
+3rd
+
+siyā, assa
+
+siyuṁ, assu, siyaṁsu
+
+sg.
+
+pl.
+
+1st
+
+kareyyāmi, kayirāmi
+
+kareyyāma, kayirāma
+
+2nd
+
+kareyyāsi, kayirāsi
+
+kareyyātha, kayirātha
+
+3rd
+
+kareyya, kayirā, kare
+
+kareyyuṁ, kayiruṁ
+
+The optative generally indicates that the situation is hypothetical. It is often used to imply sense of ‘it would, if’.
+The optative cam also imply a polite imperative, ‘it would be good if you…’
+na’y’idaṁ saṅkhārā ābādhāya saṁvatteyyuṁ (SN 22.59)
+
+these volitions would not lead to affliction
+
+Yadā tumhe, bhaddiya, attanāva [attanā + eva] jāneyyātha… (AN 4.193)
+
+When (if) you, Bhaddiya, know this by yourself..
+
+ābādha: m. illness; affliction. saṁvattati: leads (to); results (in); causes
+Kusalañca hidaṁ, bhikkhave, bhāvitaṁ ahitāya dukkhāya
+
+hidaṁ: hi + idaṁ; this indeed; certainly this
+
+saṁvatteyya, nāhaṁ evaṁ vadeyyaṁ: ‘kusalaṁ, bhikkhave,
+
+ahitāya: dat.sg. of na + hita; unbeneficial; harmful
+
+bhāvethā’ti.
+
+nāhaṁ: na + ahaṁ
+
+(AN 2.11-20)
+
+bhāvetha + iti → bhāvethā’ti, a + i → ā
+Optative of √as (to be) has two forms
+1st
+
+assaṁ
+
+I could be
+
+siyaṁ
+2nd
+
+assa
+assa
+
+we could be
+
+–
+you could be
+
+siyā
+3rd
+
+assāma
+assatha
+
+you could be
+
+–
+he could be
+
+siyā
+
+assu
+siyaṁsu, siyuṁ
+
+Aho vata mayaṁ na maraṇadhammā assāma! (DN 22)
+If only we could not be of the nature to die!
+
+they could be
+
+26
+
+Future Passive Participle: Should Be Done (-tabba)
+A.k.a. the gerundive form, formed by adding -tabba, -anīya, -ya either to the present active base or to the verbal
+root. In the root, i → e and u → o. The final -ā of the root is changed into e before -ya, and y is reduplicated.
+√dā
+
+dātabba, deyya
+
+should be given
+
+√kar
+
+kātabba, karaṇīya
+
+should be done
+
+√nī
+
+nettabba
+
+should be led
+
+√ñā
+
+ñātabba, ñeyya
+
+should be known
+
+√su
+
+sotabba
+
+should be listened to
+
+√pā
+
+peyya
+
+should be drunk
+
+dese
+
+desetabba
+
+should be expounded
+
+kiṇā
+
+kīṇeyya
+
+should be bought
+
+Dukkhaṁ ariyasaccaṁ pariññeyyaṁ … pariññātaṁ
+
+Yo pana bhikkhu bhikkhuṁ kupito anattamano saṅghikā
+
+Dukkhasamudayaṁ a.s. pahātabbaṁ … pahīnaṁ
+
+vihārā nikkaḍḍheyya vā nikkaḍḍhāpeyya vā, pācittiyaṁ.
+
+Dukkhanirodhaṁ a.s. sacchikātabbaṁ … sacchikataṁ
+
+(Pc 17)
+
+D.n.gāminī paṭipadā a.s. bhāvetabbaṁ … bhāvitaṁ
+(SN 56.11)
+
+Uppannuppannānaṁ adhikaraṇānaṁ samathāya
+vūpasamāya: sammukhāvinayo dātabbo, sativinayo
+
+Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmena
+
+dātabbo, amūḷhavinayo dātabbo, … (Adhikaraṇasamatha)
+
+saddhiṁ kāyasaṁsaggaṁ samāpajjeyya … (Sg 2)
+… Paṭiggahetvā tiyojanaparamaṁ sahatthā haritabbāni.
+(NP 16)
+completely comprehends; knows full well
+
+parijānāti
+
+gives up; abandons; lets go (of)
+
+pajahati
+
+personal; lit. see for oneself
+
+sacchi (adj.)
+
+personally experiences, realizes; lit. personally does
+
+sacchikaroti
+
+cultivates; develops; lit. causes to become
+
+bhāveti
+
+descends (into); goes down (into)
+
+otarati
+
+afflicted (with); victim (of); immersed (in)
+
+otiṇṇa (pp. of otarati)
+
+changes; alters; lit. completely bends around
+
+vipariṇamati
+
+change; alteration
+
+vipariṇāma (m.)
+
+changed, altered, distorted
+
+vipariṇata (pp. of vipariṇamati)
+
+(1) attains; dwells in (2) engages in; performs
+
+samāpajjati
+
+takes; accepts; receives
+
+paṭiggaṇhāti
+
+at the very most; for a maximum of
+
+paramaṁ (ind.)
+
+personally; with one’s own hand
+
+sahatthā (ind.)
+
+is angered; is provoked; is irritated
+
+kuppati
+
+indignant; angry; annoyed
+
+kupita (pp. of kuppati)
+
+irritated; annoyed; displeased; lit. not own mind
+
+anattamana (adj.) [na + atta + mana]
+
+expels (from); throws out; removes; lit. drags out
+
+nikkaḍḍhati
+
+27
+
+Exercises
+Translate
+kaṇājaka: nt. congee; gruel; rice porridge
+
+attha: m. (1) meaning; significance (2) benefit; goal
+
+kañjiya: nt. rice water; congee
+
+(3) purpose
+
+accha: adj. clean; clear; transparent
+
+attha: m. (4) case; issue; matter
+
+acchakañjiyā: f. rice gruel; rice water
+
+attha: m. (5) need (for); want (for)
+
+anujānāti: allows (to); permits (to)
+
+yūsa: m. soup; broth
+akaṭayūsa: m. untreated soup; bean broth
+
+Attho refers to its object in the instrumental: the need or goal is fulfilled by/with the object.
+Attho me āvuso cīvarena. (NP 10) ‘I have need of a robe.’ (My need is fulfilled by a robe.)
+Hoti is intransitive, and always takes a nominative: attho hoti, ‘there is need’.
+(He) needed rice water (clear congee).
+
+Acchakañjiyā attho hoti.4
+
+Bhikkhus, I allow rice water.
+
+Anujānāmi, bhikkhave, acchakañjiṁ.
+Tena akaṭayūsena attho hoti.
+
+By him (tena) bean broth is needed.
+Bhikkhus, I allow bean broth.
+
+Anujānāmi, bhikkhave, akaṭayūsaṁ.
+
+nandati: is happy (with); delights (in); likes; enjoys
+
+jīyati: diminishes; decreases; gets less; is lost
+
+socati: sorrows; grieves; mourns
+
+jīyittha: was lost (aor. 3rd. refl. sg. of jīyati)
+
+laddhā: (abs. of labhati) having got; having obtained
+
+agha: nt. trouble; misfortune; pain; misery
+
+tena hi: in that case; if that’s so
+
+anagha: adj. [na + agha] untroubled; carefree
+
+kathaṁ: ind. How?
+
+vijjati: exists (in); is found (in); is present (in)
+
+ekamāsīna: [eka + āsīna] sitting alone
+
+ve: ind. indeed; truly; really
+
+nābhikīrati: [na abhikirati] does not drown; does not
+overwhelm
+Do you delight, ascetic?
+
+Nandasi, samaṇa?
+
+What have I gained, friend?
+
+Kiṁ laddhā, āvuso?
+Tena hi, samaṇa, socasi?
+
+Well then, ascetic, do you sorrow?
+What have I lost, friend?
+
+Kiṁ jīyittha, āvuso?
+
+Kathaṁ tvaṁ anagho bhikkhu, kathaṁ nandī na vijjati?
+How are you untroubled, mendicant? How is delight not found in you?
+Kathaṁ taṁ ekamāsīnaṁ, aratī nābhikīrati?
+How does discontent not overwhelm you as you sit alone?
+5
+
+Mv. Kd 6, Mahāvagga, The chapter on medicines (Bhesajjakkhandhaka)
+
+28
+Readings
+‘Aghajātassa ve nandī,
+
+Piyato jāyatī soko,
+
+nandījātassa ve aghaṁ;
+
+piyato jāyatī bhayaṁ;
+
+Anandī anagho bhikkhu,
+
+Piyato vippamuttassa,
+
+evaṁ jānāhi āvuso’ti.
+
+natthi soko kuto bhayaṁ.
+
+(SN 2.18)
+
+(Dhp 212)
+
+’Nandī dukkhassa mūlan’ti – iti viditvā ’bhavā jāti bhūtassa jarāmaraṇan’ti.
+Tasmātiha, bhikkhave, ’tathāgato sabbaso taṇhānaṁ khayā virāgā nirodhā cāgā paṭinissaggā
+anuttaraṁ sammāsambodhiṁ abhisambuddho’ti vadāmi.
+(MN 1)
+
+Na hi, gāmaṇi, kappati samaṇānaṁ sakyaputtiyānaṁ
+
+gāmaṇi: [gāma + aṇi] masc. chief; headman; leader
+
+jātarūparajataṁ, na sādiyanti samaṇā sakyaputtiyā
+
+paṭiggaṇhāti: takes; accepts; receives
+
+jātarūparajataṁ, nappaṭiggaṇhanti samaṇā sakyaputtiyā
+
+nikkhitta: dropped; discarded; set aside
+
+jātarūparajataṁ, nikkhittamaṇisuvaṇṇā samaṇā
+
+maṇi: m. jewel; gemstone
+
+sakyaputtiyā apetajātarūparajatā.
+
+suvaṇṇa: adj. beautiful; nt. gold; lit. good colour
+
+Yassa kho, gāmaṇi, jātarūparajataṁ kappati, pañcapi tassa
+kāmaguṇā kappanti.
+
+apeta: adj. without; -less; abstaining (from)
+yassa: whose; of/for whom; gen./dat. of ya (who)
+tassa: its; of/for that; gen./dat. of ta (it, that)
+
+Yassa pañca kāmaguṇā kappanti (…), ekaṁsenetaṁ,
+
+kāmaguṇa: m. object of sensual pleasure;
+
+gāmaṇi, dhāreyyāsi assamaṇadhammo
+
+lit. sensual strings
+
+asakyaputtiyadhammoti.
+
+ekaṁsena: ind. certainly; definitely
+
+(SN 42.10)
+
+dhāreti: holds up; carries; bears in mind
+
+Suṇātu me bhante saṅgho.
+
+yadi: ind. if; whether; perhaps
+
+Ajj’uposatho paṇṇaraso.
+
+pattakalla: nt. suitable time (for)
+
+Yadi saṅghassa pattakallaṁ,
+
+kicca: nt. obligation; duty
+
+saṅgho uposathaṁ kareyya,
+
+siyā: could be; may be (opt.irreg. of atthi)
+
+pāṭimokkhaṁ uddisseyya.
+
+āpatti: f. offense; transgression
+
+Kiṁ saṅghassa pubba-kiccaṁ?
+Pārisuddhiṁ āyasmanto ārocetha.
+Pāṭimokkhaṁ uddisissāmi.
+Taṁ sabbeva santā sādhukaṁ
+suṇoma manasikaroma.
+Yassa siyā āpatti, so āvikareyya.
+Asantiyā [na + santi + yā] āpattiyā tuṇhī bhāvitabbaṁ.
+Tuṇhī-bhāvena kho pan’āyasmante
+pārisuddhā ti vedissāmi.
+(Nidāna)
+
+tuṇhī: ind. silence, quiet
+
+29
+Extra Challenge: Pāli Chat
+Phrases
+his
+
+assa (pron.)
+
+this is his
+
+ayamassa
+
+your; yours
+
+tuyha (pron.)
+
+it; that
+
+ta / taṁ (pron.)
+
+these
+
+ime / imā / imāni (pron.)
+
+with this
+
+iminā (pron.) [ima + inā]
+
+my; to me; for me
+
+me / mayha / mama (pron.)
+
+this is mine
+
+meso
+
+spoon
+
+kaṭacchu (m.)
+
+wooden spoon; ladle
+
+dabbī (f.)
+
+attendant; assistant
+
+upaṭṭhāka (m.)
+
+closet; cupboard
+
+koṭṭhaka (m.)
+
+places down; lays down; sets up
+
+odahati
+
+dries; desiccates; makes wither; lit. causes to dry up
+
+visoseti
+
+tooth-stick; toothbrush
+
+dantapona (nt.)
+
+lies; lies around; lit. sleeps
+
+seti
+
+sleeps well (happily); rests comfortably
+
+sukhaṁ seti (idiom)
+
+you/he slept
+
+asayi (aor.2nd/3rd.sg. of seti)
+
+you all slept
+
+asayittha (aor.2nd.pl. of seti)
+
+slept well; rested comfortably
+
+sukhamasayi (aor.2nd/3rd.sg.)
+
+one slept well; one rested comfortably
+
+sukhamasayittha (aor.2nd.pl.)
+
+myself slept well
+
+sukhamasayitthaṁ (aor.1st.refl.)
+
+ant
+
+kipillika (m.)
+
+bed; sleeping place; couch; furniture
+
+sayana (nt.)
+
+gone to bed
+
+sayanagata (adj.)
+
+30
+Where is Ven. Vajiro bhikkhu’s spoon?
+Kattha āyasmato Vajirassa bhikkhuno kaṭacchu hoti?
+I don’t know. Do you see it?
+Na jānāmi. Taṁ passasi?
+This is his spoon. Give it to his attendant.
+Ayamassa kaṭacchu. (Assaṁ / tassaṁ) upaṭṭhākassa dehi.
+I will wash your cup.
+Tuyhaṁ mallakaṁ dhovāmi / dhovissāmi.
+(Please) Wash my bowl.
+Me pattaṁ dhova / dhoveyyāsi.
+Where is your bowl?
+Kattha tuyhaṁ patto?
+Having washed my bowl, you should put (it) in the cupboard.
+Me pattaṁ dhovitvā, koṭṭhake odaheyya.
+(Please) you could wash these robes (clothes). Having been washed, they should be dried.
+Imāni vatthāni dhoveyyāsi. Dhovitvā, visoseyyāsi / visosetabbāni.
+(Please) Give me (a) toothbrush.
+Dantaponaṁ me dehi / deyyāsi.
+(May you) Sleep well!
+Sukhaṁ sehi!
+I trust Sir (you) slept well?
+Kacci bhante sukhamasayittha?
+No friend, I haven’t slept well.
+No hetaṁ, āvuso, na sukhamasayitthaṁ.
+There are in my bed a lot of ants.
+Santi mama / me sayane bahu kipillikā.
+
+31
+nods off; dozes off
+
+pacalāyati
+
+(1) from that (2) therefore; that is why
+
+tasmā
+
+dullness; drowsiness; fuzziness; sluggishness
+
+thina (nt.)
+
+drowsiness; sluggishness
+
+middha (nt.)
+
+dullness and drowsiness; sloth and torpor
+
+thinamiddha (nt.)
+
+occurs; happens; befalls; lit. goes down
+
+okkamati
+
+(1) exists; is found; is present (2) is possible
+
+vijjati [√vid + ya + ti]
+
+it is possible, it is plausible; lit. a basis exists
+
+ṭhānaṁ vijjati (idiom)
+
+is abandoned; is given up
+
+pahīyati (pr.pass. of pajahati)
+
+like; as; according to; how
+
+yathā (ind.)
+
+studies well; learns thoroughly; masters; lit. reaches
+
+pariyāpuṇāti
+
+learned by heart; mastered
+
+pariyatta (adj. pp. of pariyāpuṇāti)
+
+with mind; by mind; with thought
+
+cetasā (m.)
+
+sees; takes a look (at)
+
+pekkhati
+
+carefully reconsiders; re-inspects
+
+anupekkhati
+
+both
+
+ubho (ind.)
+
+ear
+
+kaṇṇa (m.)
+
+ear hole; lit. ear stream
+
+kaṇṇasota (nt.)
+
+pulls (towards); tugs (to)
+
+āviñchati
+
+hand; palm
+
+pāṇi (m.)
+
+(of the body) limb
+
+gatta (nt.)
+
+strokes; massages; rubs; lit. wipes along
+
+anumajjati [anu + √majj + a + ti]
+
+‘Pacalāyasi no tvaṁ, moggallāna?’
+‘Evaṁ, bhante.’
+”Tasmātiha, moggallāna, yathāsaññissa te viharato taṁ middhaṁ okkamati, taṁ saññaṁ mā manasākāsi, taṁ saññaṁ mā bahulamakāsi.
+Ṭhānaṁ kho panetaṁ, moggallāna, vijjati yaṁ te evaṁ viharato taṁ middhaṁ pahīyetha.
+‘No ce te evaṁ viharato taṁ middhaṁ pahīyetha, tato tvaṁ, moggallāna, yathāsutaṁ yathāpariyattaṁ dhammaṁ cetasā anuvitakkeyyāsi anuvicāreyyāsi, manasā anupekkheyyāsi.’ […]
+‘No ce te evaṁ viharato taṁ middhaṁ pahīyetha, tato tvaṁ, moggallāna, ubho kaṇṇasotāni
+āviñcheyyāsi, pāṇinā gattāni anumajjeyyāsi.’
+(AN 7.61)
+
+32
+sweeps; cleans
+
+sammajjati [saṁ + √majj + a + ti]
+
+sweeping
+
+sammajjana (nt. from sammajjati)
+
+before; earlier
+
+pure (ind.)
+
+afterwards; later; in the future
+
+pacchā (ind.)
+
+seat; chair; lit. sitting
+
+āsana (nt.)
+
+prepares; sets out (a seat, etc.)
+
+paññāpeti
+
+(1) place (2) reason; ground; basis; lit. standing
+
+ṭhāna (nt.)
+
+sweeping that place
+
+taṇṭhāna-sammajjanaṁ
+
+coffee drink
+
+kāphīpāna (nt.)
+
+organises; arranges; prepares (food; drinks; etc.)
+
+paṭiyādeti
+
+assembly hall; meeting hall
+
+upaṭṭhānasālā (f.)
+
+sitting hall
+
+āsanasālā (f.)
+
+dirty; messy
+
+uklāpa (adj.)
+
+earth; ground; floor
+
+chamā (f.)
+
+broom
+
+sammuñjanī (f.)
+
+foot-washing water
+
+pādodaka (m.) [pāda + udaka]
+
+sets out; provides; lit. causes to stand near
+
+upaṭṭhāpeti [upa + √ṭhā + *āpe + ti]
+
+water; drinking water; lit. to be drunk
+
+pāṇīya (nt.)
+
+washing water; rinsing water; lit. to be used
+
+paribhojanīya (adj.)
+
+Before the meal, we should put out seats.
+Purebhattaṁ, āsane / āsanāni paññāpema.
+After the meal, we should sweep the place.
+Pacchābhattaṁ, taṇṭhānaṁ sammajjeyyāma.
+If the teacher wants coffee, we should prepare coffee.
+Sace ācariyo kāphīpānaṁ icchati, kāphīpānaṁ paṭiyādema.
+If the assembly hall is dirty, it should be swept.
+Sace upaṭṭhānasālā uklāpā hoti, upaṭṭhānasālā sammajjitabbā.
+He should sweep the floor and he should expel the ants with this broom.
+Chamā ca sammajjeyya, kipillikā ca nikkaḍḍheyya iminā sammuñjaniyā.
+If there’s no drinking water, drinking water should be provided.
+Sace pānīyaṁ natthi, pānīyaṁ upaṭṭhāpetabbaṁ.
+If there’s no rinsing water, rinsing water should be provided.
+Sace paribhojanīyaṁ natthi, paribhojanīyaṁ upaṭṭhāpetabbaṁ.
+
+33
+Conversation 1
+(Source: Buddhadhatta, Aids to Pāli Conversation, p.47)
+speech; talk
+
+bhāsa (m.)
+
+little; tiny; minute
+
+thoka (adj.)
+
+is able (to)
+
+sakkoti
+
+talks; speaks; converses
+
+sallapati
+
+to converse (with)
+
+sallapituṁ (inf. of sallapati)
+
+how many?
+
+kittaka (adj.)
+
+length of life; life-span
+
+āyuppamāṇa (nt.) [āyu + pamāṇa]
+
+how-old? lit. having how many years?
+
+kativassa (adj.)
+
+brother
+
+bhātar (m.) / bhātuka / bhāti
+
+sister
+
+bhaginī (f.)
+
+in those; among those
+
+tesu (pron.) [ta + esu]
+
+merchant; trader; dealer
+
+vāṇija (m.)
+
+scribe, clerk, writer
+
+lekhaka (m.)
+
+that much; that far; still; at least
+
+tāva (ind.)
+
+(1) picks up (2) takes; accepts (3) grasps; learns
+
+uggaṇhāti
+
+house builder; mason; carpenter
+
+gahakāra (m.)
+
+When?
+
+kadā (ind.)
+
+yesterday
+
+hīyo (ind.)
+
+(1) town; city (2) fortress; stronghold
+
+nagara (nt.)
+
+fifteen
+
+pannarasa (card.) [pañca + dasa]
+
+twenty
+
+vīsati (card.) [dvi + dasa + ti]
+
+mother and father; parents
+
+mātāpitar (m.)
+
+only; just; merely; exclusively
+
+yeva
+
+I have (my things are)
+
+mayhaṁ … santi
+
+(1) to me; for me (2) my; mine
+
+mayhaṁ (pron.)
+
+(1) for you; to you (2) your; yours
+
+tuyhaṁ (pron.)
+
+(1) to you; for you (2) your; of you
+
+tava (pron.)
+
+Do you know Pāli-talk?
+Tvaṁ pālibhāsaṁ jānāsi?
+I know a little.
+Ahaṁ thokaṁ jānāmi.
+Are you able to converse ‘into’ Pāli?
+Sakkosi tvaṁ pālibhāsāya sallapituṁ?
+Yes, I am able to converse a little.
+Āma, ahaṁ thokaṁ sallapituṁ sakkomi.
+
+34
+What is your name?
+Tuyhaṁ nāmaṁ kiṁ? Kin nāmo’si?
+I am called Vijayabāhu.
+Ahaṁ Vijayabāhu-nāmo’mhi.
+Where do you live?
+Tvaṁ kattha vasasi?
+I live in Colombo-town.
+Ahaṁ Koḷambanagare vasāmi.
+What is your age? (How many is you life-span?)
+Tuyhaṁ āyuppamāṇāṁ kittakaṁ?
+My age is fifteen.
+Mayhaṁ āyuppamāṇaṁ paṇṇarasa.
+How old are you? (How many years are you?)
+Kativasso’si tvaṁ (āyunā)?
+I am twenty years old.
+Ahaṁ vīsativasso’mhi.
+Where do your parents live? (Your mother-and-father lives where?)
+Tuyhaṁ mātāpitaro kuhiṁ vasanti?
+They too now, just live in Colombo.
+Te p’idāni Koḷambanagare yeva vasanti.
+Do you have brothers and sisters too?
+Tuyhaṁ bhātu-bhaginiyo pi santi?
+Yes, I have four brothers and two sisters.
+Āma, mayhaṁ cattāro bhātaro dve bhaginiyo ca santi.
+Your brothers, what do they do?
+Tava bhātaro kiṁ karonti?
+One of them is a merchant, the second one is a clerk,
+Tesu eko vāṇijo, ditiyo lekhako,
+and the other two still attend schools.
+dve tāva pāṭha-sālāsu uggaṇhanti.
+What do you like to be / do? (You what work to do desire?)
+Tvaṁ kiṁ kammaṁ kātuṁ icchasi?
+I like to become an architect. (I an architect to become desire.)
+Aham eko gahakāraṁ bhavitum icchāmi.
+When did you come here?
+Kadā tvaṁ idh’āgato’si?
+Yesterday I came here.
+Hīyo’ham idh’āgacchiṁ.
+
+35
+Conversation 2
+(Source: Buddhadhatta, Aids to Pāli Conversation, p.48)
+who?; what?; which?
+
+ka / ko (pron.)
+
+where?; from where?
+
+kuto (ind.) [ka + to]
+
+to where?
+
+kuhiṁ (ind.) [ka + hiṁ]
+
+why?; lit. from what?
+
+kasmā (ind.) [ka + smā]
+
+how many?
+
+kittaka (adj.) [ka + tta + ka]
+
+to you; for you
+
+tava (pron.)
+
+pedestrian, traveller
+
+pathika (m.)
+
+place; location; region; area
+
+desa (m.)
+
+to do; to make
+
+kātuṁ (inf.)
+
+goods; wares; merchandise
+
+bhaṇḍa (nt.)
+
+sells
+
+vikkiṇāti
+
+to sell
+
+vikkiṇituṁ (inf. of vikkiṇāti)
+
+from here
+
+ito (ind.)
+
+another; other; different
+
+añña (pron.)
+
+loves; holds dear; is fond of
+
+piyāyati
+
+too hot
+
+accuṇha (adj.) [ati + uṇha]
+
+house; home; lit. entering down
+
+nivesana (nt.)
+
+when … then …
+
+yadā … tadā … (idiom)
+
+(of a tree) root; base (2) source; origin; root (3)
+money; cash
+
+mūla (nt.)
+
+fourteen
+
+catuddasa / cuddasa (card.)
+
+silver coin; money; cash
+
+rūpiya (nt.)
+
+in the presence (of); near (to)
+
+santike (ind.)
+
+I have (in my presence there are)
+
+mama santike santi (idiom)
+
+Who are you?
+Ko’si tvaṁ?
+I am a way-farer.
+Aham eko pathiko.
+Where do you come from?
+Kuto tvam āgacchasi?
+I come from India.
+Ahaṁ Indudesato āgacchāmi.
+For what purpose have you come? (You what to do came?)
+Tvaṁ kiṁ kātuṁ āgato’si?
+
+36
+I want to sell some goods.
+Ahaṁ bhaṇḍāni vikkiṇitum icchāmi.
+Why did you come here? (Why here came are you?)
+Kasmā idh’āgato si?
+I came here to talk to you. (Wit you to talk came I am.)
+Tayā saddhiṁ sallapituṁ āgato’mhi.
+Who is your father?
+Ko tuyhaṁ pitā?
+My father is the merchant Mahānāma.
+Mama pitā Mahānāmo vāṇijo.
+Who here is your friend?
+Ko idha tava mitto?
+Here, the merchant is my friend.
+Idha vāṇijo mayhaṁ mitto hoti.
+Where do you work? (Where the work you do?)
+Kattha tvaṁ kammaṁ karosi?
+I work in a post-office. (I in one marketplace work I do.)
+Aham ekasmiṁ antarāpaṇe kammaṁ karomi.
+From here, to where do you go?
+Ito tvaṁ kuhiṁ gacchasi?
+I will go to another town from here. (I from here to another town I will go.)
+Aham ito aññaṁ nagaraṁ / nigamaṁ gamissāmi.
+Do you like this place?
+Piyāyasi tvam idaṁ ṭhānaṁ?
+I may like this place, if it doesn’t get too hot. (if here not too hot may become).
+Piyāyeyyam idaṁ ṭhānaṁ sace’daṁ nāccuṇhaṁ bhaveyya.
+When will you go home?
+Kadā tvaṁ nivesanaṁ gacchissasi / gamissasi?
+When I get money, then I will go home.
+Yadā mūlaṁ labhissāmi, tadā’haṁ gamissāmi.
+How much (many) money have you now with you?
+Kittakaṁ mūlaṁ ’dāni tava santike atthi?
+I have fourteen rupees.
+Cuddasa rūpiyāni mama santike santi.
+
+37
+Extra Challenge: Crossword
+1
+
+P
+
+U
+
+T
+3
+
+A
+5
+
+C
+
+V
+
+Ī
+
+A
+9
+
+A
+
+11
+
+G
+
+14
+
+G
+
+Ā
+
+A
+
+M
+
+12
+
+H
+I
+
+V
+
+16
+
+I
+
+R
+
+17
+
+Ā
+
+4
+
+T
+A
+
+D
+
+R
+
+R
+
+A
+
+K
+
+T
+
+A
+
+T
+
+Ī
+
+15
+
+H
+
+P
+
+8
+
+I
+
+T
+
+Ī
+
+I
+6
+
+V
+
+I
+
+Ṁ
+
+Ṭ
+
+U
+
+A
+7
+
+A
+
+A
+
+2
+
+A
+
+T
+10
+
+T
+I
+
+T
+
+V
+
+P
+
+A
+
+A
+
+T
+
+D
+
+T
+
+I
+
+Ū
+
+T
+
+K
+
+A
+
+T
+
+A
+
+Ñ
+
+Ā
+
+Y
+
+A
+
+T
+
+I
+
+I
+
+Ñ
+
+13
+
+R
+
+Ū
+
+I
+
+P
+A
+
+(padā antā kāḷaka-caturassesu ca █ bahala-lakkhesu ca ━)
+Tiriyato
+(1) mātuyā dāraka; mātā yathā niyaṁ …m
+(2) ‘…-paṭisaṁvedī assasissāmī’ti sikkhati
+(4) bhikkhussa vihāraṁ; saññācikāya pana bhikkhunā …ṁ kārayamānena
+(5) bhikkhussa dussaṁ; paṭisaṅkhā yoniso …ṃ paṭisevāmi
+(7) kilesaṁ ḍayhati; akataṁ dukkaṭaṁ seyyo, pacchā … dukkaṭaṁ
+(10) so samitaṁ na vedeti; taṇhā ca … ca ragā ca māradhītaro
+(11) vassassa eko utu; ‘māso seso …nan’ti
+(14) Kassako … gāmaṁ nayati; dakkho goghātako vā goghātakantevāsī vā … vadhitvā
+(15) Piṇḍaṁ paṭiggahetvā so vedeti; … katavedī puggalo dullabho lokasmiṁ
+(16) vivekaṁ icchati; ekako viharati; … kho dāni rājā, idheva dāni mayā ṭhātabbaṁ
+(17) …-kalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ
+Dīghaso
+(1) sūdassa kammaṁ; sūdaṁ bhattaṁ ...
+(2) bhuñjitvā naro pānīyaṁ …
+(3) … kho bhagavā bhikkhū āmantesi
+(4) vassānaṃ pacchimaṁ māsaṁ; dasāhānāgataṁ …-temāsikapuṇṇamaṁ
+(6) viññū; paṇḍito; sugato loka-…
+(8) tato bhikkhu bhuñjati; pubbaṇhasamayaṁ nivāsetvā …-cīvaramādāya
+(9) gahapatikassa gehaṁ vināseti; ayaṁ me purato … jalati
+(12) eko lokapālakadhammo; …-ottappa
+(13) eko khandho; pheṇapiṇḍūpamaṁ …ṁ
+
+lesson 3
+
+Kiṁ nāmo si:
+
+Review Exercises
+
+May all misfortunes be avoided, may all illness be dispelled. Sabbītiyo [sabba + īti] vivajjantu sabbarogo vinassatu.
+Go away, beings!
+
+Paṭikkamantu bhūtāni!5
+
+We are obstructed by birth and death.
+
+Mayaṁ otiṇṇā amha jātijarāmaraṇena.6
+
+There is no equal to the Tathāgata.
+
+Na samo (equal to) atthi tathāgatena.7
+
+Homage to him, the Blessed One.
+
+Namo tassa bhagavato.
+
+May all beings be happy.
+
+Sabbe sattā sukhī hontu.
+
+Come here, layman!
+
+Ehi / Āgacchāhi upāsaka!
+
+The elder goes to the village with the disciple (sāvaka).
+
+Thero sāvakena saddhiṁ gāmaṁ gacchati.
+
+The elder gives the robe to the disciple.
+īti: f. calamity; misfortune; lit. it comes [√i + ti]
+vivajjati: avoids
+roga: m. disease; illness; sickness
+vinassati: disappears
+
+Thero sāvakassa cīvaraṁ deti.
+paṭikkamati: returns; steps back; recedes; goes away
+bhūta: nt. living being; lit. become [√bhū + ta]
+otarati: descends (into); goes down (into)
+otiṇṇa: (pp. of otarati) afflicted (with); victim (of);
+immersed (in)
+
+Indeclinables and Idioms
+ca follows a noun or a verb to express:
+(1) and; both
+
+(2) but; although; and if
+
+Placed after each joined word:
+
+na hi verena verāni,
+sammant’īdha kudācanaṁ,
+averena ca sammanti,
+esa dhammo sanantano.
+
+Thero bhikkhu sabrahmacārīnaṁ piyo ca hoti manāpo ca
+garu ca bhāvanīyo ca.
+A senior monk is well-liked and pleasing, and honoured and respected by his fellow companions in the
+holy life. (AN 5.4)
+
+(Dhp 5)
+
+Placed once after the last item of a list:
+
+sammati: pr. pass. [samma + ti] is calmed; is appeased
+
+Ahaṁ kasāmi vapāmi ca.
+I plow and sow.
+
+kudācanaṁ: ind. at some/any time
+
+assā gāvo ajā eḷakā ca
+horses, cattle, sheep and goats
+
+sanantana: adj. eternal; ancient
+
+6
+
+AN 4.67
+Paritta Ratanattaya-paṇāma, simpl.
+8
+Snp 2.1 simpl.
+7
+
+vera: nt. hatred; ill-will
+
+esa: pron. this; he; it
+
+40
+vā: follows a noun or a verb to express either … or:
+So vā sā vā gacchatu. May either he or she go.
+
+puna caparaṁ: idiom. and what is more; and so too
+[puna + ca + paraṁ]
+
+Bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato
+vā nisīdati.
+
+puna: again; once more
+
+ce: if, no ce: if not
+
+paraṁ: after; beyond
+
+sace: if
+
+yo pana bhikkhu: idiom. a monk who;
+but whichever monk
+
+tato ce uttari: if more than that
+tato ce uttariṁ nikkhipeyya…
+no ce abhinipphādeyya… (NP 10)
+kiṁ nu kho: How indeed? Why on earth?
+yato ca kho: but when; but because
+api ca kho: and yet; however; still
+saddhiṁ, saha: with, together with
+idha: (1) here; now; in this world; (2) in this case
+pecca: after death
+
+punappunaṁ: repeatedly; again and again
+
+yo: pron. whoever; whatever;
+whichever (masc.nom.sg. of ya)
+pana: moreover; and so; but; or; however
+bhikkhu pan’eva: [pana + eva], now, if…; further, …
+eva: only; just; merely
+h’eva: hi + eva (with emphasis)
+yathā: like; as; according to; how
+yathā yathā: in whatever way
+
+Ahaṁ bhante tisaraṇena saha aṭṭhasīlāni (nt.acc.pl.) yācāmi.
+Yathārūpaṁ parisaṁ alaṁ yojanagaṇanānipi dassanāya gantuṁ. (AN 4.190)
+Idha modati pecca modati, katapuñño ubhayattha modati. (Dhp 16)
+• modati: is happy; enjoys himself [√mud + *a + ti]
+• muditā: fem. happiness (for); appreciation [√mud + ita + ā]
+• katapuñña: adj. who has made merit; has gained spiritual wealth [kata + puñña]
+• ubhayattha: ind. in both cases; on both sides; lit. both matters [ubhaya + attha]
+Idha, bhikkhave, bhikkhu kāye8 kāyānupassī viharati … (DN 22)
+Puna gehaṁ na kāhasi (Dhp 154)
+• geha: nt. house; dwelling [√gah + a]
+• kāhasi: fut. (+acc) you will make; you will build [√kar + o + si]
+• kāhati: fut. (+acc) he will do; he will make [√kar + o + ti]
+Puna caparaṁ, bhikkhave, bhikkhu imameva kāyaṁ… (DN 22)
+Yo pana bhikkhu bhikkhuṁ…
+Yo pana bhikkhu bhikkhussa / anupasampannassa…
+Yo pana bhikkhu bhikkhuniyā saddhiṁ saṁvidhāya…
+saṁvidhāya: gerund of saṁvidahati [saṁ + vi + √dhā + a + ti], arranges, organises, plans
+
+8
+
+Kāye (loc.) can mean ‘in the body’, or ‘with regard to the body’.
+
+41
+
+Adverbs of Time
+Adverbs in general are indeclinable. Adverbs of time describe when the action is done, they often come first in
+the sentence.
+pubbe
+
+before, previously
+
+idāni
+
+now
+
+āyatiṁ
+
+in future
+
+pāto
+
+in the morning
+
+dāni / idāni
+
+now
+
+ekadā
+
+one day
+
+yadā
+
+when, whenever
+
+suve
+
+tomorrow
+
+pacchā
+
+afterwards
+
+purā
+
+formerly, earlier
+
+ajja
+
+today
+
+atippago
+
+too early
+
+tadā
+
+then
+
+aciraṁ
+
+recently, soon
+
+sadā
+
+always
+
+ciraṁ
+
+for a long time
+
+sāyaṁ
+
+late, in the evening
+
+atisāyaṁ
+
+late at night, too late
+
+kadā
+
+when
+
+kālena
+
+at the proper time
+
+Future Tense (-issāmi, -issasi, -issati)
+The future tense, apart from an action in the future, can also express a condition, a possibility, or a statement of
+eternal truth, as well as a mild form of imperative.
+Future verbs can be formed by inserting -issa between the base and the present tense verbal ending.
+For verbs ending in -e, insert -ssa: dese + ssa + āma → desessāma (we will teach)
+The verb atthi (he is) is not used in the future tense, bhavissati is used instead.
+sg.
+
+pl.
+
+bhavissāmi
+
+I will be
+
+bhavissāma
+
+we will be
+
+bhavissasi
+
+you will be
+
+bhavissatha
+
+you all will be
+
+bhavissati
+
+he will be
+
+bhavissanti
+
+they will be
+
+‘Bhavissati’ often expresses the idea of ‘should be’.
+Parisuddho no kāyasamācāro bhavissati. (MN 39)
+brāhmaṇā karissanti ...
+Sādhu suṭṭhu bhante saṁvarissāmi.
+
+Our bodily behaviour should be purified.
+Brahmans will do ….
+Well indeed, Sir., I shall be restrained.
+
+Na uccāsoṇḍaṁ paggahetvā kulāni upasaṅkamissāmī’ti. (AN 7.61)
+I should not approach families intoxicated with pride.
+uccāsoṇḍaṁ paggahetvā: idiom. arrogantly; with an attitude;
+
+paggahetvā: ger. of paggaṇhāti
+
+lit. having raised trunk high
+
+paggaṇhāti: holds up; raises up
+
+uccāsoṇḍā: [uccā + soṇḍā] f. raised trunk (of an elephant);
+trunk of pride
+
+42
+
+Gerund (e.g. bhavitvā)
+A.k.a. ‘absolutive form’ or ‘indeclinable past participle’.
+The gerund in Pāli expersses a completed or continuing action in such statements as ‘having gone’ or ‘after
+going’.
+The suffix -tvā or -tvāna is added to the verbal stem. The final -a of the stem is replaced by -i (forming the
+infinitive stem).
+For verbs with a present stem ending in -e, -tvā is added directly.
+For other verbs, -tvā is added directly to the verb root rather than the present or infinitive stem. The root may
+undergo changes, and there are many irregular forms.
+bhavati (is, becomes)
+
+bhavitvā
+
+suṇāti (hears)
+
+sutvā
+
+gacchati (goes)
+
+gantvā
+
+pivati (drinks)
+
+pitvā
+
+labhati (gets, obtains)
+
+labhitvā, laddhā
+
+passati (sees)
+
+disvā
+
+neti (leads)
+
+netvā
+
+deti / dadāti (gives)
+
+datvā
+
+deseti (teaches)
+
+desetvā
+
+jānāti (knows)
+
+ñatvā / jānitvā
+
+karoti (does)
+
+katvā
+
+Ahaṁ odanaṁ bhuñjitvā, pattaṁ dhovitvā, dante sodhetvā (having cleaned), sālaṁ gacchāmi.
+After eating the food, I rinse my bowl, clean my teeth and go to the hall.
+Yathārupe adinnādāne rājāno coraṁ gahetvā, haneyyuṁ vā… (Pr 2)
+The sort of stealing for which kings, having caught a thief, would beat or...
+The suffix -ya is also used to form gerunds. These are common with with verbs having a prefix.
+pahāya: [pa + √hā + ya], having abandoned. Gerund of pajahati: giving up; abandoning.
+pañca nīvaraṇe pahāya: having abandoned the five hindrances
+pariyādāya: [pari + √ādā + ya], having taken over. Gerund of pariyādāti: takes, grasps.
+cittaṁ pariyādāya tiṭṭhati: having taken over the mind, it remains.
+Mayaṁ taṁ dhammaṁ sutvā evaṁ jānāma…
+Atha kho aññataro brāhmaṇo yena bhagavā
+ten’upasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ
+sammodi. (AN 2.16)
+Sabbadukkha nissaraṇa nibbāna sacchikaranatthāya, etaṁ
+kāsāvaṁ datvā, pabbājetha maṁ bhante, anukampaṁ
+upādāya.
+
+sammodi: aor. of sammodati; greeted
+kāsāva: nt. ochre robe; adj. orange color
+anukampaṁ upādāya: idiom. lit. taking pity
+anukampā: f. compassion; pity
+upādāya: ger. of upādiyati; taking; grasping (onto); lit.
+taking near
+
+43
+Vivekaṁ, anuruddhā, kāmehi vivekaṁ akusalehi dhammehi pītisukhaṁ nādhigacchati … tassa
+abhijjhāpi … byāpādopi … thinamiddhampi … uddhaccakukkuccampi … vicikicchāpi … aratīpi …
+tandīpi cittaṁ pariyādāya tiṭṭhati. (MN 68)
+
+viveka: (m.) seclusion; discrimination
+nādhigacchati: does not get to; does not obtain
+abhijjhā: (f.) wanting; lit. over thinking
+byāpāda: (m.) ill will; lit. going wrong
+thinamiddha: (nt.) dullness; sloth
+
+Chandañca ruciñca ādāya voharati. (Sg 11)
+So tatra gantvā idha āgacchati.
+
+uddhaccakukkucca: (nt.) restlessness; agitation
+vicikicchā: (f.) doubt; uncertainty
+aratī: (f.) discontent; dislike
+tandī: (f.) laziness; tiredness
+
+He speaks with our given consent and approval.
+He, having gone there, comes here.
+
+So tatra nisīditvā tato uṭṭhāti / uṭṭhahati.
+
+After sitting down there, he stands up from there.
+
+Mayaṁ ajja idha vasitvā suve tahiṁ gacchāma.
+
+After staying here today, tomorrow we go there.
+
+Te idha āgantvā pacitvā gacchanti.
+
+Having come here, having cooked, they go.
+
+Tvaṁ buñjitvā pivitvā sayasi.
+
+Having eaten, having drunk, you lie down.
+
+ruci: f. preference; approval
+ādāya: ger. of ādiyati;
+receiving; according (to); lit. taking
+uṭṭhahati; uṭṭhāti: stands up
+
+vasati: stays; dwells
+daṇḍaṁ paṇeti: inflicts punishment; imposes a fine
+jhāyati: burns
+masi: m. soot; ash
+
+Sace so coretvā idha āgacceyya, daṇḍaṁ paṇeyyāmi.
+If, after stealing, he might come here, I may punish (him).
+Idha nisīditvā mā rodāhi, tatra gacchāhi, gantvā bhutvā sayāhi.
+Sitting here, don’t cry, go there, having gone and eaten, lie down.
+After burning the tree with fire, they may make ash.
+Rukkhaṁ agginā jhāpetvā masiṁ kareyya.
+
+44
+Puna caparaṁ, bhikkhu, bhikkhu yathāsutaṁ yathāpariyattaṁ dhammaṁ cetasā anuvitakketi anuvicāreti
+manasānupekkhati.
+So tehi dhammavitakkehi divasaṁ atināmeti, riñcati paṭisallānaṁ, nānuyuñjati ajjhattaṁ cetosamathaṁ.
+Ayaṁ vuccati, bhikkhu: ‘bhikkhu vitakkabahulo, no dhammavihārī’.
+(AN 5.73)
+Api ca kho mātugāmena saddhiṁ sañjagghati saṅkīḷati saṅkelāyati …
+Api ca kho mātugāmassa cakkhunā cakkhuṁ upanijjhāyati pekkhati …
+So taṁ assādeti, taṁ nikāmeti, tena ca vittiṁ āpajjati.
+Idampi kho, brāhmaṇa, brahmacariyassa khaṇḍampi chiddampi sabalampi kammāsampi.
+(AN 7.50)
+with/by mind; with thought
+
+cetasā (m.)
+
+over; on; around (prefix)
+
+anu-
+
+ponders; reflects; thinks about
+
+anuvitakketi
+
+sees; takes a look (at)
+
+pekkhati
+
+mentally examines
+
+manasānupekkhati
+
+day
+
+diva (m.) / divasa (nt.)
+
+(of time) passes; spends; wastes
+
+atināmeti
+
+neglects; omits
+
+riñcati
+
+privacy; solitude; lit. sticking to oneself
+
+paṭisallāna (nt.)
+
+practices; engages in; lit. yokes near
+
+anuyuñjati
+
+this; this person; this thing
+
+ayaṁ (pron.)
+
+speaks
+
+vacati
+
+is said to be; is called
+
+vuccati (pass. of vacati)
+
+laughs; jokes
+
+sañjagghati
+
+plays (with); has fun (with)
+
+kīḷati
+
+playing together
+
+saṅkīḷati [saṁ + √kīḷ]
+
+has fun; amuses oneself (with)
+
+saṅkelāyati (from kīḷati)
+
+meditates (on); contemplates; reflects (on)
+
+upanijjhāyati
+
+relishes; takes pleasure (in)
+
+assādeti
+
+desires; longs (for)
+
+nikāmeti
+
+joy; happiness; pleasure; lit. gain
+
+vitti (f.)
+
+gets pleasure/pain; produces; engages in
+
+āpajjati
+
+finds satisfaction (in)
+
+vittiṁ āpajjati (idiom)
+
+(1) piece; part (2) broken; defective (3) chip; break;
+failure
+
+khaṇḍa (m.)
+
+hole; crack
+
+chidda (nt.)
+
+blotched; stained
+
+sabala (adj.)
+
+spotted; blemished
+
+kammāsa (adj.)
+
+45
+
+Infinitive (e.g. bhavituṁ)
+The infinitive verbal form expresses a purpose. It is formed by adding -(i)tuṁ to the root. Generally the infinitive
+stands before the verb or predicate.
+root + -tuṁ
+
+root + -ituṁ
+
+√dā
+
+dātuṁ
+
+to give
+
+√car
+
+carituṁ
+
+to walk
+
+√gam
+
+gantuṁ
+
+to go
+
+√jīv
+
+jīvituṁ
+
+to live
+
+√han
+
+hantuṁ
+
+to kill
+
+√har
+
+harituṁ
+
+to carry
+
+√kar
+
+kātuṁ
+
+to do, to make
+
+√han
+
+hanituṁ
+
+to kill
+
+√ñā
+
+ñātuṁ
+
+to know
+
+√pucch
+
+pucchituṁ
+
+to ask
+
+So idha vasituṁ icchati.
+
+He wishes to stay here.
+
+Ahaṁ buddhaṁ passituṁ araññaṁ gacchissāmi.
+
+I will go to the forest to see the Buddha.
+
+The infinitive may be translated as ‘to see’ / ‘in order to see’ / ‘for the purpose of seeing’.
+
+Ahaṁ bhuñjitvā sayituṁ na icchāmi.
+
+Having eaten, I don’t want to lie down.
+
+Mayaṁ idāni atra bhutvā vapituṁ tahiṁ gacchāma.
+
+Now, we eat here and go there to sow.
+
+Āma, ahaṁ jānāmi, tvaṁ carituṁ icchasi.
+
+Yes, I know you like to walk.
+
+Mayaṁ ketuṁ tahiṁ na gacchāma.
+
+We don’t go there to buy.
+
+Mayaṁ hantuṁ na icchāma.
+sayituṁ: lie down, sleep
+vapituṁ: sow
+tahiṁ: there
+
+We don’t like to kill.
+
+46
+
+Declensions (-a)
+Locative Case: nare / naramhi / narasmiṁ – in, on, at the man
+‘Where is it happening?’ Indicates the location of the action, and expresses the sense of in, on, at, or among.
+The locative singular is formed by adding -smiṁ or -mhi to the stem. A final long vowel in the stem is shortened.
+Stems ending in -a have a special form, in which the -a becomes -e: Buddhe.
+The locative plural is formed by adding -su to the stem. Before -su, the final -a becomes -e: Buddhesu. Other short
+vowels can optionally become long or remain short.
+
+Buddha
+
+sg.
+
+pl.
+
+Buddhe, Buddhasmiṁ, Buddhamhi
+
+Buddhesu
+
+paṇḍita
+
+paṇḍite, paṇḍitamhi
+
+paṇḍitesu
+
+muni
+
+munismiṁ, munimhi
+
+munisu, munīsu
+
+senānī
+
+senānismiṁ, senānimhi
+
+senānīsu
+
+garu
+
+garusmiṁ, garumhi
+
+garusu, garūsu
+
+vidū
+
+vidusmiṁ, vidumhi
+
+vidūsu
+
+viññū
+go
+
+viññusmiṁ, viññumhi
+
+viññūsu
+
+gave, gāve, gavasmiṁ, gāvasmiṁ,
+
+gavesu, gāvesu,
+
+gavamhi, gāvamhi
+
+gosu
+
+Ekaṁ samayaṁ bhagavā bhoganagare viharati ānandacetiye.
+[…] asukasmiṁ nāma āvāse saṅgho viharati sathero sapāmokkho (AN 4.180)
+
+The lion walks in the village.
+The wise men are delighted in the Buddha.
+
+Sīho gāme / gāmamhi / gāmasmiṁ carati.
+Viññuno Buddhe pasannā.
+
+Now rain falls, (so) don’t go out.
+
+Idāni devo vassati, mā bahi gacchittha.
+
+Today many men assemble in the village.
+
+Ajja bahū manussā gāme sannipatanti.
+
+Monkeys move about on trees.
+
+Makkaṭā rukkhesu vicaranti.
+
+They, having seen the disadvantage in sensual pleasures,
+
+Te kāmesu ādīnavaṁ disvā,
+
+go forth in the bhikkhu-saṅgha.
+
+bhikkhu-saṅghe pabbajanti.
+
+makkaṭa: m. monkey; ape
+vicarati: moves about
+ādīnava: m. danger; problem; disadvantage
+pabbajati: goes into exile; ordains as a monk
+
+47
+Ablative Case: narā / naramhā / narasmā – from, out of the man
+From whom/what? From where? Out of whom/what?
+Buddhasmā: from the Buddha, out of the Buddha.
+Final -a of the stem becomes -ā, -amhā or -smā: Buddha → Buddhasmā. To the stems ending in i, ī, u, ū, the ending
+-smā instead of -nā may be added. The final long vowel of the stem becomes short.
+The plural is formed with -bhi. The final -a becomes e: Buddhebhi. Short final vowels i, u become long: munībhi,
+garūbhi. The -bhi often becomes -hi, e.g.: Buddhehi, munīhi, senānīhi, garūhi, vidūhi.
+sg.
+
+pl.
+
+munī (hermit)
+
+→
+
+muninā, munismā
+
+munībhi, munīhi
+
+senānī (general)
+
+→
+
+senāninā, senānismā
+
+senāhi
+
+garu (teacher)
+
+→
+
+garunā, garusmā
+
+garūhi
+
+vidū (seer)
+
+→
+
+vidunā, vidusmā
+
+vidūhi
+
+padīpa (lamp)
+
+→
+
+padīpamhā
+
+padīpehi
+
+(Some forms have no occurrence in the Chaṭṭha Saṅgāyana corpus.)
+Origin of the word ‘Ablative’:
+Latin
+
+PIE
+
+Pāli/Sanskrit
+
+ab-
+
+√apo
+
+apa-
+
+off, away from
+
+apocalypse, apology, apostle
+
+ferre
+
+√bher-
+
+√bhar / √bhṛ
+
+to carry, to bear
+
+birth, bring, burden,
+differ, offer, suffer, transfer
+
+The suffix -to forms adverbs with an ablative sense. Buddhato: from the Buddha. E.g.: munito, senānito, garuto,
+viduto.
+Not to be confused with nominative forms:
+Saṅkhato: nom.sg. of saṅkhata: [saṁ + √kar + ta], pp. of saṅkharoti. Created, conditioned, fabricated.
+Saṅkanto: nom.sg. of saṅkanta: [saṁ + √kam + ta], pp. of saṅkamati. Moved over, shifted, transferred.
+from far, from the further shore
+
+pārato
+
+away from suffering
+
+dukkhato
+
+from near, from the near shore
+
+orato
+
+from everywhere
+
+sabbato
+
+from the lamp
+
+padīpato
+
+The particle vinā adds the meaning of without:
+Buddhaṁ (acc.) vinā, Buddhena (instr.) vinā, Buddhamhā vinā (abl.): without the Buddha, apart from the Buddha.
+The suffix -to can also form indeclinable adverbs: dukkhato can be translated as ablative ‘from suffering’, or an
+adverb ‘as suffering’.
+
+48
+Dveme, bhikkhave, paccayā sammādiṭṭhiyā uppādāya.
+
+parato: (1) abl. [para + to], from far
+
+Katame dve? Parato ca ghoso, yoniso ca manasikāro.
+
+parato: (2) ind. as another; as alien
+
+(AN 2.126)
+Ven. Vaṅgīsa asks Ven. Ānanda for advice (Kāmarāgena
+ḍayhāmi, cittaṁ me pariḍayhati!) who responds:
+Saṅkhāre parato passa,
+dukkhato mā ca attato;
+Nibbāpehi mahārāgaṁ,
+mā ḍayhittho punappunaṁ. (SN 8.4)
+
+parato ca ghoso: word of another
+ghosa: m. sound; voice; utterance
+nibbāpeti: caus. of nibbāti; (of fire) grows cold; lit. causes to
+blow away
+ḍayhi: aor.3rd. of ḍayhati; it was burned; it was scorched
+ḍayhittho: aor.2nd.
+
+49
+
+Pronouns
+Personal pronouns (nominative)
+
+1st
+2nd
+3rd.masc.
+
+Possessive pronouns (genitive)
+
+sg.
+
+pl.
+
+sg.
+
+pl.
+
+ahaṁ
+
+amhe, mayaṁ, no
+
+mama, mayhaṁ, me
+
+amhākaṁ, no
+
+I
+
+we
+
+mine, my
+
+ours, our
+
+tuvaṁ, tvaṁ
+
+tumhe, vo
+
+tava, tuyhaṁ, te
+
+tumhākam
+
+thou
+
+you lot
+
+your(s)
+
+your(s)
+
+so, sa
+he
+
+they
+
+taṁ, tad
+
+3rd.nt.
+
+your(s)
+
+tā, tāyo
+she
+
+they
+ta →
+
+your(s)
+tesaṁ
+
+its
+
+they
+
+sā
+
+tesaṁ
+
+tassa
+
+tāni
+
+it
+3rd.fem.
+
+tassa
+
+te
+
+tassā
+hers
+
+(nom.sg.) so / taṁ / sā
+
+(nom.pl.) te / tāni / tā, tāyo
+
+(acc.sg.) taṁ
+
+(acc.pl.) te / tāni / tā, tāyo
+
+their(s)
+tāsaṁ
+their(s)
+
+Exercises
+Translate
+Like rivers full of water...
+
+Yathā vārivahā pūrā…
+
+All the boys are crying:
+
+Sabbepime dārakā rodanti:
+
+Give congee, give rice, give food!
+
+Yāguṁ detha, bhattaṁ detha, khādanīyaṁ detha!9
+
+He, from the breakup of the body, from after death...
+
+So, kāyassa bhedā (abl.), paraṁ maraṇā (abl.)…10
+
+(Due to the) first jhāna he delights in solitude (an empty dwelling).
+Paṭhamena jhānena suññāgāre abhirati.11
+The elder goes to the village by air.
+
+Thero ākāsena gāmaṁ gacchati.
+
+A bhikkhu gives a bowl to a bhikkhu.
+
+bhikkhu bhikkhussa pattaṁ deti
+
+A bhikkhu walks to a village with a bhikkhunī.
+
+bhikkhu bhikkhuniyā gāmaṁ carati
+
+vāri: nt. water
+vāha: adj. carrying; leading
+pūra: adj. full (of); filled (with)
+yāgu: f. rice gruel; congee
+
+10
+
+Pc 65
+SN 42.3
+12
+Pr 4, Pc 8
+11
+
+bheda: m. (1) death (2) schism; split; lit. breakup
+ramati: enjoys; finds pleasure (in)
+abhiramati: enjoys; delights (in); takes pleasure (in)
+abhirata: adj. pp of abhiramati; really enjoying; very
+fond (of)
+
+50
+Those who, devoted, firm-minded,
+apply themselves to Gotama’s message
+
+Ye suppayuttā manasā daḷhena
+nikkāmino gotamasāsanamhi (gotamassa sāsanamhi)
+
+payuñjati: harnesses; employs; applies
+payutta: pp. of payuñjati; intent; engaged
+suppayutta: adj. [su + payutta] fully engaged; diligently practising
+manasa: adj. focused on; lit. with such a mind
+daḷha: adj. strong; firm; steady
+nikkāmī: adj. [nī + √kam + *ī] striving (in); active (in); lit. going out
+
+The old is ended, nothing new is produced.
+
+Khīṇaṁ purāṇaṁ nava natthi sambhavaṁ,
+
+their minds have no desire for future rebirth.
+
+Virattacittāyatike bhavasmiṁ;
+
+They, with no seed, no desire for growth,
+
+Te khīṇa-bījā aviruḷhi-chandā,
+
+enlightened, go out like this flame.
+khīyati: is destroyed; is exhausted
+khīṇa: pp. of khīyati; consumed; destroyed
+khaya: m. from khīyati; wearing away; destruction
+purāṇa: adj. previous; old; ancient
+nava: adj. new; fresh
+
+Nibbanti dhīrā yathā’yam padīpo. (Snp 2.1)
+rajjati: finds pleasure (in); is enamoured (with)
+virajjati: becomes detached (from); loses interest (in)
+viratta: pp. of virajjati; detached (from); without desire
+(for); lost interest (in)
+virūḷhi: f. growth; increase
+padīpa: m. lamp; light; lighting
+
+Dānaṁ dadantu saddhāya, sīlaṁ rakkhantu sabbadā.
+May they give gifts with conviction, may they always maintain virtue.
+Bhāvanābhiratā hontu, gacchantu devatā-gatā.12
+May they delight in meditation, may they go to the devas.
+
+rakkhati: protects; guards
+
+13
+
+Dukkhappattā… chant
+
+51
+Readings
+highest; supreme
+
+agga (adj.)
+
+comprehends; understands
+
+vijānāti
+
+for those knowing; for those who understand
+
+vijānataṁ (prp. of vijānāti)
+
+gift; donation
+
+dakkhiṇā (f.)
+
+worthy of offerings
+
+dakkhiṇeyya (adj.)
+
+highest; unsurpassed; incomparable; lit. nothing
+higher
+
+anuttara (adj.)
+
+fading of desire (for); dispassion (towards)
+
+virāga (m.)
+
+becomes calm; ceases; is allayed
+
+upasamati
+
+merit; good deed
+
+puñña (nt.)
+
+field; plot of land
+
+khetta (nt.)
+
+field of merit
+
+puññakkhetta (nt.)
+
+Aggato ve pasannānaṁ,
+aggaṁ dhammaṁ vijānataṁ;
+Agge buddhe pasannānaṁ,
+dakkhiṇeyye anuttare.
+
+Agge dhamme pasannānaṁ,
+virāgūpasame sukhe;
+Agge saṅghe pasannānaṁ,
+puññakkhette anuttare.
+(AN 4.34)
+
+alteration (to); improvement (to)
+
+vikappa (m.)
+
+(1) experiences (2) produces (3) engages in (4)
+commits (an offense) (5) causes; effects
+
+āpajjati
+
+causes an alteration; suggests an improvement
+
+vikappaṁ āpajjati (idiom)
+
+convinces; persuades; lit. causes to know
+
+saññāpeti
+
+some or other; even some; just some
+
+kocideva
+
+lamp; light; lighting
+
+padīpa (m.)
+
+passes over to, shifts, transmigrates
+
+saṅkamati
+
+moved over; shifted; transferred
+
+saṅkanta (pp. of saṅkamati)
+
+Tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṁ āpajjeyya… (NP 8)
+So ce dūto taṁ veyyāvaccakaraṁ saññāpetvā taṁ bhikkuṁ upasaṅkamitvā evaṁ vadeyya… (NP 10)
+Yathā, mahārāja, kocideva puriso padīpato padīpaṁ padīpeyya,
+kiṁ nu kho so, mahārāja, padīpo padīpamhā saṅkanto’ti?
+(Mil 3.5.5)
+
+52
+best part; cream
+
+maṇḍa (m.)
+
+of the best quality; lit. to be drunk like cream
+
+maṇḍapeyya (adj.)
+
+face to face with
+
+sammukha (adj.)
+
+reaches; arrives (at)
+
+pāpuṇāti
+
+have reached; have arrived (at)
+
+patta (pp. of pāpuṇāti)
+
+gets to; attains; obtains; lit. arrives at
+
+adhigacchati
+
+discovered; found; attained; lit. arrived
+
+adhigata (pp. of adhigacchati)
+
+discovery; finding; attainment; lit. arrival
+
+adhigama (m.)
+
+personal; lit. see for oneself
+
+sacchi (adj.)
+
+knows for oneself; personally realizes
+
+sacchikaroti
+
+this; this person; this thing
+
+ayaṁ (pron.)
+
+our; of us; my (royal plural)
+
+amhākaṁ (pron.)
+
+barren; fruitless; sterile; unproductive
+
+vañjha (adj.)
+
+resulting in; producing; lit. coming up
+
+udraya (adj.)
+
+in us; among us
+
+amhesu (pron.) (1st.loc.pl of ahaṁ)
+
+(1) fruit; berry (2) consequence; result
+
+phala (nt.)
+
+benefit (in); good result (of)
+
+ānisaṁsa (m.)
+
+Maṇḍapeyyamidaṁ, bhikkhave, brahmacariyaṁ, satthā sammukhībhūto.
+Tasmātiha, bhikkhave, vīriyaṁ ārabhatha appattassa pattiyā, anadhigatassa adhigamāya, asacchikatassa
+sacchikiriyāya.
+”Evaṁ no ayaṁ amhākaṁ pabbajjā avañjhā bhavissati saphalā saudrayā.
+Yesañca mayaṁ paribhuñjāma cīvara-piṇḍapāta-senāsana-gilānappaccayabhesajja-parikkhāraṁ tesaṁ te kārā
+amhesu mahapphalā bhavissanti mahānisaṁsā”ti.
+evañhi vo, bhikkhave, sikkhitabbaṁ.
+(SN 12.22)
+touches; contacts; feels
+
+phusati
+
+touched (by); contacted (by)
+
+phuṭṭha (pp. of phusati)
+
+considers as; takes as; regards as; lit. puts
+
+dahati
+
+contact; sense impingement; touch
+
+phassa (m.)
+
+attachment; taking as mine; sense of ownership
+
+upadhi (m.)
+
+comes back (to); falls back (on); lit. goes back
+
+pacceti
+
+dependent; depending (on)
+
+paṭicca (ger. of pacceti)
+
+‘Gāme araññe sukhadukkhaphuṭṭho,
+Nevattato no parato dahetha;
+Phusanti phassā upadhiṁ paṭicca,
+Nirūpadhiṁ kena phuseyyu phassā’ti.
+(Ud 2.4)
+
+lesson 4
+
+Kiṁ nāmo si:
+
+Review Exercises
+Sammā-sambuddhassa sāvako ramati taṇhāya khayasmiṁ. (Dhp 187, simpl.)
+A disciple of the fully awakened Buddha delights in the ending of craving.
+Bahuṁ ve saraṇaṁ yanti pabbatāni vanāni ca. (Dhp 188)
+To many refuges they go, to mountains and forest glades.
+Anissito ca viharati, na ca kiñci loke upādiyati. (DN 22)
+He dwells detached, not grasping at anything in the world.
+If the cooks here would not cook, where should we go to eat?
+Sace sūdā idha na paceyyuṁ, kuhiṁ bhuñjituṁ gaccheyyāma?
+Go and converse with the wise man.
+Gacchatha, paṇḍitena saddhiṁ sallapatha.
+
+ramati: enjoys; takes delight (in)
+yanti: they go
+pabbata: nt. mountain; hill
+vana: nt. wood; forest; grove
+anissita: pp. of [na + nissayati]; detached (from); disengaged (from)
+upādiyati: grasps; holds (onto); takes possession (of); lit. takes near
+sallapati: talks; speaks; converses
+
+54
+
+Adverbs of Place
+-ttha ‘place’
+ta
+
+that
+
++ ttha
+
+tattha (tatra)
+
+there
+
+ima
+
+this
+
++ ttha
+
+ettha
+
+here
+
+ya
+
+whatever
+
++ ttha
+
+yattha (yatra)
+
+wherever
+
+ka
+
+what?
+
++ ttha
+
+kattha
+
+where?
+
+sabba
+
+all, every
+
++ ttha
+
+sabbattha
+
+everywhere
+
+eka
+
+one
+
++ ttha
+
+ekattha
+
+in one place
+
+añña
+
+another
+
++ ttha
+
+aññattha
+
+somewhere else
+
+ka
+
+what?
+
++ to
+
+kuto
+
+from where
+
+ta
+
+that
+
++ to
+
+tato
+
+from there
+
+eka
+
+one
+
++ to
+
+ekato
+
+from one side
+
+pari
+
+around
+
++ to
+
+parito
+
+from all around
+
+pura
+
+in front
+
++ to
+
+purato
+
+in front of
+
+samanta
+
+all
+
++ to
+
+samantato
+
+from all every direction
+
+-to ‘from a place’
+
+-hiṁ
+ka
+
+what?
+
++ hiṁ
+
+kuhiṁ
+
+where?
+
+ta
+
+that
+
++ hiṁ
+
+tahiṁ
+
+there
+
+ya
+
+whatever
+
++ hiṁ
+
+yahiṁ
+
+wherever
+
+55
+
+Past Participle (-ta, -ita, -na)
+Generally formed by adding -ta, -ita, -na to the verbal root or base. Sandhi rules complicate the exact forms.
+rukkho patito
+
+the fallen tree
+
+antarāyiko dhammo vutto bhagavatā
+
+said to be an obstacle by the Buddha
+
+Pubbe’bhinno mallako.
+
+The cup is already broken.
+
+Icchitaṁ patthitaṁ tumhaṁ khippameva samijjhatu.
+May your hopes and wishes succeed quickly.
+’Kālo, bhante, niṭṭhitaṁ bhattan’ti.
+Sir, it’s time. The meal is ready.
+
+patito: pp.nom. of patati
+
+pattheti: wishes (for)
+
+vutto: pp.nom. of vacati
+
+khippaṁ: ind. quickly
+
+icchati: wants; desires
+
+samijjhati: achieves; succeeds
+niṭṭhāti: finished; completed; ready; prepared
+
+When the subject is in instrumental case, the past participle is passive.
+
+Migo purisena diṭṭho.
+
+The deer (miga) was seen by the man.
+
+Vyādhena hataṁ migaṁ ahaṁ passāmi.
+
+I see the deer killed (hata) by the huntsman (vyādha).
+
+Gāmamhā āgataṁ purisaṁ na passāmi.
+
+I do not see the man that has come from the village.
+
+Some frequent examples:
+bhavati
+
+√bhū
+
+to be
+
+bhūta
+
+became
+
+passati
+
+√dis
+
+to see
+
+diṭṭha
+
+seen
+
+gacchati
+
+√gam
+
+to go
+
+gata
+
+gone
+
+karoti
+
+√kar
+
+to do
+
+kata
+
+done
+
+labhati
+
+√labh
+
+to get
+
+laddha
+
+received
+
+jānāti
+
+√ñā
+
+to know
+
+ñāta
+
+known
+
+bhāsati
+
+√bhās
+
+to speak
+
+bhāsita
+
+spoken
+
+pabbajati
+
+√vaj
+
+to go on
+
+pabbajita
+
+ordained
+
+ṭhahati
+
+√ṭhā
+
+to stand
+
+ṭhita
+
+stood
+
+bhāveti
+
+√bhū
+
+bhāve
+
+bhāvita
+
+developed
+
+deseti
+
+√dis
+
+dese
+
+desita
+
+preached
+
+passati
+
+√dis
+
+passa
+
+passita
+
+seen
+
+vedayati
+
+√vid
+
+vedaya
+
+vedayita
+
+experienced
+
+chindati
+
+√chid
+
+to cut
+
+chinna
+
+cut
+
+khīyati
+
+√khī
+
+to destroy
+
+khīna
+
+destroyed
+
+nisīdati
+
+√sad
+
+to sink
+
+nisinna
+
+seated
+
+pajahati
+
+√hā
+
+to abandon
+
+pahīna
+
+abandoned
+
+56
+
+Aorist Past Tense
+Verbal terminations:
+
+Root: √dhāv (to run), base: dhāva
+sg.
+
+pl.
+
+1st
+
+adhāviṁ
+
+adhāvimhā
+
+-(i)ttha
+
+2nd
+
+adhāvo, adhāvi
+
+adhāvittha
+
+-(i)ṁsu, -uṁ
+
+3rd
+
+adhāvi
+
+adhāviṁsu, adhāvuṁ
+
+sg.
+
+pl.
+
+1st
+
+-iṁ
+
+-(i)mhā, -(i)mha
+
+2nd
+
+-o, -i
+
+3rd
+
+-i
+
+The a- is prefixed to the verbs, but optionally it may be dropped, e.g. dhāviṁ, kiṇiṁ, desesiṁ, kariṁ, haniṁ, etc.
+For verbs ending in -e, an s is inserted: desesiṁ, desesi, desesuṁ, etc.
+Some roots ending in long vowels also get the s aorist ending. In the plural case, the long vowel is shortened:
+aṭṭhāsiṁ: I stood, aṭṭhāsi: you stood, aṭṭhattha: you all stood.
+See the Appendix for the aorist conjugation of the irregular √as and √hū (to be).
+The particle mā + aorist verb expresses a prohibition in the present or future.
+Examples:
+Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
+āmanteti: invites; calls; summons
+“Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca:
+paccassosuṁ: aor.3rd.pl. of paṭissuṇāti
+paṭissuṇāti: agrees; assents (to); lit. listens back
+“Bhūtapubbaṁ, bhikkhave, asurā deve abhiyaṁsu. (SN 11.1)
+abhiyāti: invades; attacks
+Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ.
+attamana: adj. pleased; happy; delighted; satisfied; lit. own mind
+abhinanduṁ: aor.3rd.pl. of abhinandati
+abhinandati: delights (in); is pleased (with)
+
+Ven. Ānanda approached the Blessed One.
+Having bowed, sat to one side.
+
+Āyasmā ānando yena bhagavā tenupasaṅkami.
+Abhivādetvā ekamantaṁ nisīdi.
+
+They went there.
+
+Te tatra gacchiṁsu.
+
+We dwelt here.
+
+Mayaṁ idha avasimhā.
+
+When did you come from there?
+
+Kadā tvaṁ tato āgacchi?
+
+Because I knew it, therfore I said it.
+Don’t stay here.
+If it be so, I should come here.
+
+Yato ahaṁ ajāniṁ tato avadiṁ.
+Tumhe mā idha vasittha.
+Yadi evaṁ siyā, ahaṁ idha āgaccheyyāmi.
+
+57
+
+Causative: Having It Done (-e, -aya, -āpe, -āpaya)
+The causative base is formed by adding -e, -aya, -āpe, -āpaya either to the root or the verbal base. The base thus
+formed is conjugated in all tenses and moods.
+The causative form of a transitive verb takes two objects in the accusative.
+Atha kho Suppavāsā […] dārakaṁ Bhagavantaṁ vandāpesi. (Ud 2.8)
+Then the lady Suppavāsā made her boy bow to the Blessed One.
+Sometimes the agent who was caused to do the action is in the instrumental case.
+Atha kho devahito brāhmaṇo uṇhodakassa kājaṁ purisena gāhāpetvā phāṇitassa ca puṭaṁ āyasmato
+upavāṇassa pādāsi. (SN 7.13)
+Then Devahita the brahmin having had a carrying-pole feched with hot water by a man, he also
+presented Upavāna with a jar of molasses.
+Some verbs can take two objects as a double accusative:
+duh
+
+to milk
+
+bhikkh
+
+to beg food
+
+vah
+
+to carry
+
+yāc
+
+to beg
+
+sās
+
+to instruct
+
+har
+
+to take away
+
+rudh
+
+to obstruct
+
+nī
+
+to lead
+
+Pañhaṁ taṁ, samaṇa, pucchissāmi. (SN 10.12)
+Puriso gāviṁ gāmaṁ nayati.
+
+I will ask you a question, ascetic.
+The man leads (nayati) the ox to the village.
+
+58
+
+Exercises
+
+lesson 5
+
+Kiṁ nāmo si:
+
+Review Exercises
+
+Why does that man depart now from here?
+
+Idāni kasmā so puriso ito nikkhamati?
+
+The wise one dispels negligence by diligence.
+
+Paṇḍito appamādena pamādaṁ nudati.
+
+One should defeat anger by means of non-anger.
+
+Akkoddhena jine / jineyya kodhaṁ.
+
+We read our lessons here, but you are playing over there. Mayaṁ idha pāṭhe paṭhāma, tumhe pana tatra kīḷatha.
+
+Mayaṁ ajja isino assamaṁ daṭṭhuṁ pabbataṁ abhiruhissāma.
+We will today climb the mountain to see the seer’s hermitage.
+If you become lazy, you will not meditate and contemplate.
+Sace tvaṁ kusīto / alaso bhaveyyāsi, na jhāyissasi nijjhāyissasi ca.
+
+nudati: drives out; expels; removes
+
+daṭṭhuṁ: inf. of √dis; to see
+
+jināti: conquers; overcomes; defeats
+
+abhiruhati: ascends; mounts; climbs
+
+kodha: m. anger; wrath; rage; temper
+
+kusīta: adj. lazy; slack; apathetic
+
+isi: m. seer; sage
+
+jhāyati: thinks; meditates
+
+assama: m. monastery; hermitage; ashram
+
+nijjhāyati: meditates; reflects; considers
+
+60
+
+Present Participle (-nt, -māna)
+The present participle describes the action that the subject (a noun) is doing, hence it is a verbal adjective.
+It is formed by adding -nt or -māna to the verbal base. The final -e becomes -aya before -māna. The long -ā is
+shortened.
+√gam
+
+gaccha
+
+gacchant, gacchamāna, gacchāna
+
+going
+
+√dā
+
+data
+
+dadant, dadamāna, dadāna
+
+giving
+
+√kī
+
+kiṇā
+
+kiṇant, kiṇamāna, kiṇāna
+
+buying
+
+√dis
+
+dese
+
+desent, desayamāna, desayāna
+
+teaching
+
+√as
+
+sa
+
+santa, samāna
+
+existing
+
+√bhū
+
+bhava
+
+bhavanta
+
+being
+
+√car
+
+cara
+
+caranta, caramāna
+
+walking
+
+√as
+
+sa
+
+santa, samāna
+
+being, existing
+
+√kar
+
+karo
+
+karont, karumāna, karāna
+
+doing, making
+
+Irregular forms:
+
+The present participles are declinable, they agree with the noun in gender, number and case.
+gacchant → (nom.sg.) gacchaṁ, gacchanto (nom.pl) gacchanto, gacchantā
+dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti (MN 118)
+Maggaṁ kho pana me gacchantassa kāyo kilanto. (AN 8.80)
+… suvaṇṇaṁ vā chijjamānaṁ patati. (Pr 2)
+
+kilanta: adj. worn out; tired
+suvaṇṇa: nt. gold
+chijjati: cut off; cut loose; severed
+patati: falls
+
+Since the present participles are verbs, they can take an object in the accusative case:
+‘abhippamodayaṁ cittaṁ assasissāmī’ti sikkhati (MN 118)
+abhippamodati: rejoices; gladdens; prp. of abhippamodayanta: gladdening; pleasing
+No ce abhinipphādeyya, tato ce uttariṁ vāyamamāno taṁ cīvaraṁ abhinipphādeyya, nissaggiyaṁ pācittiyaṁ. (NP 10)
+vāyamamāno: prp. of vāyamati: makes an effort (to)
+
+Puriso passeyya maccha-gumbaṁ carantaṁ tiṭṭhantaṁ. (MN 39)
+A man could see schools of fish wandering around and remaining still.
+Seyyathāpi bhikkhave makkaṭo araññe pavane caramāno… (SN 12.61)
+Just like, monks, a monkey roaming around in a forest wilderness...
+maccha-gumba: m. school of fish
+pavana: nt. woodland; forest
+
+61
+
+Adjectives
+Adjectives in Pāli must agree with the noun they qualify in gender, number and case. E.g. seto asso: a white horse,
+setā assā: white horses.
+Generally a single adjective stands before the noun it qualifies, but many adjectives follow after the noun.
+kuṭumbiko aḍḍho mahaddhano mahābhogo: the head of a family, wealthy, has much money, has great property
+A noun may act as a qualifier predicate, and should agree with its subject in case:
+puttā manussānaṁ vatthu: children are men’s wealth
+Adjectives as predicates should agree with the subject in gender, number and case:
+
+Kāmā hi citrā madhurā manoramā;
+Sensual pleasures are diverse, sweet, delightful;
+aviddasū yattha sitā puthujjanā. (Thag 19.1)
+an ignorant ordinary person is bound to them.
+citra: diverse
+madhura: sweet, lovely
+manorama: [mano + rama] delightful, lit. mind pleasing
+Natthi (there is/are not) and musā can be used as predicates13 :
+
+Saṅkhārā sassatā natthi
+
+There are no eternal conditioned things
+
+taṁ musā
+
+it’s a lie
+
+Past participles as predicate:
+Apārutā tesaṁ amatassa dvārā, ye sotavanto pamuñcantu saddhaṁ; (SN 6.1)
+Opened are the gates of the deathless for them, let the hearers show faith.
+
+13
+
+A predicate is any word or phrase which describes its subject.
+
+62
+Pronouns as adjectives agree with the noun in gender, number and case.
+So puriso: that man, te purisā: those men.
+
+The body grows.
+
+Kāyo vaḍḍhati.
+
+He is poor.
+
+So appabhogo.
+
+They are wealthy.
+
+Te mahābhogā.
+
+Where does that elder live now?
+
+So thero idāni kuhiṁ vasati?
+
+Why does that evil man come here?
+
+So pāpako puriso kasmā idhāgacchati?
+
+Where is she reborn?
+
+Kuhiṁ sā paccājāyati?
+
+Sace manussattaṁ āgacchati yattha yattha paccājāyati appabhogo hoti. (MN 135)
+If he comes back to the human state, then wherever he is reborn he is poor.
+
+vaḍḍhati: grows
+
+appabhogo: poor; with few assets
+
+paccājāyati: pass. is born again
+
+mahābhogo: wealthy; with great assets
+
+Indeclinables and Idioms
+kho pana: idiom. and now; but; and next; indeed
+kho: emph. indeed; surely; certainly; truly
+tena kho pana samayena:
+idiom. pron. + ind. + ind. + masc., instr. for loc.sg.
+now at that time; now on that occasion
+tena: pron. masc. & nt.instr.sg. of ta
+with him; by him; with that; by that
+
+samaya: masc. [saṁ + √i + *a]
+from sameti (meets with / agrees with)
+time; occasion; lit. come together
+aparena samayena: idiom. at another time; later
+aparena: after, beyond; later on
+aññatra samayā: idiom. except at the right time
+
+63
+
+Exercises
+Translate
+My mind will rise (stand) above all worldly things.
+
+Sabbalokā ca me mano vuṭṭhahissati.14
+
+What are you doing while living here?
+
+Tumhe idha kiṁ kurumānā viharatha?
+
+The farmers sing songs in the fields.
+
+Khetthesu kassakā gītāni gāyanti.
+
+Rukkhehi patantāni phalāni gahapatāniyā sevakā bhuñjanti.
+The servants of the housewife eat the fruits falling from the trees.
+Araññe senāsane viharantesu bhikkūsu manussā bhiyyo pasīdanti.
+Men become very devoted to monks who live in a forest dwelling.
+So caṅkamanto bahū khuddake pāṇino saṅghātaṁ āpādesi.
+While walking up and down, he brought many small creatures to destruction.
+
+Where will you stay there, after going from here?
+
+Tvaṁ ito gantvā tatra kuhiṁ vasissati?
+
+Don’t talk while eating.
+
+Bhuñjantā mā sallapatha.
+
+Wealth does not follow the person who is dying. Dhanaṁ mīyantaṁ / marantaṁ purisaṁ na anugacchati.
+
+When the road becomes safe, then we shall set out from here.
+Yadā maggo khemo bhavissati, tadā mayaṁ ito nikkhamissāma.
+
+vuṭṭhahati: stands above; rises above
+
+saṅghātaṁ āpādeti: idiom. damages; harms; causes the
+
+kassaka: m. farmer; ploughman
+
+death (of)
+
+gīta: pp. of gāyati; nt. singing; lit. sung
+
+saṅghāta: m. striking; hurting; killing
+
+phala: nt. fruit; nut; berry
+
+āpādeti: causes; effets; produces
+
+bhiyyo: ind. more; greater; very
+
+sallapati: talks; converses; chats
+
+pasīdati: is bright; is inspired
+
+dhana: nt. wealth; riches; treasure
+
+caṅkamati: walks up and down
+
+mīyati: is killed; dies
+
+bahu: adj. many; much
+
+anugacchati: follows; goes after
+
+khuddaka: adj. small; tiny
+
+nikkhamati: goes out; comes out; leaves
+
+pāṇī: m. living being; lit. breather
+
+yadā … tadā …: When … then …
+
+15
+
+AN 6.102
+
+64
+Readings
+Yāvakīvañca, bhikkhave, bhikkhū abhiṇhaṁ sannipātā bhavissanti sannipātabahulā; vuddhiyeva, bhikkhave,
+bhikkhūnaṁ pāṭikaṅkhā, no parihāni. (AN 7.23)
+
+Sampanna-sīlā viharissāma sampanna-pāṭimokkhā, pāṭimokkha-saṁvara-saṁvutā viharissāma ācāra-gocarasampannā. (Sīl’uddesa-pāṭha)
+
+Sīlavā kho panāyamāyasmā pātimokkhasaṁvarasaṁvuto viharati ācāragocarasampanno aṇumattesu vajjesu
+bhayadassāvī, samādāya sikkhati sikkhāpadesu. (AN 8.2)
+
+Yato kho tvaṁ, uttiya, sīlaṁ nissāya sīle patiṭṭhāya ime cattāro satipaṭṭhāne evaṁ bhāvessasi, tato tvaṁ, uttiya,
+gamissasi maccudheyyassa pāran’ti. (SN 47.16)
+
+Yathā kho pana paccekapuṭṭhassa veyyākaraṇaṁ hoti,
+evamevaṁ evarūpāya parisāya yāvatatiyaṁ anusāvitaṁ hoti.
+Yo pana bhikkhu yāvatatiyaṁ anusāviyamāne saramāno
+santiṁ āpattiṁ nāvikareyya,
+sampajānamusāvādassa hoti.
+Sampajānamusāvādo kho
+panāyasmanto antarāyiko dhammo vutto bhagavatā,
+tasmā saramānena bhikkhunā āpannena visuddhāpekkhena
+santī āpatti āvikātabbā,
+āvikatā hissa phāsu hoti.
+(Nidāna)
+
+appendıx
+
+Kiṁ nāmo si:
+
+Simple Present
+Actions that are happening at the present moment, occurring regularly, or general truths.
+Verbal bases can end in -a, -ā, -e, -o.
+Verbal terminations:
+sg.
+
+pl.
+
+1st
+
+-mi
+
+-ma
+
+2nd
+
+-si
+
+3rd
+
+-ti
+
+Root: √dhāv (to run), base: dhāva
+sg.
+
+pl.
+
+1st
+
+dhāvāmi
+
+dhāvāma
+
+-tha
+
+2nd
+
+dhāvasi
+
+dhāvatha
+
+-(a)nti
+
+3rd
+
+dhāvati
+
+dhāvanti
+
+The base is obtained by removing the 3rd.sg.
+termination -ti from the conjugated form.
+√kī (to purchase), kiṇā
+
+The final -a of the base is lengthened before m:
+dhāvāmi, dhāvāma.
+
+√dis (to expound), dese
+
+√kar (to do, make, work), karo
+
+sg.
+
+pl.
+
+sg.
+
+pl.
+
+sg.
+
+pl.
+
+1st
+
+kiṇāmi
+
+kiṇāma
+
+desemi
+
+desema
+
+karomi
+
+karoma
+
+2nd
+
+kiṇāsi
+
+kiṇātha
+
+desesi
+
+desetha
+
+karosi
+
+karotha
+
+3rd
+
+kiṇāti
+
+kiṇanti
+
+deseti
+
+desenti
+
+karoti
+
+karonti
+
+Future Tense
+Future verbs can be formed by inserting -issa between the base and the present tense verbal ending.
+For verbs ending in -e, insert -ssa: dese + ssa + āma → desessāma (we will teach)
+The verb atthi (he is) is not used in the future tense, bhavissati is used instead.
+sg.
+
+pl.
+
+bhavissāmi
+
+I will be
+
+bhavissāma
+
+we will be
+
+bhavissasi
+
+you will be
+
+bhavissatha
+
+you all will be
+
+bhavissati
+
+he will be
+
+bhavissanti
+
+they will be
+
+66
+
+Aorist Past Tense
+Verbal terminations:
+
+Root: √dhāv (to run), base: dhāva
+sg.
+
+pl.
+
+1st
+
+adhāviṁ
+
+adhāvimhā
+
+-(i)ttha
+
+2nd
+
+adhāvo, adhāvi
+
+adhāvittha
+
+-(i)ṁsu, -uṁ
+
+3rd
+
+adhāvi
+
+adhāviṁsu, adhāvuṁ
+
+sg.
+
+pl.
+
+1st
+
+-iṁ
+
+-(i)mhā, -(i)mha
+
+2nd
+
+-o, -i
+
+3rd
+
+-i
+
+8th conjugation group and other bases ending in e, such as causative verbs, are conjugated with an inserted “s”
+singular
+
+plural
+
+3rd
+
+desesi
+
+he taught
+
+desesuṁ
+
+they taught
+
+2nd
+
+desesi
+
+you taught
+
+desittha
+
+you all taught
+
+1st
+
+desesiṁ
+
+I taught
+
+desimha
+
+we taught
+
+desimhā
+similarly samacintesi, āmantesi, santappesi, samuttejesi etc.
+Some roots ending in long vowels also get the s aorist ending. In the plural case, the long vowel is shortened.
+sg.
+
+pl.
+
+1st
+
+aṭṭhāsiṁ
+
+I stood
+
+aṭṭhamha, aṭṭhamhā
+
+we stood
+
+2nd
+
+aṭṭhāsi
+
+you stood
+
+aṭṭhattha
+
+you all stood
+
+3rd
+
+aṭṭhāsi
+
+he stood
+
+aṭṭhaṁsu
+
+they stood
+
+Declension of Nouns
+
+67
+Masculine Nouns Ending in -a (nara)
+Case
+
+Singular
+
+Plural
+
+Meaning (sg.)
+
+1. Nominative
+
+naro
+
+narā
+
+the man does sth (object)
+
+2. Accusative
+
+naraṁ
+
+nare
+
+sth happens to the man (subject)
+
+3. Instrumental
+
+narena
+
+narehi
+
+by, with, through the man
+
+4. Dative
+
+narāya, narassa
+
+narānaṁ
+
+to the man, for the man
+
+5. Ablative
+
+narā, naramhā, narasmā
+
+narehi
+
+from the man
+
+6. Genitive
+
+narassa
+
+narānaṁ
+
+of the man, the man’s
+
+7. Locative
+
+nare, naramhi, narasmiṁ
+
+naresu
+
+in, on, at the man
+
+8. Vocative
+
+nara, narā
+
+narā
+
+Hey, man!
+
+Masculine Nouns Ending in -i (aggi)
+1. nom
+
+aggi
+
+aggī, aggayo
+
+2. acc
+
+aggiṁ
+
+aggī, aggayo
+
+3. inst
+
+agginā
+
+aggīhi
+
+4. dat
+
+aggino, aggissa
+
+aggīnaṁ
+
+5. abl
+
+agginā, aggimhā, aggismā
+
+aggīhi
+
+6. gen
+
+aggino, aggissa
+
+aggīnaṁ
+
+7. loc
+
+aggimhi, aggismiṁ
+
+aggīsu
+
+8. voc
+
+aggi
+
+aggī, aggayo
+
+Masculine Nouns Ending in -ī (pakkhī)
+1. nom
+
+pakkhī
+
+pakkhī, pakkhino
+
+2. acc
+
+pakkhinaṁ, pakkhiṁ
+
+pakkhī, pakkhino
+
+3. inst
+
+pakkhinā
+
+pakkhīhi
+
+4. dat
+
+pakkhino, pakkhissa
+
+pakkhīnaṁ
+
+5. abl
+
+pakkhinā, pakkhimhā, pakkhismā
+
+pakkhīhi
+
+6. gen
+
+pakkhino, pakkhissa
+
+pakkhīnaṁ
+
+7. loc
+
+pakkhini, pakkhimhi, pakkhismiṁ
+
+pakkhīsu
+
+8. voc
+
+pakkhī
+
+pakkhī, pakkhino
+
+Masculine Nouns Ending in -u (bhikkhu)
+1. nom
+
+bhikkhu
+
+bhikkhū, bhikkhavo
+
+2. acc
+
+bhikkhuṁ
+
+bhikkhū, bhikkhavo
+
+3. inst
+
+bhikkhunā
+
+bhikkhūhi
+
+4. dat
+
+bhikkhuno, bhikkhussa
+
+bhikkhūnaṁ
+
+5. abl
+
+bhikkhunā, bhikkhumhā, bhikkhusmā
+
+bhikkhūhi
+
+6. gen
+
+bhikkhuno, bhikkhussa
+
+bhikkhūnaṁ
+
+7. loc
+
+bhikkhumhi, bhikkhusmiṁ
+
+bhikkhūsu
+
+8. voc
+
+bhikkhu
+
+bhikkhū, bhikkhavo, bhikkhave
+
+68
+Neuter Nouns Ending in -a (citta)
+1. nom
+
+cittaṁ
+
+cittā, cittāni
+
+2. acc
+
+cittaṁ
+
+citte, cittāni
+
+3. inst
+
+cittena
+
+cittehi
+
+4. dat
+
+cittāya, cittassa
+
+cittānaṁ
+
+5. abl
+
+cittā, cittamhā, cittasmā
+
+cittehi
+
+6. gen
+
+cittassa
+
+cittānaṁ
+
+7. loc
+
+citte, cittamhi, cittasmiṁ
+
+cittesu
+
+8. voc
+
+citta, cittā
+
+cittāni
+
+Neuter Nouns Ending in -i
+1. nom
+
+aṭṭhi
+
+aṭṭhī, aṭṭhīni
+
+2. acc
+
+aṭṭhiṁ
+
+aṭṭhī, aṭṭhīni
+
+3. inst
+
+aṭṭhinā
+
+aṭṭhīhi
+
+4. dat
+
+aṭṭhino, aṭṭhissa
+
+aṭṭhīnaṁ
+
+5. abl
+
+aṭṭhinā, aṭṭhimhā, aṭṭhismā
+
+aṭṭhīhi
+
+6. gen
+
+aṭṭhino, aṭṭhissa
+
+aṭṭhīnaṁ
+
+7. loc
+
+aṭṭhini, aṭṭhimhi, aṭṭhismiṁ
+
+aṭṭhisu, aṭṭhīsu
+
+8. voc
+
+aṭṭhi
+
+aṭṭhī, aṭṭhīni
+
+Neuter Nouns ending in -u
+1. nom
+
+āyuṁ
+
+āyū, āyūni
+
+2. acc
+
+āyuṁ
+
+āyū, āyūni
+
+3. inst
+
+āyunā
+
+āyūhi
+
+4. dat
+
+āyuno, āyussa
+
+āyūnaṁ
+
+5. abl
+
+āyunā, āyumhā, āyusmā
+
+āyūhi
+
+6. gen
+
+āyuno, āyussa
+
+āyūnaṁ
+
+7. loc
+
+āyumhi, āyusmiṁ
+
+āyūsu
+
+8. voc
+
+āyu
+
+āyū, āyūni
+
+69
+Feminine Nouns Ending in -ā
+1. nom
+
+vedanā
+
+vedanā, vedanāyo
+
+2. acc
+
+vedanaṁ
+
+vedanā, vedanāyo
+
+3. inst
+
+vedanāya
+
+vedanāhi
+
+4. dat
+
+vedanāya
+
+vedanānaṁ
+
+5. abl
+
+vedanāya
+
+vedanāhi
+
+6. gen
+
+vedanāya
+
+vedanānaṁ
+
+7. loc
+
+vedanāya, vedanāyaṁ
+
+vedanāsu
+
+8. voc
+
+vedane
+
+vedanā, vedanāyo
+
+1. nom
+
+bhūmi
+
+bhūmī, bhūmiyo
+
+2. acc
+
+bhūmiṁ
+
+bhūmī, bhūmiyo
+
+3. inst
+
+bhūmiyā
+
+bhūmīhi
+
+4. dat
+
+bhūmiyā
+
+bhūmīnaṁ
+
+5. abl
+
+bhūmiyā
+
+bhūmīhi
+
+6. gen
+
+bhūmiyā
+
+bhūmīnaṁ
+
+7. loc
+
+bhūmiyā, bhūmiyaṁ
+
+bhūmisu, bhūmīsu
+
+8. voc
+
+bhūmi
+
+bhūmī, bhūmiyo
+
+1. nom
+
+kumārī
+
+kumārī, kumāriyo
+
+2. acc
+
+kumāriṁ
+
+kumārī, kumāriyo
+
+3. inst
+
+kumāriyā
+
+kumārīhi
+
+4. dat
+
+kumāriyā
+
+kumārīnaṁ
+
+5. abl
+
+kumāriyā
+
+kumārīhi
+
+6. gen
+
+kumāriyā
+
+kumārīnaṁ
+
+7. loc
+
+kumāriyā, kumāriyaṁ
+
+kumārisu, kumārīsu
+
+8. voc
+
+kumārī
+
+kumārī, kumāriyo
+
+Feminine Nouns ending in -i
+
+Feminine Nouns ending in -ī
+
+Feminine Nouns ending in -u
+1. nom
+
+yāgu
+
+yāgū, yāguyo
+
+2. acc
+
+yāguṁ
+
+yāgū, yāguyo
+
+3. inst
+
+yāguyā
+
+yāgūhi
+
+4. dat
+
+yāguyā
+
+yāgūnaṁ
+
+5. abl
+
+yāguyā
+
+yāgūhi
+
+6. gen
+
+yāguyā
+
+yāgūnaṁ
+
+7. loc
+
+yāguyā, yāguyaṁ
+
+yāgusu, yāgūsu
+
+8. voc
+
+yāgu
+
+yāgū, yāguyo
+
+70
+Comparison Between Masculine and Neuter Nouns Ending in -a
+masc.sg.
+
+nt.sg.
+
+masc.pl.
+
+nt.pl.
+
+1. nom
+
+naro
+
+cittaṁ
+
+narā
+
+cittā, cittāni
+
+2. acc
+
+naraṁ
+
+cittaṁ
+
+nare
+
+citte, cittāni
+
+3. inst
+
+narena
+
+cittena
+
+narehi
+
+cittehi
+
+4. dat
+
+narāya, narassa
+
+cittāya, cittassa
+
+narānaṁ
+
+cittānaṁ
+
+5. abl
+
+narā, naramhā, narasmā
+
+cittā, cittamhā, cittasmā
+
+narehi
+
+cittehi
+
+6. gen
+
+narassa
+
+cittassa
+
+narānaṁ
+
+cittānaṁ
+
+7. loc
+
+nare naramhi narasmiṁ
+
+citte cittamhi cittasmiṁ
+
+naresu
+
+cittesu
+
+8. voc
+
+nara, narā
+
+citta cittā
+
+narā
+
+cittāni
+
+Comparison Between Masculine and Neuter Nouns Ending in -i
+masc.sg.
+
+nt.sg.
+
+masc.pl.
+
+nt.pl.
+
+1. nom
+
+aggi
+
+aṭṭhi
+
+aggī, aggayo
+
+aṭṭhī, aṭṭhīni
+
+2. acc
+
+aggiṁ
+
+aṭṭhiṁ
+
+aggī, aggayo
+
+aṭṭhī, aṭṭhīni
+
+3. inst
+
+agginā
+
+aṭṭhinā
+
+aggīhi
+
+aṭṭhīhi
+
+4. dat
+
+aggino, aggissa
+
+aṭṭhino, aṭṭhissa
+
+aggīnaṁ
+
+aṭṭhīnaṁ
+
+5. abl
+
+agginā, aggimhā, aggismā
+
+aṭṭhinā, aṭṭhimhā, aṭṭhismā
+
+aggīhi
+
+aṭṭhīhi
+
+6. gen
+
+aggino, aggissa
+
+aṭṭhino, aṭṭhissa
+
+aggīnaṁ
+
+aṭṭhīnaṁ
+
+7. loc
+
+aggimhi, aggismiṁ
+
+aṭṭhini, aṭṭhimhi, aṭṭhismiṁ
+
+aggīsu
+
+aṭṭhisu, aṭṭhīsu
+
+8. voc
+
+aggi
+
+aṭṭhi
+
+aggī, aggayo
+
+aṭṭhī, aṭṭhīni
+
+Comparison Between Masculine and Neuter Nouns -u
+masc.sg.
+
+nt.sg.
+
+masc.pl.
+
+nt.pl.
+
+1. nom
+
+bhikkhu
+
+āyuṁ
+
+bhikkhū, bhikkhavo
+
+āyū, āyūni
+
+2. acc
+
+bhikkhuṁ
+
+āyuṁ
+
+bhikkhū, bhikkhavo
+
+āyū, āyūni
+
+3. inst
+
+bhikkhunā
+
+āyunā
+
+bhikkhūhi
+
+āyūhi
+
+4. dat
+
+bhikkhuno, bhikkhussa
+
+āyuno, āyussa
+
+bhikkhūnaṁ
+
+āyūnaṁ
+
+5. abl
+
+bhikkhunā, bhikkhumhā,
+
+āyunā, āyumhā,
+
+bhikkhūhi
+
+āyūhi
+
+bhikkhusmā
+
+āyusmā
+
+6. gen
+
+bhikkhuno, bhikkhussa
+
+āyuno, āyussa
+
+bhikkhūnaṁ
+
+āyūnaṁ
+
+7. loc
+
+bhikkhumhi bhikkhusmiṁ
+
+āyumhi āyusmiṁ
+
+bhikkhūsu
+
+āyūsu
+
+8. voc
+
+bhikkhu
+
+āyu
+
+bhikkhū, bhikkhavo,
+
+āyū, āyūni
+
+bhikkhave
+
+71
+
+Declension Examples
+masculine -a
+nara
+
+man
+
+masculine -i
+
+masculine -u
+
+samādhi
+
+concentration
+
+bhikkhu
+
+monk
+
+gahapati
+
+householder
+
+garu
+
+teacher
+
+muni
+
+hermit
+
+hetu
+
+reason (for)
+
+gāmaṇi
+
+chief; headman
+
+phāsu
+
+ease; comfort
+
+isi
+
+seer; sage
+
+maccu
+
+death
+
+ñāti
+
+family; relative
+
+nhāru
+
+tendon; sinew
+
+pāṇi
+
+hand; palm
+
+paṁsu
+
+dirt; soil
+
+sārathi
+
+charioteer
+
+añjali
+
+palms together
+
+upadhi
+
+appropriation
+
+neuter -a
+
+neuter -i
+
+neuter -u
+
+citta
+
+mind
+
+aggi
+
+fire
+
+vatthu
+
+ground, land, case
+
+rūpa
+
+matter; form
+
+ādi
+
+beginning, and so on
+
+cakkhu
+
+eye
+
+maraṇa
+
+death
+
+akkhi
+
+eye
+
+āyu
+
+long life, age
+
+saṁyojana
+
+fetter; chain
+
+aṭṭhi
+
+bone
+
+massu
+
+beard
+
+viññāṇa
+
+consciousness
+
+dadhi
+
+curds
+
+ahu
+
+day
+
+sacca
+
+truth
+
+sappi
+
+ghee, clarified butter
+
+pheggu
+
+fibre; sapwood
+
+āsana
+
+seat
+
+suci
+
+purity
+
+madhu
+
+honey
+
+pahāna
+
+giving up
+
+asuci
+
+impurity
+
+āgu
+
+crime; offence
+
+sīla
+
+virtue; behaviour
+
+vāri
+
+water
+
+dāru
+
+wood
+
+agāra
+
+dwelling; house
+
+byanti
+
+end
+
+dhanu
+
+bow
+
+cīvara
+
+robe; cloth
+
+sādu
+
+delicious food
+
+dāna
+
+giving; offering
+feminine -ā
+vedanā
+
+sensation
+
+feminine -i
+bhūmi
+
+earth; ground
+
+feminine -u
+dhātu
+
+element
+
+yāgu
+
+rice gruel; conjey
+
+72
+masculine -ī
+Many of these nouns can also be used as adjectives.
+hattha
+
+hand
+
+hatthī
+
+has a hand
+
+elephant
+
+bhoga
+
+wealth
+
+bhogī
+
+has wealth
+
+wealthy person
+
+bhoga
+
+pleasure
+
+bhogī
+
+has pleasure
+
+one who enjoys
+
+sukha
+
+ease
+
+sukhī
+
+has ease
+
+happy person
+
+gaṇa
+
+following
+
+gaṇī
+
+has following
+
+leader
+
+nanda
+
+pleasure
+
+nandī
+
+has pleasure
+
+one who enjoys
+
+pakkha
+
+wings
+
+pakkhī
+
+has wings
+
+bird
+
+pāṇa
+
+breath
+
+pāṇī
+
+has breath
+
+living being
+
+saññā
+
+perception
+
+saññī
+
+has perception
+
+sentient being
+
+tapas
+
+ascetic practice
+
+tapassī
+
+has ascetic practice
+
+ascetic
+
+gaha
+
+house
+
+gihī
+
+has house
+
+householder
+
+medhā
+
+wisdom
+
+medhāvī
+
+has wisdom
+
+intelligent person
+
+vasa
+
+control
+
+vasī
+
+has control
+
+master
+
+rūpa
+
+form
+
+rūpī
+
+has form
+
+physical being
+
+māyā
+
+illusion
+
+māyāvī
+
+has illusion
+
+illusionist
+
+bhāga
+
+portion
+
+bhāgī
+
+has portion
+
+shareholder
+
+vāda
+
+doctrine
+
+vādī
+
+has doctrine
+
+adherent
+
+dhamma
+
+truth
+
+dhammī
+
+has truth
+
+who righteous
+
+macchara
+
+stinginess
+
+maccharī
+
+has stinginess
+
+who is a stingy
+
+ottappa
+
+regret
+
+ottappī
+
+has regret
+
+who conscientious
+
+feminine -ī
+Includes common feminine nouns such as:
+itthī
+
+woman
+
+pathavī
+
+earth
+
+bhaginī
+
+sister
+
+Also a common way of forming feminine versions of masculine nouns.
+brahmaṇa
+
+Brahman
+
+brahmaṇī
+
+Brahman woman
+
+sakha
+
+friend
+
+sakhī
+
+female friend
+
+dāsa
+
+servant
+
+dāsī
+
+female servant
+
+sakuṇa
+
+bird
+
+sakuṇī
+
+female bird
+
+sīha
+
+lion
+
+sīhī
+
+lioness
+
+kukkuṭa
+
+cockeral
+
+kukkuṭī
+
+hen
+
+deva
+
+king, god
+
+devī
+
+queen, goddess
+
+73
+
+Irregular verb as (to be)
+Present Tense
+singular
+
+plural
+
+3rd
+
+atthi
+
+he is
+
+santi
+
+they are
+
+2nd
+
+asi
+
+you are
+
+attha
+
+you all are
+
+1st
+
+amhi
+
+I am
+
+amha
+
+we are
+
+asmi
+
+amhā
+asma
+
+Imperative Mood
+singular
+
+plural
+
+3rd
+
+atthu
+
+he must be
+
+santu
+
+they must be
+
+2nd
+
+āhi
+
+you must be
+
+attha
+
+you all must be
+
+1st
+
+amhi
+
+I must be
+
+amha
+
+we must be
+
+asmi
+
+amhā
+asma
+
+Aorist Past Tense
+singular
+3rd
+
+āsi
+
+plural
+he was
+
+āsiṁsu
+
+they were
+
+āsuṁ
+2nd
+
+āsi
+
+you were
+
+āsittha
+
+you all were
+
+1st
+
+āsiṁ
+
+I was
+
+āsimha
+
+we were
+
+āsimhā
+root: √as (to be)
+constr: a + √as + i → āsi
+
+74
+
+Irregular verb hū (to be)
+Present Tense
+singular
+
+plural
+
+3rd
+
+hoti
+
+he is
+
+honti
+
+they are
+
+2nd
+
+hosi
+
+you are
+
+hotha
+
+you all are
+
+1st
+
+homi
+
+I am
+
+homa
+
+we are
+
+Imperative Mood
+singular
+
+plural
+
+3rd
+
+hotu
+
+he must be
+
+hontu
+
+they are
+
+2nd
+
+hohi
+
+you must be
+
+hotha
+
+you all are
+
+1st
+
+homi
+
+I must be
+
+homa
+
+we are
+
+Aorist Past Tense
+singular
+
+plural
+
+3rd
+
+ahosi
+
+he was
+
+ahesuṁ
+
+they were
+
+2nd
+
+ahosi
+
+you were
+
+ahuvattha
+
+you all were
+
+1st
+
+ahosiṁ
+
+I was
+
+ahumhā
+
+we were
+
+ahumha
+
+75
+
+Past Participle
+root + ta
+bhavati
+
+√bhū
+
+to be
+
+bhūta
+
+became
+
+passati
+
+√dis
+
+to see
+
+diṭṭha
+
+seen
+
+gacchati
+
+√gam
+
+to go
+
+gata
+
+gone
+
+hanati
+
+√han
+
+to kill
+
+hata
+
+killed
+
+karoti
+
+√kar
+
+to do
+
+kata
+
+done
+
+labhati
+
+√labh
+
+to get
+
+laddha
+
+received
+
+marati
+
+√mar
+
+to die
+
+mata
+
+dead
+
+mussati
+
+√mus
+
+to forget
+
+muṭṭha
+
+forgotten
+
+jānāti
+
+√ñā
+
+to know
+
+ñāta
+
+known
+
+bhāsati
+
+√bhās
+
+to speak
+
+bhāsita
+
+spoken
+
+carati
+
+√car
+
+to walk
+
+carita
+
+walked
+
+iñjati
+
+√iñj
+
+to move
+
+iñjita
+
+moved
+
+makkheti
+
+√makkh
+
+to smear
+
+makkhita
+
+smeared
+
+nandati
+
+√nand
+
+to delight
+
+nandita
+
+delighted
+
+pabbajati
+
+√vaj
+
+to go on
+
+pabbajita
+
+ordained
+
+ṭhahati
+
+√ṭhā
+
+to stand
+
+ṭhita
+
+stood
+
+vindati
+
+√vid
+
+to know
+
+vidita
+
+known
+
+yācati
+
+√yāc
+
+to beg
+
+yācita
+
+begged
+
+bhāveti
+
+√bhū
+
+bhāve
+
+bhāvita
+
+developed
+
+deseti
+
+√dis
+
+dese
+
+desita
+
+preached
+
+kāreti
+
+√kar
+
+kāre
+
+kārita
+
+had built
+
+passati
+
+√dis
+
+passa
+
+passita
+
+seen
+
+sevati
+
+√si
+
+seva
+
+sevita
+
+associated
+
+pakāseti
+
+√kās
+
+kāse
+
+pakāsita
+
+explained
+
+parisedati
+
+√sid
+
+sede
+
+parisedita
+
+incubated
+
+phasseti
+
+√phus
+
+phasse
+
+phassita
+
+touched
+
+ṭhapeti
+
+√ṭhā
+
+ṭhape
+
+ṭhapita
+
+placed
+
+vedayati
+
+√vid
+
+vedaya
+
+vedayita
+
+experienced
+
+root + ita
+
+base + ita
+
+76
+root + na
+chindati
+
+√chid
+
+to cut
+
+chinna
+
+cut
+
+jirati
+
+√jīr
+
+to age
+
+jiṇṇa
+
+aged
+
+khīyati
+
+√khī
+
+to destroy
+
+khīna
+
+destroyed
+
+muyhati
+
+√muh
+
+to be confused
+
+mūḷha
+
+confused
+
+nisīdati
+
+√sad
+
+to sink
+
+nisinna
+
+seated
+
+pajahati
+
+√hā
+
+to abandon
+
+pahīna
+
+abandoned
+
+pūrati
+
+√pūr
+
+to fill
+
+puṇṇa
+
+completed
+
+upapajjati
+
+√pad
+
+to go
+
+upapanna
+
+appeared
+
+vikirati
+
+√kir
+
+to scatter
+
+vikiṇṇa
+
+scattered
+
+Interrogatives, Asking Questions
+api
+
+have? did?
+
+api nu
+
+who? what? how? would?
+
+kahaṁ
+
+where?
+
+katama
+
+what?; which?
+
+kasmā
+
+why?
+
+kathaṁ
+
+how?
+
+kiṁ
+
+who? what? which? why?
+
+kiñca (kiṁ + ca)
+
+and what? but why? etc
+
+kinti
+
+how? in what way?
+
+kīva
+
+how far? how much?
+
+kuhiṁ
+
+where?
+
+kuvaṁ
+
+where?
+
+Negation
+The particle na can be placed before a verb:
+na gacchati
+
+he does not go
+
+ahaṁ na jānāmi
+
+I don’t know
+
+so naro n’atthi
+
+he is not a man
+
+The particle mā standing before an imperative verb expresses a prohibition: mā gaccha (don’t go!)
+jhāyatha, bhikkhave, mā pamādaṁ attha (MN 19 simpl) Meditate, monks! Don’t be negligent!
+The verb is often in the aorist past tense, but the meaning is in the present or even the future.
+mā āgacchi
+
+Don’t come!
+
+mā kari
+
+Don’t do! Don’t make!
+
+mā akāsi pāpakaṁ kammaṁ (SN 10.5) Don’t do evil deeds.
+
+77
+kiṁ nu kujjhasi? mā kujjhi! (SN 21.9) Why are you angry? Don’t be angry!
+The particle no can express the meaning ‘not’ (among other meanings).
+Ime dhammā saṁyogāya saṁvattanti, no visaṁyogāya. (AN 8.53)
+These qualities lead to attachment, not to detachment.
+
+78
+
+Compound Types
+The names of compound types are autological, they are examples of the type of compound itself.
+Tappurisa (expr: case-relation)
+The first member qualifies the second with a case-relation, for any oblique case, i.e. except nominative and vocative.
+The inflection of the final member determines its role in the sentence.
+The name tappurisa (Sk tatpuruṣa) means ‘his man’, i.e. the worker / employee / servant of him. It is analysed as
+tassa purisa / tvasya puruṣa, hence a compound with a hidden genitive case relationship between the two words.
+Guṇakathaṁ deseti. He teaches a tale (of) virtue.
+Buddha-bhāsito dhammo kalyāṇo hoti. The doctrine spoken (by) the Buddha is auspicious.
+brahma-loko
+
+gen
+
+world of Brahma
+
+rāja-putto
+
+gen
+
+son of king
+
+buddha-dhammo
+
+gen
+
+doctrine of Buddha
+
+The final member as a participle:
+arañña-gato
+
+acc
+
+gone to forest
+
+buddha-bhāsito
+
+gen
+
+spoken by Buddha
+
+rukkha-patito
+
+abl
+
+fallen from tree
+
+saraṇa-gamanaṁ
+
+acc
+
+going for refuge
+
+arañña-vāso
+
+loc
+
+living in forest
+
+yakkha-senā-pati
+
+gen
+
+lord of the army of demons
+
+Stems are joined by the rules of sandhi:
+kūṭāgārasālā (kūṭa + agāra + sālā): ridged-house-hall: hall of house with a ridge
+Final member can be a specialized abbreviated form:
+-kara
+
+kamma-karo
+
+action-doing (worker)
+
+-kāra
+
+kumbha-kāro
+
+pot-making (potter)
+
+-dhara
+
+dhamma-dharo
+
+doctrine-holding (expert)
+
+-ṭṭha
+
+thala-ṭṭho
+
+dry-ground-standing
+
+-hara
+
+pāṇa-haro
+
+life-taking
+
+Kammadhāraya (expr: attribution, equivalence)
+One member of the compound is an attibute to the other: ’an A-like B’, or ’a B that is A’. (A.k.a. adjectival compounds.)
+micchā-vācā: Aadj Bsub wrong-speech, speech (that is) wrong
+house-boat: a boat (that is) a house
+Difference to tappurisa: if the members were not compounded, the two words would be in the same case, because
+one qualifies the other, rather than having a case-relationship between them.
+
+79
+It is as if the members had a nominative case relationship Anom. Bnom. , which doesn exist for tappurisa.
+Always has two members and takes one of four forms:
+Adjective and substantive nouns:
+A[adj] - B[sub]
+
+green-house
+
+A[adj/v] - B[adj]
+
+soft-spoken
+
+A[sub] - B[adj]
+
+ice-cold
+
+A[sub] - B[sub]
+
+house-boat
+
+mahā-nadī
+
+great-river
+
+kalyāṇa-mitta
+
+good-friend
+
+baddha-miga
+
+trapped-deer
+
+paññatta-āsana
+
+arranged-seat
+
+kaṇha-sappa
+
+black-snake
+
+sabba-seta
+
+all-white
+
+sammā-vimutti
+
+rightly-freed
+
+micchā-vācā
+
+wrong-speech
+
+manoseṭṭha
+
+mind as foremost
+
+pāṇa-piya
+
+dear as life
+
+saṇkha-likhita
+
+smooth as shell
+
+rāja-isi
+
+king-sage
+
+sāriputta-thera
+
+Sāriputta, the elder
+
+A[adj] - B[sub]
+
+A[adj] - B[adj]
+A[adv] - B[vadj]
+
+A[sub] - B[adj]
+
+A[sub] - B[sub]
+A is B
+
+a B like A
+muni-puṅgava
+
+bull like sage
+
+mukha-canda
+
+moon like face
+
+akkhi-tārakā
+
+star like eyes
+
+sīla-dhana
+
+wealth like/of morality
+
+paññā-sattha
+
+sword like/of wisdom
+
+80
+Dvanda (expr: a list)
+Two or more nouns come together in a conjunction (and, or), with no added meaning.
+The name dvanda (Sk dvaṃdva) means dva (two) + dva two = a pair, a couple, with a hidden conjunction (and / or).
+A + B
+bittersweet: bitter & sweet
+samaṇa-brāhmaṇa
+
+recluses & priests
+
+buddha-dhamma-saṇgha
+
+Buddha & dhamma & saṇgha
+
+The dvanda can be part of a tappurisa:
+[buddha-dhamma-saṇgha]-guṇe (acc.pl.) na jānāti.
+He knows not the virtues (of) the Buddha & Dhamma & Saṇgha.
+The members are in stem form, the final member is declined to indicate its role in the sentence.
+Plurality:
+Dvanda are normally plural, and take the gender of the last member.
+upāsaka-upāsikāyo
+
+male & female devotees
+
+But they can be taken as a unit, or collective, when the members are a natural pair, and the compound will be
+singular, and often in the neuter gender.
+hattha-pādaṁ
+
+hands & feet
+
+Grammatically it is treated as a single unit, the members can have either singular or plural meaning, which is
+understood only from context.
+jarā-maraṇaṁ
+
+decay & death
+
+candima-suriyā
+
+moon & sun
+
+In Pāli, the more pivotal member is at the end (unlike in English).
+Bahubbīhi (expr: compound as a quality)
+A compound is used as an adjective to qualify another separate word.
+(A.k.a. exocentric compounts, because they qualify something outside of themselves.)
+The name bahubbīhi (Sk bahuvrīhi) means bahu (lots) + vīhi (rice paddy). It is referring to a word which is not
+present in the compound itself, in that case a man or a country who has lots of rice paddy, i.e. a rich farmer, a
+rich agricultrual land, depending on the context.
+[A-B] -> C
+grey-haired lady
+
+81
+Equivalent to a relative clause:
+[A-B] -> C
+a C 'whose B is A'
+bare-foot girl: a girl ’whose feet are bare’
+Hence, bahubbīhi are other compounds used as an adjective.
+Kammadhāraya (adj. + noun):
+su-desito dhammo
+
+the well-taught doctrine
+
+su-sajjitaṁ puraṁ
+
+a well-prepared city
+
+Since it is an adjective, the final member of the compound changes gender:
+suvaṇṇa-vaṇṇā devatā
+
+a gold-coloured deity
+
+pahūta-jivho rājā
+
+a broad-tongued king
+
+(vaṇṇa is masc., but here it is fem. to agree with devatā)
+(jivha is fem., but here it is masc. to agree with rāja)
+As relative pronouns, when the first member is a past participle:
+jit’-indriyo samaṇo
+
+a subdued-senses recluse
+
+A recluse (whose) senses (have been) subdued.
+(The past participle gives it a more present-perfective sense.)
+brāhmaṇo chinna-kukkucco
+
+a cut-worries brahmin
+
+A brahmin (whose) worries (have been) cut.
+ārūḷha-naro rukkho
+
+an ascended-man tree
+
+The tree (which has been) ascended (by) a man.
+āgata-samaṇo saṁghārāmo
+
+an arrive-recluse monastery
+
+The monastery (to which) a recluse (has) come.
+yaṁ kiñci samudaya-dhammaṁ
+
+arising-natured whatever
+
+sabbaṁ taṁ nirodha-dhammaṁ
+
+ceasing-natured all that
+
+Whatever (has) a nature (of) arising,
+all that (has) a nature (of) ceasing.
+Similar to a case-relation between the compound and the qualified word.
+Tappurisa:
+(Compound members have a case-relation)
+
+82
+buddha-bhāsito dhammo
+
+the Buddha-spoken doctrine
+
+the doctrine (that is) spoken (by) the Buddha
+kām’-andho puriso
+
+a desire-blinded man
+
+a man (who is) blinded (by) desire
+Dvanda:
+pīti-sukhaṁ paṭhamaṁ jhānaṁ
+the 1st jhāna (that is) joy & ease
+Avyayībhāva (expr: adverbial)
+Compounds that function as adverbs or indeclinables. The first member predominates the second.
+Digu (expr: numerical kammadhāraya)
+Digu means ’two cows’. The first member is a number. A subtype of kammadhāraya.
+The name digu (Sk dvigu), means di (two) + gu (cow) = two cows. It is two words in the same case, but one is a
+numeral.
+
+vocabulary: words
+
+Kiṁ nāmo si:
+
+The following pages are a complete vocabulary of the lessons, sorted by English. This can be useful to print and
+use as a small dictionary while solving exercises.
+A memory card deck for the Anki application is included below to help memorizing the vocabulary and sentences
+using the Spaced Repetition method.
+https://pali-sutta-readings.github.io/pali-lessons/
+
+arranges, organises, plans
+
+arising; appearing
+
+approaches; goes to; visits
+
+applies (attention); pays; lit. puts down
+
+appears; arises; takes place
+
+ant
+
+another; other; different
+
+and yet; however; still
+
+and what is more; and so too
+
+(1) analyses; dissects (2) divides;
+distributes; shares
+
+a monk who; but whichever monk
+
+always
+
+alteration (to); improvement (to)
+
+alms food; lit. lump-like thing
+
+alms food; lit. lump dropping
+
+allows (to); permits (to)
+
+agreeable; nice
+
+again; once more
+
+afterwards; later; in the future
+
+after
+
+after death; lit. going on
+
+after; beyond
+
+afflicted (with); victim (of); immersed
+(in)
+
+able to keep going; sustainable
+
+saṁvidhāya (ger. of saṁvidahati)
+
+saṁvidahati [saṁ + vi + √dhā + a + ti]
+
+uppāda (m., from uppajjati)
+
+upasaṅkamati
+
+odahati
+
+uppajjati
+
+kipillika (m.)
+
+añña (pron.)
+
+api ca kho (idiom)
+
+puna caparaṁ (idiom) [puna + ca +
+paraṁ]
+
+vibhajati
+
+yo pana bhikkhu (idiom)
+
+sabbadā (ind.)
+
+vikappa (m.)
+
+piṇḍaka (m.)
+
+piṇḍapāta (m.)
+
+anujānāti
+
+piyarūpa (adj.)
+
+puna (ind.)
+
+pacchā (ind.)
+
+pacchā (ind.)
+
+pecca (ind.)
+
+paraṁ (ind.)
+
+otiṇṇa (pp. of otarati)
+
+yāpanīya (adj.)
+
+beautiful; lit. good colour
+
+bearable; tolearable
+
+barren; fruitless; sterile; unproductive
+
+barks
+
+(1) banishes; drives away (2) makes
+ordain; ordains; lit. causes to leave
+
+(1) ball; lump (2) bit of food
+
+avoids
+
+at the very most; for a maximum of
+
+at the proper time
+
+attention; bringing-to-mind;
+observation; lit. making in mind
+
+attends
+
+attendant; assistant
+
+attains; enters on; becomes fully
+ordained
+
+(1) attains; dwells in (2) engages in;
+performs
+
+attachment; taking as mine; sense of
+ownership
+
+at some/any time
+
+assistance for the training
+
+assembly; meeting; group
+
+assembly hall; meeting hall
+
+asks; enquires; questions
+
+ascetic; renunciant; holy man; monk;
+recluse; lit. who makes an effort; calm
+one
+
+as another; as alien
+
+arrogantly; with an attitude; lit. having
+raised trunk high
+
+suvaṇṇa (adj.)
+
+khamanīya (adj.)
+
+vañjha (adj.)
+
+bhussati
+
+pabbājeti
+
+piṇḍa (m.)
+
+vivajjati
+
+paramaṁ (ind.)
+
+kālena (ind.)
+
+manasikāra (m.) [manasi + kāra]
+
+upaṭṭhāti
+
+upaṭṭhāka (m.)
+
+upasampajjati
+
+samāpajjati
+
+upadhi (m.)
+
+kudācanaṁ (ind.)
+
+vinayānuggaha (m.) [vinaya + anuggaha]
+
+parisā (f.)
+
+upaṭṭhānasālā (f.)
+
+pucchati
+
+samaṇa (m.) [√sam + aṇa]
+
+parato (ind.)
+
+uccāsoṇḍaṁ paggahetvā (idiom)
+
+Vocabulary: Words
+
+arranging, organising, planning
+
+body; physical body
+
+body; physical body
+
+bodily behaviour; physical conduct
+
+blotched; stained
+
+blind person; lit. dark
+
+bird
+
+beyond; across; over
+
+best part; cream
+
+benefit; reason; purpose
+
+benefit (in); good result (of)
+
+being; living being; lit. become
+
+being; becoming; existence
+
+begins; starts; undertakes
+
+beggar; mendicant
+
+before, previously
+
+before, previously
+
+before; earlier
+
+bed; sleeping place; couch; furniture
+
+ubho (ind.)
+
+kāya (m.)
+
+kāya (m.)
+
+kāyasamācāra (m.)
+
+sabala (adj.)
+
+andha (m.)
+
+sakuṇa (m.)
+
+pāraṁ (ind.)
+
+maṇḍa (m.)
+
+atthavasa (nt.)
+
+ānisaṁsa (m.)
+
+bhūta (nt.) [√bhū + ta]
+
+bhava (m.)
+
+ārabhati
+
+yācaka (m.)
+
+pubbe (ind.)
+
+pubbe (ind.)
+
+pure (ind.)
+
+sayana (nt.)
+
+changes; alters; lit. completely bends
+around
+
+changes; alters; lit. completely bends
+around
+
+changed, altered, distorted
+
+change; alteration
+
+change; alteration
+
+certainly; definitely; lit. one point-ness
+
+causes an alteration; suggests an
+improvement
+
+cattle; oxen
+
+cat
+
+carrying water (e.g. stream)
+
+carrying; leading
+
+carries; carries away; takes away
+
+carefully reconsiders; re-inspects
+
+calmed; tranquillised
+
+calamity; misfortune; lit. it comes
+
+by oneself for/to oneself
+
+buys; purchases
+
+but when; but because
+
+but; rather; even
+
+khādati
+
+vipariṇamati
+
+vipariṇamati
+
+vipariṇata (pp. of vipariṇamati)
+
+vipariṇāma (m.)
+
+vipariṇāma (m.)
+
+ekaṁsena (ind.) [eka + aṁsa + ena]
+
+vikappaṁ āpajjati (idiom)
+
+gāvo (m.) [go + āvo]
+
+biḷāra (m.)
+
+vārivaha (adj.)
+
+vāha (adj.)
+
+harati
+
+anupekkhati
+
+samita (pp. of sammati)
+
+īti (f.) [√i + ti]
+
+attanāva attano (idiom.)
+
+kiṇāti
+
+yato ca kho (idiom)
+
+atha (ind.)
+
+ḍahati
+
+both
+
+mallaka (m.)
+
+chews
+
+gāmaṇi (m.) [gāma + aṇi]
+
+burns; sets fire (to); burns down
+
+bowl; cup
+
+dāraka (m.)
+
+chief; headman; leader
+
+accha (adj.)
+
+upasamati
+
+boy
+
+bhindati
+
+clean; clear; transparent
+
+parisuddha (adj.)
+
+becomes calm; ceases; is allayed
+
+breaks; splits; shatters
+
+āharati
+
+clean; pure; bright; perfect
+
+sodheti
+
+na panāhaṁ (idiom.) [na + pana + ahaṁ]
+
+brings
+
+sammuñjanī (f.)
+
+cleans; clears; purifies; lit. makes pure
+
+koṭṭhaka (m.)
+
+but nor do I
+
+broom
+
+bhātar (m.) / bhātuka / bhāti
+
+closet; cupboard
+
+virajjati
+
+brother
+
+āvuso (ind.) [shortened from
+āyasmanto]
+
+becomes detached (from); loses interest
+(in)
+
+brother(s); friend(s)
+
+comes
+
+cold water
+
+cold
+
+coffee drink
+
+cloth; garments
+
+cloth; clothes; robe
+
+āgacchati
+
+sītodaka (nt.) [sīta + udaka]
+
+sīta (adj.)
+
+kāphīpāna (nt.)
+
+dussa (nt.)
+
+vattha (nt.)
+
+Cool down / blow away the great
+passion!
+
+cooks (verb)
+
+cook (noun)
+
+convinces; persuades; lit. causes to
+know
+
+controls; restrains
+
+control; restraint; holding back
+
+Nibbāpehi mahārāgaṁ!
+
+pacati
+
+sūda (m.)
+
+saññāpeti
+
+saṁvarati
+
+saṁvara (m.)
+
+janapada (m.)
+
+pacceti
+
+country; province; area
+
+onandhati
+
+siyā (opt.irreg. of atthi)
+covers up; wraps over
+
+go (m.)
+
+could be; may be
+
+āgata (nt.)
+
+cow; ox; cattle
+
+comes back (to); falls back (on); lit. goes
+back
+
+coming; arrival
+āgata (nt.)
+
+sukha (nt.)
+
+coming; arrival
+Saṅgha (m.)
+
+comfort; happiness; pleasure;
+contentment
+
+community; monastic order
+
+bhāveti
+
+saṅkhata (pp. of saṅkharoti) [saṁ + √kar
++ ta]
+
+cultivates; develops; lit. causes to
+become
+
+ādīnava (m.)
+
+created, conditioned, fabricated; lit. put
+together
+
+(1) danger; problem (2) disadvantage;
+drawback
+
+andhakāra (m.) [andha + kāra]
+
+rodati
+
+nibbāti
+
+darkness; blackness; blindness; lit. blind
+making
+
+dhītar (f.)
+
+cries; weeps; wails
+
+completely cooled; lit. blows away
+
+vijānāti
+
+daughter
+
+māradhītar (f.)
+
+anukampā (f.)
+
+comprehends; understands
+
+diṭṭhadhammika (adj.)
+
+daughter of Māra
+
+aṇha (m.)
+
+compassion; pity
+
+concerning this life; regarding this
+world; relevant to here and now
+
+samācāra (m.)
+
+day
+
+diva (m.) / divasa (nt.)
+
+sammā (ind.)
+
+conduct; behaviour; activity
+
+āvikaroti
+
+day
+
+majjhanhikasamaya (m.)
+
+(1) completely; fully (2) perfecly; rightly;
+correctly
+
+confesses
+
+kaṇājaka (nt.)
+
+day-time
+khīṇa (pp. of khīyati)
+
+death personified
+
+death; dying
+
+(1) death (2) schism; split; lit. breakup
+
+kilesa (m.)
+
+māra (m.)
+
+maraṇa (nt.)
+
+bheda (m.)
+
+parijānāti
+
+congee; sour gruel; rice husk porridge
+
+dahati
+
+consumed; destroyed
+
+phassa (m.)
+
+defilement; impurity
+
+pīti (f.)
+
+completely comprehends; knows full
+well
+
+considers as; takes as; regards as; lit.
+puts
+contact; sense impingement; touch
+
+saddhammaṭṭhiti (f.)
+
+delight; joy; rapture; feeling of love
+
+continuity of the good teaching;
+longevity of the true doctrine
+
+dies
+
+detached (from); without desire (for);
+lost interest (in)
+
+desires; wants
+
+desires; longs (for)
+
+descends (into); goes down (into)
+
+dependent; depending (on)
+
+jīyati
+
+mīyati
+
+viratta (pp. of virajjati)
+
+icchati
+
+nikāmeti
+
+otarati
+
+paṭicca (ger. of pacceti)
+
+dullness; sloth
+
+dullness; drowsiness; fuzziness;
+sluggishness
+
+dullness and drowsiness; sloth and
+torpor
+
+drowsiness; sluggishness
+
+dropped; discarded; set aside
+
+drinks; imbibes
+
+drink; beverage
+
+thinamiddha (nt.)
+
+thina (nt.)
+
+thinamiddha (nt.)
+
+middha (nt.)
+
+nikkhitta (pp. of nikkhipati)
+
+pivati
+
+pāna (nt.)
+
+kaṇṇasota (nt.)
+
+diminishes; decreases; gets less; is lost
+
+ear hole; lit. ear stream
+
+kaṇṇa (m.)
+
+uklāpa (adj.)
+
+ear
+
+sota (nt.)
+
+dirty; messy
+
+ear
+
+chamā (f.)
+
+agāra (nt.)
+
+earth; ground; floor
+
+sukha (nt)
+
+dwelling; building; house
+
+sāvaka (m.)
+
+ease; comfort; happiness; bliss
+
+phāsu (adj.)
+
+vinassati
+
+disciple; pupil; follower
+vinaya (m.)
+
+easy; comfortable
+
+khādito (pp. of khādati)
+
+disappears; vanishes; perishes; is
+destroyed
+
+discipline; training; lit. leading out
+dukkha (nt.)
+
+eaten; consumed
+
+āsava (m.)
+
+discomfort; suffering; unease; stress
+aratī (f.)
+
+discharge; suppuration; outflow;
+effluent
+
+discontent; aversion; boredom
+
+suññāgāra (nt.)
+
+bhuñjati
+
+empty dwelling
+
+suñña (adj.)
+
+eats; enjoys
+
+empty of; devoid of; without
+
+abhiramati
+
+aratī (f.)
+
+enjoys; delights (in); takes pleasure (in)
+
+ramati
+
+discontent; dislike
+
+vaya (m.) [vi + √i + *a]
+
+enjoys; finds pleasure (in)
+
+pavisati
+
+viriya (nt.)
+
+disintegration; decay; old age; lit. going
+away
+
+karoti
+
+enters; goes into
+
+onaddha (pp. of onandhati)
+
+effort; energy
+
+does
+
+nābhikīrati [na + abhi + √kir + a + ti]
+
+enveloped (with); wrapped (with)
+
+nissaraṇa (nt.)
+
+adhigata (pp. of adhigacchati)
+
+does not drown; does not overwhelm
+
+nādhigacchati
+
+escape; exit; way out
+
+discovered; found; attained; lit. arrived
+
+does not get to; does not obtain
+
+sunakha (m.)
+
+sanantana (adj.)
+
+thera (m.)
+
+dog
+
+Mā akāsi!
+
+eternal; ancient
+
+elder; senior monk
+
+Don’t you do!
+
+vicikicchā (f.)
+
+sīla (nt.)
+
+adhigama (m.)
+
+doubt; uncertainty
+
+visoseti
+
+(1) ethical/moral conduct; virtue (2)
+behaviour; habit
+
+discovery; finding; attainment; lit.
+arrival
+
+dries; desiccates; makes wither; lit.
+causes to dry up
+
+exhausts, takes up in a excessive degree
+
+Excuse me!
+
+excess; pleasure; indulgence
+
+ever; sometime
+
+evening-time
+
+vijjati [√vid + ya + ti]
+
+pariyādāti
+
+Okāsa, bhante.
+
+mada (m.)
+
+kadāci (ind.)
+
+sāyanhasamaya (m.)
+
+first (1st); prime
+
+fire
+
+finds satisfaction (in)
+
+finds pleasure (in); is enamoured (with)
+
+fills up
+
+fifteen
+
+paṭhama (ord.)
+
+aggi (m.)
+
+vittiṁ āpajjati (idiom)
+
+rajjati
+
+paripūreti
+
+pannarasa (card.) [pañca + dasa]
+
+forest; wood; wilds; wilderness
+
+for a week; for seven days
+
+for a long time
+
+foot-washing water
+
+food (lit. an enjoyable)
+
+purā (ind.)
+
+arañña (nt.)
+
+sattāhaṁ (ind.)
+
+ciraṁ (ind.)
+
+pādodaka (m.) [pāda + udaka]
+
+bhojanīya (m.)
+
+uḍḍayati
+
+formerly, earlier
+
+rūpa (nt.)
+
+flies up; files off; flies away
+
+(1) exists; is found; is present (2) is
+possible
+
+bahi (ind.)
+
+form
+
+vijānataṁ (prp. of vijānāti)
+
+manasa (adj.)
+
+externally; outside
+sammukha (adj.)
+
+for those knowing; for those who
+understand
+
+tuyhaṁ (pron.)
+
+focused on; lit. with such a mind
+
+face to face with
+virāga (m.)
+
+(1) for you; to you (2) your; yours
+
+catuddasa / cuddasa (card.)
+
+vijjati [√vid + ya + ti]
+
+fading of desire (for); dispassion
+(towards)
+saddhā (f.)
+
+fourteen
+
+avera (nt.)
+
+exists (in); is found (in); is present (in)
+
+(1) faith; belief (2) confidence (3)
+romantic devotion; lit. putting heart
+pāta (m.)
+
+friendliness; lit. non-hatred
+
+mitta (m.)
+
+āhāra (m.)
+
+(1) fall (2) drop; dropping; lit. made to
+drop
+
+nipatati
+
+friend
+
+pārato / parato (abl.) [para + to]
+
+food; fuel; sustenance
+
+falls
+
+pāra (nt.)
+
+from far, from the further shore
+
+ito (ind.)
+
+nikkaḍḍhati
+
+far side; far shore
+
+kilamatha (m.)
+
+from here
+
+orato / apārato
+
+expels (from); throws out; removes; lit.
+drags out
+
+fatigue; tiredness
+
+vedanā (f.)
+
+from near, from the near shore
+
+few; not much
+
+feels; experiences; senses
+
+puññakkhetta (nt.)
+
+appa (adj.)
+
+vedeti
+
+(1) fruit; berry (2) consequence; result
+
+from travelling (from going on the
+journey)
+
+from there
+
+(1) from that (2) therefore; that is why
+
+phala (nt.)
+
+addhānaṁ āgato
+
+tato (ind.)
+
+tasmā
+
+āpajjati
+
+feeling
+
+vedayati
+
+field of merit
+
+khetta (nt.)
+
+(1) experiences (2) produces (3) engages
+in (4) commits (an offense) (5) causes;
+effects
+
+feels; experiences; senses; lit. causes to
+know
+
+field; plot of land
+
+fully engaged; diligently practising
+
+full (of); filled (with)
+suppayutta (adj.) [su + payutta]
+
+pūra (adj.)
+
+good midday
+
+Suppabhātaṁ bhante.
+
+sumajjhanhika [su + majjha + anha +
+ika]
+
+suppabhāta [su + pabhāta]
+
+Good morning (daybreak) Ven. Sir!
+good morning
+
+bhaṇḍa (nt.)
+
+dava (m.)
+
+goods; wares; merchandise
+
+gaṇhāti
+
+fun; joke; play
+
+senānī (m.)
+
+grabs hold (of); seizes; takes
+
+koṭṭhāgāra (nt.)
+
+Suppabhātaṁ sabbesaṁ.
+
+general (army)
+āpajjati
+
+granary; treasury; storehouse
+
+sammodi (aor. of sammodati)
+
+Good morning everyone.
+
+gets pleasure/pain; produces; engages in
+labhati
+
+greeted
+
+sannipatati
+
+gets; receives; obtains
+labhati
+
+sammodati
+
+gathers together; assembles; lit. falls
+together
+
+gets; receives; obtains
+
+greets
+
+bhiyyobhāva (m.) [bhiyyo + bhāva]
+
+adhigacchati
+
+growth (of); increase (of); lit. more state
+
+āgata (m.)
+
+gets to; attains; obtains; lit. arrives at
+
+guest
+
+garu (m.)
+
+virūḷhi (f.)
+
+dakkhiṇā (f.)
+
+guru; esteemed person
+
+sālā (f.)
+
+growth; increase
+
+gift; donation
+deti
+
+hall; shed
+
+uṭṭhahati; uṭṭhāti
+
+gives
+pajahati
+
+gets up; gets out; arouses oneself; lit.
+stands up
+
+gives up; abandons; lets go (of)
+
+payuñjati
+
+pāṇi (m.)
+harnesses; employs; applies
+
+saṅkelāyati (from kīḷati)
+
+hand; palm
+
+has fun; amuses oneself (with)
+
+vera (nt.)
+
+pajahati
+
+pahāya (ger. of pajahati)
+
+hatred; hostility
+
+vera (nt.)
+
+gives up; abandons
+
+giving up; abandoning
+
+attha (m.)
+
+hatred; ill-will; animosity; hostility
+
+patta (pp. of pāpuṇāti)
+
+muditā (f.) [√mud + ita + ā]
+
+goal; purpose
+
+attha (m.)
+
+have reached; have arrived (at)
+
+pañca nīvaraṇe pahāya (idiom)
+
+happiness (for); appreciation
+
+goal; purpose; want
+
+apagacchati
+
+having abandoned the five hindrances
+
+bhutvā (abs. of bhuñjati)
+
+dāna (nt.)
+
+goes away, turns aside
+
+accayati
+
+having eaten
+
+laddhā (abs. of labhati)
+
+(1) giving; offering; generosity (2) alms;
+gift
+
+goes beyond; surpasses; transgresses
+
+pabbajati
+
+having got; having obtained
+
+goes forth (ordains as monk); lit. goes
+into exile
+
+ñatvā / jānitvā
+
+gacchati
+
+having known
+
+goes
+
+paggahetvā (ger. of paggaṇhāti)
+
+yāti
+
+having raised / held up
+
+goes to; travels to
+
+gahetvā (abs. of gaṇhāti)
+
+suvaṇṇa (nt.)
+
+having taken; having grabbed hold (of)
+
+gold
+
+cittaṁ pariyādāya tiṭṭhati (idiom)
+
+sayanagata (adj.)
+
+having taken over the mind, it remains
+
+gone to bed
+
+kusala (adj.)
+
+susāyanha [su + sāya + anha]
+
+healthy; beneficial; good; wholesome
+
+good evening
+
+uṇhodaka (nt.) [uṇha + udaka]
+
+geha (nt.)
+
+hot water
+house; dwelling
+
+geha (nt.) [√gah + a]
+
+kallaka (adj.)
+
+house; dwelling
+
+gahapatika (m.) [gaha + pati + ka]
+
+healthy; well; lit. able
+
+suṇāti
+
+householder; landowner
+
+nivesana (nt.)
+
+gahakāra (m.)
+
+hears
+so maṃ upaṭṭhāti
+
+house; home; lit. entering down
+
+kiṁ nu kho (idiom)
+
+house builder; mason; carpenter
+
+he attends to me
+deva (m.)
+
+How indeed? Why on earth?
+
+parato ca ghoso (idiom)
+
+heavenly being; a god
+atthi
+
+hearing from another person; word of
+another
+
+he is (√as)
+
+manussa (m.)
+
+kathaṁ (ind.)
+
+human being; man; person
+
+asmi
+
+How?
+
+I am (√as)
+
+homi
+
+hoti
+
+I am (√hū)
+
+Na jānāmi.
+
+he is (√hū)
+
+I don’t know.
+
+Na pajānāmi.
+
+kinti (ind.)
+
+so, sa (m.)
+
+I don’t understand.
+
+Kāruññaṁ.
+
+How?
+
+he
+yo gilānaṃ upaṭṭhāti
+
+(I feel) sorry. (for your situation)
+
+tato ce uttari (idiom)
+
+upakāra (adj.)
+
+he who attends to the ill
+yo (m.)
+
+if more than that
+
+no ce
+
+helpful; useful
+
+he who (m.nom.)
+
+yo (pron., masc.nom.sg. of ya)
+
+if not
+
+sace (ind.)
+
+kittaka (adj.)
+
+he who; whoever; whatever; whichever
+
+kāhati (fut.) [√kar + o + ti]
+
+if
+
+yadi (ind.)
+
+how many?
+
+he will do; he will make
+
+agga (adj.)
+
+if; whether; perhaps
+
+mama santike santi (idiom)
+
+idha (ind.)
+
+highest; supreme
+
+anuttara (adj.)
+
+I have (in my presence there are)
+
+mayhaṁ … santi
+
+here
+
+highest; unsurpassed; incomparable; lit.
+nothing higher
+
+assa (pron.)
+
+I have (my things are)
+
+kacci (ind.)
+
+kittaka (adj.) [ka + tta + ka]
+
+his
+
+hanati
+
+I hope; I trust
+
+kacci’si [kacci + asi]
+
+how many?
+
+hits; beats; stabs
+
+niggaha (adj.) [ni + √gah + a]
+
+I hope you are…
+
+ābādha (m.)
+
+atra (ind.)
+
+holding back; restraining; lit. holding
+down
+
+dhāreti
+
+illness; affliction
+
+byāpāda (m.)
+
+here; in this place
+
+holds up; carries; bears in mind
+
+paggaṇhāti
+
+ill will; lit. going wrong
+
+anantaraṁ (ind.)
+
+kativassa (adj.)
+
+holds up; raises up
+
+chidda (nt.)
+
+immediately after that; with no interval
+
+paṇeti
+
+how-old? lit. having how many years?
+
+hole; crack
+
+assa (m.)
+
+imposes (on); inflicts (on)
+
+idha (ind.)
+
+horse
+
+uṇha (adj.)
+
+(1) here; now; in this world; (2) in this
+case
+
+hot
+
+indignant; angry; annoyed
+daṇḍaṁ paṇeti (idiom)
+
+kupita (pp. of kuppati)
+
+ubhayattha (ind.) [ubhaya + attha]
+
+is received; is obtained
+
+is in solitude; seeks privacy
+
+is hurt; is killed; is slaughtered
+
+is happy (with); delights (in); likes;
+enjoys
+
+labbhati (pass. of labhati)
+
+rahāyati
+
+haññati (pr. pass. of hanati)
+
+nandati
+
+in both cases; on both sides; lit. both
+matters
+inflicts punishment; imposes a fine
+āroceti
+
+Ajj’ātisītaṁ.
+
+informs
+
+It is cold today.
+
+Ajj’āccuṇhaṃ. [ajja (ind.) + ati + uṇha]
+
+vuccati (pass. of vacati)
+
+It is hot today.
+
+ṭhānaṁ vijjati (idiom)
+
+is said to be; is called
+
+payutta (pp. of payuñjati)
+
+it is possible, it is plausible; lit. a basis
+exists
+
+kappati
+
+āyatiṁ (ind.)
+
+intent; engaged
+saṅkhāra (m.)
+
+it is suitable; it is allowable
+
+tassa (gen./dat. of ta ’it, that’)
+
+in future
+
+intention; volition; choice; lit. making
+together
+samparāyika (adj.)
+
+its; of/for that
+
+taṁ, tad (nt.)
+
+alaṁ (ind.)
+
+in the future; hereafter
+santike (ind.)
+
+it
+
+ta / taṁ (pron.)
+
+is suitable; worthy (for); enough (for)
+
+in the presence (of); near (to)
+tesu (pron.) [ta + esu]
+
+it; that
+
+pasāda (m.)
+
+in those; among those
+
+amhesu (pron.) (1st.loc.pl of ahaṁ)
+
+inspiration; faith; trust; confidence; lit.
+settling
+
+in us; among us
+
+kaṭhinadussa (nt.)
+
+maṇi (m.)
+
+Kaṭhina-cloth
+
+rāja (m.)
+
+jewel; gemstone
+
+king; ruler
+
+yathā yathā (idiom)
+
+pahīyati (pr.pass. of pajahati)
+
+lokavidū (m.)
+
+in whatever way
+
+is abandoned; is given up
+
+sakkoti
+
+knower of the world (epithet of the
+Buddha)
+
+vitti (f.)
+
+is able (to)
+
+kuppati
+
+pajānāti
+
+joy; happiness; pleasure; lit. gain
+
+is angered; is provoked; is irritated
+
+bhavati
+
+knows clearly; understands;
+distinguishes
+
+sacchikaroti
+
+ahaṁ
+
+is; being; becomes
+
+jāyati
+
+knows for oneself; personally realizes
+
+jānati
+
+I (pron.)
+
+(is) born
+
+ḍayhati
+
+knows
+
+jānāti
+
+h’eva (ind.) [hi + eva]
+
+is burned; is scorched; is on fire
+
+sammati
+
+knows; understands
+
+padīpa (m.)
+
+just indeed; only just
+
+is calmed; is appeased
+
+sammati (pr. pass.) [samma + ti]
+
+lamp; light; lighting
+
+sañjagghati
+
+anattamana (adj.) [na + atta + mana]
+
+is calmed; is appeased
+
+khīyati
+
+laughs; jokes
+
+irritated; annoyed; displeased; lit. not
+own mind
+
+is destroyed; is exhausted
+
+modati [√mud + *a + ti]
+
+upāsaka (m.)
+
+is happy; enjoys himself; rejoices
+
+layman; male lay follower
+
+master; gentleman; sir
+
+master; gentleman
+
+market; bazaar; market place
+
+many people; many things; a lot
+
+many; much; a lot (of); great; large
+
+man; person
+
+(1) man; person (2) servant; labourer (3)
+grammatical person
+
+loves; holds dear; is fond of
+
+looking (at); observing; watching
+
+long road; journey
+
+long road; journey
+
+lives
+
+lives (in); dwells
+
+little; tiny; minute
+
+little fatigue; little tiredness
+
+lion
+
+like; as; according to; how
+
+like; as; according to; how
+
+light; brightness; clarity
+
+lies; lies around; lit. sleeps
+
+lies down; rests; sleeps
+
+length of life; life-span
+
+learned by heart; mastered
+
+leads (to); results (in); causes
+
+leads; carries away; takes away
+
+laziness; tiredness
+
+laywoman; female lay follower
+
+upanijjhāyati
+
+ayya (m.)
+
+ayya (m.)
+
+antarāpaṇa (m.)
+
+bahū (m.pl. of bahu)
+
+bahu (adj.) [√bah + u]
+
+nara (m.)
+
+purisa (m.)
+
+piyāyati
+
+anupassī (adj.)
+
+addhāna (nt.)
+
+addhāna (nt.)
+
+jīvati
+
+viharati
+
+thoka (adj.)
+
+appakilamatha (m.)
+
+sīha (m.)
+
+yathā (ind.)
+
+yathā (ind.)
+
+āloka (m.)
+
+seti
+
+sayati
+
+āyuppamāṇa (nt.) [āyu + pamāṇa]
+
+pariyatta (adj. pp. of pariyāpuṇāti)
+
+saṁvattati
+
+neti
+
+tandī (f.)
+
+upāsikā (f.)
+
+now
+
+not I
+
+No.
+
+nods off; dozes off
+
+night
+
+next; after
+
+new; fresh
+
+never
+
+Never mind (leave it aside).
+
+neglects; omits
+
+near side; near shore
+
+my; to me; for me
+
+myself slept well
+
+moves about; wanders about
+
+moved over, shifted, transferred
+
+moved over; shifted; transferred
+
+mother and father; parents
+
+morning-time
+
+moreover; and so; but; or; however
+
+more; greater; superior
+
+more; greater; bigger
+
+moon
+
+monk; mendicant; lit. beggar
+
+monkey; ape
+
+mind; heart; mental act
+
+merit; good deed
+
+merchant; trader; dealer
+
+mentally examines
+
+meditative calm; lit. meditating
+
+idāni (ind.)
+
+nāhaṁ [na + ahaṁ]
+
+No hetaṁ, bhante.
+
+pacalāyati
+
+sāya (nt.)
+
+para (adj.)
+
+nava (adj.)
+
+na kadāci (idiom)
+
+Tiṭṭhatu, bhante.
+
+riñcati
+
+ora (nt.) / apāra (nt.)
+
+me / mayha / mama (pron.)
+
+sukhamasayitthaṁ (aor.1st.refl.)
+
+vicarati
+
+saṅkanta (pp. of saṅkamati) [saṁ +
+√kam + ta]
+
+saṅkanta (pp. of saṅkamati)
+
+mātāpitar (m.)
+
+pubbaṇhasamaya (m.)
+
+pana (ind.)
+
+bhiyyo (ind.)
+
+bahutara
+
+canda (m.)
+
+bhikkhu (m.)
+
+makkaṭa (m.)
+
+citta (nt.)
+
+puñña (nt.)
+
+vāṇija (m.)
+
+manasānupekkhati
+
+jhāna (nt.)
+
+meditates (on); contemplates; reflects
+(on)
+
+obligation; duty
+
+object of sensual pleasure; lit. sensual
+strings
+
+(object of) pleasure; sensual pleasure
+
+now, if a monk…; further, …
+
+kicca (nt.)
+
+kāmaguṇa (m.)
+
+kāma (m.)
+
+bhikkhu pan’eva (idiom) [pana + eva]
+
+out of compassion; lit. taking pity
+
+our; of us; my (royal plural)
+
+organises; arranges; prepares (food;
+drinks; etc.)
+
+only; just; merely; exclusively
+
+only; just; merely
+
+anukampaṁ upādāya (idiom)
+
+amhākaṁ (pron.)
+
+paṭiyādeti
+
+yeva
+
+eva (ind.)
+
+saṅkamati
+
+uposatha (m.)
+
+passes over to, shifts, transmigrates
+
+saṅkamati
+
+observance day
+
+passes over to, shifts, transmigrates
+
+rāga (m.)
+
+anu-
+
+passion; infatuation; lust
+
+yoniso manasikāra (idiom)
+
+over; on; around (prefix)
+
+okkamati
+
+paying proper attention; wise
+reflection; lit. attention to the source
+
+pathika (m.)
+
+kāyānupassī (adj.) [kāya + anupassī]
+
+occurs; happens; befalls; lit. goes down
+sāgara (m.)
+
+pedestrian, traveller
+
+sacchi (adj.)
+
+observing the body; who watches the
+body
+
+ocean
+kāsāva (nt.)
+
+personal; lit. see for oneself
+
+nīvaraṇa (m.)
+
+ochre robe
+mūla (nt.)
+
+person; individual
+
+personally; with one’s own hand
+
+uggaṇhāti
+
+puggala (m.)
+
+sahatthā (ind.)
+
+sacchikaroti
+
+sacchi (adj.)
+
+nibbāpeti (caus. of nibbāti)
+
+(1) picks up (2) takes; accepts (3) grasps;
+learns
+
+khaṇḍa (m.)
+
+personal; lit. see for oneself
+
+obstacle; obstruction; hindrance; lit.
+blocking
+
+(of a tree) root; base (2) source; origin;
+root (3) money; cash
+
+(of fire) grows cold; lit. causes to blow
+away
+
+maṇḍapeyya (adj.)
+
+(1) piece; part (2) broken; defective (3)
+chip; break; failure
+
+sacchi (adj.)
+
+of the best quality; lit. to be drunk like
+cream
+
+gatta (nt.)
+
+ṭhāna (nt.)
+
+personal; lit. see for oneself
+
+(of the body) limb
+
+satthu (m.) [√sās + tar + u]
+
+(1) place (2) reason; ground; basis; lit.
+standing
+
+desa (m.)
+
+āpatti (f.)
+
+of the teacher; master’s; Buddha’s
+
+atināmeti
+
+(1) place; region (2) point; item; detail
+
+odahati
+
+offence; transgression
+
+(of time) passes; spends; wastes
+
+jara (m.) [√jar + a]
+
+places down; lays down; sets up
+
+saṅkīḷati [saṁ + √kīḷ]
+
+āpatti (f.)
+
+old age; growing old; decay
+
+ekadā (ind.)
+
+playing together
+
+kīḷati
+
+offense; transgression
+
+one day
+
+sata (card.)
+
+plays (with); has fun (with)
+
+Nisīdatha.
+
+personally experiences, realizes; lit.
+personally does
+
+one hundred
+
+sukhamasayittha (aor.2nd.pl.)
+
+Please sit.
+
+nibbāna (nt.) [nī + √vā + ana]
+
+one slept well; one rested comfortably
+
+appasanna (m.)
+
+(of fire) extinguishing; quenching; going
+out; lit. blowing away
+
+one without faith or confidence
+
+recites
+
+recently, soon
+
+really enjoying; very fond (of)
+
+realizing; achieving; attaining; lit. doing
+personally
+
+reaches; arrives (at)
+
+rains
+
+rain; downpour
+
+(1) puts together; composes; fabricates
+(2) restores
+
+purity; purification
+
+punishment; fine
+
+pulls (towards); tugs (to)
+
+protects; guards
+
+properly; prudently; thoroughly; lit. to
+the source
+
+produces; comes up with
+
+privately; alone; secretly
+
+privacy; solitude; lit. sticking to oneself
+
+prince
+
+previous; old; ancient
+
+prepares; sets out (a seat, etc.)
+
+prepares; arranges; considers
+
+preference; approval
+
+practices; engages (in)
+
+practices; engages in; lit. yokes near
+
+Portugal-region
+
+ponders; reflects; thinks about
+
+plows; tills; turns the soil
+
+pleasure; enjoyment; relish; delight
+
+uddisati
+
+aciraṁ (ind.)
+
+abhirata (adj. pp. of abhiramati)
+
+sacchikaraṇa (nt.)
+
+pāpuṇāti
+
+vassati
+
+vassa (m.)
+
+saṅkharoti
+
+pārisuddhi (f.)
+
+daṇḍa (m.)
+
+āviñchati
+
+rakkhati
+
+yoniso (ind.) [yoni + so]
+
+abhinipphādeti
+
+raho (ind.)
+
+paṭisallāna (nt.)
+
+rājakumāra (m.)
+
+purāṇa (adj.)
+
+paññāpeti
+
+kappeti
+
+ruci (f.)
+
+paṭisevati
+
+anuyuñjati
+
+Portugal-desa
+
+anuvitakketi
+
+kasati
+
+nandi (f.)
+
+seclusion; discrimination
+
+seat; chair; lit. sitting
+
+scribe, clerk, writer
+
+scatters over; sprinkles
+
+says; speaks
+
+(1) sal tree (2) brother-in-law
+
+sage; wise man
+
+sage; hermit
+
+runs
+
+root (of a tree); base; foot
+
+rising (from); emerging (from)
+
+right view; correct outlook
+
+right here
+
+(1) rice water; congee (2) glue; sticky
+stuff
+
+rice gruel; rice water
+
+rice gruel; congee
+
+rice; boiled rice; food; lit. wet stuff;
+boiled in water
+
+rice
+
+reverence (to); homage (to); lit. bow
+
+returns; steps back; goes away; lit. goes
+back
+
+resulting in; producing; lit. coming up
+
+restlessness; agitation
+
+requisite; everyday item
+
+repeatedly; again and again
+
+remorse; regret; lit. remembering back
+negatively
+
+relishes; takes pleasure (in)
+
+viveka (m.)
+
+āsana (nt.)
+
+lekhaka (m.)
+
+abhikīrati
+
+vadeti
+
+sāla (m.)
+
+paṇḍita (m.)
+
+muni (m.)
+
+dhāvati
+
+mūla (nt.)
+
+uṭṭhāya (ger. of uṭṭhahati)
+
+sammādiṭṭhi (f.)
+
+ettheva [ettha + eva]
+
+kañjiya (nt.)
+
+acchakañjiyā (f.)
+
+yāgu (f.)
+
+odana (m.)
+
+bhatta (m.)
+
+namas (m.) [√nam + as]
+
+paṭikkamati
+
+udraya (adj.)
+
+uddhaccakukkucca (nt.)
+
+parikkhāra (m.)
+
+punappunaṁ (ind.)
+
+vippaṭisāra (m.)
+
+assādeti
+
+some or other; even some; just some
+
+slept well; rested comfortably
+
+sleeps well (happily); rests comfortably
+
+sky
+
+skin
+
+sitting place; seat
+
+sitting hall
+
+sitting alone
+
+sits
+
+sister
+
+silver coin; money; cash
+
+silence, quiet
+
+sick; ill; unwell
+
+should be shared with
+
+shines (in); looks beautiful (in)
+
+shines; blazes; burns
+
+She speaks to him/them.
+
+she (f.)
+
+sets out; provides; lit. causes to stand
+near
+
+servant; attendant
+
+sells
+
+(See you) tomorrow.
+
+sees; takes a look (at)
+
+sees; takes a look (at)
+
+sees
+
+sees; observes; watches
+
+seen; found; visible
+
+seed; germ
+
+seclusion; solitude
+
+kocideva
+
+sukhamasayi (aor.2nd/3rd.sg.)
+
+sukhaṁ seti (idiom)
+
+ākāsa (m.)
+
+taca (m.)
+
+nisajjā (f.)
+
+āsanasālā (f.)
+
+ekamāsīna (adj.) [eka + āsīna]
+
+nisīdati
+
+bhaginī (f.)
+
+rūpiya (nt.)
+
+tuṇhī (ind.)
+
+gilāna (adj.)
+
+saddhiṁ saṁvibhajitabbaṁ
+
+sobhati
+
+tapati
+
+Sā taṃ bhāsati.
+
+sā (f.)
+
+upaṭṭhāpeti [upa + √ṭhā + *āpe + ti]
+
+sevaka (m.)
+
+vikkiṇāti
+
+Suve.
+
+pekkhati
+
+pekkhati
+
+passati
+
+anupassati
+
+diṭṭha (pp. of √dis)
+
+bīja (nt.)
+
+viveka (m.)
+
+support; help; assistance
+
+sunrise; dawn; daybreak
+
+sun; lit. shining
+
+suitable time (for)
+
+studies well; learns thoroughly; masters;
+lit. reaches
+
+strong; firm; steady
+
+strokes; massages; rubs; lit. wipes along
+
+striving (in); active (in); lit. going out
+
+string; thread; tie
+
+stream; river
+
+steals; robs
+
+stays; dwells
+
+state; condition; nature
+
+stands
+
+stability; continuity; longevity; lit.
+standing
+
+spotted; blemished
+
+spoon
+
+speech; talk
+
+speaks
+
+speaks
+
+(1) sows; plants (2) shaves
+
+soup; broth
+
+(1) sound; voice; utterance (2) rumour;
+report (3) cry; shout
+
+(Sorry,) I’ll make amends.
+
+(Sorry, I have) regret.
+
+sorrows; grieves; mourns
+
+soot; ash
+
+anuggaha (m.) [anu + √gah + a]
+
+pabhāta (nt.)
+
+suriya (m.)
+
+pattakalla (nt.)
+
+pariyāpuṇāti
+
+daḷha (adj.)
+
+anumajjati [anu + √majj + a + ti]
+
+nikkāmī (adj.) [nī + √kam + *ī]
+
+guṇa (m.)
+
+sota (m.)
+
+coreti
+
+vasati
+
+bhāva (m.)
+
+tiṭṭhati
+
+ṭhiti (f.)
+
+kammāsa (adj.)
+
+kaṭacchu (m.)
+
+bhāsa (m.)
+
+vacati
+
+bhāsati
+
+vapati
+
+yūsa (m.)
+
+ghosa (m.)
+
+Paṭikarissāmi.
+
+Vippaṭisāraṁ.
+
+socati
+
+masi (m.)
+
+there
+
+namo (ind.; nom.sg. of namas)
+
+tattha / tatra (ind.)
+
+paccaya (m.)
+
+the reverence (to); the homage (to); lit.
+bow
+
+(1) support; requisite; necessity (2)
+cause; reason; condition (for)
+sammajjana (nt. from sammajjati)
+
+te (m.)
+
+sweeping
+
+they (m.)
+
+tāni (nt.)
+
+ime / imā / imāni (pron.)
+
+they (nt.)
+
+cora (m.)
+
+these
+
+thief; robber
+
+jhāyati
+
+taṇṭhāna-sammajjanaṁ
+
+(1) thinks (about) (2) meditates;
+contemplates (3) broods (4) burns
+
+maññati
+
+sweeping that place
+
+thinks; presumes; supposes
+
+esa (pron.)
+
+santi
+
+this; he; it
+
+esa (pron.)
+
+they are (√as)
+
+upādiyati
+
+this; he; it
+
+hidaṁ (sandhi.) [hi + idaṁ]
+
+sammajjati [saṁ + √majj + a + ti]
+
+takes; grasps (onto); lit. takes near
+harati
+
+this indeed; certainly this
+
+ayamassa
+
+sweeps; cleans
+
+takes
+ādāya (ger. of ādiyati)
+
+this is his
+
+meso
+
+honti
+
+(1) taking; grasping; embracing (2)
+receiving; accepting
+
+upādāya (ger. of upādiyati)
+
+this is mine
+
+ayaṁ (pron.)
+
+they are (√hū)
+
+taking; grasping (onto); lit. taking near
+sallapati
+
+this; this person; this thing
+
+ayaṁ (pron.)
+
+paṭiggaṇhāti
+
+talks; speaks; converses
+
+satthar (m.) [√sās + tar]
+
+this; this person; this thing
+
+vitakka (m.)
+
+takes; accepts; receives
+
+teacher; master
+
+ācariya (m.)
+
+thought; reflection
+
+nikkhipati
+
+tā, tāyo (f.)
+
+teacher; religious leader
+
+deseti
+
+(1) throws down; discards (2) puts down
+(3) keeps; stores
+
+nikkhipati
+
+they (f.)
+
+teaches; explains
+
+dasa (card.)
+
+throws down; discards; drops
+
+samaya (m.)
+
+paṭiggaṇhāti
+
+ten
+
+Anumodāmi.
+
+time; occasion
+
+pucchituṁ
+
+takes; accepts; receives
+
+Thank you.
+
+tāva (ind.)
+
+to ask; to question (infinitive)
+
+ketuṁ / kiṇituṁ
+
+yanti (3rd.pl of yāti)
+
+that much; that far; still; at least
+
+jāta (pp. of jāyati)
+
+to buy
+
+sallapituṁ (inf. of sallapati)
+
+they go to; they travel to
+
+the born
+
+adinnādāna (nt.)
+
+to converse (with)
+
+ajja (ind.)
+
+nisajjaṁ kappeti (idiom.)
+
+theft; stealing; lit. taking what is not
+given
+
+atha kho (idiom.)
+
+today
+
+takes a seat; sits down; lit. prepares a
+seat
+
+(1) then; after that (2) yet; but still;
+however
+
+tena hi
+
+ādiyati
+
+therefore; in that case; if that’s so
+
+tahiṁ (ind.)
+
+(1) takes; grasps; embraces (2) steals;
+takes (3) obeys; follows; accepts; lit.
+takes
+
+there; in that place
+
+touches; contacts; feels
+
+touched (by); contacted (by)
+
+to stay (infinitive)
+
+to sell
+
+to see (infinitive)
+
+tooth-stick; toothbrush
+
+too hot
+
+to me
+
+(1) to me; for me (2) my; mine
+
+to lie down; to sleep
+
+together with / accompanied by
+
+kuhiṁ (ind.) [ka + hiṁ]
+
+phusati
+
+phuṭṭha (pp. of phusati)
+
+vasituṁ
+
+vikkiṇituṁ (inf. of vikkiṇāti)
+
+passituṁ
+
+dantapona (nt.)
+
+accuṇha (adj.) [ati + uṇha]
+
+maṁ
+
+mayhaṁ (pron.)
+
+sayituṁ
+
+saddhiṁ, saha (ind.)
+
+water (stream)
+
+water; drinking water; lit. to be drunk
+
+was lost
+
+washing water; rinsing water; lit. to be
+used
+
+washes; cleans; rinses
+
+warding off; repelling; driving off
+
+wanting; lit. over thinking
+
+wanders on tour; walks about
+
+walks
+
+walking tour; walking journey
+
+Wait (stay) here. / May you wait here.
+
+village; hamlet
+
+view; belief; opinion
+
+udaka (nt.)
+
+vāri (nt.)
+
+pāṇīya (nt.)
+
+jīyittha (aor. 3rd. refl. sg. of jīyati)
+
+paribhojanīya (adj.)
+
+dhovati
+
+paṭighāta (m.)
+
+abhijjhā (f.)
+
+cārikaṁ carati (idiom.)
+
+carati
+
+cārikā (f.)
+
+Ettheva tiṭṭha / tiṭṭhatha.
+
+gāma (m.)
+
+diṭṭhi (f.)
+
+akaṭayūsa (m.)
+
+to where?
+nagara (nt.)
+
+water
+
+asma
+
+untreated soup; bean broth
+
+(1) town; city (2) fortress; stronghold
+nigama (m.)
+
+we are (√as)
+
+homa
+
+kātuṁ (inf.)
+
+town; market town
+
+tava (pron.)
+
+we are (√hū)
+
+pariyādāya
+
+to do; to make
+
+(1) to you; for you (2) your; of you
+
+tava (pron.)
+
+(1) wearing away; exhausting (2)
+obsessing; overpowering; lit.
+completely seizing
+
+khaya (m. from khīyati)
+
+anagha (adj.) [na + agha]
+
+to you; for you
+
+rukkha (m.)
+
+wearing away; destruction
+
+assāma (opt. pl. of assa)
+
+untroubled; carefree; problem-free
+
+tree
+
+agha (nt.)
+
+we could be; we may be (√as)
+
+Svāgataṁ.
+
+tassā (f.dat.sg.pron.) [ta + ssā]
+
+trouble; misfortune; pain; misery
+
+uccāsoṇḍā (f.) [uccā + soṇḍā]
+
+Welcome here.
+
+hita (nt.)
+
+to/for her; to/for that
+
+trunk of pride; raised trunk (of an
+elephant)
+
+sacca (nt.)
+
+welfare (of); benefit (of); blessing
+
+pesala (adj.)
+
+āyasmant (m.)
+
+truth
+
+vīsati (card.) [dvi + dasa + ti]
+
+well-behaved; good; honest
+
+suṭṭhutā (f.)
+
+venerable; reverend
+
+twenty
+
+ahitāya (dat.sg. of na + hita)
+
+well-being; excellence
+
+gavassa, gāvassa
+
+unbeneficial; harmful
+
+upasampajja (ger. of upasampajjati)
+
+suvatthi (f.) [su + √as + ti]
+
+to/for the cow, the cow’s (irregular
+form)
+
+undertaking; entering on; attaining
+
+dummaṅku (adj.) [dur + maṅku]
+
+well-being; prosperity
+
+unrepentant; obdurate; obstinate; lit.
+difficult to embarrass into silence
+
+where? from where?
+
+when; whenever
+
+when … then …
+
+When?
+
+we
+
+well; good; right
+
+kuto (ind.) [ka + to]
+
+kuto (ind.)
+
+yadā (ind.)
+
+yadā … tadā … (idiom)
+
+kadā (ind.)
+
+mayaṁ
+
+suṭṭhu (ind.)
+
+worthy of offerings
+
+worn out; tired
+
+world; cosmos
+
+wooden spoon; ladle
+
+with, together with
+
+with this
+
+without; -less; abstaining (from)
+
+dakkhiṇeyya (adj.)
+
+kilanta (adj)
+
+loka (m.)
+
+dabbī (f.)
+
+saddhiṁ, saha (ind.)
+
+iminā (pron.) [ima + inā]
+
+apeta (adj.)
+
+asayittha (aor.2nd.pl. of seti)
+
+where?; from where?
+
+you all slept
+
+asi
+
+Āma / Evaṁ bhante.
+
+you are (√as)
+
+hosi
+
+Yes.
+
+you are (√hū)
+
+akāsi
+
+Kattha antarāpaṇo?
+
+you did (irregular)
+
+asayi (aor.2nd/3rd.sg. of seti)
+
+Where is the market?
+
+yassa (gen./dat. of ya ’who’)
+
+you/he slept
+
+tumhe
+
+hīyo (ind.)
+
+whose; of/for whom
+ka / ko (pron.)
+
+you (pl.)
+
+tuyha (pron.)
+
+yesterday
+
+who?; what?; which?
+Taṁ kissa hetu?
+
+your; yours
+
+tvaṁ
+
+kattha (ind.)
+
+Why is that? Of what cause?
+
+kasmā (ind.) [ka + smā]
+
+you (sg.)
+
+kāhasi (fut.) [√kar + o + si]
+
+Where?
+
+why?; lit. from what?
+
+āharissati
+
+you will make; you will build
+
+attha
+
+will bring
+
+viññū (m.) [vi + √ñā + ū]
+
+you all are (√as)
+
+wise man; knowledgable man
+
+vidū (m.) [√vid + ū]
+
+seta (adj.)
+
+wise man; seer; lit. knower
+
+vidū (m.)
+
+white
+
+wise man; seer
+
+icchati
+
+hotha
+
+wishes; wants
+
+aho vata (idiom.)
+
+you all are (√hū)
+
+(wishing) oh may!; if only!
+
+vasa (m.)
+
+pasanna (adj.)
+
+(1) wish; will; (2) control (over); mastery
+(over)
+
+cetasā (m.)
+
+who has faith (in); who has confidence
+(in); lit. settled
+
+with/by mind; with thought
+
+cetasā (m.)
+
+katapuñña (adj.) [kata + puñña]
+
+with mind; by mind; with thought
+
+apagata (adj., pp. of apagacchati)
+
+who has made merit; has gained
+spiritual wealth
+
+without; free (from); with no; lit. gone
+away
+
+vocabulary: sentences
+
+Kiṁ nāmo si:
+
+After eating the food, I rinse my bowl,
+clean my teeth and go to the hall.
+
+After burning the tree with fire, they
+may make ash.
+
+A cup with hot water is a good idea
+(agreeable thought).
+
+A cup of cold water will be refreshing
+(healthy).
+
+A bone covered with skin; it looks
+beautiful with clothes.
+
+A bhikkhu walks to a village with a
+bhikkhunī.
+
+A bhikkhu gives a bowl to a bhikkhu.
+
+So tatra nisīditvā tato uṭṭhāti /
+uṭṭhahati.
+
+Ahaṁ odanaṁ bhuñjitvā, pattaṁ
+dhovitvā, dante sodhetvā, sālaṁ
+gacchāmi.
+
+Rukkhaṁ agginā jhāpetvā masiṁ
+kareyya.
+
+Mallako uṇhodakassa vitakkaṁ
+piyarūpaṁ. / Uṇhodaka’mallako
+vitakko piyarūpo (hoti).
+
+Sītodakamallako kallako bhavissati.
+
+Aṭṭhi tacena onaddhaṁ, saha vatthebhi
+sobhati.
+
+bhikkhu bhikkhuniyā gāmaṁ carati
+
+bhikkhu bhikkhussa pattaṁ deti
+
+By this truth may there be well-being.
+
+By means of the Teaching, men go to
+the far shore.
+
+But by non-hatred is calmed, this truth
+is eternal.
+
+Birds fly in the sky.
+
+Bhikkhus, I allow rice water (clear
+congee).
+
+Bhikkhus, I allow bean broth.
+
+Be heedful! (i.e. take care!)
+
+Before the meal, we should put out
+seats.
+
+Are you at your mother and father’s
+house?
+
+Are you able to converse “into” Pāli?
+
+And where from, you Ven., have you
+come?
+
+And where do you live Sir?
+
+Ehi / Āgacchāhi upāsaka!
+
+Etena saccena suvatthi hotu.
+
+Manussā dhammena pāraṁ gacchanti.
+
+Averena ca sammanti, esa dhammo
+sanantano.
+
+Sakuṇā ākāse uḍḍayanti.
+
+“Anujānāmi, bhikkhave, acchakañjin”ti.
+
+“Anujānāmi, bhikkhave, akaṭayūsan”ti.
+
+Appamādosi!
+
+Purebhattaṁ, āsane / āsanāni
+paññāpema.
+
+Api nu Idāni mātāpitūgāraṁ / -garamhi
+/ -gare viharasi?
+
+Sakkosi tvaṁ pālibhāsāya sallapituṁ?
+
+Kuto ca tvaṁ bhante, āgacchasi?
+
+Katthañca vasatha bhante?
+
+Vocabulary: Sentences
+
+After sitting down there, he stands up
+from there.
+
+Come here, layman!
+
+Aratī ekā māradhītarā.
+
+Mā gaccha!
+
+Discontent is a dauther of Māra.
+Don’t go! (imperative)
+
+Nandasi, samaṇa?
+
+Mayaṁ ajja idha vasitvā suve tahiṁ
+gacchāma.
+
+Do you delight, ascetic?
+
+Api nu / Kiṁ gacchasi?
+
+After staying here today, tomorrow we
+go there.
+
+Do you go?
+
+Tuyhaṁ bhātu-bhaginiyo pi santi?
+
+Pacchābhattaṁ, taṇṭhānaṁ
+sammajjeyyāma.
+
+Do you have brothers and sisters too?
+
+Tvaṁ pālibhāsaṁ jānāsi?
+
+After the meal, we should sweep the
+place.
+
+Do you know Pāli-talk?
+
+Piyāyasi tvam idaṁ ṭhānaṁ?
+
+Sabbepime dārakā rodanti.
+
+Do you like this place?
+
+Paṭhamena jhānena suññāgāre abhirati.
+
+All the boys are crying.
+
+(Due to the) first jhāna there is delight
+in solitude.
+
+Aggi uṭṭhāya gahapatikassa gehaṁ
+ḍahati.
+
+Yathārūpaṁ parisaṁ alaṁ
+yojanagaṇanānipi dassanāya gantuṁ.
+
+… appakilamathena cāhaṁ [ca ahaṁ],
+āvuso, addhānaṁ āgato.
+
+Fire, having rose up, burns down the
+householder’s house.
+
+An assembly such as this is worth
+traveling many leagues to see.
+
+and I’m not tired, friend, from traveling.
+
+dve tāva pāṭha-sālāsu uggaṇhanti.
+
+Na ca piṇḍakena kilantosi?
+
+and the other two still attend schools.
+
+Idāni katthañca hosi?
+
+And have you not had trouble getting
+almsfood? (And not, with the almsfood,
+you are tired?)
+
+And where are you now?
+
+for the growth of faithful individuals
+
+for the excellence of the Saṅgha
+
+for the ease of well-behaved monks
+
+for the ease of the Saṅgha
+
+for restraining obstinate individuals
+
+Sabbadukkha nissaraṇa nibbāna
+sacchikaranatthāya …
+
+pasannānaṁ bhiyyobhāvāya
+
+saṅghasuṭṭhutāya
+
+pesalānaṁ bhikkhūnaṁ phāsuvihārāya
+
+saṅghaphāsutāya
+
+dummaṅkūnaṁ puggalānaṁ niggahāya
+
+appasannānaṁ pasādāya
+
+Having walked for alms, having
+received a lot of food, my bowl is heavy.
+
+Having taken my bowl, the alms should
+be shared with the bhikkhus.
+
+Having heard that teaching we know
+thus…
+
+Having given this robe, may you let me
+go forth Sir, out of compassion.
+
+Having eaten, I don’t want to lie down.
+
+Having eaten, having drunk, you lie
+down.
+
+Piṇḍāya caritvā / gatvā, bahu
+khādanīyaṁ paṭiggahetvā / labbhitvā,
+me patto garo.
+
+Me pattaṁ gahetvā / ādāya, piṇḍaṁ
+bhikkhūhi saddhiṁ saṁvibhajitabbaṁ.
+
+Mayaṁ taṁ dhammaṁ sutvā evaṁ
+jānāma…
+
+… etaṁ kāsāvaṁ datvā, pabbājetha
+maṁ bhante, anukampaṁ upādāya.
+
+Ahaṁ bhuñjitvā sayituṁ na icchāmi.
+
+Tvaṁ buñjitvā pivitvā sayasi.
+
+for (inspiring) faith in those without
+faith
+
+For the personal achieving of the escape
+(and) extinguishing of all suffering
+diṭṭhadhammikānaṁ āsavānaṁ
+saṁvarāya
+
+for the restraint of presently visible
+(mental) effluents
+
+Me pattaṁ dhovitvā, koṭṭhake
+odaheyya.
+
+samparāyikānaṁ āsavānaṁ paṭighātāya
+
+Having washed my bowl, you should
+put (it) in the cupboard.
+
+Āpattiṁ āvikaroti.
+
+for the warding off of future (mental)
+effluents
+
+He confesses the offense.
+
+pītisukhaṁ nādhigacchati
+
+Tvaṁ kiṁ kātuṁ āgato’si?
+
+he doesn’t achieve rapture and bliss
+
+For what purpose have you come? (You
+what to do came?)
+Ito tvaṁ kuhiṁ gacchasi?
+
+So, kāyassa bhedā, paraṁ maraṇā …
+
+From here, to where do you go?
+
+He, from the breakup of the body, from
+after death…
+
+So tassā dussaṁ deti.
+
+Give congee, give rice, give food!
+
+He gives her the cloth.
+
+Yāguṁ detha, bhattaṁ detha,
+khādanīyaṁ dethā!
+
+So tatra gantvā idha āgacchati.
+
+Yassadāni tumhe kālaṁ maññatha.
+
+He, having gone there, comes here.
+
+Go at your convenience.
+
+Akaṭayūsena attho hoti.
+
+Yassadāni tvaṁ kālaṁ maññasi.
+
+He needed bean broth.
+
+Go at your convenience.
+
+Acchakañjiyā attho hoti.
+
+Paṭikkamantu bhūtāni!
+
+He needed rice water (clear congee).
+
+Go away, beings!
+
+Idha, bhikkhave, bhikkhu kāye
+kāyānupassī viharati …
+
+Good morning friend! Are you well?
+
+Here, bhikkhus, a bhikkhu observes the
+body in the body…
+
+Suppabhātaṁ āvuso. Kacci si
+khamanīyaṁ?
+
+Idha modati pecca modati, katapuñño
+ubhayattha modati.
+
+Na kilantosi?
+
+Here he rejoices, after (death) he rejoice,
+the merit-doer rejoices on both sides.
+
+Have you not had trouble? (not
+tired/weary you are ’√as’)
+
+Idha pubbaṇhasamaye ca sīto hoti,
+majjhanhikasamaye ca uṇho hoti.
+
+Upasaṅkamitvā bhagavatā saddhiṁ
+sammodi.
+
+Here in the morning it is cold, and in
+the daytime is it hot.
+
+Having approached, he greeted the
+Blessed One.
+
+Idha vāṇijo mayhaṁ mitto hoti.
+
+Dhovitvā, visoseyyāsi / visosetabbāni.
+
+Here, the merchant is my friend.
+
+Having been washed, they should be
+dried.
+
+Chamā ca sammajjeyya, kipillikā ca
+nikkaḍḍheyya iminā sammuñjaniyā.
+Te idha āgantvā pacitvā gacchanti.
+
+He should sweep the floor and he
+should expel the ants with this broom.
+
+Having come here, having cooked, they
+go.
+
+I am called Vijayabāhu.
+
+I am a way-farer.
+
+I am alright.
+
+How old are you? (How many years are
+you?)
+
+How much (many) money have you
+now with you?
+
+How can I help (do), Sir?
+
+How can I help (do)?
+
+How, as you sit alone, does discontent
+not overwhelm you?
+
+How are you untroubled, mendicant?
+How is delight not found in you?
+
+Homage to the Buddha.
+
+Homage to him, the Blessed One.
+
+Hey layman, come here!
+
+He wishes to stay here.
+
+He wanders about with a woman.
+
+Ericeiraṁ pavisāmi.
+
+Ahaṁ Vijayabāhu-nāmo’mhi.
+
+Aham eko pathiko.
+
+Ahaṁ khamanīyo / Khamanīyaṁ me.
+
+Kativasso’si tvaṁ (āyunā)?
+
+Kittakaṁ mūlaṁ ’dāni tava santike
+atthi?
+
+Kinti karomi bhante?
+
+Kinti karomi?
+
+Kathaṁ taṁ ekamāsīnaṁ, aratī
+nābhikīrati?
+
+Kathaṁ tvaṁ anagho bhikkhu, kathaṁ
+nandī na vijjati?
+
+Namo Buddhāya / Buddhassa.
+
+Namo tassa bhagavato.
+
+Ehi upāsaka!
+
+So idha vasituṁ icchati.
+
+Mātugāmena saddhiṃ cārikaṁ carati.
+
+Chandañca ruciñca ādāya voharati.
+
+I hope you are well (enduring)?
+
+I hope you all are well.
+
+I have fourteen rupees.
+
+I had no trouble getting almsfood. (tired
+I am ’√as’)
+
+I got more food than (of) Ven. Kovilo. I
+will share with him.
+
+If you want water, please tell me Sir.
+
+If the teacher wants coffee, we should
+prepare coffee.
+
+If there’s no rinsing water, rinsing
+water should be provided.
+
+If there’s no drinking water, drinking
+water should be provided.
+
+If the assembly hall is dirty, it should be
+swept.
+
+If only we could not be of the nature to
+die!
+
+If he should keep it longer than that…
+
+If he might not produce it…
+
+If, after stealing, he might come here, I
+may punish (him).
+
+Kacci te bhante khamanīyaṁ?
+
+Kacci vo khamanīyaṁ.
+
+Cuddasa rūpiyāni mama santike santi.
+
+Na ca piṇḍakena kilantomhi.
+
+Āyasmato Kovilassa bahutaraṁ āhāraṁ
+labbhāmi. Ahaṁ tena vibhajissāmi.
+
+Sace udakaṁ icchasi, vadetha me
+bhante.
+
+Sace ācariyaṁ kāphīpānaṁ icchati,
+kāphīpānaṁ paṭiyādema.
+
+Sace paribhojanīyaṁ na hoti,
+paribhojanīyaṁ upaṭṭhāpetabbaṁ.
+
+Sace pānīyaṁ na hoti, pānīyaṁ
+upaṭṭhāpetabbaṁ.
+
+Sace upaṭṭhānasālā uklāpā hoti,
+upaṭṭhānasālā sammajjitabbā.
+
+Aho vata mayaṁ na maraṇadhammā
+assāma!
+
+Tato ce uttariṁ nikkhipeyya…
+
+No ce abhinipphādeyya…
+
+Sace so coretvā idha āgacceyya, daṇḍaṁ
+paṇeyyāmi.
+
+He speaks with our given consent and
+approval.
+
+I am entering the town Ericeira.
+
+Na me, bhante, khamanīyaṁ.
+
+Kacci’si appakilamathena?
+
+I am not well.
+
+I hope you are with little fatigue?
+
+I am not well, Sir. I feel cold.
+
+Kacci, bhante, khamanīyaṁ kacci
+yāpanīyaṁ?
+
+Na me, bhante, khamanīyaṁ. Sītaṁ
+vedayāmi / paṭisaṁvediyāmi.
+
+I hope you’re keeping well Ven., I hope
+you’re getting by?
+
+Kacci’si appakilamathena addhānaṁ
+āgato?
+
+Ahaṁ kilantosmi. [kilanto + asmi]
+
+I hope you’re with little fatigue from
+traveling?
+
+Ahaṁ thokaṁ jānāmi.
+
+I am tired. (Me tired I am ’√as’)
+
+I know a little.
+
+Aham eko gahakāraṁ bhavitum
+icchāmi.
+
+Ahaṁ vīsativasso’mhi.
+
+Ahaṁ Indudesato āgacchāmi.
+
+I like to become an architect. (I an
+architect to become desire.)
+
+Ahaṁ Koḷambanagare vasāmi.
+
+I am twenty years old.
+
+I come from India.
+
+Na jānāmi. Taṁ passasi?
+
+I live in Colombo-town.
+
+Tayā saddhiṁ sallapituṁ āgato’mhi.
+
+I don’t know. Do you see it?
+
+Suññāgāraṁ pavisāmi.
+
+I came here to talk to you. (Wit you to
+talk came I am.)
+
+I enter the empty hut.
+
+Let the Sangha hear me.
+
+Let him live comfortably!
+
+I work in a post-office. (I in one
+marketplace work I do.)
+
+I will wash your cup.
+
+I will go to the forest to see the Buddha.
+
+I will go to another town from here. (I
+from here to another town I will go.)
+
+I (we) must go.
+
+I want to sell some goods.
+
+I use the requisite.
+
+I trust Sir (you) slept well?
+
+I, together with a friend, go to the
+village.
+
+It leads to Nibbāna.
+
+I see the moon.
+
+I plow and sow.
+
+In the town called Ericeira, there is the
+market. I go there for alms.
+
+In the region (of) …, is it hot?
+
+Indeed not by hatred, that hatred is
+calmed, at any time.
+
+I must go now. Bye for a week.
+
+I’m keeping well, friend, I’m getting by.
+
+I may like this place, if it doesn’t get too
+hot. (if here not too hot may become).
+
+I live in Norway. There it is always cold.
+
+Suṇātu me bhante saṅgho …
+
+Phāsu viharatu!
+
+Aham ekasmiṁ antarāpaṇe kammaṁ
+karomi.
+
+Tuyhaṁ mallakaṁ dhovāmi /
+dhovissati.
+
+Ahaṁ buddhaṁ passituṁ araññaṁ
+gacchissāmi.
+
+Aham ito aññaṁ nagaraṁ / nigamaṁ
+gamissāmi.
+
+Handa dāni mayaṁ gacchāma.
+
+Ahaṁ bhaṇḍāni vikkiṇitum icchāmi.
+
+Parikkhāraṁ paṭisevāmi.
+
+Kacci bhante sukhamasayittha?
+
+Ahaṃ mittena saddhiṃ gāmaṁ
+gacchāmi.
+
+Nibbānāya saṁvattati.
+
+Candaṁ passāmi.
+
+Ahaṁ kasāmi vapāmi ca.
+
+Gāme Ericeira nāmo, atthi antarāpaṇo.
+Tatra piṇḍāya gacchāmi.
+
+Api nu …-dese uṇho hoti?
+
+Na hi verena verāni, sammant’īdha
+kudācanaṁ.
+
+Handa dāni ahaṁ gacchāmi.
+(Anantaraṁ) sattāhaṁ.
+
+Khamanīyaṁ, āvuso, yāpanīyaṁ.
+
+Piyāyeyyam idaṁ ṭhānaṁ sace’daṁ
+nāccuṇhaṁ bhaveyya.
+
+Norway janapade vasāmi. Tatra sītaṁ
+sabbadā.
+
+Now, we eat here and go there to sow.
+
+Now rain falls, (so) don’t go out.
+
+not this I am
+
+No Sir. I come from the country …
+
+No friend, I haven’t slept well.
+
+My preceptor’s name is Ven. …
+
+My name is …
+
+My father is the merchant Mahānāma.
+
+My age is fifteen.
+
+Monkeys move about on trees.
+
+(May you) Sleep well!
+
+May you not burn with sensual desire!
+
+May you live 100 years!
+
+May you feel calm!
+
+May they give gifts with conviction,
+may they always maintain virtue.
+
+May they delight in meditation, may
+they go to the devas.
+
+May they burn the defilements!
+
+May the master come here. (imperative)
+
+May the Buddha accept (that)
+transgression.
+
+May he come here. (imperative)
+
+May either he or she go.
+
+May all misfortunes be avoided, may all
+illness be dispelled.
+
+May all beings be happy.
+
+Like rivers full of water…
+
+Let the Venerables declare purity.
+
+Mayaṁ idāni atra bhutvā vapituṁ
+tahiṁ gacchāma.
+
+Idāni devo vassati, mā bahi gacchittha.
+
+n’eso’ham’asmi [na + eso + ahaṁ + asmi]
+
+No hetaṁ, bhante. … janapadasmā
+āgacchāmi.
+
+No hetaṁ, āvuso, na sukhamasayitthaṁ.
+
+Upajjhāyo me bhante āyasmā … nāma.
+
+Ahaṁ bhante … nāma.
+
+Mama pitā Mahānāmo vāṇijo.
+
+Mayhaṁ āyuppamāṇaṁ paṇṇarasa.
+
+Makkaṭā rukkhesu vicaranti.
+
+Sukhaṁ sehi!
+
+Kāmarāgena mā ḍayhatha!
+
+Vassasataṁ jīva!
+
+Samitaṁ vedehi!
+
+Dānaṃ dadantu saddhāya, sīlaṃ
+rakkhantu sabbadā.
+
+Bhāvanābhiratā hontu, gacchantu
+devatā-gatā.
+
+Kilese tapantu!
+
+Ayyo idha āgacchatu.
+
+Buddho paṭiggaṇhātu accayantaṃ.
+
+Idha āgacchatu.
+
+So vā sā vā gacchatu.
+
+Sabbītiyo vivajjantu sabbarogo
+vinassatu.
+
+Sabbe sattā sukhī hontu.
+
+Yathā vārivahā pūrā…
+
+Pārisuddhiṁ āyasmanto ārocetha.
+
+Vayo nipatati.
+
+The born die.
+
+Jātā mīyanti.
+
+Dārakā bhojanīyaṁ bhuñjanti.
+
+Old age falls.
+The boys eat the food.
+
+Dārako tiṭṭhati.
+
+Dārakā dhāvanti.
+
+The boy stands.
+
+Bhagavā kosalesu cārikaṁ carati…
+
+The boys are running.
+
+The Buddha was wandering in the land
+of the Kosalans…
+
+Sūdo bhattaṁ pacati.
+
+Tesu eko vāṇijo, ditiyo lekhako,
+brahmacariyassa khaṇḍampi chiddampi
+sabalampi kammāsampi
+
+The chef cooks the rice.
+
+One of them is a merchant, the second
+one is a clerk,
+on the holy life a defect, crack, stain,
+blemish
+Parisuddho no kāyasamācāro
+bhavissati.
+
+Suriyassa ālokena andhakāro apagato.
+
+Our bodily behaviour should be
+purified.
+
+The darkness was dispelled by the sun’s
+light.
+
+Sāvako sīhaṁ khādati.
+
+Dantaponaṁ me dehi.
+
+The disciple eats the lion.
+
+Sunakhā biḷāre bhussanti.
+
+(Please) Give me (a) toothbrush.
+
+The dogs are barking at the cats.
+
+Sunakhā candaṁ bhussanti.
+
+Saṅgho imaṃ kaṭhinadussaṃ āyasmato
+Amarassa deti.
+
+The dogs are barking at the moon.
+
+Thero sāvakassa cīvaraṁ deti.
+
+The community gives this
+Kaṭhina-cloth to Ven. Amaro.
+
+The elder gives the robe to the disciple.
+
+Thero ākāsena gāmaṁ gacchati.
+
+Ettheva / Idha nisīdatha. Kuhiṁ /
+Kathaṁ piṇḍāya ayyo gacchatha?
+
+Abhayo rājakumāro yena bhagavā
+ten’upasaṅkamati.
+
+The elder goes to the village by air.
+
+Thero sāvakena saddhiṁ gāmaṁ
+gacchati.
+
+Please sit here. Where does the master
+go for alms?
+
+Prince Abhaya goes up to the Buddha.
+Raho nisajjaṁ kappeti.
+
+The elder goes to the village with the
+disciple (sāvaka).
+
+Thero cārikaṁ carati.
+
+Sūdā gahapatino sevakānaṁ odanaṁ
+pacanti.
+
+Privately, he takes a seat.
+
+Sūdena pacito odano yācakassa
+sunakhena khādito.
+
+The elder is going on a walk.
+
+Therā viriyaṁ ārabhanti.
+
+The cooks cook the rice for the
+householder’s servants.
+
+Rice cooked by the cook was eaten by
+the beggar’s dog.
+
+Etthevaṁ āvuso. Spain-desamhā
+āgacchasi?
+
+The elders make an effort.
+
+Upāsako gāmaṁ na gacchati.
+
+Me pattaṁ dhova / dhovatha.
+
+Right here friend. Do you come from
+the country Spain?
+
+Sā tato āgacchati.
+
+The layman doesn’t go to the village.
+
+Sīho sunakhe na passati.
+
+(Please) Wash my bowl.
+
+She comes from there.
+
+Idha nisīditvā mā rodāhi, tatra gacchāhi,
+gantvā bhutvā sayāhi.
+
+The lion doesn’t see the dogs.
+
+Sīho sāvakaṁ khādati.
+
+Mallako bhindati.
+
+Sitting here, don’t cry, go there, having
+gone and eaten, lie down.
+
+Corehi haritvā, gahapatino gāvo
+haññanti.
+
+The lion eats the disciple.
+
+Sīhā na dhāvanti.
+
+The cup breaks.
+
+Taken away by thieves, the
+householder’s oxen are slaughtered.
+
+Anumodāmi āvuso. Kilamathena
+addhānaṁ āgato.
+
+The lions are not running.
+
+Imāni vatthāni dhoveyyāsi.
+
+Thank you friend, I am tired from
+coming on the journey.
+
+Tato ahaṁ, bhante, āgacchāmi.
+
+The lion walks in the village.
+
+Sīho gāme / gāmamhi / gāmasmiṁ
+carati.
+
+(Please) you could wash these robes
+(clothes).
+
+That’s where I, Ven., am coming from.
+
+Cattāro satipaṭṭhānā satta bojjhaṅge
+paripūrenti.
+
+The 4 foundations of mindfulness fulfil
+the 7 factors of enlightenment.
+
+Sakuṇā bījāni bhuñjanti.
+
+Māluvābījaṁ sālamūle nipatati.
+
+The birds eat the seeds.
+
+Sakuṇā sālarukkhe uḍḍayanti.
+
+The māluva-seed falls at the base of sal
+trees.
+The birds fly to the sal trees.
+
+They give ear.
+
+They fill up the ocean.
+
+The woman stands up.
+
+The wise men are delighted in the
+Buddha.
+
+The sort of stealing for which kings,
+having caught a thief, would beat or …
+
+these volitions would not lead to
+affliction
+
+These things are wholesome … lead to
+long-term happiness,
+
+The Sangha performs the uposatha.
+
+There is, Ven., in the region (of)
+Portugal, the monastery called
+Sumedhārāma.
+
+There is, Ven., in the country (of)
+America, the monastery called Clear
+Mountain.
+
+There is no equal to the Tathāgata.
+
+There are in my bed a lot of ants.
+
+then, Kālāmas, you should undertake
+them and abide in them…
+
+The men run to the barn.
+
+The men are cooking.
+
+The man’s oxen are slaughtered.
+
+The man sits.
+
+The man eats rice.
+
+Te bhikkhu-saṅghe pabbajanti.
+
+Te sotaṁ odahanti.
+
+Paripūrenti sāgaraṁ.
+
+Mātugāmo uṭṭhahati.
+
+Viññuno Buddhe pasannā.
+
+Yathārupe adinnādāne rājāno coraṁ
+gahetvā, haneyyuṁ vā…
+
+na’y’idaṁ saṅkhārā ābādhāya
+saṁvatteyyuṁ
+
+Ime dhammā kusalā … hitāya sukhāya
+saṁvattanti
+
+Saṅgho uposathaṁ karoti.
+
+Atthi, bhante, Portugal-dese
+Sumedhārāma-nāma vihāro.
+
+Atthi, bhante, America janapade
+Pasannagiri-nāma vihāro.
+
+Na samo (equal to) atthi tathāgatena.
+
+Atthi me sayane bahu kipillikā.
+
+atha tumhe, kālāmā, upasampajja
+vihareyyātha.
+
+Narā koṭṭhāgāraṁ dhāvanti.
+
+Narā pacanti.
+
+Purisassa goṇo / gāvo haññanti.
+
+Naro nisīdati.
+
+Naro bhattaṁ bhuñjati.
+
+We go up to the layman.
+
+We go to the roots of trees.
+
+We enter the hut.
+
+We eat the almsfood not for fun or
+indulgence…
+
+We don’t see the change of the body of
+the man.
+
+We don’t like to kill.
+
+We don’t go there to buy.
+
+We are obstructed by birth and death.
+
+Wait right here Sir, I will bring (it to
+you).
+
+Venerable, may the master come and sit
+here.
+
+two conditions for the arising of right
+view
+
+Tomorrow will be hot. Do you want a
+hot drink?
+
+together with the wise men
+
+together with the teacher
+
+together with the Buddha
+
+Today many men assemble in the
+village.
+
+This morning I am entering the town
+Ericeira for alms-round.
+
+This is his spoon. Give it to his
+attendant.
+
+Svāgataṁ bhante. Ayyo idha āgacchatu.
+Kacci’si appakilamathena?
+
+Upāsakaṁ upasaṅkamāma.
+
+Rukkhamūle gacchāma.
+
+Agāraṁ pavisāma.
+
+Mayaṁ piṇḍapātaṁ bhuñjāma neva
+davāya, na madāya…
+
+Na passāma manussassa kāyassa
+vipariṇāmaṁ.
+
+Mayaṁ hantuṁ na icchāma.
+
+Mayaṁ ketuṁ tahiṁ na gacchāma.
+
+Mayaṁ otiṇṇā amha jātijarāmaraṇena.
+
+Ettheva bhante, tiṭṭha / tiṭṭhatha. (Taṁ
+taṁ) āharissāmi.
+
+Bhante, ayyo āgacchatu, idha nisīdatu.
+
+dve paccayā sammādiṭṭhiyā uppādāya
+
+Suve uṇhaṁ bhavissati. Pānaṁ uṇhaṁ
+icchasi?
+
+viññūhi saddhiṁ
+
+ācariyena / ācariyā saddhiṁ
+
+Buddhena saddhiṁ
+
+Ajja bahū manussā gāme sannipatanti.
+
+Idha pubbaṇhasamayaṁ
+Ericeira-nigamaṁ piṇḍāya pavisāmi.
+
+Ayamassa kaṭacchu. Assaṁ / tassaṁ
+upaṭṭhākaṁ dehi.
+
+They go forth in the bhikkhu-saṅgha.
+
+Welcome, Sir! May the master come
+here. I hope you are not tired?
+
+Sādhu suṭṭhu bhante saṃvarissāmi.
+
+Te kāmesu ādīnavaṁ disvā, …
+
+Well indeed, Sir., I shall be restrained.
+
+They, having seen the disadvantage in
+sensual pleasures, …
+
+Tena hi, samaṇa, socasi?
+
+Te p’idāni Koḷambanagare yeva vasanti.
+
+Well then, ascetic, do you sorrow?
+
+They too now, just live in Colombo.
+
+What is your name?
+
+What is your name?
+
+What is your age? (How many is you
+life-span?)
+
+What have I lost, friend?
+
+What have I gained, friend?
+
+Whatever monk who, arranging with a
+bhikkhuni…
+
+What do you think?
+
+Tuyhaṁ nāmaṁ kiṁ? Kin nāmo’si?
+
+Kinnāmosi?
+
+Kiṁ nāmo si?
+
+Tuyhaṁ āyuppamāṇāṁ kittakaṁ?
+
+Kiṁ jīyittha, āvuso?
+
+Kiṁ laddhā, āvuso?
+
+Yo pana bhikkhu bhikkhuniyā saddhiṁ
+saṁvidhāya…
+
+Taṁ kiṁ maññasi?
+
+You not make a house again…
+
+You are sitting here.
+
+Yesterday I came here.
+
+Yes, I know you like to walk.
+
+Yes, I have four brothers and two
+sisters.
+
+Yes, I am able to converse a little.
+
+Why is that? Today is not hot.
+
+Why did you come here? (Why here
+came are you?)
+
+Who seeks privacy, he wants solitude.
+
+Sunakhe na passatha.
+
+Puna gehaṁ na kāhasi…
+
+Idha nisīdasi.
+
+Hīyo’ham idh’āgacchiṁ.
+
+Āma, ahaṁ jānāmi, tvaṁ carituṁ
+icchasi.
+
+Āma, mayhaṁ cattāro bhātaro dve
+bhaginiyo ca santi.
+
+Āma, ahaṁ thokaṁ sallapituṁ sakkomi.
+
+Taṁ kissa hetu? Na ajj’āccuṇhaṃ /
+ajjūṇho.
+
+Kasmā idh’āgato si?
+
+Yo rahāyati, so vivekaṁ icchati.
+
+Ko’si tvaṁ?
+
+What is your name?
+Ko nāma te upajjhāyo?
+
+You (pl.) don’t see the dogs.
+
+Tava bhātaro kiṁ karonti?
+
+Who are you?
+
+What is your preceptor’s name?
+
+Kadā tvaṁ idh’āgato’si?
+
+Your brothers, what do they do?
+
+Mayaṁ dārake dhāvāma.
+
+When did you come here?
+
+Yadā tumhe, bhaddiya, attanāva
+jāneyyātha…
+
+We run to the boys.
+
+When (if) you, Bhaddiya, know this by
+yourself…
+
+Yadā mūlaṁ labhissāmi, tadā’haṁ
+gamissāmi.
+
+Ko idha tava mitto?
+
+When I get money, then I will go home.
+
+Kadā tvaṁ nivesanaṁ gacchissasi /
+gamissasi?
+
+Who here is your friend?
+
+When will you go home?
+
+Kuto tvam āgacchasi?
+
+Kiṁ tuyhaṁ karomi, bhante?
+
+Where do you come from?
+
+Tvaṁ kattha vasasi?
+
+What can I do for you, Sir?
+
+Where do you live?
+
+Tuyhaṁ mātāpitaro kuhiṁ vasanti?
+
+Ko tuyhaṁ pitā?
+
+Where do your parents live? (Your
+mother-and-father lives where?)
+
+Kattha tvaṁ kammaṁ karosi?
+
+Who is your father?
+
+Where do you work? (Where the work
+you do?)
+
+Kattha āyasmato Vajiro bhikkhussa
+kaṭacchu hoti?
+
+Tvaṁ kiṁ kammaṁ kātuṁ icchasi?
+
+Where is Ven. Vajiro bhikkhu’s spoon?
+
+Kattha tuyhaṁ pattaṁ?
+
+What do you like to be / do? (You what
+work to do desire?)
+
+Where is your bowl?
+
+references
+
+Kiṁ nāmo si:
+
+• Beginner Pāli Course at SBS (sasanarakkha.github.io)
+• Pali Made Easy by Venerable Balangoda Ananda Maitreya (archive.org)
+• A Practical Grammar of the Pāli Language by Charles Duroiselle, v4.3, 2007 (archive.org)
+• A New Course In Reading Pali by James W. Gair, W. S. Karunatillake (archive.org)
+• Pali Buddhist Texts Explained to the Beginner by Rune E A Johansson (archive.org)
+• Aids to Pāli Conversation by Ven. Buddhadatta (dhamma.ru)
+• Learn Pali Language (blogspot.com)
+

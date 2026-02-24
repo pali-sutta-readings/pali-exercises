@@ -92,6 +92,18 @@ echo "Allan Bomhard — An Introductory Grammar of the Pāli Language (PDF)"
 fetch "https://ibc-elibrary.thanhsiang.org/files/public/An%20Introductory%20Grammar%20of%20the%20Pali%20Language%20-%20Bomhard.pdf" \
       "$RES_DIR/grammar/bomhard_intro_grammar.pdf"
 
+echo "Pāli Primer Answers"
+fetch "https://ia800200.us.archive.org/4/items/PaliLearningPack/PaliPrimerAnswersFree.pdf" \
+      "$RES_DIR/grammar/PaliPrimerAnswersFree.pdf"
+
+echo "Ānandajoti Bhikkhu — A New Collection of Sentences"
+fetch "https://ariyajoti.wordpress.com/wp-content/uploads/2016/10/navapadamanjari.pdf" 
+      "$RES_DIR/grammar/anandajoti_new_sentences_navapadamanjari.pdf"
+
+echo "Sutta Readings Pāli Lessons"
+fetch "https://pali-sutta-readings.github.io/assets/docs/pali-lessons-answerkey.pdf" \
+      "$RES_DIR/grammar/pali-lessons-answerkey.pdf"
+
 # ────────────────────────────────────────────────────────────
 #  DECLENSION TABLES
 # ────────────────────────────────────────────────────────────

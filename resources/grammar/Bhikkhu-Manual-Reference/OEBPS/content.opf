@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="2.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="epub-id-1">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="epub-id-1">urn:uuid:a4da7ba1-7487-4ba2-a09a-26064365575d</dc:identifier>
+    <dc:title>Bhikkhu Manual</dc:title>
+    
+    <dc:language>en</dc:language>
+    
+    
+    <dc:creator opf:role="aut">Forest Sangha Publications</dc:creator>
+    
+    
+    <meta name="cover" content="cover-image"/>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml"/>
+    <item media-type="application/xhtml+xml" id="titlepage.html" href="titlepage.html"/>
+    <item media-type="application/xhtml+xml" id="first-lines.html" href="first-lines.html"/>
+    <item media-type="application/xhtml+xml" id="essential-chants.html" href="essential-chants.html"/>
+    <item media-type="application/xhtml+xml" id="chants_morning-chanting.html" href="chants/morning-chanting.html"/>
+    <item media-type="application/xhtml+xml" id="chants_evening-chanting.html" href="chants/evening-chanting.html"/>
+    <item media-type="application/xhtml+xml" id="chants_reflections.html" href="chants/reflections.html"/>
+    <item media-type="application/xhtml+xml" id="chants_parittas.html" href="chants/parittas.html"/>
+    <item media-type="application/xhtml+xml" id="chants_anumodana.html" href="chants/anumodana.html"/>
+    <item media-type="application/xhtml+xml" id="chants_funeral-chants.html" href="chants/funeral-chants.html"/>
+    <item media-type="application/xhtml+xml" id="chants_suttas.html" href="chants/suttas.html"/>
+    <item media-type="application/xhtml+xml" id="chants_patimokkha-chants.html" href="chants/patimokkha-chants.html"/>
+    <item media-type="application/xhtml+xml" id="chants_sri-lanka.html" href="chants/sri-lanka.html"/>
+    <item media-type="application/xhtml+xml" id="vinaya-notes.html" href="vinaya-notes.html"/>
+    <item media-type="application/xhtml+xml" id="vinaya_guidelines.html" href="vinaya/guidelines.html"/>
+    <item media-type="application/xhtml+xml" id="vinaya_requisites.html" href="vinaya/requisites.html"/>
+    <item media-type="application/xhtml+xml" id="vinaya_offences.html" href="vinaya/offences.html"/>
+    <item media-type="application/xhtml+xml" id="vinaya_uposatha.html" href="vinaya/uposatha.html"/>
+    <item media-type="application/xhtml+xml" id="vinaya_rains-and-kathina.html" href="vinaya/rains-and-kathina.html"/>
+    <item media-type="application/xhtml+xml" id="vinaya_other-procedures.html" href="vinaya/other-procedures.html"/>
+    <item media-type="application/xhtml+xml" id="vinaya_useful-notes.html" href="vinaya/useful-notes.html"/>
+    <item media-type="application/xhtml+xml" id="appendix.html" href="appendix.html"/>
+    <item media-type="application/xhtml+xml" id="pali-phonetics-and-pronunciation.html" href="pali-phonetics-and-pronunciation.html"/>
+    <item media-type="application/xhtml+xml" id="quotations.html" href="quotations.html"/>
+    <item media-type="application/xhtml+xml" id="namo-tassa.html" href="namo-tassa.html"/>
+    <item media-type="application/xhtml+xml" id="print-guide.html" href="print-guide.html"/>
+    <item media-type="application/xhtml+xml" id="copyright.html" href="copyright.html"/>
+    <item media-type="image/jpeg" id="cover-image" href="reference-desktop-cover.jpg"/>
+    <item media-type="text/css" id="stylesheet.css" href="stylesheet.css"/>
+    <item media-type="image/jpeg" id="includes_images_bud-dho-su-sud-dho.jpg" href="includes/images/bud-dho-su-sud-dho.jpg"/>
+    <item media-type="image/jpeg" id="includes_images_a-nic-ca.jpg" href="includes/images/a-nic-ca.jpg"/>
+    <item media-type="image/jpeg" id="includes_images_reference-desktop-cover.jpg" href="includes/images/reference-desktop-cover.jpg"/>
+    <item media-type="font/ttf" id="assets_fonts_NunitoSansX-Regular.ttf" href="assets/fonts/NunitoSansX-Regular.ttf"/>
+    <item media-type="font/ttf" id="assets_fonts_NunitoSansX-Italic.ttf" href="assets/fonts/NunitoSansX-Italic.ttf"/>
+    <item media-type="font/ttf" id="assets_fonts_NunitoSansX-Bold.ttf" href="assets/fonts/NunitoSansX-Bold.ttf"/>
+    <item media-type="font/ttf" id="assets_fonts_OpenSansX-Regular.ttf" href="assets/fonts/OpenSansX-Regular.ttf"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage.html"/>
+    <itemref idref="first-lines.html"/>
+    <itemref idref="essential-chants.html"/>
+    <itemref idref="chants_morning-chanting.html"/>
+    <itemref idref="chants_evening-chanting.html"/>
+    <itemref idref="chants_reflections.html"/>
+    <itemref idref="chants_parittas.html"/>
+    <itemref idref="chants_anumodana.html"/>
+    <itemref idref="chants_funeral-chants.html"/>
+    <itemref idref="chants_suttas.html"/>
+    <itemref idref="chants_patimokkha-chants.html"/>
+    <itemref idref="chants_sri-lanka.html"/>
+    <itemref idref="vinaya-notes.html"/>
+    <itemref idref="vinaya_guidelines.html"/>
+    <itemref idref="vinaya_requisites.html"/>
+    <itemref idref="vinaya_offences.html"/>
+    <itemref idref="vinaya_uposatha.html"/>
+    <itemref idref="vinaya_rains-and-kathina.html"/>
+    <itemref idref="vinaya_other-procedures.html"/>
+    <itemref idref="vinaya_useful-notes.html"/>
+    <itemref idref="appendix.html"/>
+    <itemref idref="pali-phonetics-and-pronunciation.html"/>
+    <itemref idref="quotations.html"/>
+    <itemref idref="namo-tassa.html"/>
+    <itemref idref="print-guide.html"/>
+    <itemref idref="copyright.html"/>
+  </spine>
+  <guide>
+    <reference type="toc" title="Table Of Contents" href="nav.xhtml"/>
+    <reference type="text" title="Bhikkhu Manual" href="titlepage.html"/>
+  </guide>
+</package>
