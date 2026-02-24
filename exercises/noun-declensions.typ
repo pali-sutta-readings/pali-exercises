@@ -418,7 +418,7 @@ The *Dative* expresses: *"To whom/what? For whom/what? For what purpose?"*
 + Abhiññāya sambodhāya nibbānāya saṁvattati. \
   #fillin(15cm, "Leads to higher knowledge, to awakening, to Nibbāna.")
 
-+ Na hi verena veraṁ sammati. \
++ Na hi verena veraṁ sammati. (Dhp 5 simpl.) \
   #fillin(15cm, "Indeed, not by hostility the hostility is calmed.")
 
 + Puññakammena kusalacittaṁ bhāveti. \
@@ -427,7 +427,7 @@ The *Dative* expresses: *"To whom/what? For whom/what? For what purpose?"*
 + Kusalehi dhammehi cittaṁ vimuccati. \
   #fillin(15cm, "By wholesome qualities he liberates the mind.")
 
-+ Kena ādittaṁ? Dukkhehi domanassehi upāyāsehi ādittaṁ. \
++ Kena ādittaṁ? Dukkhehi domanassehi upāyāsehi ādittaṁ. (SN 35.28 simpl.) \
   #fillin(15cm, "By what it is burning? By sufferings, griefs, despairs it is burning.")
 
 + Kassapo kālena odanaṁ bhuñjati. \
@@ -438,6 +438,12 @@ The *Dative* expresses: *"To whom/what? For whom/what? For what purpose?"*
 
 + Nandiyo sakko bhagavantaṁ upasaṅkamati kālena kālaṁ dassanāya. \
   #fillin(15cm, "Nandiyo the Sakyan approaches the Blessed One from time to time to see him.")
+
+// + Majjhimā paṭipadā tathāgatena abhisambuddhā. \
+//   #fillin(15cm, "The middle way was awakened to (understood) by the Tathāgata.")
+
+// + Sabba-buddhānubhāvena sadā sotthī bhavantu te. \
+//   #fillin(15cm, "By the power of all the Buddhas, may you always be safe.")
 
 === Translate into Pāli
 
@@ -540,7 +546,7 @@ In an attribute sentence, _hoti_ is often omitted as it can be easily inferred. 
 
 The nominatives may form pairs, read them as equational phrases: _A_ is the _B_, and _C_ is the _D_, etc. Such a sequence forms a "nominal clause".
 
-_Kammaṁ khettaṁ viññāṇaṁ bījaṁ taṇhā sneho._
+_Kammaṁ khettaṁ viññāṇaṁ bījaṁ taṇhā sneho._ (AN 3.76)
 
 #table(
   columns: 3,
@@ -551,7 +557,7 @@ _Kammaṁ khettaṁ viññāṇaṁ bījaṁ taṇhā sneho._
 )
 
 _Appamādo amatapadaṁ_ \
-_pamādo maccuno padaṁ_ \
+_pamādo maccuno padaṁ_ (Dhp 21) \
 
 #table(
   columns: 3,
@@ -631,7 +637,7 @@ block[
 
 #set enum(start: 9)
 
-+ Rūpaṁ anattā, tasmā rūpaṁ ābādhāya saṁvattati. \
++ Rūpaṁ anattā, tasmā rūpaṁ ābādhāya saṁvattati. (SN 22.59) \
   #fillin(15cm, "Form is not self, therefore form leads to affliction.")
 
 + Taṁ kiṁ maññatha bhikkhave, rūpaṁ niccaṁ vā aniccaṁ vā’ti? Aniccaṁ bhante. \
@@ -694,22 +700,145 @@ Both *ajjhattaṁ* and *bahiddhā* are adverbs qualifying *rūpaṁ* (nt.acc.sg.
 
 The *neuter -a stem* ablative declension is the same as the *masculine -a*.
 
+The *Ablative* expresses separation, origin, or cause: *From where? From whom/what? Because of what?*
+
+*(a)* *"From where?"* Indicates motion away from, separation, origin.
+
+#table(
+  columns: 2,
+  [Corā gāmamhā pabbataṁ dhāvanti.], [Thieves run from the village to the mountain.],
+  [Kumāro rukkhasmā papatati.], [The boy falls from the tree.],
+)
+
+*(b)* *"From whom?"* Asking, receiving, taking from someone.
+
+#table(
+  columns: 2,
+  [TODO], [TODO], // FIXME
+)
+
+*NOTE:* The Pāli idiom for asking questions is not "asked from somebody (abl.)" (English idiom), but "asked to somebody (acc.)". A way to remember it is that the question is "put to" somebody.
+
+Pucchāmi ahaṁ Āyasmantaṁ Nāradaṁ etaṁ pañhaṁ. (SN 12.68) \
+I ask the Ven. Nārada this question.
+
+*(c)* *"Because of what?"* (From what cause?) Indicates the cause or reason. 
+
+#table(
+  columns: 2,
+  [Attanā mahabbhayaṁ uppajjati.], [From (because of) his self great fear arises.],
+)
+
+*Tasmā* ("therefore", abl. of *ta*) and *yasmā* ("because", abl. of *ya*) are common ablative forms used as conjunctions.
+
+#table(
+  columns: 1,
+  [Yasmā ca kho, bhikkhave, rūpaṁ anattā, #B[tasmā] rūpaṁ ābādhāya saṁvattati. (SN 22.59)],
+  [Because form is not-self, therefore form leads to affliction.],
+)
+
+*The suffix -to* forms adverbs with an ablative sense. _Buddhato_: from the Buddha. E.g.: _munito, senānito, garuto, viduto_.
+
 === Vocabulary
 
-TODO
+#table(
+  columns: 2,
+  [#strong[agāra]], [#emph[\(nt)] dwelling; building; house],
+  [#strong[antalikkha]], [#emph[\(nt)] sky; air],
+  [#strong[antara]], [#emph[\(adj)] inside; inner; internal],
+  [#strong[āsava]], [#emph[\(masc)] discharge; outflow; defilement],
+  [#strong[bhaya]], [#emph[\(nt)] fear (of); terror (of)],
+  [#strong[dvāra]], [#emph[\(nt)] door; entrance; gate],
+  [#strong[hetu]], [#emph[\(masc)] reason (for); cause (for); sake (of)],
+  [#strong[idāni]], [#emph[\(ind)] now; soon; at present],
+  [#strong[ito]], [#emph[\(ind)] (of place) from here; away from],
+  [#strong[kasmā]], [#emph[\(ind)] why? #emph[interr, abl sg of ka]],
+  [#strong[mandārava]], [#emph[\(masc)] coral tree],
+  [#strong[pabbajita]], [#emph[\(masc)] monk; monastic; renunciant],
+  [#strong[pabbata]], [#emph[\(masc)] rock, mountain],
+  [#strong[padīpa]], [#emph[\(masc)] lamp; light],
+  [#strong[pāpa]], [#emph[\(masc)] evil doer; criminal; wrong-doer],
+  [#strong[samaṇa]], [#emph[\(masc)] ascetic; renunciant; monk],
+  [#strong[upāsaka]], [#emph[\(masc)] lay disciple; lay devotee],
+  [#strong[vihāra]], [#emph[\(masc)] dwelling; residence],
+)
+
+#table(
+  columns: 2,
+  [#strong[āgacchati]], [comes (to); arrives (at)],
+  [#strong[āharati]], [brings; brings back; fetches],
+  [#strong[dhāvati]], [runs (to); races (to)],
+  [#strong[nikkhamati]], [goes out (from); comes out (from); leaves],
+  [#strong[pabhavati]], [arises (from); originates (from); appears (from)],
+  [#strong[patati]], [falls (on); lands (on)],
+  [#strong[uppajjati]], [appears; arises; occurs],
+  [#strong[vinassati]], [perishes; is destroyed],
+  [#strong[vūpasammati]], [is extinguished; subsides completely],
+)
+
+#pagebreak()
 
 === Translate into English
 
-TODO
+#set enum(start: 1)
 
-// Dibbāni mandāravapupphāni antalikkhā papatanti.
++ Narā gāmasmā nikkhamanti. \
+  #fillin(15cm, "The men leave from the village.")
 
-// Rūpe aniccato jānato passato avijjā pahīyati, vijjā uppajjati.
++ Kumāro rukkhamhā patati. \
+  #fillin(15cm, "The boy falls from the tree.")
+
++ Corā pabbatasmā gāmaṁ dhāvanti. \
+  #fillin(15cm, "The thieves run from the mountain to the village.")
+
++ Sīhā pabbatehi oruhanti. \
+  #fillin(15cm, "The lions descend from the mountains.")
+
++ Sisso ācariyasmā dhammaṁ pucchati. \
+  #fillin(15cm, "The student asks the teacher about the Dhamma.")
+
++ Puriso vihāramhā pattaṁ āharati. \
+  #fillin(15cm, "The man brings the bowl from the monastery.")
+
++ Dibbāni mandāravapupphāni antalikkhā papatanti. (DN 16) \
+  #fillin(15cm, "Heavenly mandārava flowers are falling from the sky.")
+
++ Upāsakā samaṇehi saddhiṁ vihārasmā nikkhamanti. \
+  #fillin(15cm, "The lay devotees set out from the monastery with the monks.")
+
++ Idāni kasmā so puriso ito nikkhamati? \
+  #fillin(15cm, "Why does that man depart now from here?")
+
++ Gāmamhā āgataṁ purisaṁ na passāmi. (#pali[āgataṁ] = pp. "who has come") \
+  #fillin(15cm, "I do not see the man who has come from the village.")
+
++ Na kho panāhaṁ cīvarahetu agārasmā anagāriyaṁ pabbajito. (MN 17) \
+  #fillin(15cm, "It is not for the sake of robes that I went forth from the household into homelessness.")
+
++ Anupādāya āsavehi cittāni vimucciṁsu. (SN 35.28) \
+  #fillin(15cm, "Through not clinging, their minds were freed from the defilements.")
 
 === Translate into Pāli
 
-TODO
+#set enum(start: 1)
 
++ The boy falls from the tree. \
+  #fillin(15cm, "Kumāro rukkhasmā / rukkhamhā patati.")
+
++ The men set out from the monastery. \
+  #fillin(15cm, "Narā vihārasmā / vihāramhā nikkhamanti.")
+
++ The thief runs from the village to the mountain. \
+  #fillin(15cm, "Coro gāmamhā pabbataṁ dhāvati.")
+
++ The man brings the horse from the village. \
+  #fillin(15cm, "Naro gāmasmā assaṁ āharati.")
+
++ The lay devotees leave the monastery with the monks. \
+  #fillin(15cm, "Upāsakā samaṇehi saddhiṁ vihāramhā nikkhamanti.")
+
++ The cook brings the food from the village. \
+  #fillin(15cm, "Sūdo gāmasmā bhattaṁ āharati.")
 
 #pagebreak()
 
