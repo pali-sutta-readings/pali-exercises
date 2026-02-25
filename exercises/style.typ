@@ -86,6 +86,7 @@
   title: none,
   title-image: none,
   subtitle-content: none,
+  language: "en",
   body
 ) = {
   // Set document properties
@@ -98,7 +99,7 @@
     font: document-style.fonts.body,
     size: document-style.sizes.body,
     fill: document-style.colors.text,
-    lang: "en",
+    lang: language,
   )
 
   // Paragraph settings - justified with generous spacing
@@ -154,12 +155,31 @@
       v(1em)
     }
 
+    let answer-key-text = if (language == "en") {
+      "Answer Key"
+    } else if (language == "pt") {
+      "Chave de Respostas"
+    } else if (language == "it") {
+      "Risposte Esatte"
+    } else if (language == "es") {
+      "Clave de Respuestas"
+    } else {
+      "Answer Key"
+    }
+
     // v(1.5cm)
     // line(length: 40%, stroke: 0.5pt + luma(180))
     // v(0.4cm)
     block(height: 14pt)[
       #if answerkey {
-        text(size: 14pt, fill: rgb("#c0392b"), weight: "bold")[ANSWER KEY]
+        text(
+          font: document-style.fonts.body,
+          size: 14pt,
+          fill: rgb("#c0392b"),
+          weight: "bold",
+          spacing: 4pt,
+          tracking: 1pt,
+        )[#upper[#answer-key-text]]
       }
     ]
 
@@ -357,7 +377,10 @@
 
 // Custom table of contents with Thai title
 // Shows level-1 and level-2 headings only
-#let table-of-contents(after-content: none) = {
+#let table-of-contents(
+  language: "en",
+  after-content: none,
+) = {
   set page(
     numbering: none,  // No page number on TOC
     header: none,
@@ -370,7 +393,19 @@
     weight: "regular",
   )
 
-  [Contents]
+    let contents-text = if (language == "en") {
+      "Contents"
+    } else if (language == "pt") {
+      "Índice"
+    } else if (language == "it") {
+      "Indice"
+    } else if (language == "es") {
+      "Índice"
+    } else {
+      "Contents"
+    }
+
+  [#contents-text]
 
   v(2em)
 

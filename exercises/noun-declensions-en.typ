@@ -2,9 +2,10 @@
 
 #show: document-setup.with(
   title: "Pāli Exercises",
+  language: "en",
 )
 
-#table-of-contents()
+#table-of-contents(language: "en")
 
 = Noun Declensions
 
