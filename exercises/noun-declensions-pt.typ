@@ -112,7 +112,7 @@ Os *nomes neutros com radical -a* partilham a maioria das formas de declinação
 
 Por exemplo *udaka (nt)* 'água' no acusativo singular é *udakaṁ*, a mesma forma do acusativo singular masculino. Portanto *udakaṁ pivati*, 'bebe água'.
 
-=== Traduzir para Inglês
+=== Traduzir para Português
 
 #grid(
 columns: (1fr, 1fr),
@@ -239,7 +239,7 @@ block[
 
 *Formas do plural dos verbos:* Vamos focar-nos em verbos que terminam em #B[-ati] e #B[-āti]. Na forma plural, a terminação do verbo muda de #B[-ti] para #B[-nti], e a vogal #B[ā] torna-se curta #B[a]. Ex.: #pali[passati] → #pali[passanti], #pali[suṇāti] → #pali[suṇanti].
 
-=== Traduzir para Inglês
+=== Traduzir para Português
 
 #grid(
 columns: (1fr, 1fr),
@@ -404,7 +404,7 @@ O *Dativo* exprime: *"A quem/quê? Para quem/quê? Com que propósito?"*
 
 #pagebreak()
 
-=== Traduzir para Inglês
+=== Traduzir para Português
 
 #set enum(start: 1)
 
@@ -596,7 +596,7 @@ _pamādo maccuno padaṁ_ (Dhp 21) \
   [#strong[papatati]], [cai (de); cai],
 )
 
-=== Traduzir para Inglês
+=== Traduzir para Português
 
 *NOTA:* O acusativo plural neutro também termina em #B[-e], além de #B[-āni]: #pali[pupphe] ou #pali[pupphāni] (flores), #pali[rūpe] ou #pali[rūpāni] (formas), #pali[kamme] ou #pali[kammāni] (atos).
 
@@ -778,7 +778,7 @@ Eu faço esta pergunta ao Ven. Nārada.
 
 #pagebreak()
 
-=== Traduzir para Inglês
+=== Traduzir para Português
 
 #set enum(start: 1)
 
@@ -882,7 +882,7 @@ Adicionando os casos *6. Genitivo* e *7. Locativo* (iguais para masc. e nt.), ju
 
 TODO
 
-=== Traduzir para Inglês
+=== Traduzir para Português
 
 TODO
 
@@ -960,7 +960,7 @@ ariyānaṁ gocare ratā. (Dhp 21-22)
 
 TODO
 
-=== Traduzir para Inglês
+=== Traduzir para Português
 
 TODO
 
@@ -992,7 +992,7 @@ TODO
 
 TODO
 
-=== Traduzir para Inglês
+=== Traduzir para Português
 
 TODO
 
@@ -1020,7 +1020,7 @@ TODO
 
 TODO
 
-=== Traduzir para Inglês
+=== Traduzir para Português
 
 TODO
 
@@ -1052,7 +1052,7 @@ TODO
 
 TODO
 
-=== Traduzir para Inglês
+=== Traduzir para Português
 
 TODO
 
