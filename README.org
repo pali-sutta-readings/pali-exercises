@@ -2,3 +2,6 @@
 
 * Declension Exercises
 
+* Translation
+
+: /translate-noun-declensions Catalan ca
