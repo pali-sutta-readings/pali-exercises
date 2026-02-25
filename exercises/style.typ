@@ -103,6 +103,8 @@
       "Indice"
     } else if (language == "es") {
       "Índice"
+    } else if (language == "ca") {
+      "Índex"
     } else {
       "Contents"
     }
@@ -235,6 +237,8 @@
       "Risposte Esatte"
     } else if (language == "es") {
       "Clave de Respuestas"
+    } else if (language == "ca") {
+      "Solucions"
     } else {
       "Answer Key"
     }

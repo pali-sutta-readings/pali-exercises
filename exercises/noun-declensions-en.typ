@@ -715,7 +715,8 @@ The *Ablative* expresses separation, origin, or cause: *From where? From whom/wh
 
 #table(
   columns: 2,
-  [TODO], [TODO], // FIXME
+  [Loko suriyamhā ālokaṁ labhati.], [The world gets light from the sun.],
+  [Samaṇo araññasmā āgamma purisamhā vatthaṁ labhati.], [The monk, having come from the forest, receives a cloth from the man.],
 )
 
 *NOTE:* The Pāli idiom for asking questions is not "asked from somebody (abl.)" (English idiom), but "asked to somebody (acc.)". A way to remember it is that the question is "put to" somebody.
