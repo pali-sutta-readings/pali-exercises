@@ -5,8 +5,6 @@
   language: "en",
 )
 
-#table-of-contents(language: "en")
-
 = Noun Declensions
 
 == Method
