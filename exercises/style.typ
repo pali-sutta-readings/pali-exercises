@@ -82,6 +82,78 @@
 
 #let answerkey = true
 
+// Custom table of contents with Thai title
+// Shows level-1 and level-2 headings only
+#let table-of-contents(
+  language: "en",
+  after-content: none,
+) = {
+  set align(center)
+  set text(
+    font: document-style.fonts.heading1,
+    size: document-style.sizes.heading1,
+    weight: "regular",
+  )
+
+    let contents-text = if (language == "en") {
+      "Contents"
+    } else if (language == "pt") {
+      "Índice"
+    } else if (language == "it") {
+      "Indice"
+    } else if (language == "es") {
+      "Índice"
+    } else {
+      "Contents"
+    }
+
+  [#contents-text]
+
+  v(2em)
+
+  set align(left)
+  set text(size: document-style.sizes.body)
+
+  // Custom outline showing only level 1 and 2
+  show outline.entry.where(level: 1): it => {
+    set text(
+      font: document-style.fonts.heading1,
+      size: document-style.sizes.heading3,
+      weight: "regular"
+    )
+    v(0.8em, weak: false)
+    block(
+      width: 100%,
+      {
+        // Add spacing after level-1 entries
+        it
+      }
+    )
+  }
+
+  show outline.entry.where(level: 2): it => {
+    set text(
+      font: document-style.fonts.body,
+      size: document-style.sizes.body
+    )
+    block(
+      inset: (left: 1.5em),
+      width: 100%,
+      it
+    )
+  }
+
+  outline(
+    title: none,
+    depth: 2,
+    indent: auto,
+  )
+
+  if after-content != none {
+    [#after-content]
+  }
+}
+
 #let document-setup(
   title: none,
   title-image: none,
@@ -185,6 +257,8 @@
 
     // pagebreak()
     v(1em)
+
+    [#table-of-contents(language: language)]
   }
 
   // ============================================================================
@@ -373,83 +447,6 @@
   }
 
   body
-}
-
-// Custom table of contents with Thai title
-// Shows level-1 and level-2 headings only
-#let table-of-contents(
-  language: "en",
-  after-content: none,
-) = {
-  set page(
-    numbering: none,  // No page number on TOC
-    header: none,
-  )
-
-  set align(center)
-  set text(
-    font: document-style.fonts.heading1,
-    size: document-style.sizes.heading1,
-    weight: "regular",
-  )
-
-    let contents-text = if (language == "en") {
-      "Contents"
-    } else if (language == "pt") {
-      "Índice"
-    } else if (language == "it") {
-      "Indice"
-    } else if (language == "es") {
-      "Índice"
-    } else {
-      "Contents"
-    }
-
-  [#contents-text]
-
-  v(2em)
-
-  set align(left)
-  set text(size: document-style.sizes.body)
-
-  // Custom outline showing only level 1 and 2
-  show outline.entry.where(level: 1): it => {
-    set text(
-      font: document-style.fonts.heading1,
-      size: document-style.sizes.heading3,
-      weight: "regular"
-    )
-    v(0.8em, weak: false)
-    block(
-      width: 100%,
-      {
-        // Add spacing after level-1 entries
-        it
-      }
-    )
-  }
-
-  show outline.entry.where(level: 2): it => {
-    set text(
-      font: document-style.fonts.body,
-      size: document-style.sizes.body
-    )
-    block(
-      inset: (left: 1.5em),
-      width: 100%,
-      it
-    )
-  }
-
-  outline(
-    title: none,
-    depth: 2,
-    indent: auto,
-  )
-
-  if after-content != none {
-    [#after-content]
-  }
 }
 
 
