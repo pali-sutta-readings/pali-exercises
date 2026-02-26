@@ -414,7 +414,7 @@ The *Dative* expresses: *"To whom/what? For whom/what? For what purpose?"*
 + Ācariyo sissena saddhiṁ gacchati. (#pali[saddhiṁ] = "together with") \
   #fillin(15cm, "The teacher goes together with the student.")
 
-+ Abhiññāya sambodhāya nibbānāya saṁvattati. \
++ Abhiññāya sambodhāya nibbānāya saṁvattati. (SN 56.11) \
   #fillin(15cm, "Leads to higher knowledge, to awakening, to Nibbāna.")
 
 + Na hi verena veraṁ sammati. (Dhp 5 simpl.) \
@@ -570,6 +570,143 @@ _pamādo maccuno padaṁ_ (Dhp 21) \
   [_masc.nom.sg._], [], [_masc.gen.sg. + nt.nom.sg._],
   [the negligence], [], [is the path of death],
 )
+
+#pagebreak()
+
+=== Simple Present Tense (-āmi, -asi, -ati)
+
+Actions that are happening at the present moment, occurring regularly, or general truths.
+
+#align(center)[
+#grid(
+  columns: (1fr, 1fr),
+  gutter: 2em,
+  block[
+    Verbal terminations:
+
+    #table(
+      columns: 3,
+      [], [#strong[sg.]], [#strong[pl.]],
+      [#strong[1st]], [-mi], [-ma],
+      [#strong[2nd]], [-si], [-tha],
+      [#strong[3rd]], [-ti], [-(a)nti],
+    )
+
+    The base is obtained by removing the 3rd.sg. #box[termination] #emph[\-ti] from the conjugated form.
+  ],
+  block[
+    Root: #emph[√dhāv] (to run), base: #emph[dhāva]
+
+    #table(
+      columns: 3,
+      [], [#strong[sg.]], [#strong[pl.]],
+      [#strong[1st]], [dhāvāmi], [dhāvāma],
+      [#strong[2nd]], [dhāvasi], [dhāvatha],
+      [#strong[3rd]], [dhāvati], [dhāvanti],
+    )
+
+    The final #emph[\-a] of the base is lengthened before #emph[m]: #emph[dhāvāmi, dhāvāma].
+  ],
+)]
+
+#v(1em)
+
+When addressing a senior, the *2nd.pl.* form is used (honorific plural):
+
+#grid(
+  columns: (1fr, 1fr),
+  gutter: 2em,
+  block[
+    "Passa#B[si] āvuso?" "Āma bhante, passāmi." \
+    #fillin(7cm, "Do you see, friend? Yes, ven. sir, I see.")
+  ],
+  block[
+    "Passa#B[tha] bhante?" "Āma āvuso, passāmi." \
+    #fillin(7cm, "Do you see, ven. sir? Yes, friend, I see.")
+  ]
+)
+
+#v(1em)
+
+#grid(
+  columns: (1fr, 1fr),
+  gutter: 2em,
+  block[
+    #table(
+      columns: 2,
+      [he goes], [gacchati],
+      [we go], [#fillin(4cm, "gacchāma")],
+      [he comes], [āgacchati],
+      [they come], [#fillin(4cm, "āgacchanti")],
+      [he walks], [carati],
+      [they walk], [#fillin(4cm, "caranti")],
+      [he chews], [khādati],
+      [you (sg.) chew], [#fillin(4cm, "khādasi")],
+      [he eats (enjoys)], [bhuñjati],
+      [they eat], [#fillin(4cm, "bhuñjanti")],
+    )
+  ],
+  block[
+    #table(
+      columns: 2,
+      [he sees], [passati],
+      [you (sg.) see], [#fillin(4cm, "passasi")],
+      [he recites], [uddisati],
+      [I recite], [#fillin(4cm, "uddisāmi")],
+      [he gives (to)], [deti],
+      [you (pl.) give (to)], [#fillin(4cm, "detha")],
+      [he informs], [āroceti],
+      [I inform], [#fillin(4cm, "ārocemi")],
+      [he confesses], [āvikaroti],
+      [you (sg.) confess], [#fillin(4cm, "āvikarosi")],
+    )
+  ]
+)
+
+#pagebreak()
+
+==== Present Tense of Irregular Verb √as (to be)
+
+#align(center)[
+#table(
+  columns: 5,
+  [], [#strong[sg.]], [], [#strong[pl.]], [],
+  [1st], [amhi, asmi], [I am], [amha, amhā, asma], [we are],
+  [2nd], [asi], [you are], [attha], [you all are],
+  [3rd], [atthi], [he is], [santi], [they are],
+)]
+
+#v(1em)
+
+#emph[n\'eso\'ham\'asmi:] \[na + eso + ahaṁ + #B[asmi]\] lit. not this I am (SN 22.59)
+
+#v(1em)
+
+Atthi, bhikkhave, ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ. (Ud 8.3) \
+#fillin(15cm, "There is, monks, an unborn, unoriginated, uncreated, unfabricated.")
+
+N'atthi me saraṇaṁ aññaṁ, Buddho me saraṇaṁ varaṁ. \
+#fillin(15cm, "For me there is no other refuge, the Buddha is my excellent refuge.")
+
+Santi sattā apparajakkhajātikā, assavanatā dhammassa parihāyanti. (MN 26) \
+#fillin(15cm, "There are beings with little dust in their eyes. They're in decline because they haven't heard the teaching.")
+
+==== Present Tense of Irregular Verb √hū (to be)
+
+#align(center)[
+#table(
+  columns: 5,
+  align: (auto,auto,auto,auto,auto,),
+  [], [#strong[sg.]], [], [#strong[pl.]], [],
+  [1st], [homi], [I am], [homa], [we are],
+  [2nd], [hosi], [you are], [hotha], [you all are],
+  [3rd], [hoti], [he is], [honti], [they are],
+)]
+
+#v(1em)
+
+Ahaṁ sukhito homi, niddukkho homi, avero homi ... \
+#fillin(15cm, "May I abide in well-being, may I be without affliction, may I be without hostility ...")
 
 #pagebreak()
 

@@ -414,7 +414,7 @@ El *Datiu* expressa: *"A qui/què? Per a qui/què? Amb quin propòsit?"*
 + Ācariyo sissena saddhiṁ gacchati. (#pali[saddhiṁ] = "juntament amb") \
   #fillin(15cm, "El mestre va juntament amb l'alumne.")
 
-+ Abhiññāya sambodhāya nibbānāya saṁvattati. \
++ Abhiññāya sambodhāya nibbānāya saṁvattati. (SN 56.11) \
   #fillin(15cm, "Condueix al coneixement superior, al despertar, al Nibbāna.")
 
 + Na hi verena veraṁ sammati. (Dhp 5 simpl.) \
@@ -570,6 +570,141 @@ _pamādo maccuno padaṁ_ (Dhp 21) \
   [_masc.nom.sg._], [], [_masc.gen.sg. + nt.nom.sg._],
   [la negligència], [], [és el camí de la mort],
 )
+
+=== Present Simple (-āmi, -asi, -ati)
+
+Accions que estan passant en el moment present, que ocorren regularment, o veritats generals.
+
+#align(center)[
+#grid(
+  columns: (1fr, 1fr),
+  gutter: 2em,
+  block[
+    Terminacions verbals:
+
+    #table(
+      columns: 3,
+      [], [#strong[sg.]], [#strong[pl.]],
+      [#strong[1a]], [-mi], [-ma],
+      [#strong[2a]], [-si], [-tha],
+      [#strong[3a]], [-ti], [-(a)nti],
+    )
+
+    La base s'obté eliminant la terminació de la 3a sg. #box[terminació] #emph[\-ti] de la forma conjugada.
+  ],
+  block[
+    Arrel: #emph[√dhāv] (córrer), base: #emph[dhāva]
+
+    #table(
+      columns: 3,
+      [], [#strong[sg.]], [#strong[pl.]],
+      [#strong[1a]], [dhāvāmi], [dhāvāma],
+      [#strong[2a]], [dhāvasi], [dhāvatha],
+      [#strong[3a]], [dhāvati], [dhāvanti],
+    )
+
+    L'#emph[\-a] final de la base s'allarga davant d'#emph[m]: #emph[dhāvāmi, dhāvāma].
+  ],
+)]
+
+#v(1em)
+
+Quan ens adrecem a un superior, es fa servir la forma de la *2a pl.* (plural honorífic):
+
+#grid(
+  columns: (1fr, 1fr),
+  gutter: 2em,
+  block[
+    "Passa#B[si] āvuso?" "Āma bhante, passāmi." \
+    #fillin(7cm, "Hi veus, amic? Sí, ven. senyor, jo hi veig.")
+  ],
+  block[
+    "Passa#B[tha] bhante?" "Āma āvuso, passāmi." \
+    #fillin(7cm, "Hi veieu, ven. senyor? Sí, amic, jo hi veig.")
+  ]
+)
+
+#v(1em)
+
+#grid(
+  columns: (1fr, 1fr),
+  gutter: 2em,
+  block[
+    #table(
+      columns: 2,
+      [ell va], [gacchati],
+      [nosaltres anem], [#fillin(4cm, "gacchāma")],
+      [ell ve], [āgacchati],
+      [ells vénen], [#fillin(4cm, "āgacchanti")],
+      [ell camina], [carati],
+      [ells caminen], [#fillin(4cm, "caranti")],
+      [ell mastega], [khādati],
+      [tu mastegues], [#fillin(4cm, "khādasi")],
+      [ell menja (gaudeix)], [bhuñjati],
+      [ells mengen], [#fillin(4cm, "bhuñjanti")],
+    )
+  ],
+  block[
+    #table(
+      columns: 2,
+      [ell veu], [passati],
+      [tu veus], [#fillin(4cm, "passasi")],
+      [ell recita], [uddisati],
+      [jo recito], [#fillin(4cm, "uddisāmi")],
+      [ell dóna (a)], [deti],
+      [vosaltres doneu (a)], [#fillin(4cm, "detha")],
+      [ell informa], [āroceti],
+      [jo informo], [#fillin(4cm, "ārocemi")],
+      [ell confessa], [āvikaroti],
+      [tu confesses], [#fillin(4cm, "āvikarosi")],
+    )
+  ]
+)
+
+#pagebreak()
+
+==== Present del Verb Irregular √as (ser/estar)
+
+#align(center)[
+#table(
+  columns: 5,
+  [], [#strong[sg.]], [], [#strong[pl.]], [],
+  [1a], [amhi, asmi], [jo sóc], [amha, amhā, asma], [nosaltres som],
+  [2a], [asi], [tu ets], [attha], [vosaltres sou],
+  [3a], [atthi], [ell és], [santi], [ells són],
+)]
+
+#v(1em)
+
+#emph[n\'eso\'ham\'asmi:] \[na + eso + ahaṁ + #B[asmi]\] lit. no això jo sóc (SN 22.59)
+
+#v(1em)
+
+Atthi, bhikkhave, ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ. (Ud 8.3) \
+#fillin(15cm, "Hi ha, monjos, un no-nascut, no-originat, no-creat, no-fabricat.")
+
+N'atthi me saraṇaṁ aññaṁ, Buddho me saraṇaṁ varaṁ. \
+#fillin(15cm, "Per a mi no hi ha cap altre refugi, el Buda és el meu excel·lent refugi.")
+
+Santi sattā apparajakkhajātikā, assavanatā dhammassa parihāyanti. (MN 26) \
+#fillin(15cm, "Hi ha éssers amb poca pols als ulls. Estan en declivi perquè no han escoltat l'ensenyament.")
+
+==== Present del Verb Irregular √hū (ser/estar)
+
+#align(center)[
+#table(
+  columns: 5,
+  align: (auto,auto,auto,auto,auto,),
+  [], [#strong[sg.]], [], [#strong[pl.]], [],
+  [1a], [homi], [jo sóc], [homa], [nosaltres som],
+  [2a], [hosi], [tu ets], [hotha], [vosaltres sou],
+  [3a], [hoti], [ell és], [honti], [ells són],
+)]
+
+#v(1em)
+
+Ahaṁ sukhito homi, niddukkho homi, avero homi ... \
+#fillin(15cm, "Que jo visqui en benestar, que estigui lliure d'aflicció, que estigui lliure d'hostilitat ...")
 
 #pagebreak()
 

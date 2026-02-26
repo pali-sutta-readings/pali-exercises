@@ -414,7 +414,7 @@ O *Dativo* exprime: *"A quem/quê? Para quem/quê? Com que propósito?"*
 + Ācariyo sissena saddhiṁ gacchati. (#pali[saddhiṁ] = "juntamente com") \
   #fillin(15cm, "O professor vai juntamente com o aluno.")
 
-+ Abhiññāya sambodhāya nibbānāya saṁvattati. \
++ Abhiññāya sambodhāya nibbānāya saṁvattati. (SN 56.11) \
   #fillin(15cm, "Conduz ao conhecimento superior, ao despertar, ao Nibbāna.")
 
 + Na hi verena veraṁ sammati. (Dhp 5 simpl.) \
@@ -570,6 +570,141 @@ _pamādo maccuno padaṁ_ (Dhp 21) \
   [_masc.nom.sg._], [], [_masc.gen.sg. + nt.nom.sg._],
   [a negligência], [], [é o caminho da morte],
 )
+
+=== Presente Simples (-āmi, -asi, -ati)
+
+Ações que estão a acontecer no momento presente, que ocorrem regularmente, ou verdades gerais.
+
+#align(center)[
+#grid(
+  columns: (1fr, 1fr),
+  gutter: 2em,
+  block[
+    Terminações verbais:
+
+    #table(
+      columns: 3,
+      [], [#strong[sg.]], [#strong[pl.]],
+      [#strong[1.ª]], [-mi], [-ma],
+      [#strong[2.ª]], [-si], [-tha],
+      [#strong[3.ª]], [-ti], [-(a)nti],
+    )
+
+    A base obtém-se removendo a terminação da 3.ª sg. #box[terminação] #emph[\-ti] da forma conjugada.
+  ],
+  block[
+    Raiz: #emph[√dhāv] (correr), base: #emph[dhāva]
+
+    #table(
+      columns: 3,
+      [], [#strong[sg.]], [#strong[pl.]],
+      [#strong[1.ª]], [dhāvāmi], [dhāvāma],
+      [#strong[2.ª]], [dhāvasi], [dhāvatha],
+      [#strong[3.ª]], [dhāvati], [dhāvanti],
+    )
+
+    O #emph[\-a] final da base é alongado antes de #emph[m]: #emph[dhāvāmi, dhāvāma].
+  ],
+)]
+
+#v(1em)
+
+Ao dirigir-se a um sénior, usa-se a forma da *2.ª pl.* (plural honorífico):
+
+#grid(
+  columns: (1fr, 1fr),
+  gutter: 2em,
+  block[
+    "Passa#B[si] āvuso?" "Āma bhante, passāmi." \
+    #fillin(7cm, "Vês, amigo? Sim, ven. senhor, eu vejo.")
+  ],
+  block[
+    "Passa#B[tha] bhante?" "Āma āvuso, passāmi." \
+    #fillin(7cm, "Vedes, ven. senhor? Sim, amigo, eu vejo.")
+  ]
+)
+
+#v(1em)
+
+#grid(
+  columns: (1fr, 1fr),
+  gutter: 2em,
+  block[
+    #table(
+      columns: 2,
+      [ele vai], [gacchati],
+      [nós vamos], [#fillin(4cm, "gacchāma")],
+      [ele vem], [āgacchati],
+      [eles vêm], [#fillin(4cm, "āgacchanti")],
+      [ele caminha], [carati],
+      [eles caminham], [#fillin(4cm, "caranti")],
+      [ele mastiga], [khādati],
+      [tu mastigas], [#fillin(4cm, "khādasi")],
+      [ele come (desfruta)], [bhuñjati],
+      [eles comem], [#fillin(4cm, "bhuñjanti")],
+    )
+  ],
+  block[
+    #table(
+      columns: 2,
+      [ele vê], [passati],
+      [tu vês], [#fillin(4cm, "passasi")],
+      [ele recita], [uddisati],
+      [eu recito], [#fillin(4cm, "uddisāmi")],
+      [ele dá (a)], [deti],
+      [vós dais (a)], [#fillin(4cm, "detha")],
+      [ele informa], [āroceti],
+      [eu informo], [#fillin(4cm, "ārocemi")],
+      [ele confessa], [āvikaroti],
+      [tu confessas], [#fillin(4cm, "āvikarosi")],
+    )
+  ]
+)
+
+#pagebreak()
+
+==== Presente do Verbo Irregular √as (ser/estar)
+
+#align(center)[
+#table(
+  columns: 5,
+  [], [#strong[sg.]], [], [#strong[pl.]], [],
+  [1.ª], [amhi, asmi], [eu sou], [amha, amhā, asma], [nós somos],
+  [2.ª], [asi], [tu és], [attha], [vós sois],
+  [3.ª], [atthi], [ele é], [santi], [eles são],
+)]
+
+#v(1em)
+
+#emph[n\'eso\'ham\'asmi:] \[na + eso + ahaṁ + #B[asmi]\] lit. não isto eu sou (SN 22.59)
+
+#v(1em)
+
+Atthi, bhikkhave, ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ. (Ud 8.3) \
+#fillin(15cm, "Existe, monges, um não-nascido, não-originado, não-criado, não-fabricado.")
+
+N'atthi me saraṇaṁ aññaṁ, Buddho me saraṇaṁ varaṁ. \
+#fillin(15cm, "Para mim não há outro refúgio, o Buda é o meu excelente refúgio.")
+
+Santi sattā apparajakkhajātikā, assavanatā dhammassa parihāyanti. (MN 26) \
+#fillin(15cm, "Existem seres com pouca poeira nos olhos. Estão em declínio porque não ouviram o ensinamento.")
+
+==== Presente do Verbo Irregular √hū (ser/estar)
+
+#align(center)[
+#table(
+  columns: 5,
+  align: (auto,auto,auto,auto,auto,),
+  [], [#strong[sg.]], [], [#strong[pl.]], [],
+  [1.ª], [homi], [eu sou], [homa], [nós somos],
+  [2.ª], [hosi], [tu és], [hotha], [vós sois],
+  [3.ª], [hoti], [ele é], [honti], [eles são],
+)]
+
+#v(1em)
+
+Ahaṁ sukhito homi, niddukkho homi, avero homi ... \
+#fillin(15cm, "Que eu viva em bem-estar, que eu esteja livre de aflição, que eu esteja livre de hostilidade ...")
 
 #pagebreak()
 
