@@ -4,4 +4,4 @@
 
 * Translation
 
-: /translate-noun-declensions Catalan ca
+: /translate-noun-declensions Spanish es

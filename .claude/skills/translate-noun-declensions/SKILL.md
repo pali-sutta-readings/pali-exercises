@@ -16,4 +16,5 @@ Create the gloss file if it doesn't exist based on grammar-glossary-pt.md which 
 
 Read the gloss file (if already exists) to re-use the terms in future sessions for consistency of the translation.
 
+There is no need to read the other existing translations and gloss files, focus on what is necessary for the task.
 
