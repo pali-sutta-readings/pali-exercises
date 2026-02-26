@@ -17,6 +17,28 @@ Depois pratique as frases de exemplo. Quando uma nova secção começar, pratiqu
 
 A ordem dos casos é tradicional. Nas gramáticas são chamados 1.º caso, 2.º caso, etc. Para treinar o reconhecimento habitual, é bom praticá-los nessa ordem.
 
+== Termos gramaticais
+
+#table(
+  columns: 5,
+  [*Prefixo*], [*Raiz*], [*Sufixo*], [*Tema*], [*Declinação*],
+  [], [√budh (saber, despertar)], [-ta], [buddha], [buddho],
+  [], [√dhar (sustentar, carregar, suportar)], [-ma], [dhamma], [dhammo],
+  [saṁ], [√ghaṭ (juntar-se)], [-a], [saṅgha], [saṅgho],
+)
+
+- *Raiz:* O elemento mais básico e irredutível de uma palavra que contém o significado semântico principal.
+- *Prefixo/Sufixo:* Um elemento adicionado antes/depois de uma raiz para modificar o seu significado ou papel na frase.
+- *Tema:* A forma resultante da raiz combinada com um sufixo; é a base funcional para a flexão.
+- *Declinação:* O processo de adicionar terminações de caso a um tema para indicar a sua relação gramatical com outras palavras (género, número e caso).
+
+Abreviaturas:
+
+- _adj_ = adjetivo
+- _ind_ = indeclinável
+- _pp_ = particípio passado
+- _pron_ = pronome
+
 #pagebreak()
 
 == Nível 1: Masculino radical -a, Nominativo e Acusativo
@@ -154,11 +176,11 @@ block[
 #table(
   columns: 2,
   [#strong[cora]], [#emph[\(masc)] ladrão; assaltante],
-  [#strong[deva]], [#emph[\(masc)] divindade; deus #emph[de dibbati]],
+  [#strong[deva]], [#emph[\(masc)] divindade; deus; #emph[de dibbati]],
   [#strong[loka]], [#emph[\(masc)] mundo; universo],
   [#strong[odana]], [#emph[\(masc)] arroz; arroz cozido; comida],
   [#strong[rukkha]], [#emph[\(masc)] árvore],
-  [#strong[sissa]], [#emph[\(masc)] aluno; estudante #emph[ptp de sāsati]],
+  [#strong[sissa]], [#emph[\(masc)] aluno; estudante; #emph[pp de sāsati]],
 )
 
 ], block[
@@ -172,6 +194,8 @@ block[
 )
 
 ])
+
+#B[bhāsati] é usado como 'ele fala sobre (p. ex. o Dhamma)', #B[vadati] é usado como 'ele diz algo a alguém'.
 
 === Traduzir para Pāli
 
@@ -345,7 +369,7 @@ As partículas *saddhiṁ, saha* usadas com o caso instrumental, exprimem o sign
 - _vattha_: nt. tecido; roupas; hábito
 - _sobhati_: brilha (em); parece bonito (em)
 
-O *Dativo* exprime: *"A quem/quê? Para quem/quê? Com que propósito?"*
+O *Dativo* exprime: *"A quem? A quê? Para quem? Para quê? Com que propósito?"*
 
 *Buddhāya, Buddhassa*: ao ou para o Buda.
 
@@ -366,11 +390,15 @@ O *Dativo* exprime: *"A quem/quê? Para quem/quê? Com que propósito?"*
 
 === Vocabulário
 
+_adj_ = adjetivo; _ind_ = indeclinável; _pp_ = particípio passado; _pron_ = pronome
+
 #table(
   columns: 2,
+  row-gutter: 2pt,
   [#underline(offset: 2.25pt)[#B[Nomes]]], [],
-  [#strong[abhiññā]], [#emph[\(fem)] conhecimento direto; compreensão superior #emph[de abhijānāti]],
+  [#strong[abhiññā]], [#emph[\(fem)] conhecimento direto; compreensão superior; #emph[de abhijānāti]],
   [#strong[abyābajjha]], [#emph[\(adj)] sem má vontade; com boa vontade],
+  [#strong[āditta]], [#emph[\(pp)] ardente; a arder; em chamas],
   [#strong[asammūḷha]], [#emph[\(pp)] não confuso; não iludido; não perturbado],
   [#strong[avera]], [#emph[\(nt)] bondade; amizade; lit. não-má-vontade, não-hostilidade],
   [#strong[citta]], [#emph[\(nt)] mente; coração #emph[de ceteti]],
@@ -392,7 +420,6 @@ O *Dativo* exprime: *"A quem/quê? Para quem/quê? Com que propósito?"*
   [#strong[sīlasampanna]], [#emph[\(adj)] de excelente moralidade; realizado em virtude],
   [#strong[upāyāsa]], [#emph[\(masc)] aflição; perturbação; desespero],
   [#strong[vera]], [#emph[\(nt)] ódio; má vontade; hostilidade],
-  [], [],
   [#underline(offset: 2.25pt)[#B[Verbos]]], [],
   [#strong[acchādeti]], [veste; dá roupas (a)],
   [#strong[bhāveti]], [cultiva; desenvolve],
@@ -417,11 +444,15 @@ O *Dativo* exprime: *"A quem/quê? Para quem/quê? Com que propósito?"*
 + Abhiññāya sambodhāya nibbānāya saṁvattati. (SN 56.11) \
   #fillin(15cm, "Conduz ao conhecimento superior, ao despertar, ao Nibbāna.")
 
+A negação '#B[na]' pode estar no início da frase, mas refere-se ao verbo no final. Aqui, leia-se como '#B[na sammati]'. Se o nome #B[vera] fosse negado, seria '#B[na + vera = avera]'.
+
+#set enum(start: 4)
+
 + Na hi verena veraṁ sammati. (Dhp 5 simpl.) \
   #fillin(15cm, "De facto, não pela hostilidade a hostilidade é acalmada.")
 
-+ Puññakammena kusalacittaṁ bhāveti. \
-  #fillin(15cm, "Pela ação meritória ele desenvolve uma mente saudável.")
+// + Puññakammena kusalacittaṁ bhāveti. \
+//   #fillin(15cm, "Pela ação meritória ele desenvolve uma mente saudável.")
 
 + Kusalehi dhammehi cittaṁ vimuccati. \
   #fillin(15cm, "Pelas qualidades salutares ele liberta a mente.")
@@ -429,13 +460,13 @@ O *Dativo* exprime: *"A quem/quê? Para quem/quê? Com que propósito?"*
 + Kena ādittaṁ? Dukkhehi domanassehi upāyāsehi ādittaṁ. (SN 35.28 simpl.) \
   #fillin(15cm, "Por que está a arder? Pelos sofrimentos, tristezas, desesperos está a arder.")
 
-+ Kassapo kālena odanaṁ bhuñjati. \
++ Kassapo kālena odanaṁ bhuñjati. (#emph[Kassapo] é um nome.) \
   #fillin(15cm, "Kassapa come arroz no momento certo.")
 
 + Sīlasampanno asammūḷho kālaṁ karoti. \
   #fillin(15cm, "Aquele realizado na virtude morre sem confusão.")
 
-+ Nandiyo sakko bhagavantaṁ upasaṅkamati kālena kālaṁ dassanāya. \
++ Nandiyo sakko bhagavantaṁ upasaṅkamati kālena kālaṁ dassanāya. \ (#emph[Nandiyo] é um nome. #emph[Bhagavant]: o Abençoado.) \
   #fillin(15cm, "Nandiyo, o Sakya, aproxima-se do Abençoado de tempos a tempos para o ver.")
 
 // + Majjhimā paṭipadā tathāgatena abhisambuddhā. \
@@ -724,7 +755,7 @@ Ahaṁ sukhito homi, niddukkho homi, avero homi ... \
   [#strong[rūpa]], [#emph[\(nt)] forma; materialidade],
   [#strong[saṅkhāra]], [#emph[\(masc)] intenção; formação volitiva],
   [#strong[sukha]], [#emph[\(nt)] facilidade; conforto; felicidade],
-  [#strong[tasmā]], [#emph[\(ind)] portanto; é por isso que #emph[abl.sg. de ta]],
+  [#strong[tasmā]], [#emph[\(ind)] portanto; é por isso que; #emph[abl.sg. de ta]],
   [#strong[viññāṇa]], [#emph[\(nt)] consciência; cognição #emph[de vijānāti]],
   [#strong[yaṁ]], [#emph[\(pron)] que; quem quer que; o que quer que; #emph[nt.nom.sg. de ya]],
   [], [],
@@ -887,7 +918,7 @@ Eu faço esta pergunta ao Ven. Nārada.
   [#strong[hetu]], [#emph[\(masc)] razão (de); causa (de); motivo (de)],
   [#strong[idāni]], [#emph[\(ind)] agora; em breve; atualmente],
   [#strong[ito]], [#emph[\(ind)] (de lugar) daqui; para longe de],
-  [#strong[kasmā]], [#emph[\(ind)] porquê? #emph[interr, abl sg de ka]],
+  [#strong[kasmā]], [#emph[\(ind)] porquê?; #emph[interr, abl sg de ka]],
   [#strong[mandārava]], [#emph[\(masc)] árvore de coral],
   [#strong[pabbajita]], [#emph[\(masc)] monge; monástico; renunciante],
   [#strong[pabbata]], [#emph[\(masc)] rocha, montanha],

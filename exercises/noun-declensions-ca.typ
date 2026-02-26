@@ -17,9 +17,31 @@ Després practiqueu les frases d'exemple. Quan comenci una nova secció, practiq
 
 L'ordre dels casos és tradicional. A les gramàtiques s'anomenen 1r cas, 2n cas, etc. Per entrenar el reconeixement habitual, és bo practicar-los en aquest ordre.
 
+== Termes gramaticals
+
+#table(
+  columns: 5,
+  [*Prefix*], [*Arrel*], [*Sufix*], [*Arrel temàtica*], [*Declinació*],
+  [], [√budh (saber, despertar-se)], [-ta], [buddha], [buddho],
+  [], [√dhar (sostenir, portar, suportar)], [-ma], [dhamma], [dhammo],
+  [saṁ], [√ghaṭ (unir-se)], [-a], [saṅgha], [saṅgho],
+)
+
+- *Arrel:* L'element més bàsic i irreductible d'una paraula que porta el significat semàntic principal.
+- *Prefix/Sufix:* Un element afegit abans/després d'una arrel per modificar-ne el significat o el paper en la frase.
+- *Arrel temàtica:* La forma resultant de l'arrel combinada amb un sufix; és la base funcional per a la flexió.
+- *Declinació:* El procés d'afegir terminacions de cas a una arrel temàtica per indicar la seva relació gramatical amb altres paraules (gènere, nombre i cas).
+
+Abreviatures:
+
+- _adj_ = adjectiu
+- _ind_ = indeclinable
+- _pp_ = participi passat
+- _pron_ = pronom
+
 #pagebreak()
 
-== Nivell 1: Masculí arrel -a, Nominatiu i Acusatiu
+== Nivel 1: Masculino terminado en -a, Nominativo y Acusativo
 
 Practiqueu escriure la taula dels dos primers casos de declinació de memòria en paper.
 
@@ -29,8 +51,8 @@ Practiqueu escriure la taula dels dos primers casos de declinació de memòria e
   stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
   row-gutter: 0pt,
   table.header[*Cas*][*Singular*][*Plural*],
-  [1. Nominatiu (subjecte)],   [nar#B[o]],    [nar#B[ā]],
-  [2. Acusatiu (objecte)],    [nar#B[aṁ]],   [nar#B[e]],
+  [1. Nominativo (sujeto)],   [nar#B[o]],    [nar#B[ā]],
+  [2. Acusativo (objeto)],    [nar#B[aṁ]],   [nar#B[e]],
 )
 
 *Ordre de les paraules:* Subjecte(nom) + Objecte(acus) + Verb. En Pāli, el verb normalment va al final.
@@ -83,7 +105,7 @@ Aquestes qualitats condueixen al desapegament, no a l'apegament.
   [#strong[ācariya]], [#emph[\(masc)] mestre],
   [#strong[assa]], [#emph[\(masc)] cavall],
   [#strong[gāma]], [#emph[\(masc)] poble; llogaret],
-  [#strong[kumāra]], [#emph[\(masc)] noi jove],
+  [#strong[kumāra]], [#emph[\(masc)] chico joven],
   [#strong[maṁsa]], [#emph[\(nt)] carn],
   [#strong[miga]], [#emph[\(masc)] cérvol],
   [#strong[nara]], [#emph[\(masc)] home; persona],
@@ -103,7 +125,7 @@ Aquestes qualitats condueixen al desapegament, no a l'apegament.
   [#strong[passati]], [veu],
   [#strong[pivati]], [beu],
   [#strong[pucchati]], [pregunta; qüestiona],
-  [#strong[rakkhati]], [protegeix; vigila; guarda],
+  [#strong[rakkhati]], [protegeix; vigila],
 )
 
 ])
@@ -141,7 +163,7 @@ block[
   #fillin(6cm, "El cérvol beu aigua.")
 
 + Sīho maṁsaṁ rakkhati. \
-  #fillin(6cm, "El lleó guarda la carn.")
+  #fillin(6cm, "El lleó protegeix la carn.")
 
 ])
 
@@ -154,11 +176,11 @@ block[
 #table(
   columns: 2,
   [#strong[cora]], [#emph[\(masc)] lladre; atracador],
-  [#strong[deva]], [#emph[\(masc)] divinitat; déu #emph[de dibbati]],
+  [#strong[deva]], [#emph[\(masc)] divinitat; déu; #emph[de dibbati]],
   [#strong[loka]], [#emph[\(masc)] món; univers],
   [#strong[odana]], [#emph[\(masc)] arròs; arròs bullit; menjar],
   [#strong[rukkha]], [#emph[\(masc)] arbre],
-  [#strong[sissa]], [#emph[\(masc)] alumne; estudiant #emph[ptp de sāsati]],
+  [#strong[sissa]], [#emph[\(masc)] alumne; estudiant; #emph[pp de sāsati]],
 )
 
 ], block[
@@ -172,6 +194,8 @@ block[
 )
 
 ])
+
+#B[bhāsati] s'usa com 'ell parla sobre (p. ex. el Dhamma)', #B[vadati] s'usa com 'ell diu alguna cosa a algú'.
 
 === Traduïu al Pāli
 
@@ -230,7 +254,7 @@ block[
   [#strong[gaṇhāti]], [agafa; s'apodera (de); pren],
   [#strong[harati]], [porta; s'emporta],
   [#strong[pacati]], [cuina; bull; rosteix],
-  [#strong[upasaṅkamati]], [s'acosta; va (a)],
+  [#strong[upasaṅkamati]], [acostar-se; aproximar-se],
 )
 
 ])
@@ -259,7 +283,7 @@ block[
 #set enum(start: 4)
 
 + Kumāro asse rakkhati. \
-  #fillin(6cm, "El noi guarda els cavalls.")
+  #fillin(6cm, "El noi protegeix els cavalls.")
 
 + Migā rukkhe upasaṅkamanti. \
   #fillin(6cm, "Els cérvols s'acosten als arbres.")
@@ -303,7 +327,7 @@ block[
 
 #pagebreak()
 
-== Nivell 2: Masculí arrel -a, Instrumental i Datiu
+== Nivel 2: Masculino terminado en -a, Instrumental y Dativo
 
 Practiqueu escriure els casos de declinació de memòria en paper.
 
@@ -313,10 +337,10 @@ Practiqueu escriure els casos de declinació de memòria en paper.
   stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
   row-gutter: 0pt,
   table.header[*Cas*][*Singular*][*Plural*],
-  [1. Nominatiu (subjecte)],   [nar#B[o]],    [nar#B[ā]],
-  [2. Acusatiu (objecte)],    [nar#B[aṁ]],   [nar#B[e]],
-  [3. Instrumental (per/amb)], [nar#B[ena]],  [nar#B[ehi]],
-  [4. Datiu (a/per a)],        [nar#B[āya], nar#B[assa]], [nar#B[ānaṁ]],
+  [1. Nominativo (sujeto)],   [nar#B[o]],    [nar#B[ā]],
+  [2. Acusativo (objeto)],    [nar#B[aṁ]],   [nar#B[e]],
+  [3. Instrumental (por/con)], [nar#B[ena]],  [nar#B[ehi]],
+  [4. Dativo (a/para)],        [nar#B[āya], nar#B[assa]], [nar#B[ānaṁ]],
 )
 
 L'*Instrumental* expressa "amb, per, a causa de":
@@ -345,7 +369,7 @@ Les partícules *saddhiṁ, saha* usades amb el cas instrumental, expressen el s
 - _vattha_: nt. tela; roba; hàbit
 - _sobhati_: brilla (en); es veu bonic (en)
 
-El *Datiu* expressa: *"A qui/què? Per a qui/què? Amb quin propòsit?"*
+El *Datiu* expressa: *"A qui? A què? Per a qui? Per a què? Amb quin propòsit?"*
 
 *Buddhāya, Buddhassa*: al o per al Buda.
 
@@ -366,11 +390,15 @@ El *Datiu* expressa: *"A qui/què? Per a qui/què? Amb quin propòsit?"*
 
 === Vocabulari
 
+_adj_ = adjectiu; _ind_ = indeclinable; _pp_ = participi passat; _pron_ = pronom
+
 #table(
   columns: 2,
+  row-gutter: 2pt,
   [#underline(offset: 2.25pt)[#B[Noms]]], [],
-  [#strong[abhiññā]], [#emph[\(fem)] coneixement directe; comprensió superior #emph[d'abhijānāti]],
+  [#strong[abhiññā]], [#emph[\(fem)] coneixement directe; comprensió superior; #emph[d'abhijānāti]],
   [#strong[abyābajjha]], [#emph[\(adj)] sense malvolença; amb benvolença],
+  [#strong[āditta]], [#emph[\(pp)] flamejant; cremant; en flames],
   [#strong[asammūḷha]], [#emph[\(pp)] no confús; no enganyat; no pertorbat],
   [#strong[avera]], [#emph[\(nt)] bondat; amabilitat; lit. no-malvolença, no-hostilitat],
   [#strong[citta]], [#emph[\(nt)] ment; cor #emph[de ceteti]],
@@ -382,17 +410,16 @@ El *Datiu* expressa: *"A qui/què? Per a qui/què? Amb quin propòsit?"*
   [#strong[kālaṁ karoti]], [mor; traspassa],
   [#strong[kālena]], [#emph[\(ind)] oportunament; al moment adequat],
   [#strong[kālena kālaṁ]], [#emph[\(ind)] de tant en tant],
-  [#strong[kamma]], [#emph[\(nt)] acció; acte; fet #emph[irreg, de karoti]],
+  [#strong[kamma]], [#emph[\(nt)] acció; acte; fet; #emph[irreg, de karoti]],
   [#strong[kena]], [#emph[\(pron)] per què?; amb què?; #emph[interr, instr sg de ka]],
-  [#strong[kusala]], [#emph[\(adj)] saludable; beneficiós; saludable],
+  [#strong[kusala]], [#emph[\(adj)] saludable; beneficiós; sano],
   [#strong[nibbāna]], [#emph[\(nt)] extinció; apagament; #emph[de nibbāti]],
   [#strong[puñña]], [#emph[\(nt)] mèrit; bona acció],
   [#strong[sakka 3]], [#emph[\(masc)] Sakya; home de la raça Sakya],
   [#strong[sambodha]], [#emph[\(masc)] despertar ple; comprensió perfecta; il·luminació],
-  [#strong[sīlasampanna]], [#emph[\(adj)] d'excel·lent moralitat; consumat en virtut],
+  [#strong[sīlasampanna]], [#emph[\(adj)] excelente; consumat en virtut; virtuoso],
   [#strong[upāyāsa]], [#emph[\(masc)] aflicció; pertorbació; desesperació],
   [#strong[vera]], [#emph[\(nt)] odi; malvolença; hostilitat],
-  [], [],
   [#underline(offset: 2.25pt)[#B[Verbs]]], [],
   [#strong[acchādeti]], [vesteix; dóna roba (a)],
   [#strong[bhāveti]], [cultiva; desenvolupa],
@@ -417,11 +444,15 @@ El *Datiu* expressa: *"A qui/què? Per a qui/què? Amb quin propòsit?"*
 + Abhiññāya sambodhāya nibbānāya saṁvattati. (SN 56.11) \
   #fillin(15cm, "Condueix al coneixement superior, al despertar, al Nibbāna.")
 
-+ Na hi verena veraṁ sammati. (Dhp 5 simpl.) \
-  #fillin(15cm, "En efecte, no per l'hostilitat l'hostilitat és calmada.")
+La negació '#B[na]' pot anar al principi de la frase, però es refereix al verb del final. Aquí, llegiu-ho com '#B[na sammati]'. Si el nom #B[vera] fos negat, seria '#B[na + vera = avera]'.
 
-+ Puññakammena kusalacittaṁ bhāveti. \
-  #fillin(15cm, "Per l'acció meritòria desenvolupa una ment saludable.")
+#set enum(start: 4)
+
++ Na hi verena veraṁ sammati. (Dhp 5 simpl.) \
+  #fillin(15cm, "En efecte, per l'hostilitat l'hostilitat no és calmada.")
+
+// + Puññakammena kusalacittaṁ bhāveti. \
+//   #fillin(15cm, "Per l'acció meritòria desenvolupa una ment saludable.")
 
 + Kusalehi dhammehi cittaṁ vimuccati. \
   #fillin(15cm, "Per les qualitats saludables allibera la ment.")
@@ -429,13 +460,13 @@ El *Datiu* expressa: *"A qui/què? Per a qui/què? Amb quin propòsit?"*
 + Kena ādittaṁ? Dukkhehi domanassehi upāyāsehi ādittaṁ. (SN 35.28 simpl.) \
   #fillin(15cm, "Per què crema? Pels sofriments, les angoixes, les desesperacions crema.")
 
-+ Kassapo kālena odanaṁ bhuñjati. \
++ Kassapo kālena odanaṁ bhuñjati. (#emph[Kassapo] és un nom.) \
   #fillin(15cm, "Kassapa menja arròs al moment adequat.")
 
 + Sīlasampanno asammūḷho kālaṁ karoti. \
   #fillin(15cm, "El consumat en virtut mor sense confusió.")
 
-+ Nandiyo sakko bhagavantaṁ upasaṅkamati kālena kālaṁ dassanāya. \
++ Nandiyo sakko bhagavantaṁ upasaṅkamati kālena kālaṁ dassanāya. \ (#emph[Nandiyo] és un nom. #emph[Bhagavant]: el Benaurat.) \
   #fillin(15cm, "Nandiyo el Sakya s'acosta al Benaurat de tant en tant per veure'l.")
 
 // + Majjhimā paṭipadā tathāgatena abhisambuddhā. \
@@ -456,7 +487,7 @@ El *Datiu* expressa: *"A qui/què? Per a qui/què? Amb quin propòsit?"*
 
 #pagebreak()
 
-== Nivell 3: Diferències del neutre arrel -a
+== Nivel 3: Diferencias del neutro terminado en -a
 
 *Declinacions masculina i neutra amb arrel -a*
 
@@ -472,14 +503,14 @@ El *8. Vocatiu* s'usa quan ens adrecem al subjecte: Nara! "Ei, home!"
   fill: (_, y) => if (y in (1,2) or y in (5,6) or y in (10,11)) { color.hsl(195deg, 35%, 92%) },
   row-gutter: 0pt,
   table.header[*Cas*][*Singular*][*Plural*],
-  [1. Nom. masc. (subjecte)],   [nar#B[o]],    [nar#B[ā]],
-  [1. Nom. nt. (subjecte)],   [citt#Bred[aṁ]],   [citt#B[ā], citt#Bred[āni]],
-  [2. Acus. masc. (objecte)],    [nar#B[aṁ]],   [nar#B[e]],
-  [2. Acus. nt. (objecte)],    [citt#B[aṁ]],  [citt#B[e], citt#Bred[āni]],
-  [3. Instr. masc. (per/amb)], [nar#B[ena]],  [nar#B[ehi]],
-  [3. Instr. nt. (per/amb)], [citt#B[ena]],  [citt#B[ehi]],
-  [4. Dat. masc. (a/per a)],        [nar#B[assa]], [nar#B[ānaṁ]],
-  [4. Dat. nt. (a/per a)],        [citt#B[assa]], [citt#B[ānaṁ]],
+  [1. Nom. masc. (sujeto)],   [nar#B[o]],    [nar#B[ā]],
+  [1. Nom. nt. (sujeto)],   [citt#Bred[aṁ]],   [citt#B[ā], citt#Bred[āni]],
+  [2. Acus. masc. (objeto)],    [nar#B[aṁ]],   [nar#B[e]],
+  [2. Acus. nt. (objeto)],    [citt#B[aṁ]],  [citt#B[e], citt#Bred[āni]],
+  [3. Instr. masc. (por/con)], [nar#B[ena]],  [nar#B[ehi]],
+  [3. Instr. nt. (por/con)], [citt#B[ena]],  [citt#B[ehi]],
+  [4. Dat. masc. (a/para)],        [nar#B[assa]], [nar#B[ānaṁ]],
+  [4. Dat. nt. (a/para)],        [citt#B[assa]], [citt#B[ānaṁ]],
   [...], [], [],
   [8. Voc. masc.],               [nar#B[a]],    [nar#B[ā]],
   [8. Voc. nt.],               [citt#B[a], citt#Bred[ā]], [citt#Bred[āni]],
@@ -501,10 +532,10 @@ Practiqueu la taula de declinació del *neutre arrel -a* en paper:
   stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
   row-gutter: 0pt,
   table.header[*Cas*][*Singular*][*Plural*],
-  [1. Nominatiu (subjecte)],   [citt#B[aṁ]],   [citt#B[ā], citt#B[āni]],
-  [2. Acusatiu (objecte)],    [citt#B[aṁ]],  [citt#B[e], citt#B[āni]],
-  [3. Instrumental (per/amb)], [citt#B[ena]],  [citt#B[ehi]],
-  [4. Datiu (a/per a)],        [citt#B[assa]], [citt#B[ānaṁ]],
+  [1. Nominativo (sujeto)],   [citt#B[aṁ]],   [citt#B[ā], citt#B[āni]],
+  [2. Acusativo (objeto)],    [citt#B[aṁ]],  [citt#B[e], citt#B[āni]],
+  [3. Instrumental (por/con)], [citt#B[ena]],  [citt#B[ehi]],
+  [4. Dativo (a/para)],        [citt#B[assa]], [citt#B[ānaṁ]],
 )
 
 #pagebreak()
@@ -724,7 +755,7 @@ Ahaṁ sukhito homi, niddukkho homi, avero homi ... \
   [#strong[rūpa]], [#emph[\(nt)] forma; materialitat],
   [#strong[saṅkhāra]], [#emph[\(masc)] intenció; formació volitiva],
   [#strong[sukha]], [#emph[\(nt)] benestar; confort; felicitat],
-  [#strong[tasmā]], [#emph[\(ind)] per tant; és per això que #emph[abl.sg. de ta]],
+  [#strong[tasmā]], [#emph[\(ind)] per tant; és per això que; #emph[abl.sg. de ta]],
   [#strong[viññāṇa]], [#emph[\(nt)] consciència; cognició #emph[de vijānāti]],
   [#strong[yaṁ]], [#emph[\(pron)] que; qualsevol que; el que sigui; #emph[nt.nom.sg. de ya]],
   [], [],
@@ -817,7 +848,7 @@ Tant *ajjhattaṁ* com *bahiddhā* són adverbis que qualifiquen *rūpaṁ* (nt.
 #pagebreak()
 #set enum(start: 1)
 
-== Nivell 4: Masculí arrel -a, Ablatiu
+== Nivel 4: Masculino terminado en -a, Ablativo
 
 #table(
   columns: (1.8fr, 1.4fr, 1.4fr),
@@ -825,11 +856,11 @@ Tant *ajjhattaṁ* com *bahiddhā* són adverbis que qualifiquen *rūpaṁ* (nt.
   stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
   row-gutter: 0pt,
   table.header[*Cas*][*Singular*][*Plural*],
-  [1. Nominatiu (subjecte)],   [nar#B[o]],    [nar#B[ā]],
-  [2. Acusatiu (objecte)],    [nar#B[aṁ]],   [nar#B[e]],
-  [3. Instrumental (per/amb)], [nar#B[ena]],  [nar#B[ehi]],
-  [4. Datiu (a/per a)],        [nar#B[āya], nar#B[assa]], [nar#B[ānaṁ]],
-  [5. Ablatiu (de)],        [nar#B[ā], nar#B[amhā], nar#B[asmā]], [nar#B[ehi]],
+  [1. Nominativo (sujeto)],   [nar#B[o]],    [nar#B[ā]],
+  [2. Acusativo (objeto)],    [nar#B[aṁ]],   [nar#B[e]],
+  [3. Instrumental (por/con)], [nar#B[ena]],  [nar#B[ehi]],
+  [4. Dativo (a/para)],        [nar#B[āya], nar#B[assa]], [nar#B[ānaṁ]],
+  [5. Ablativo (de)],        [nar#B[ā], nar#B[amhā], nar#B[asmā]], [nar#B[ehi]],
 )
 
 La declinació de l'ablatiu del *neutre arrel -a* és la mateixa que la del *masculí arrel -a*.
@@ -887,7 +918,7 @@ Jo faig aquesta pregunta al Ven. Nārada.
   [#strong[hetu]], [#emph[\(masc)] raó (de); causa (de); motiu (de)],
   [#strong[idāni]], [#emph[\(ind)] ara; aviat; actualment],
   [#strong[ito]], [#emph[\(ind)] (de lloc) d'aquí; lluny de],
-  [#strong[kasmā]], [#emph[\(ind)] per què? #emph[interr, abl sg de ka]],
+  [#strong[kasmā]], [#emph[\(ind)] per què?; #emph[interr, abl sg de ka]],
   [#strong[mandārava]], [#emph[\(masc)] arbre de corall],
   [#strong[pabbajita]], [#emph[\(masc)] monjo; monàstic; renunciant],
   [#strong[pabbata]], [#emph[\(masc)] roca, muntanya],
@@ -977,7 +1008,7 @@ Jo faig aquesta pregunta al Ven. Nārada.
 
 #pagebreak()
 
-== Nivell 5: Masculí i Neutre arrel -a, Genitiu i Locatiu
+== Nivel 5: Masculino y Neutro terminado en -a, Genitivo y Locativo
 
 Afegint els casos *6. Genitiu* i *7. Locatiu* (iguals per al masc. i nt.), juntament amb el *8.~Vocatiu* vist anteriorment, ara podem practicar les taules completes de declinació del *masculí i neutre arrel -a*.
 
@@ -986,15 +1017,15 @@ Afegint els casos *6. Genitiu* i *7. Locatiu* (iguals per al masc. i nt.), junta
   align: (left, left, left),
   stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
   row-gutter: 0pt,
-  table.header[*Cas masc. -a*][*Singular*][*Plural*],
-  [1. Nominatiu (subjecte)],   [nar#B[o]],    [nar#B[ā]],
-  [2. Acusatiu (objecte)],    [nar#B[aṁ]],   [nar#B[e]],
-  [3. Instrumental (per/amb)], [nar#B[ena]],  [nar#B[ehi]],
-  [4. Datiu (a/per a)],        [nar#B[āya], nar#B[assa]], [nar#B[ānaṁ]],
-  [5. Ablatiu (de)],        [nar#B[ā], nar#B[amhā], nar#B[asmā]], [nar#B[ehi]],
-  [6. Genitiu (de)],          [nar#B[assa]], [nar#B[ānaṁ]],
-  [7. Locatiu (en/a)],       [nar#B[e], nar#B[amhi], nar#B[asmiṁ]], [nar#B[esu]],
-  [8. Vocatiu (interpel·lació)],     [nar#B[a], nar#B[ā]], [nar#B[ā]],
+  table.header[*Caso masc. -a*][*Singular*][*Plural*],
+  [1. Nominativo (sujeto)],   [nar#B[o]],    [nar#B[ā]],
+  [2. Acusativo (objeto)],    [nar#B[aṁ]],   [nar#B[e]],
+  [3. Instrumental (por/con)], [nar#B[ena]],  [nar#B[ehi]],
+  [4. Dativo (a/para)],        [nar#B[āya], nar#B[assa]], [nar#B[ānaṁ]],
+  [5. Ablativo (de)],        [nar#B[ā], nar#B[amhā], nar#B[asmā]], [nar#B[ehi]],
+  [6. Genitivo (de)],          [nar#B[assa]], [nar#B[ānaṁ]],
+  [7. Locativo (en)],       [nar#B[e], nar#B[amhi], nar#B[asmiṁ]], [nar#B[esu]],
+  [8. Vocativo (apelación)],     [nar#B[a], nar#B[ā]], [nar#B[ā]],
 )
 
 #table(
@@ -1002,15 +1033,15 @@ Afegint els casos *6. Genitiu* i *7. Locatiu* (iguals per al masc. i nt.), junta
   align: (left, left, left),
   stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
   row-gutter: 0pt,
-  table.header[*Cas nt. -a*][*Singular*][*Plural*],
-  [1. Nominatiu (subjecte)],   [citt#B[aṁ]],   [citt#B[ā], citt#B[āni]],
-  [2. Acusatiu (objecte)],    [citt#B[aṁ]],  [citt#B[e], citt#B[āni]],
-  [3. Instrumental (per/amb)], [citt#B[ena]],  [citt#B[ehi]],
-  [4. Datiu (a/per a)],        [citt#B[assa]], [citt#B[ānaṁ]],
-  [5. Ablatiu (de)],        [citt#B[ā], citt#B[amhā], citt#B[asmā]], [citt#B[ehi]],
-  [6. Genitiu (de)],          [citt#B[assa]], [citt#B[ānaṁ]],
-  [7. Locatiu (en/a)],       [citt#B[e], citt#B[amhi], citt#B[asmiṁ]], [citt#B[esu]],
-  [8. Vocatiu (interpel·lació)],     [citt#B[a], citt#B[ā]], [citt#B[āni]],
+  table.header[*Caso nt. -a*][*Singular*][*Plural*],
+  [1. Nominativo (sujeto)],   [citt#B[aṁ]],   [citt#B[ā], citt#B[āni]],
+  [2. Acusativo (objeto)],    [citt#B[aṁ]],  [citt#B[e], citt#B[āni]],
+  [3. Instrumental (por/con)], [citt#B[ena]],  [citt#B[ehi]],
+  [4. Dativo (a/para)],        [citt#B[assa]], [citt#B[ānaṁ]],
+  [5. Ablativo (de)],        [citt#B[ā], citt#B[amhā], citt#B[asmā]], [citt#B[ehi]],
+  [6. Genitivo (de)],          [citt#B[assa]], [citt#B[ānaṁ]],
+  [7. Locativo (en)],       [citt#B[e], citt#B[amhi], citt#B[asmiṁ]], [citt#B[esu]],
+  [8. Vocativo (apelación)],     [citt#B[a], citt#B[ā]], [citt#B[āni]],
 )
 
 === Vocabulari
@@ -1027,7 +1058,7 @@ TODO
 
 #pagebreak()
 
-== Nivell 6: Citacions
+== Nivel 6: Citas
 
 #quote[
 "Sabbe saṅkhārā aniccā"ti, \
@@ -1077,7 +1108,7 @@ ariyānaṁ gocare ratā. (Dhp 21-22)
 
 #pagebreak()
 
-== Nivell 7: Femení arrel -ā, Casos 1-4, Nom. Acus. Instr. Dat.
+== Nivel 7: Femenino terminado en -ā, Casos 1-4, Nom. Acus. Instr. Dat.
 
 #table(
   columns: (1.8fr, 1.4fr, 1.4fr),
@@ -1085,10 +1116,10 @@ ariyānaṁ gocare ratā. (Dhp 21-22)
   stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
   row-gutter: 0pt,
   table.header[*Cas*][*Singular*][*Plural*],
-  [1. Nominatiu (subjecte)],   [vedan#B[ā]], [vedan#B[ā], vedan#B[āyo]],
-  [2. Acusatiu (objecte)],    [vedan#B[aṁ]], [vedan#B[ā], vedan#B[āyo]],
-  [3. Instrumental (per/amb)], [vedan#B[āya]], [vedan#B[āhi]],
-  [4. Datiu (a/per a)],        [vedan#B[āya]], [vedan#B[ānaṁ]],
+  [1. Nominativo (sujeto)],   [vedan#B[ā]], [vedan#B[ā], vedan#B[āyo]],
+  [2. Acusativo (objeto)],    [vedan#B[aṁ]], [vedan#B[ā], vedan#B[āyo]],
+  [3. Instrumental (por/con)], [vedan#B[āya]], [vedan#B[āhi]],
+  [4. Dativo (a/para)],        [vedan#B[āya]], [vedan#B[ānaṁ]],
 )
 
 === Vocabulari
@@ -1105,7 +1136,7 @@ TODO
 
 #pagebreak()
 
-== Nivell 8: Femení arrel -ā, Casos 5-8, Abl. Gen. Loc. Voc.
+== Nivel 8: Femenino terminado en -ā, Casos 5-8, Abl. Gen. Loc. Voc.
 
 #table(
   columns: (1.8fr, 1.4fr, 1.4fr),
@@ -1113,14 +1144,14 @@ TODO
   stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
   row-gutter: 0pt,
   table.header[*Cas*][*Singular*][*Plural*],
-  [1. Nominatiu (subjecte)],   [vedan#B[ā]], [vedan#B[ā], vedan#B[āyo]],
-  [2. Acusatiu (objecte)],    [vedan#B[aṁ]], [vedan#B[ā], vedan#B[āyo]],
-  [3. Instrumental (per/amb)], [vedan#B[āya]], [vedan#B[āhi]],
-  [4. Datiu (a/per a)],        [vedan#B[āya]], [vedan#B[ānaṁ]],
-  [5. Ablatiu (de)],        [vedan#B[āya]], [vedan#B[āhi]],
-  [6. Genitiu (de)],          [vedan#B[āya]], [vedan#B[ānaṁ]],
-  [7. Locatiu (en/a)],       [vedan#B[āya], vedan#B[āyaṁ]], [vedan#B[āsu]],
-  [8. Vocatiu (interpel·lació)],     [vedan#B[e]], [vedan#B[ā], vedan#B[āyo]],
+  [1. Nominativo (sujeto)],   [vedan#B[ā]], [vedan#B[ā], vedan#B[āyo]],
+  [2. Acusativo (objeto)],    [vedan#B[aṁ]], [vedan#B[ā], vedan#B[āyo]],
+  [3. Instrumental (por/con)], [vedan#B[āya]], [vedan#B[āhi]],
+  [4. Dativo (a/para)],        [vedan#B[āya]], [vedan#B[ānaṁ]],
+  [5. Ablativo (de)],        [vedan#B[āya]], [vedan#B[āhi]],
+  [6. Genitivo (de)],          [vedan#B[āya]], [vedan#B[ānaṁ]],
+  [7. Locativo (en)],       [vedan#B[āya], vedan#B[āyaṁ]], [vedan#B[āsu]],
+  [8. Vocativo (apelación)],     [vedan#B[e]], [vedan#B[ā], vedan#B[āyo]],
 )
 
 === Vocabulari
@@ -1137,7 +1168,7 @@ TODO
 
 #pagebreak()
 
-== Nivell 9: Femení arrel -i, Casos 1-4, Nom. Acus. Instr. Dat.
+== Nivel 9: Femenino terminado en -i, Casos 1-4, Nom. Acus. Instr. Dat.
 
 #table(
   columns: (1.8fr, 1.4fr, 1.4fr),
@@ -1145,10 +1176,10 @@ TODO
   stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
   row-gutter: 0pt,
   table.header[*Cas*][*Singular*][*Plural*],
-  [1. Nominatiu (subjecte)],   [bhūm#B[i]], [bhūm#B[ī], bhūm#B[iyo]],
-  [2. Acusatiu (objecte)],    [bhūm#B[iṁ]], [bhūm#B[ī], bhūm#B[iyo]],
-  [3. Instrumental (per/amb)], [bhūm#B[iyā]], [bhūm#B[īhi]],
-  [4. Datiu (a/per a)],        [bhūm#B[iyā]], [bhūm#B[īnaṁ]],
+  [1. Nominativo (sujeto)],   [bhūm#B[i]], [bhūm#B[ī], bhūm#B[iyo]],
+  [2. Acusativo (objeto)],    [bhūm#B[iṁ]], [bhūm#B[ī], bhūm#B[iyo]],
+  [3. Instrumental (por/con)], [bhūm#B[iyā]], [bhūm#B[īhi]],
+  [4. Dativo (a/para)],        [bhūm#B[iyā]], [bhūm#B[īnaṁ]],
 )
 
 === Vocabulari
@@ -1165,7 +1196,7 @@ TODO
 
 #pagebreak()
 
-== Nivell 9: Femení arrel -i, Casos 5-8, Abl. Gen. Loc. Voc.
+== Nivel 9: Femenino terminado en -i, Casos 5-8, Abl. Gen. Loc. Voc.
 
 #table(
   columns: (1.8fr, 1.4fr, 1.4fr),
@@ -1173,14 +1204,14 @@ TODO
   stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
   row-gutter: 0pt,
   table.header[*Cas*][*Singular*][*Plural*],
-  [1. Nominatiu (subjecte)],   [bhūm#B[i]], [bhūm#B[ī], bhūm#B[iyo]],
-  [2. Acusatiu (objecte)],    [bhūm#B[iṁ]], [bhūm#B[ī], bhūm#B[iyo]],
-  [3. Instrumental (per/amb)], [bhūm#B[iyā]], [bhūm#B[īhi]],
-  [4. Datiu (a/per a)],        [bhūm#B[iyā]], [bhūm#B[īnaṁ]],
-  [5. Ablatiu (de)],        [bhūm#B[iyā]], [bhūm#B[īhi]],
-  [6. Genitiu (de)],          [bhūm#B[iyā]], [bhūm#B[īnaṁ]],
-  [7. Locatiu (en/a)],       [bhūm#B[iyā], bhūm#B[iyaṁ]], [bhūm#B[isu], bhūm#B[īsu]],
-  [8. Vocatiu (interpel·lació)],     [bhūm#B[i]], [bhūm#B[ī], bhūm#B[iyo]],
+  [1. Nominativo (sujeto)],   [bhūm#B[i]], [bhūm#B[ī], bhūm#B[iyo]],
+  [2. Acusativo (objeto)],    [bhūm#B[iṁ]], [bhūm#B[ī], bhūm#B[iyo]],
+  [3. Instrumental (por/con)], [bhūm#B[iyā]], [bhūm#B[īhi]],
+  [4. Dativo (a/para)],        [bhūm#B[iyā]], [bhūm#B[īnaṁ]],
+  [5. Ablativo (de)],        [bhūm#B[iyā]], [bhūm#B[īhi]],
+  [6. Genitivo (de)],          [bhūm#B[iyā]], [bhūm#B[īnaṁ]],
+  [7. Locativo (en)],       [bhūm#B[iyā], bhūm#B[iyaṁ]], [bhūm#B[isu], bhūm#B[īsu]],
+  [8. Vocativo (apelación)],     [bhūm#B[i]], [bhūm#B[ī], bhūm#B[iyo]],
 )
 
 === Vocabulari
@@ -1197,6 +1228,6 @@ TODO
 
 #pagebreak()
 
-== Nivell 10: Citacions
+== Nivel 10: Citas
 
 TODO

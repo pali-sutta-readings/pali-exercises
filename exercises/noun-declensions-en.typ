@@ -17,6 +17,28 @@ Then practise the example sentences. When the new section starts, practise writi
 
 The order of the cases is traditional. In grammar books they are called 1st case, 2nd case, etc. For the sake of training habitual recognition, it is good to practise them in that order.
 
+== Grammatical terms
+
+#table(
+  columns: 5,
+  [*Prefix*], [*Root*], [*Suffix*], [*Stem*], [*Declination*],
+  [], [√budh (know, wake up)], [-ta], [buddha], [buddho],
+  [], [√dhar (hold, carry, endure)], [-ma], [dhamma], [dhammo],
+  [saṁ], [√ghaṭ (join together)], [-a], [saṅgha], [saṅgho],
+)
+
+- *Root:* The most basic, irreducible element of a word that carries the core semantic meaning.
+- *Prefix/Suffix:* An element added before/after a root to modify its meaning or role in the sentence.
+- *Stem:* The resultant form of the root combined with a suffix; it is the functional base for inflection.
+- *Declination:* The process of adding case endings to a stem to indicate its grammatical relationship to other words (gender, number, and case).
+
+Abbreviations:
+
+- _adj_ = adjective
+- _ind_ = indeclinable
+- _pp_ = past participle
+- _pron_ = pronoun
+
 #pagebreak()
 
 == Level 1: Masculine -a stems, Nominative & Accusative
@@ -154,11 +176,11 @@ block[
 #table(
   columns: 2,
   [#strong[cora]], [#emph[\(masc)] thief; robber],
-  [#strong[deva]], [#emph[\(masc)] deity; god #emph[from dibbati]],
+  [#strong[deva]], [#emph[\(masc)] deity; god; #emph[from dibbati]],
   [#strong[loka]], [#emph[\(masc)] world; universe],
   [#strong[odana]], [#emph[\(masc)] rice; boiled rice; food],
   [#strong[rukkha]], [#emph[\(masc)] tree],
-  [#strong[sissa]], [#emph[\(masc)] pupil; student #emph[ptp of sāsati]],
+  [#strong[sissa]], [#emph[\(masc)] pupil; student; #emph[pp of sāsati]],
 )
 
 ], block[
@@ -172,6 +194,8 @@ block[
 )
 
 ])
+
+#B[bhāsati] is used as 'he speaks about (e.g. the Dhamma)', #B[vadati] is used as 'he tells something to somebody'.
 
 === Translate into Pāli
 
@@ -345,7 +369,7 @@ The particles *saddhiṁ, saha* used with the instrumental case, expresses the m
 - _vattha_: nt. cloth; clothes; robe
 - _sobhati_: shines (in); looks beautiful (in)
 
-The *Dative* expresses: *"To whom/what? For whom/what? For what purpose?"*
+The *Dative* expresses: *"To whom? To what? For whom? For what? For what purpose?"*
 
 *Buddhāya, Buddhassa*: to or for the Buddha.
 
@@ -366,11 +390,15 @@ The *Dative* expresses: *"To whom/what? For whom/what? For what purpose?"*
 
 === Vocabulary
 
+_adj_ = adjective; _ind_ = indeclinable; _pp_ = past participle; _pron_ = pronoun
+
 #table(
   columns: 2,
+  row-gutter: 2pt,
   [#underline(offset: 2.25pt)[#B[Nouns]]], [],
   [#strong[abhiññā]], [#emph[\(fem)] direct knowledge; higher understanding #emph[from abhijānāti]],
   [#strong[abyābajjha]], [#emph[\(adj)] without ill-will; with goodwill],
+  [#strong[āditta]], [#emph[\(pp)] blazing; burning; on fire],
   [#strong[asammūḷha]], [#emph[\(pp)] unconfused; undeluded; not bewildered],
   [#strong[avera]], [#emph[\(nt)] kindness; friendliness; lit. non-ill-will, non-hostility],
   [#strong[citta]], [#emph[\(nt)] mind; heart #emph[from ceteti]],
@@ -392,7 +420,6 @@ The *Dative* expresses: *"To whom/what? For whom/what? For what purpose?"*
   [#strong[sīlasampanna]], [#emph[\(adj)] of excellent morality; accomplished in virtue],
   [#strong[upāyāsa]], [#emph[\(masc)] affliction; trouble; despair],
   [#strong[vera]], [#emph[\(nt)] hatred; ill-will; hostility],
-  [], [],
   [#underline(offset: 2.25pt)[#B[Verbs]]], [],
   [#strong[acchādeti]], [dresses; clothes; give clothes (to)],
   [#strong[bhāveti]], [cultivates; develops],
@@ -417,11 +444,15 @@ The *Dative* expresses: *"To whom/what? For whom/what? For what purpose?"*
 + Abhiññāya sambodhāya nibbānāya saṁvattati. (SN 56.11) \
   #fillin(15cm, "Leads to higher knowledge, to awakening, to Nibbāna.")
 
+The negation '#B[na]' can be at the beginning of the sentence, but it relates to the verb at the end. Here, read it as '#B[na sammati]'. If the noun #B[vera] would be negated, it would be '#B[na + vera = avera]'.
+
+#set enum(start: 4)
+
 + Na hi verena veraṁ sammati. (Dhp 5 simpl.) \
   #fillin(15cm, "Indeed, not by hostility the hostility is calmed.")
 
-+ Puññakammena kusalacittaṁ bhāveti. \
-  #fillin(15cm, "By meritorious-action he develops a wholesome mind.")
+// + Puññakammena kusalacittaṁ bhāveti. \
+//   #fillin(15cm, "By meritorious-action he develops a wholesome mind.")
 
 + Kusalehi dhammehi cittaṁ vimuccati. \
   #fillin(15cm, "By wholesome qualities he liberates the mind.")
@@ -429,13 +460,13 @@ The *Dative* expresses: *"To whom/what? For whom/what? For what purpose?"*
 + Kena ādittaṁ? Dukkhehi domanassehi upāyāsehi ādittaṁ. (SN 35.28 simpl.) \
   #fillin(15cm, "By what it is burning? By sufferings, griefs, despairs it is burning.")
 
-+ Kassapo kālena odanaṁ bhuñjati. \
++ Kassapo kālena odanaṁ bhuñjati. (#emph[Kassapo] is a name.) \
   #fillin(15cm, "Kassapa eats rice at the right time.")
 
 + Sīlasampanno asammūḷho kālaṁ karoti. \
   #fillin(15cm, "The one accomplished in virtue dies without confusion.")
 
-+ Nandiyo sakko bhagavantaṁ upasaṅkamati kālena kālaṁ dassanāya. \
++ Nandiyo sakko bhagavantaṁ upasaṅkamati kālena kālaṁ dassanāya. \ (#emph[Nandiyo] is a name. #emph[Bhagavant]: the Blessed One.) \
   #fillin(15cm, "Nandiyo the Sakyan approaches the Blessed One from time to time to see him.")
 
 // + Majjhimā paṭipadā tathāgatena abhisambuddhā. \
@@ -726,7 +757,7 @@ Ahaṁ sukhito homi, niddukkho homi, avero homi ... \
   [#strong[rūpa]], [#emph[\(nt)] form; materiality],
   [#strong[saṅkhāra]], [#emph[\(masc)] intention; volitional formation],
   [#strong[sukha]], [#emph[\(nt)] ease; comfort; happiness],
-  [#strong[tasmā]], [#emph[\(ind)] therefore; that is why #emph[abl.sg. of ta]],
+  [#strong[tasmā]], [#emph[\(ind)] therefore; that is why; #emph[abl.sg. of ta]],
   [#strong[viññāṇa]], [#emph[\(nt)] awareness; consciousness; cognition #emph[from vijānāti]],
   [#strong[yaṁ]], [#emph[\(pron)] which; whoever; whatever; #emph[nt.nom.sg. of ya]],
   [], [],
@@ -889,7 +920,7 @@ I ask the Ven. Nārada this question.
   [#strong[hetu]], [#emph[\(masc)] reason (for); cause (for); sake (of)],
   [#strong[idāni]], [#emph[\(ind)] now; soon; at present],
   [#strong[ito]], [#emph[\(ind)] (of place) from here; away from],
-  [#strong[kasmā]], [#emph[\(ind)] why? #emph[interr, abl sg of ka]],
+  [#strong[kasmā]], [#emph[\(ind)] why?; #emph[interr, abl sg of ka]],
   [#strong[mandārava]], [#emph[\(masc)] coral tree],
   [#strong[pabbajita]], [#emph[\(masc)] monk; monastic; renunciant],
   [#strong[pabbata]], [#emph[\(masc)] rock, mountain],

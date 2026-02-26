@@ -1,44 +1,44 @@
-# Grammar Glossary: English → Catalan
+# Grammar Glossary: English → Castellano (as used in exercises)
 
 ## Cases (Casos)
 
-| English | Català |
+| English | Castellano |
 |---|---|
-| Nominative | Nominatiu |
-| Accusative | Acusatiu |
+| Nominative | Nominativo |
+| Accusative | Acusativo |
 | Instrumental | Instrumental |
-| Dative | Datiu |
-| Ablative | Ablatiu |
-| Genitive | Genitiu |
-| Locative | Locatiu |
-| Vocative | Vocatiu |
+| Dative | Dativo |
+| Ablative | Ablativo |
+| Genitive | Genitivo |
+| Locative | Locativo |
+| Vocative | Vocativo |
 
 ## Case descriptions (short labels in tables)
 
-| English | Català |
+| English | Castellano |
 |---|---|
-| subject | subjecte |
-| object | objecte |
-| by/with | per/amb |
-| to/for | a/per a |
+| subject | sujeto |
+| object | objeto |
+| by/with | por/con |
+| to/for | a/para |
 | from | de |
 | of | de |
-| to/at | en/a |
-| address | interpel·lació |
+| to/at | en |
+| address | apelación |
 
 ## Gender & Number
 
-| English | Català |
+| English | Castellano |
 |---|---|
-| masculine (masc) | masculí (masc) |
-| feminine (fem) | femení (fem) |
-| neuter (nt) | neutre (nt) |
+| masculine (masc) | masculino (masc) |
+| feminine (fem) | femenino (fem) |
+| neuter (nt) | neutro (nt) |
 | singular | singular |
 | plural | plural |
 
 ## Parts of speech
 
-| English | Català |
+| English | Castellano |
 |---|---|
 | noun | nom |
 | verb | verb |
@@ -53,13 +53,13 @@
 
 ## Grammatical concepts
 
-| English | Català |
+| English | Castellano |
 |---|---|
 | declension | declinació |
 | conjugation | conjugació |
-| stem | arrel |
+| stem / ending in | terminado en |
 | ending | terminació |
-| case | cas |
+| case | caso |
 | gender | gènere |
 | number | nombre |
 | word order | ordre de les paraules |
@@ -74,21 +74,21 @@
 
 ## Section headings
 
-| English | Català |
+| English | Castellano |
 |---|---|
 | Noun Declensions | Declinacions de Noms |
 | Method | Mètode |
-| Level | Nivell |
+| Level | Nivel |
 | Vocabulary | Vocabulari |
-| Translate into English | Traduïu al Anglès |
+| Translate into Catalan | Traduïu al Català |
 | Translate into Pāli | Traduïu al Pāli |
 | Adjectives | Adjectius |
 | Attribution, Nominal Sentence | Atribució, Frase Nominal |
-| Quotes | Citacions |
+| Quotes | Citas |
 
 ## Recurring phrases
 
-| English | Català |
+| English | Castellano |
 |---|---|
 | Practise writing out the declension tables on paper from memory | Practiqueu escriure les taules de declinació de memòria en paper |
 | Practise writing the declension cases on paper from memory | Practiqueu escriure els casos de declinació de memòria en paper |
