@@ -55,13 +55,15 @@ Pratique escrever a tabela dos dois primeiros casos de declinação de memória 
   [2. Acusativo (objeto)],    [nar#B[aṁ]],   [nar#B[e]],
 )
 
-*Ordem das palavras:* Sujeito(nom) + Objeto(acus) + Verbo. Em Pāli, o verbo normalmente vem no final.
+Alguns pontos rápidos sobre as características da língua Pāli:
 
-O *Nominativo* indica o *sujeito* de uma frase. "*Quem* está a fazer?"
+*(1)* *Ordem das palavras:* Sujeito(nom) + Objeto(acus) + Verbo. Em Pāli, o verbo normalmente vem no final.
 
-Dois usos principais do *Acusativo*:
+*(2)* O *Nominativo* indica o *sujeito* de uma frase. "*Quem* está a fazer?"
 
-*(a)* "*O que* está ele a comer?" Indica o *objeto* de uma frase.
+*(3)* O *Acusativo* tem duas funções principais:
+
+*(3a)* "*O que* está ele a comer?" Indica o *objeto* de uma frase.
 
 #table(
   columns: 2,
@@ -69,7 +71,7 @@ Dois usos principais do *Acusativo*:
   [O leão come (mastiga) o homem.], [Sīho naraṁ khādati.],
 )
 
-*(b)* "*Para onde* está ele a ir?" Indica para onde o sujeito *se dirige* ou *se desloca*. Também chamado "acusativo de movimento".
+*(3b)* "*Para onde* está ele a ir?" Indica para onde o sujeito *se dirige* ou *se desloca*. Também chamado "acusativo de movimento".
 
 #table(
   columns: 2,
@@ -77,9 +79,9 @@ Dois usos principais do *Acusativo*:
   [O leigo vai #B[para a aldeia.]], [Upāsako gāmaṁ gacchati.],
 )
 
-*Negação:* A partícula *na* pode ser colocada antes de um verbo. *Na gacchati* (não vai).
+*(4)* *Negação:* A partícula *na* pode ser colocada antes de um verbo. *Na gacchati* (não vai).
 
-*Proibição:* A partícula *mā* pode ser colocada antes de um verbo imperativo. *Mā gaccha!* (Não vás!) \
+*(5)* *Proibição:* A partícula *mā* pode ser colocada antes de um verbo imperativo. *Mā gaccha!* (Não vás!) \
 O verbo está frequentemente no aoristo (passado), mas o significado é no presente ou mesmo no futuro.
 
 #table(
@@ -890,12 +892,18 @@ Eu faço esta pergunta ao Ven. Nārada.
 
 *(c)* *"Por causa de quê?"* (De que causa?) Indica a causa ou razão.
 
+#v(-0.5em)
+
 #table(
   columns: 2,
   [Attanā mahabbhayaṁ uppajjati.], [Do (por causa do) seu eu surge grande medo.],
 )
 
+#v(-0.5em)
+
 *Tasmā* ("portanto", abl. de *ta*) e *yasmā* ("porque", abl. de *ya*) são formas ablativas comuns usadas como conjunções.
+
+#v(-0.5em)
 
 #table(
   columns: 1,
@@ -903,22 +911,29 @@ Eu faço esta pergunta ao Ven. Nārada.
   [Porque a forma é não-eu, portanto a forma conduz à aflição.],
 )
 
+#v(-0.5em)
+
 *O sufixo -to* forma advérbios com sentido ablativo. _Buddhato_: do Buda. Ex.: _munito, senānito, garuto, viduto_.
 
 === Vocabulário
 
 #table(
   columns: 2,
+  [#strong[asesa]], [#emph[\(adj)] completo; total; sem resíduo],
+  [#strong[tveva]], [#emph[\(sandhi)] contudo; mas; #strong[\[tu + eva\]]],
   [#strong[agāra]], [#emph[\(nt)] habitação; edifício; casa],
   [#strong[antalikkha]], [#emph[\(nt)] céu; ar],
   [#strong[antara]], [#emph[\(adj)] interior; interno],
   [#strong[āsava]], [#emph[\(masc)] efluente; impureza; contaminação],
+  [#strong[avijjā]], [#emph[\(fem)] ignorância; ilusão; desconhecimento],
+  [#strong[āyasmā]], [#emph[\(masc)] venerável; #emph[nom sg de āyasmant]],
   [#strong[bhaya]], [#emph[\(nt)] medo (de); terror (de)],
   [#strong[dvāra]], [#emph[\(nt)] porta; entrada; portão],
   [#strong[hetu]], [#emph[\(masc)] razão (de); causa (de); motivo (de)],
   [#strong[idāni]], [#emph[\(ind)] agora; em breve; atualmente],
   [#strong[ito]], [#emph[\(ind)] (de lugar) daqui; para longe de],
   [#strong[kasmā]], [#emph[\(ind)] porquê?; #emph[interr, abl sg de ka]],
+  [#strong[mahatā]], [#emph[\(adj)] com um grande; com um largo; #emph[masc & nt instr sg de mahanta]],
   [#strong[mandārava]], [#emph[\(masc)] árvore de coral],
   [#strong[pabbajita]], [#emph[\(masc)] monge; monástico; renunciante],
   [#strong[pabbata]], [#emph[\(masc)] rocha, montanha],
@@ -927,6 +942,7 @@ Eu faço esta pergunta ao Ven. Nārada.
   [#strong[samaṇa]], [#emph[\(masc)] asceta; renunciante; monge],
   [#strong[upāsaka]], [#emph[\(masc)] discípulo leigo; devoto leigo],
   [#strong[vihāra]], [#emph[\(masc)] habitação; residência],
+  [#strong[virāga]], [#emph[\(masc)] desvanecimento do desejo (por); desapego (de); desprendimento (de)],
 )
 
 #table(
@@ -935,11 +951,11 @@ Eu faço esta pergunta ao Ven. Nārada.
   [#strong[āharati]], [traz; traz de volta; vai buscar],
   [#strong[dhāvati]], [corre (para); corre],
   [#strong[nikkhamati]], [sai (de); parte (de); deixa],
-  [#strong[pabhavati]], [surge (de); origina-se (de); aparece (de)],
+  // [#strong[pabhavati]], [surge (de); origina-se (de); aparece (de)],
   [#strong[patati]], [cai (em); aterra (em)],
   [#strong[uppajjati]], [aparece; surge; ocorre],
   [#strong[vinassati]], [perece; é destruído],
-  [#strong[vūpasammati]], [é extinto; extingue-se completamente],
+  // [#strong[vūpasammati]], [é extinto; extingue-se completamente],
 )
 
 #pagebreak()
@@ -948,8 +964,8 @@ Eu faço esta pergunta ao Ven. Nārada.
 
 #set enum(start: 1)
 
-+ Narā gāmasmā nikkhamanti. \
-  #fillin(15cm, "Os homens partem da aldeia.")
++ Purisā Kusinārāya nikkhamanti. (_Kusināra_ é uma cidade.) \
+  #fillin(15cm, "Os homens partem de Kusināra.")
 
 + Kumāro rukkhamhā patati. \
   #fillin(15cm, "O rapaz cai da árvore.")
@@ -960,8 +976,8 @@ Eu faço esta pergunta ao Ven. Nārada.
 + Sīhā pabbatehi oruhanti. \
   #fillin(15cm, "Os leões descem das montanhas.")
 
-+ Sisso ācariyasmā dhammaṁ pucchati. \
-  #fillin(15cm, "O aluno pergunta ao professor sobre o Dhamma.")
++ Āyasmā Mahākassapo Pāvāya Kusināraṁ gacchati mahatā bhikkhusaṅghena saddhiṁ. (DN 16 simpl.) \
+  #fillin(15cm, "O Ven. Mahākassapo vai de Pāvā para Kusināra juntamente com um grande grupo de monges.")
 
 + Puriso vihāramhā pattaṁ āharati. \
   #fillin(15cm, "O homem traz a tigela do mosteiro.")
@@ -975,14 +991,17 @@ Eu faço esta pergunta ao Ven. Nārada.
 + Idāni kasmā so puriso ito nikkhamati? \
   #fillin(15cm, "Por que é que esse homem parte agora daqui?")
 
-+ Gāmamhā āgataṁ purisaṁ na passāmi. (#pali[āgataṁ] = pp. "que veio") \
-  #fillin(15cm, "Não vejo o homem que veio da aldeia.")
+// + Gāmamhā āgataṁ purisaṁ na passāmi. (#pali[āgataṁ] = pp. "que veio") \
+//   #fillin(15cm, "Não vejo o homem que veio da aldeia.")
 
 + Na kho panāhaṁ cīvarahetu agārasmā anagāriyaṁ pabbajito. (MN 17) \
   #fillin(15cm, "Não foi por causa dos mantos que eu renunciei à vida doméstica para a vida sem lar.")
 
 + Anupādāya āsavehi cittāni vimucciṁsu. (SN 35.28) \
   #fillin(15cm, "Por não se apegarem, as suas mentes foram libertadas das impurezas.")
+
++ Avijjāya _(fem.gen.sg., 'da ignorância')_ tveva asesa-virāga-nirodhā saṅkhāra-nirodho; \ saṅkhāra-nirodhā viññāṇa-nirodho... \
+  #fillin(15cm, "Mas pelo total desvanecimento e cessação da ignorância, há a cessação das formações; pela cessação das formações, há a cessação da consciência.")
 
 === Traduzir para Pāli
 

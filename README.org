@@ -2,6 +2,9 @@
 
 * Declension Exercises
 
-* Translation
+* Custom Skills
 
 : /translate-noun-declensions Spanish es
+
+: /update-translations
+

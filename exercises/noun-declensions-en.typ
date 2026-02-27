@@ -55,13 +55,15 @@ Practise writing out the table of the first two declension cases on paper from m
   [2. Accusative (object)],    [nar#B[aṁ]],   [nar#B[e]],
 )
 
-*Word order:* Subject(nom) + Object(acc) + Verb. In Pāli, the verb typically comes last.
+A few quick points on the features of the Pāli language:
 
-The *Nominative* indicates the *subject* of a sentence. "*Who* is doing it?"
+*(1)* *Word order:* Subject(nom) + Object(acc) + Verb. In Pāli, the verb typically comes last.
 
-Two main uses of the *Accusative*:
+*(2)* The *Nominative* indicates the *subject* of a sentence. "*Who* is doing it?"
 
-*(a)* "*What* is he eating?" Indicates the *object* of a sentence. 
+*(3)* The *Accusative* has two main functions:
+
+*(3a)* "*What* is he eating?" Indicates the *object* of a sentence. 
 
 #table(
   columns: 2,
@@ -69,7 +71,7 @@ Two main uses of the *Accusative*:
   [The lion eats (chews on) the man.], [Sīho naraṁ khādati.],
 )
 
-*(b)* "*Where* is he going to?" Indicates where the subject is *going to* or *going along*. A.k.a. "the accusative of motion".
+*(3b)* "*Where* is he going to?" Indicates where the subject is *going to* or *going along*. A.k.a. "the accusative of motion".
 
 #table(
   columns: 2,
@@ -77,9 +79,9 @@ Two main uses of the *Accusative*:
   [The layman goes #B[to the village.]], [Upāsako gāmaṁ gacchati.],
 )
 
-*Negation:* The particle *na* can be placed before a verb. *Na gacchati* (does not go).
+*(4)* *Negation:* The particle *na* can be placed before a verb. *Na gacchati* (does not go).
 
-*Prohibition:* The particle *mā* can be placed before an imperative verb. *Mā gaccha!* (Don't go!) \
+*(5)* *Prohibition:* The particle *mā* can be placed before an imperative verb. *Mā gaccha!* (Don't go!) \
 The verb is often in the aorist past tense, but the meaning is in the present or even the future.
 
 #table(
@@ -892,12 +894,18 @@ I ask the Ven. Nārada this question.
 
 *(c)* *"Because of what?"* (From what cause?) Indicates the cause or reason. 
 
+#v(-0.5em)
+
 #table(
   columns: 2,
   [Attanā mahabbhayaṁ uppajjati.], [From (because of) his self great fear arises.],
 )
 
+#v(-0.5em)
+
 *Tasmā* ("therefore", abl. of *ta*) and *yasmā* ("because", abl. of *ya*) are common ablative forms used as conjunctions.
+
+#v(-0.5em)
 
 #table(
   columns: 1,
@@ -905,22 +913,29 @@ I ask the Ven. Nārada this question.
   [Because form is not-self, therefore form leads to affliction.],
 )
 
+#v(-0.5em)
+
 *The suffix -to* forms adverbs with an ablative sense. _Buddhato_: from the Buddha. E.g.: _munito, senānito, garuto, viduto_.
 
 === Vocabulary
 
 #table(
   columns: 2,
+  [#strong[asesa]], [#emph[\(adj)] complete; utter; without remainder],
+  [#strong[tveva]], [#emph[\(sandhi)] however; but; #strong[\[tu + eva\]]],
   [#strong[agāra]], [#emph[\(nt)] dwelling; building; house],
   [#strong[antalikkha]], [#emph[\(nt)] sky; air],
   [#strong[antara]], [#emph[\(adj)] inside; inner; internal],
   [#strong[āsava]], [#emph[\(masc)] discharge; outflow; defilement],
+  [#strong[avijjā]], [#emph[\(fem)] ignorance; illusion; not knowing],
+  [#strong[āyasmā]], [#emph[\(masc)] venerable; #emph[nom sg of āyasmant]],
   [#strong[bhaya]], [#emph[\(nt)] fear (of); terror (of)],
   [#strong[dvāra]], [#emph[\(nt)] door; entrance; gate],
   [#strong[hetu]], [#emph[\(masc)] reason (for); cause (for); sake (of)],
   [#strong[idāni]], [#emph[\(ind)] now; soon; at present],
   [#strong[ito]], [#emph[\(ind)] (of place) from here; away from],
   [#strong[kasmā]], [#emph[\(ind)] why?; #emph[interr, abl sg of ka]],
+  [#strong[mahatā]], [#emph[\(adj)] with a great; with a large; #emph[masc & nt instr sg of mahanta]],
   [#strong[mandārava]], [#emph[\(masc)] coral tree],
   [#strong[pabbajita]], [#emph[\(masc)] monk; monastic; renunciant],
   [#strong[pabbata]], [#emph[\(masc)] rock, mountain],
@@ -929,6 +944,7 @@ I ask the Ven. Nārada this question.
   [#strong[samaṇa]], [#emph[\(masc)] ascetic; renunciant; monk],
   [#strong[upāsaka]], [#emph[\(masc)] lay disciple; lay devotee],
   [#strong[vihāra]], [#emph[\(masc)] dwelling; residence],
+  [#strong[virāga]], [#emph[\(masc)] fading of desire (for); dispassion (towards); detachment (from)],
 )
 
 #table(
@@ -937,11 +953,11 @@ I ask the Ven. Nārada this question.
   [#strong[āharati]], [brings; brings back; fetches],
   [#strong[dhāvati]], [runs (to); races (to)],
   [#strong[nikkhamati]], [goes out (from); comes out (from); leaves],
-  [#strong[pabhavati]], [arises (from); originates (from); appears (from)],
+  // [#strong[pabhavati]], [arises (from); originates (from); appears (from)],
   [#strong[patati]], [falls (on); lands (on)],
   [#strong[uppajjati]], [appears; arises; occurs],
   [#strong[vinassati]], [perishes; is destroyed],
-  [#strong[vūpasammati]], [is extinguished; subsides completely],
+  // [#strong[vūpasammati]], [is extinguished; subsides completely],
 )
 
 #pagebreak()
@@ -950,8 +966,8 @@ I ask the Ven. Nārada this question.
 
 #set enum(start: 1)
 
-+ Narā gāmasmā nikkhamanti. \
-  #fillin(15cm, "The men leave from the village.")
++ Purisā Kusinārāya nikkhamanti. (_Kusināra_ is a town.) \
+  #fillin(15cm, "The men leave from Kusināra.")
 
 + Kumāro rukkhamhā patati. \
   #fillin(15cm, "The boy falls from the tree.")
@@ -962,8 +978,8 @@ I ask the Ven. Nārada this question.
 + Sīhā pabbatehi oruhanti. \
   #fillin(15cm, "The lions descend from the mountains.")
 
-+ Sisso ācariyasmā dhammaṁ pucchati. \
-  #fillin(15cm, "The student asks the teacher about the Dhamma.")
++ Āyasmā Mahākassapo Pāvāya Kusināraṁ gacchati mahatā bhikkhusaṅghena saddhiṁ. (DN 16 simpl.) \
+  #fillin(15cm, "Ven. Mahākassapo is going from Pāvā to Kusināra together with a large group of monks.")
 
 + Puriso vihāramhā pattaṁ āharati. \
   #fillin(15cm, "The man brings the bowl from the monastery.")
@@ -977,14 +993,17 @@ I ask the Ven. Nārada this question.
 + Idāni kasmā so puriso ito nikkhamati? \
   #fillin(15cm, "Why does that man depart now from here?")
 
-+ Gāmamhā āgataṁ purisaṁ na passāmi. (#pali[āgataṁ] = pp. "who has come") \
-  #fillin(15cm, "I do not see the man who has come from the village.")
+// + Gāmamhā āgataṁ purisaṁ na passāmi. (#pali[āgataṁ] = pp. "who has come") \
+//   #fillin(15cm, "I do not see the man who has come from the village.")
 
 + Na kho panāhaṁ cīvarahetu agārasmā anagāriyaṁ pabbajito. (MN 17) \
   #fillin(15cm, "It is not for the sake of robes that I went forth from the household into homelessness.")
 
 + Anupādāya āsavehi cittāni vimucciṁsu. (SN 35.28) \
   #fillin(15cm, "Through not clinging, their minds were freed from the defilements.")
+
++ Avijjāya _(fem.gen.sg., 'of ignorance')_ tveva asesa-virāga-nirodhā saṅkhāra-nirodho; \ saṅkhāra-nirodhā viññāṇa-nirodho... \
+  #fillin(15cm, "But from the utter fading away and cessation of ignorance, there is the cessation of formations; through the cessation of formations, there is the cessation of consciousness.")
 
 === Translate into Pāli
 
