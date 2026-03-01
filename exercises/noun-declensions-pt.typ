@@ -1286,138 +1286,136 @@ Appamāde pamodanti, \
 ariyānaṁ gocare ratā. (Dhp 21-22)
 ]
 
-// yathāvimuttaṁ cittaṁ paccavekkhati— ime kho, bhikkhave, pañca dhammā sekhassa bhikkhuno aparihānāya saṁvattantī"ti.
+// #pagebreak()
 
-#pagebreak()
+// == Nível 7: Feminino radical -ā, Casos 1-4, Nom. Acus. Instr. Dat.
 
-== Nível 7: Feminino radical -ā, Casos 1-4, Nom. Acus. Instr. Dat.
+// #table(
+//   columns: (1.8fr, 1.4fr, 1.4fr),
+//   align: (left, left, left),
+//   stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
+//   row-gutter: 0pt,
+//   table.header[*Caso*][*Singular*][*Plural*],
+//   [1. Nominativo (sujeito)],   [vedan#B[ā]], [vedan#B[ā], vedan#B[āyo]],
+//   [2. Acusativo (objeto)],    [vedan#B[aṁ]], [vedan#B[ā], vedan#B[āyo]],
+//   [3. Instrumental (por/com)], [vedan#B[āya]], [vedan#B[āhi]],
+//   [4. Dativo (a/para)],        [vedan#B[āya]], [vedan#B[ānaṁ]],
+// )
 
-#table(
-  columns: (1.8fr, 1.4fr, 1.4fr),
-  align: (left, left, left),
-  stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
-  row-gutter: 0pt,
-  table.header[*Caso*][*Singular*][*Plural*],
-  [1. Nominativo (sujeito)],   [vedan#B[ā]], [vedan#B[ā], vedan#B[āyo]],
-  [2. Acusativo (objeto)],    [vedan#B[aṁ]], [vedan#B[ā], vedan#B[āyo]],
-  [3. Instrumental (por/com)], [vedan#B[āya]], [vedan#B[āhi]],
-  [4. Dativo (a/para)],        [vedan#B[āya]], [vedan#B[ānaṁ]],
-)
+// === Vocabulário
 
-=== Vocabulário
+// TODO
 
-TODO
+// // [#strong[mahatā]], [#emph[\(adj)] com um grande; com um largo; #emph[masc & nt instr sg de mahanta]],
 
-// [#strong[mahatā]], [#emph[\(adj)] com um grande; com um largo; #emph[masc & nt instr sg de mahanta]],
+// === Traduzir para Português
 
-=== Traduzir para Português
+// TODO
 
-TODO
+// // + Purisā Kusinārāya (fem.abl.) nikkhamanti. (_Kusināra_ é uma cidade.) \
+// //   #fillin(15cm, "Os homens partem de Kusināra.")
 
-// + Purisā Kusinārāya (fem.abl.) nikkhamanti. (_Kusināra_ é uma cidade.) \
-//   #fillin(15cm, "Os homens partem de Kusināra.")
+// // + Āyasmā Mahākassapo Pāvāya (fem.abl.) Kusināraṁ gacchati mahatā bhikkhusaṅghena saddhiṁ. (DN 16 simpl.) \
+// //   #fillin(15cm, "O Ven. Mahākassapo vai de Pāvā para Kusināra juntamente com um grande grupo de monges.")
 
-// + Āyasmā Mahākassapo Pāvāya (fem.abl.) Kusināraṁ gacchati mahatā bhikkhusaṅghena saddhiṁ. (DN 16 simpl.) \
-//   #fillin(15cm, "O Ven. Mahākassapo vai de Pāvā para Kusināra juntamente com um grande grupo de monges.")
+// === Traduzir para Pāli
 
-=== Traduzir para Pāli
+// TODO
 
-TODO
+// #pagebreak()
 
-#pagebreak()
+// == Nível 8: Feminino radical -ā, Casos 5-8, Abl. Gen. Loc. Voc.
 
-== Nível 8: Feminino radical -ā, Casos 5-8, Abl. Gen. Loc. Voc.
+// #table(
+//   columns: (1.8fr, 1.4fr, 1.4fr),
+//   align: (left, left, left),
+//   stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
+//   row-gutter: 0pt,
+//   table.header[*Caso*][*Singular*][*Plural*],
+//   [1. Nominativo (sujeito)],   [vedan#B[ā]], [vedan#B[ā], vedan#B[āyo]],
+//   [2. Acusativo (objeto)],    [vedan#B[aṁ]], [vedan#B[ā], vedan#B[āyo]],
+//   [3. Instrumental (por/com)], [vedan#B[āya]], [vedan#B[āhi]],
+//   [4. Dativo (a/para)],        [vedan#B[āya]], [vedan#B[ānaṁ]],
+//   [5. Ablativo (de)],        [vedan#B[āya]], [vedan#B[āhi]],
+//   [6. Genitivo (de)],          [vedan#B[āya]], [vedan#B[ānaṁ]],
+//   [7. Locativo (em/no)],       [vedan#B[āya], vedan#B[āyaṁ]], [vedan#B[āsu]],
+//   [8. Vocativo (chamamento)],     [vedan#B[e]], [vedan#B[ā], vedan#B[āyo]],
+// )
 
-#table(
-  columns: (1.8fr, 1.4fr, 1.4fr),
-  align: (left, left, left),
-  stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
-  row-gutter: 0pt,
-  table.header[*Caso*][*Singular*][*Plural*],
-  [1. Nominativo (sujeito)],   [vedan#B[ā]], [vedan#B[ā], vedan#B[āyo]],
-  [2. Acusativo (objeto)],    [vedan#B[aṁ]], [vedan#B[ā], vedan#B[āyo]],
-  [3. Instrumental (por/com)], [vedan#B[āya]], [vedan#B[āhi]],
-  [4. Dativo (a/para)],        [vedan#B[āya]], [vedan#B[ānaṁ]],
-  [5. Ablativo (de)],        [vedan#B[āya]], [vedan#B[āhi]],
-  [6. Genitivo (de)],          [vedan#B[āya]], [vedan#B[ānaṁ]],
-  [7. Locativo (em/no)],       [vedan#B[āya], vedan#B[āyaṁ]], [vedan#B[āsu]],
-  [8. Vocativo (chamamento)],     [vedan#B[e]], [vedan#B[ā], vedan#B[āyo]],
-)
+// === Vocabulário
 
-=== Vocabulário
+// TODO
 
-TODO
+// === Traduzir para Português
 
-=== Traduzir para Português
+// TODO
 
-TODO
+// === Traduzir para Pāli
 
-=== Traduzir para Pāli
+// TODO
 
-TODO
+// #pagebreak()
 
-#pagebreak()
+// == Nível 9: Feminino radical -i, Casos 1-4, Nom. Acus. Instr. Dat.
 
-== Nível 9: Feminino radical -i, Casos 1-4, Nom. Acus. Instr. Dat.
+// #table(
+//   columns: (1.8fr, 1.4fr, 1.4fr),
+//   align: (left, left, left),
+//   stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
+//   row-gutter: 0pt,
+//   table.header[*Caso*][*Singular*][*Plural*],
+//   [1. Nominativo (sujeito)],   [bhūm#B[i]], [bhūm#B[ī], bhūm#B[iyo]],
+//   [2. Acusativo (objeto)],    [bhūm#B[iṁ]], [bhūm#B[ī], bhūm#B[iyo]],
+//   [3. Instrumental (por/com)], [bhūm#B[iyā]], [bhūm#B[īhi]],
+//   [4. Dativo (a/para)],        [bhūm#B[iyā]], [bhūm#B[īnaṁ]],
+// )
 
-#table(
-  columns: (1.8fr, 1.4fr, 1.4fr),
-  align: (left, left, left),
-  stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
-  row-gutter: 0pt,
-  table.header[*Caso*][*Singular*][*Plural*],
-  [1. Nominativo (sujeito)],   [bhūm#B[i]], [bhūm#B[ī], bhūm#B[iyo]],
-  [2. Acusativo (objeto)],    [bhūm#B[iṁ]], [bhūm#B[ī], bhūm#B[iyo]],
-  [3. Instrumental (por/com)], [bhūm#B[iyā]], [bhūm#B[īhi]],
-  [4. Dativo (a/para)],        [bhūm#B[iyā]], [bhūm#B[īnaṁ]],
-)
+// === Vocabulário
 
-=== Vocabulário
+// TODO
 
-TODO
+// === Traduzir para Português
 
-=== Traduzir para Português
+// TODO
 
-TODO
+// === Traduzir para Pāli
 
-=== Traduzir para Pāli
+// TODO
 
-TODO
+// #pagebreak()
 
-#pagebreak()
+// == Nível 9: Feminino radical -i, Casos 5-8, Abl. Gen. Loc. Voc.
 
-== Nível 9: Feminino radical -i, Casos 5-8, Abl. Gen. Loc. Voc.
+// #table(
+//   columns: (1.8fr, 1.4fr, 1.4fr),
+//   align: (left, left, left),
+//   stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
+//   row-gutter: 0pt,
+//   table.header[*Caso*][*Singular*][*Plural*],
+//   [1. Nominativo (sujeito)],   [bhūm#B[i]], [bhūm#B[ī], bhūm#B[iyo]],
+//   [2. Acusativo (objeto)],    [bhūm#B[iṁ]], [bhūm#B[ī], bhūm#B[iyo]],
+//   [3. Instrumental (por/com)], [bhūm#B[iyā]], [bhūm#B[īhi]],
+//   [4. Dativo (a/para)],        [bhūm#B[iyā]], [bhūm#B[īnaṁ]],
+//   [5. Ablativo (de)],        [bhūm#B[iyā]], [bhūm#B[īhi]],
+//   [6. Genitivo (de)],          [bhūm#B[iyā]], [bhūm#B[īnaṁ]],
+//   [7. Locativo (em/no)],       [bhūm#B[iyā], bhūm#B[iyaṁ]], [bhūm#B[isu], bhūm#B[īsu]],
+//   [8. Vocativo (chamamento)],     [bhūm#B[i]], [bhūm#B[ī], bhūm#B[iyo]],
+// )
 
-#table(
-  columns: (1.8fr, 1.4fr, 1.4fr),
-  align: (left, left, left),
-  stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
-  row-gutter: 0pt,
-  table.header[*Caso*][*Singular*][*Plural*],
-  [1. Nominativo (sujeito)],   [bhūm#B[i]], [bhūm#B[ī], bhūm#B[iyo]],
-  [2. Acusativo (objeto)],    [bhūm#B[iṁ]], [bhūm#B[ī], bhūm#B[iyo]],
-  [3. Instrumental (por/com)], [bhūm#B[iyā]], [bhūm#B[īhi]],
-  [4. Dativo (a/para)],        [bhūm#B[iyā]], [bhūm#B[īnaṁ]],
-  [5. Ablativo (de)],        [bhūm#B[iyā]], [bhūm#B[īhi]],
-  [6. Genitivo (de)],          [bhūm#B[iyā]], [bhūm#B[īnaṁ]],
-  [7. Locativo (em/no)],       [bhūm#B[iyā], bhūm#B[iyaṁ]], [bhūm#B[isu], bhūm#B[īsu]],
-  [8. Vocativo (chamamento)],     [bhūm#B[i]], [bhūm#B[ī], bhūm#B[iyo]],
-)
+// === Vocabulário
 
-=== Vocabulário
+// TODO
 
-TODO
+// === Traduzir para Português
 
-=== Traduzir para Português
+// TODO
 
-TODO
+// === Traduzir para Pāli
 
-=== Traduzir para Pāli
+// TODO
 
-TODO
+// #pagebreak()
 
-#pagebreak()
+// == Nível 10: Citações
 
-== Nível 10: Citações
-
-TODO
+// TODO

@@ -1244,235 +1244,343 @@ _Ariyasāvako buddhe aveccappasādena samannāgato hoti..._ (DN 16) \
 
 == Level 6: Quotes
 
-(Dhp 5) Na hi verena verāni \
-#fillin(7cm, "TODO")
+=== Dhp 5
+
+#table(
+  columns: 2,
+  row-gutter: 2pt,
+  [#strong[ca]], [#emph[\(ind)] and; both],
+  [#strong[dhamma]], [#emph[\(masc)] (1.01) nature; character; (1.09) law; rule],
+  [#strong[esa]], [#emph[\(pron)] this; he; it; #emph[masc nom sg of eta]],
+  [#strong[idha]], [#emph[\(ind)] here; now; in this world],
+  [#strong[kudācanaṁ]], [#emph[\(ind)] at some time; at any time; ever],
+  [#strong[sanantana]], [#emph[\(adj)] eternal; perpetual; everlasting; ancient],
+)
+
+Na hi verena verāni \
+#fillin(10cm, "Not by hostility are hostilities")
 
 sammantīdha kudācanaṁ; \
-#fillin(7cm, "TODO")
+#fillin(10cm, "ever calmed here;")
 
 Averena ca sammanti, \
-#fillin(7cm, "TODO")
+#fillin(10cm, "by non-hostility they are calmed,")
 
 esa dhammo sanantano. \
-#fillin(7cm, "TODO")
+#fillin(10cm, "this is an eternal law.")
 
+#pagebreak()
 
-(Dhp 277) "Sabbe saṅkhārā aniccā"ti, \
-#fillin(7cm, "TODO")
+=== Dhp 277
+
+#table(
+  columns: 2,
+  row-gutter: 2pt,
+  [#strong[anicca]], [#emph[\(adj)] impermanent; inconstant; unstable; unreliable],
+  [#strong[atha]], [#emph[\(ind)] then; also; and so; after that],
+  [#strong[nibbindati]], [#emph[\(pr)] is dis-enchanted (with); is disinterested (in); is disillusioned (by)],
+  [#strong[paññā]], [#emph[\(fem)] wisdom; knowledge; understanding; insight],
+  [#strong[sabba]], [#emph[\(pron)] all; every],
+  [#strong[visuddhi]], [#emph[\(fem)] purity (of); purification (of)],
+  [#strong[yadā]], [#emph[\(ind)] when; whenever],
+)
+
+"Sabbe saṅkhārā aniccā"ti, \
+#fillin(10cm, "All formations are impermanent")
 
 yadā paññāya passati; \
-#fillin(7cm, "TODO")
+#fillin(10cm, "when one sees with wisdom;")
 
 Atha nibbindati dukkhe, \
-#fillin(7cm, "TODO")
+#fillin(10cm, "then one grows disenchanted with suffering,")
 
 esa maggo visuddhiyā. \
-#fillin(7cm, "TODO")
+#fillin(10cm, "this is the path to purification.")
 
+#pagebreak()
 
-(AN 6.63) Cetanāhaṁ, bhikkhave, kammaṁ vadāmi. \
-#fillin(7cm, "TODO")
+=== AN 6.63
+
+#table(
+  columns: 2,
+  row-gutter: 2pt,
+  [#strong[ahaṁ]], [#emph[\(pron)] I],
+  [#strong[bhikkhu]], [#emph[\(masc)] monk; monastic; mendicant],
+  [#strong[cetanā]], [#emph[\(fem)] intending; willing; #emph[from ceteti]],
+  [#strong[cetayitvā]], [#emph[\(abs)] having willed; having intended],
+  [#strong[katama]], [#emph[\(pron)] what?; which (of the many)?],
+  [#strong[kāya]], [#emph[\(masc)] body; physical body],
+  [#strong[mano]], [#emph[\(masc)] mind; mental],
+  [#strong[nidānasambhava]], [#emph[\(masc)] primary cause (of); origin of the reason (for) #strong[\[nidāna + sambhava\]]],
+  [#strong[phassa]], [#emph[\(masc)] sense contact; sense impingement; sense impression],
+  [#strong[vācā]], [#emph[\(fem)] speech; words; statement; talk; #emph[from vacati]],
+)
+
+Cetanāhaṁ, bhikkhave, kammaṁ vadāmi. \
+#fillin(10cm, "Intention, monks, I call action.")
 
 Cetayitvā kammaṁ karoti -- kāyena vācāya manasā. \
-#fillin(7cm, "TODO")
+#fillin(10cm, "Having intended, one acts — by body, speech, mind.")
 
 Katamo ca, bhikkhave, kammānaṁ nidānasambhavo? \
-#fillin(7cm, "TODO")
+#fillin(10cm, "And what, monks, is the origin of actions?")
 
 Phasso, bhikkhave, kammānaṁ nidānasambhavo. \
-#fillin(7cm, "TODO")
+#fillin(10cm, "Contact, monks, is the origin of actions.")
 
+#pagebreak()
 
-(Dhp 21-22) Appamādo amatapadaṁ, \
-#fillin(7cm, "TODO")
+=== Dhp 21-22
+
+#table(
+  columns: 2,
+  row-gutter: 2pt,
+  [#strong[appamāda]], [#emph[\(masc)] alertness; care; carefulness; diligence],
+  [#strong[appamatta]], [#emph[\(pp)] diligent (in); vigilant (about); careful (about)],
+  [#strong[ariya]], [#emph[\(adj)] noble; distinguished],
+  [#strong[evaṁ]], [#emph[\(ind)] thus; this; like this; similarly],
+  [#strong[gocara]], [#emph[\(masc)] sphere; domain; field; range],
+  [#strong[maccu]], [#emph[\(masc)] death; Death],
+  [#strong[mata]], [#emph[\(pp)] dead; deceased; departed; #emph[pp of marati]],
+  [#strong[mīyati]], [#emph[\(pr)] is killed; dies; #emph[pass of marati]],
+  [#strong[ñatvā]], [#emph[\(abs)] having known; having understood],
+  [#strong[pada 2]], [#emph[\(nt)] path; track; way],
+  [#strong[pamāda]], [#emph[\(masc)] carelessness; negligence; heedlessness],
+  [#strong[pamatta]], [#emph[\(pp)] careless; heedless; negligent; inattentive],
+  [#strong[pamodati]], [#emph[\(pr)] is delighted (with); is very happy (with)],
+  [#strong[paṇḍita]], [#emph[\(adj)] wise; intelligent; astute; learned],
+  [#strong[rata]], [#emph[\(pp)] delighted (with); devoted (to); pleased (with)],
+  [#strong[visesato]], [#emph[\(ind)] distinctly; clearly],
+  [#strong[yathā]], [#emph[\(ind)] like; as; as per; according to],
+  [#strong[ye]], [#emph[\(pron)] whoever; whatever; those who; #emph[masc & nt nom pl of ya]],
+)
+
+#grid(columns: (1fr, 1fr), block[
+
+Appamādo amatapadaṁ, \
+#fillin(7cm, "Heedfulness is the path to the deathless,")
 
 pamādo maccuno padaṁ; \
-#fillin(7cm, "TODO")
+#fillin(7cm, "heedlessness is the path of death;")
 
 Appamattā na mīyanti, \
-#fillin(7cm, "TODO")
+#fillin(7cm, "the heedful do not die,")
 
 ye pamattā yathā matā. \
-#fillin(7cm, "TODO")
+#fillin(7cm, "the heedless are as if dead.")
 
-
+], block[
 Evaṁ visesato ñatvā, \
-#fillin(7cm, "TODO")
+#fillin(7cm, "Having clearly understood this,")
 
 appamādamhi paṇḍitā; \
-#fillin(7cm, "TODO")
+#fillin(7cm, "the wise (delight) in heedfulness;")
 
 Appamāde pamodanti, \
-#fillin(7cm, "TODO")
+#fillin(7cm, "they rejoice in heedfulness,")
 
 ariyānaṁ gocare ratā. \
-#fillin(7cm, "TODO")
+#fillin(7cm, "devoted to/delighted with the domain of the noble ones.")
+  
+])
 
+#pagebreak()
 
-(DN 22) Ekāyano ayaṁ, bhikkhave, \
-#fillin(7cm, "TODO")
+=== DN 22 (introduction)
+
+#table(
+  columns: 2,
+  row-gutter: 2pt,
+  [#strong[adhigama 2]], [#emph[\(masc)] attainment; realization (of) #emph[from adhigacchati]],
+  [#strong[ayaṁ]], [#emph[\(pron)] this; this person; this thing],
+  [#strong[cattāro]], [#emph[\(card)] four (4)],
+  [#strong[ekāyana]], [#emph[\(adj)] direct; one-way],
+  [#strong[ñāya]], [#emph[\(masc)] way; means; method; system; approach],
+  [#strong[parideva]], [#emph[\(masc)] lamentation; wailing; crying],
+  [#strong[sacchikiriyā]], [#emph[\(fem)] personal experience (of); intimate experience (of); personal realization (of)],
+  [#strong[samatikkama]], [#emph[\(masc)] surpassing (of); overcoming (of); going beyond; transcendence],
+  [#strong[satipaṭṭhāna 1]], [#emph[\(masc)] attending mindfully; being present with mindfulness #strong[\[sati + upaṭṭhāna\]]],
+  [#strong[soka]], [#emph[\(masc)] grief; sorrow; sadness (over)],
+  [#strong[yadidaṁ]], [#emph[\(sandhi)] namely; that is],
+)
+
+Ekāyano ayaṁ, bhikkhave, \
+#fillin(10cm, "This is the one-way path, monks,")
 
 maggo sattānaṁ visuddhiyā, \
-#fillin(7cm, "TODO")
+#fillin(10cm, "the path for the purification of beings,")
 
 sokaparidevānaṁ samatikkamāya \
-#fillin(7cm, "TODO")
+#fillin(10cm, "for the overcoming of sorrow and lamentation,")
 
 dukkhadomanassānaṁ atthaṅgamāya \
-#fillin(7cm, "TODO")
+#fillin(10cm, "for the ending of suffering and grief,")
 
 ñāyassa adhigamāya \
-#fillin(7cm, "TODO")
+#fillin(10cm, "for the attainment of the right method,")
 
 nibbānassa sacchikiriyāya, \
-#fillin(7cm, "TODO")
+#fillin(10cm, "for the realization of Nibbāna,")
 
 yadidaṁ cattāro satipaṭṭhānā. \
-#fillin(7cm, "TODO")
+#fillin(10cm, "namely, the four establishments of mindfulness.")
 
+#pagebreak()
 
-(AN 4.45) Gamanena na pattabbo, \
-#fillin(7cm, "TODO")
+=== AN 4.45
+
+#table(
+  columns: 2,
+  row-gutter: 2pt,
+  [#strong[gamana]], [#emph[\(nt)] going; walking; journeying; travelling; #emph[from gacchati]],
+  [#strong[pattabba]], [#emph[\(ptp)] could be reached (by); could be found (by); #emph[ptp of pāpunāti]],
+  [#strong[anta]], [#emph[\(masc)] end (of); limit (of); finish (of); conclusion (of)],
+  [#strong[appatvā]], [#emph[\(abs)] having not reached; having not arrived (at); #emph[abs of na pāpuṇāti]],
+  [#strong[pamocana]], [#emph[\(nt)] freeing (from); liberating (from); delivering (from)],
+)
+
+Gamanena na pattabbo, \
+#fillin(10cm, "The end of the world is not reached")
 
 lokassanto kudācanaṁ; \
-#fillin(7cm, "TODO")
+#fillin(10cm, "by travelling, ever;")
 
 Na ca appatvā lokantaṁ, \
-#fillin(7cm, "TODO")
+#fillin(10cm, "yet without reaching the world's end,")
 
 dukkhā atthi pamocanaṁ. \
-#fillin(7cm, "TODO")
+#fillin(10cm, "there is no release from suffering.")
 
-#pagebreak()
+// #pagebreak()
 
-== Level 7: Feminine -ā stems, Cases 1-4, Nom. Acc. Instr. Dat.
+// == Level 7: Feminine -ā stems, Cases 1-4, Nom. Acc. Instr. Dat.
 
-#table(
-  columns: (1.8fr, 1.4fr, 1.4fr),
-  align: (left, left, left),
-  stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
-  row-gutter: 0pt,
-  table.header[*Case*][*Singular*][*Plural*],
-  [1. Nominative (subject)],   [vedan#B[ā]], [vedan#B[ā], vedan#B[āyo]],
-  [2. Accusative (object)],    [vedan#B[aṁ]], [vedan#B[ā], vedan#B[āyo]],
-  [3. Instrumental (by/with)], [vedan#B[āya]], [vedan#B[āhi]],
-  [4. Dative (to/for)],        [vedan#B[āya]], [vedan#B[ānaṁ]],
-)
+// #table(
+//   columns: (1.8fr, 1.4fr, 1.4fr),
+//   align: (left, left, left),
+//   stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
+//   row-gutter: 0pt,
+//   table.header[*Case*][*Singular*][*Plural*],
+//   [1. Nominative (subject)],   [vedan#B[ā]], [vedan#B[ā], vedan#B[āyo]],
+//   [2. Accusative (object)],    [vedan#B[aṁ]], [vedan#B[ā], vedan#B[āyo]],
+//   [3. Instrumental (by/with)], [vedan#B[āya]], [vedan#B[āhi]],
+//   [4. Dative (to/for)],        [vedan#B[āya]], [vedan#B[ānaṁ]],
+// )
 
-=== Vocabulary
+// === Vocabulary
 
-TODO
+// TODO
 
-=== Translate into English
+// === Translate into English
 
-TODO
+// TODO
 
-=== Translate into Pāli
+// === Translate into Pāli
 
-TODO
+// TODO
 
-#pagebreak()
+// #pagebreak()
 
-== Level 8: Feminine -ā stems, Cases 5-8, Abl. Gen. Loc. Voc.
+// == Level 8: Feminine -ā stems, Cases 5-8, Abl. Gen. Loc. Voc.
 
-#table(
-  columns: (1.8fr, 1.4fr, 1.4fr),
-  align: (left, left, left),
-  stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
-  row-gutter: 0pt,
-  table.header[*Case*][*Singular*][*Plural*],
-  [1. Nominative (subject)],   [vedan#B[ā]], [vedan#B[ā], vedan#B[āyo]],
-  [2. Accusative (object)],    [vedan#B[aṁ]], [vedan#B[ā], vedan#B[āyo]],
-  [3. Instrumental (by/with)], [vedan#B[āya]], [vedan#B[āhi]],
-  [4. Dative (to/for)],        [vedan#B[āya]], [vedan#B[ānaṁ]],
-  [5. Ablative (from)],        [vedan#B[āya]], [vedan#B[āhi]],
-  [6. Genitive (of)],          [vedan#B[āya]], [vedan#B[ānaṁ]],
-  [7. Locative (to/at)],       [vedan#B[āya], vedan#B[āyaṁ]], [vedan#B[āsu]],
-  [8. Vocative (address)],     [vedan#B[e]], [vedan#B[ā], vedan#B[āyo]],
-)
+// #table(
+//   columns: (1.8fr, 1.4fr, 1.4fr),
+//   align: (left, left, left),
+//   stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
+//   row-gutter: 0pt,
+//   table.header[*Case*][*Singular*][*Plural*],
+//   [1. Nominative (subject)],   [vedan#B[ā]], [vedan#B[ā], vedan#B[āyo]],
+//   [2. Accusative (object)],    [vedan#B[aṁ]], [vedan#B[ā], vedan#B[āyo]],
+//   [3. Instrumental (by/with)], [vedan#B[āya]], [vedan#B[āhi]],
+//   [4. Dative (to/for)],        [vedan#B[āya]], [vedan#B[ānaṁ]],
+//   [5. Ablative (from)],        [vedan#B[āya]], [vedan#B[āhi]],
+//   [6. Genitive (of)],          [vedan#B[āya]], [vedan#B[ānaṁ]],
+//   [7. Locative (to/at)],       [vedan#B[āya], vedan#B[āyaṁ]], [vedan#B[āsu]],
+//   [8. Vocative (address)],     [vedan#B[e]], [vedan#B[ā], vedan#B[āyo]],
+// )
 
-=== Vocabulary
+// === Vocabulary
 
-TODO
+// TODO
 
-// [#strong[mahatā]], [#emph[\(adj)] with a great; with a large; #emph[masc & nt instr sg of mahanta]],
+// // [#strong[mahatā]], [#emph[\(adj)] with a great; with a large; #emph[masc & nt instr sg of mahanta]],
 
-=== Translate into English
+// === Translate into English
 
-TODO
+// TODO
 
-// + Purisā Kusinārāya (fem.abl.) nikkhamanti. (_Kusināra_ is a town.) \
-//   #fillin(15cm, "The men leave from Kusināra.")
+// // + Purisā Kusinārāya (fem.abl.) nikkhamanti. (_Kusināra_ is a town.) \
+// //   #fillin(15cm, "The men leave from Kusināra.")
 
-// + Āyasmā Mahākassapo Pāvāya (fem.abl.) Kusināraṁ gacchati mahatā bhikkhusaṅghena saddhiṁ. (DN 16 simpl.) \
-//   #fillin(15cm, "Ven. Mahākassapo is going from Pāvā to Kusināra together with a large group of monks.")
+// // + Āyasmā Mahākassapo Pāvāya (fem.abl.) Kusināraṁ gacchati mahatā bhikkhusaṅghena saddhiṁ. (DN 16 simpl.) \
+// //   #fillin(15cm, "Ven. Mahākassapo is going from Pāvā to Kusināra together with a large group of monks.")
 
-=== Translate into Pāli
+// === Translate into Pāli
 
-TODO
+// TODO
 
-#pagebreak()
+// #pagebreak()
 
-== Level 9: Feminine -i stems, Cases 1-4, Nom. Acc. Instr. Dat.
+// == Level 9: Feminine -i stems, Cases 1-4, Nom. Acc. Instr. Dat.
 
-#table(
-  columns: (1.8fr, 1.4fr, 1.4fr),
-  align: (left, left, left),
-  stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
-  row-gutter: 0pt,
-  table.header[*Case*][*Singular*][*Plural*],
-  [1. Nominative (subject)],   [bhūm#B[i]], [bhūm#B[ī], bhūm#B[iyo]],
-  [2. Accusative (object)],    [bhūm#B[iṁ]], [bhūm#B[ī], bhūm#B[iyo]],
-  [3. Instrumental (by/with)], [bhūm#B[iyā]], [bhūm#B[īhi]],
-  [4. Dative (to/for)],        [bhūm#B[iyā]], [bhūm#B[īnaṁ]],
-)
+// #table(
+//   columns: (1.8fr, 1.4fr, 1.4fr),
+//   align: (left, left, left),
+//   stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
+//   row-gutter: 0pt,
+//   table.header[*Case*][*Singular*][*Plural*],
+//   [1. Nominative (subject)],   [bhūm#B[i]], [bhūm#B[ī], bhūm#B[iyo]],
+//   [2. Accusative (object)],    [bhūm#B[iṁ]], [bhūm#B[ī], bhūm#B[iyo]],
+//   [3. Instrumental (by/with)], [bhūm#B[iyā]], [bhūm#B[īhi]],
+//   [4. Dative (to/for)],        [bhūm#B[iyā]], [bhūm#B[īnaṁ]],
+// )
 
-=== Vocabulary
+// === Vocabulary
 
-TODO
+// TODO
 
-=== Translate into English
+// === Translate into English
 
-TODO
+// TODO
 
-=== Translate into Pāli
+// === Translate into Pāli
 
-TODO
+// TODO
 
-#pagebreak()
+// #pagebreak()
 
-== Level 9: Feminine -i stems, Cases 5-8, Abl. Gen. Loc. Voc.
+// == Level 9: Feminine -i stems, Cases 5-8, Abl. Gen. Loc. Voc.
 
-#table(
-  columns: (1.8fr, 1.4fr, 1.4fr),
-  align: (left, left, left),
-  stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
-  row-gutter: 0pt,
-  table.header[*Case*][*Singular*][*Plural*],
-  [1. Nominative (subject)],   [bhūm#B[i]], [bhūm#B[ī], bhūm#B[iyo]],
-  [2. Accusative (object)],    [bhūm#B[iṁ]], [bhūm#B[ī], bhūm#B[iyo]],
-  [3. Instrumental (by/with)], [bhūm#B[iyā]], [bhūm#B[īhi]],
-  [4. Dative (to/for)],        [bhūm#B[iyā]], [bhūm#B[īnaṁ]],
-  [5. Ablative (from)],        [bhūm#B[iyā]], [bhūm#B[īhi]],
-  [6. Genitive (of)],          [bhūm#B[iyā]], [bhūm#B[īnaṁ]],
-  [7. Locative (to/at)],       [bhūm#B[iyā], bhūm#B[iyaṁ]], [bhūm#B[isu], bhūm#B[īsu]],
-  [8. Vocative (address)],     [bhūm#B[i]], [bhūm#B[ī], bhūm#B[iyo]],
-)
+// #table(
+//   columns: (1.8fr, 1.4fr, 1.4fr),
+//   align: (left, left, left),
+//   stroke: 0.4pt + luma(200), inset: 6pt, fill: tblfill,
+//   row-gutter: 0pt,
+//   table.header[*Case*][*Singular*][*Plural*],
+//   [1. Nominative (subject)],   [bhūm#B[i]], [bhūm#B[ī], bhūm#B[iyo]],
+//   [2. Accusative (object)],    [bhūm#B[iṁ]], [bhūm#B[ī], bhūm#B[iyo]],
+//   [3. Instrumental (by/with)], [bhūm#B[iyā]], [bhūm#B[īhi]],
+//   [4. Dative (to/for)],        [bhūm#B[iyā]], [bhūm#B[īnaṁ]],
+//   [5. Ablative (from)],        [bhūm#B[iyā]], [bhūm#B[īhi]],
+//   [6. Genitive (of)],          [bhūm#B[iyā]], [bhūm#B[īnaṁ]],
+//   [7. Locative (to/at)],       [bhūm#B[iyā], bhūm#B[iyaṁ]], [bhūm#B[isu], bhūm#B[īsu]],
+//   [8. Vocative (address)],     [bhūm#B[i]], [bhūm#B[ī], bhūm#B[iyo]],
+// )
 
-=== Vocabulary
+// === Vocabulary
 
-TODO
+// TODO
 
-=== Translate into English
+// === Translate into English
 
-TODO
+// TODO
 
-=== Translate into Pāli
+// === Translate into Pāli
 
-TODO
+// TODO
 
-#pagebreak()
+// #pagebreak()
 
-== Level 10: Quotes
+// == Level 10: Quotes
 
-TODO
+// TODO
