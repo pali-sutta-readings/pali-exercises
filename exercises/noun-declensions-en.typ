@@ -1244,51 +1244,104 @@ _Ariyasāvako buddhe aveccappasādena samannāgato hoti..._ (DN 16) \
 
 == Level 6: Quotes
 
-#quote[
-"Sabbe saṅkhārā aniccā"ti, \
-yadā paññāya passati; \
-Atha nibbindati dukkhe, \
-esa maggo visuddhiyā. (Dhp 277)
-]
+(Dhp 5) Na hi verena verāni \
+#fillin(7cm, "TODO")
 
-#quote[
-Ekāyano ayaṁ, bhikkhave, maggo sattānaṁ visuddhiyā, sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya, yadidaṁ cattāro satipaṭṭhānā. (DN 22)
-]
-
-#quote[
-Cetanāhaṁ, bhikkhave, kammaṁ vadāmi. Cetayitvā kammaṁ karoti -- kāyena vācāya manasā.
-
-Katamo ca, bhikkhave, kammānaṁ nidānasambhavo? Phasso, bhikkhave, kammānaṁ nidānasambhavo. (AN 6.63)
-]
-
-#quote[
-Gamanena na pattabbo, \
-lokassanto kudācanaṁ; \
-Na ca appatvā lokantaṁ, \
-dukkhā atthi pamocanaṁ. (AN 4.45)
-]
-
-#quote[
-Na hi verena verāni, \
 sammantīdha kudācanaṁ; \
+#fillin(7cm, "TODO")
+
 Averena ca sammanti, \
-esa dhammo sanantano. (Dhp 5)
-]
+#fillin(7cm, "TODO")
+
+esa dhammo sanantano. \
+#fillin(7cm, "TODO")
 
 
-#quote[
-Appamādo amatapadaṁ, \
+(Dhp 277) "Sabbe saṅkhārā aniccā"ti, \
+#fillin(7cm, "TODO")
+
+yadā paññāya passati; \
+#fillin(7cm, "TODO")
+
+Atha nibbindati dukkhe, \
+#fillin(7cm, "TODO")
+
+esa maggo visuddhiyā. \
+#fillin(7cm, "TODO")
+
+
+(AN 6.63) Cetanāhaṁ, bhikkhave, kammaṁ vadāmi. \
+#fillin(7cm, "TODO")
+
+Cetayitvā kammaṁ karoti -- kāyena vācāya manasā. \
+#fillin(7cm, "TODO")
+
+Katamo ca, bhikkhave, kammānaṁ nidānasambhavo? \
+#fillin(7cm, "TODO")
+
+Phasso, bhikkhave, kammānaṁ nidānasambhavo. \
+#fillin(7cm, "TODO")
+
+
+(Dhp 21-22) Appamādo amatapadaṁ, \
+#fillin(7cm, "TODO")
+
 pamādo maccuno padaṁ; \
+#fillin(7cm, "TODO")
+
 Appamattā na mīyanti, \
-ye pamattā yathā matā.
+#fillin(7cm, "TODO")
+
+ye pamattā yathā matā. \
+#fillin(7cm, "TODO")
+
 
 Evaṁ visesato ñatvā, \
-appamādamhi paṇḍitā; \
-Appamāde pamodanti, \
-ariyānaṁ gocare ratā. (Dhp 21-22)
-]
+#fillin(7cm, "TODO")
 
-// yathāvimuttaṁ cittaṁ paccavekkhati— ime kho, bhikkhave, pañca dhammā sekhassa bhikkhuno aparihānāya saṁvattantī”ti.
+appamādamhi paṇḍitā; \
+#fillin(7cm, "TODO")
+
+Appamāde pamodanti, \
+#fillin(7cm, "TODO")
+
+ariyānaṁ gocare ratā. \
+#fillin(7cm, "TODO")
+
+
+(DN 22) Ekāyano ayaṁ, bhikkhave, \
+#fillin(7cm, "TODO")
+
+maggo sattānaṁ visuddhiyā, \
+#fillin(7cm, "TODO")
+
+sokaparidevānaṁ samatikkamāya \
+#fillin(7cm, "TODO")
+
+dukkhadomanassānaṁ atthaṅgamāya \
+#fillin(7cm, "TODO")
+
+ñāyassa adhigamāya \
+#fillin(7cm, "TODO")
+
+nibbānassa sacchikiriyāya, \
+#fillin(7cm, "TODO")
+
+yadidaṁ cattāro satipaṭṭhānā. \
+#fillin(7cm, "TODO")
+
+
+(AN 4.45) Gamanena na pattabbo, \
+#fillin(7cm, "TODO")
+
+lokassanto kudācanaṁ; \
+#fillin(7cm, "TODO")
+
+Na ca appatvā lokantaṁ, \
+#fillin(7cm, "TODO")
+
+dukkhā atthi pamocanaṁ. \
+#fillin(7cm, "TODO")
 
 #pagebreak()
 
