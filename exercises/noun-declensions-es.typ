@@ -572,6 +572,7 @@ En una oración atributiva, _hoti_ a menudo se omite pues puede inferirse fácil
   columns: 2,
   stroke: none,
   align: (auto,auto,),
+  row-gutter: 0pt,
   [Dārako], [samaṇo.],
   [#emph[nom.sg.]], [#emph[nom.sg.]],
 )
@@ -584,6 +585,7 @@ _Kammaṁ khettaṁ viññāṇaṁ bījaṁ taṇhā sneho._ (AN 3.76)
   columns: 3,
   stroke: none,
   align: (auto,auto,auto,),
+  row-gutter: 0pt,
   [kammaṁ → khettaṁ], [viññāṇaṁ → bījaṁ], [taṇhā → sneho.],
   [la acción es el campo], [la conciencia es la semilla], [el anhelo es la savia.],
 )
@@ -591,10 +593,13 @@ _Kammaṁ khettaṁ viññāṇaṁ bījaṁ taṇhā sneho._ (AN 3.76)
 _Appamādo amatapadaṁ_ \
 _pamādo maccuno padaṁ_ (Dhp 21) \
 
+#v(-0.5em)
+
 #table(
   columns: 3,
   stroke: none,
   align: (auto,auto,auto,),
+  row-gutter: 0pt,
   [Appamādo], [→], [amatapadaṁ],
   [_masc.nom.sg._], [], [_nt.nom.sg._],
   [la diligencia], [], [es el sendero de lo inmortal (_amata_) (_pada_)],

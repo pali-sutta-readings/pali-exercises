@@ -8,3 +8,5 @@
 
 : /update-translations
 
+: /add-exercises "Level 5"
+
