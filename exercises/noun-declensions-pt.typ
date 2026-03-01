@@ -1242,49 +1242,212 @@ _Ariyasāvako buddhe aveccappasādena samannāgato hoti..._ (DN 16) \
 
 == Nível 6: Citações
 
-#quote[
-"Sabbe saṅkhārā aniccā"ti, \
-yadā paññāya passati; \
-Atha nibbindati dukkhe, \
-esa maggo visuddhiyā. (Dhp 277)
-]
+=== Dhp 5
 
-#quote[
-Ekāyano ayaṁ, bhikkhave, maggo sattānaṁ visuddhiyā, sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya, yadidaṁ cattāro satipaṭṭhānā. (DN 22)
-]
+#table(
+  columns: 2,
+  row-gutter: 2pt,
+  [#strong[ca]], [#emph[\(ind)] e; ambos],
+  [#strong[dhamma]], [#emph[\(masc)] (1.01) natureza; carácter; (1.09) lei; regra],
+  [#strong[esa]], [#emph[\(pron)] este; ele; isso; #emph[masc nom sg de eta]],
+  [#strong[idha]], [#emph[\(ind)] aqui; agora; neste mundo],
+  [#strong[kudācanaṁ]], [#emph[\(ind)] em algum momento; em qualquer momento; alguma vez],
+  [#strong[sanantana]], [#emph[\(adj)] eterno; perpétuo; perene; antigo],
+)
 
-#quote[
-Cetanāhaṁ, bhikkhave, kammaṁ vadāmi. Cetayitvā kammaṁ karoti -- kāyena vācāya manasā.
+Na hi verena verāni \
+#fillin(10cm, "Não pela hostilidade as hostilidades")
 
-Katamo ca, bhikkhave, kammānaṁ nidānasambhavo? Phasso, bhikkhave, kammānaṁ nidānasambhavo. (AN 6.63)
-]
-
-#quote[
-Gamanena na pattabbo, \
-lokassanto kudācanaṁ; \
-Na ca appatvā lokantaṁ, \
-dukkhā atthi pamocanaṁ. (AN 4.45)
-]
-
-#quote[
-Na hi verena verāni, \
 sammantīdha kudācanaṁ; \
+#fillin(10cm, "são alguma vez acalmadas aqui;")
+
 Averena ca sammanti, \
-esa dhammo sanantano. (Dhp 5)
-]
+#fillin(10cm, "pela não-hostilidade elas são acalmadas,")
 
+esa dhammo sanantano. \
+#fillin(10cm, "esta é uma lei eterna.")
 
-#quote[
+#pagebreak()
+
+=== Dhp 277
+
+#table(
+  columns: 2,
+  row-gutter: 2pt,
+  [#strong[anicca]], [#emph[\(adj)] impermanente; inconstante; instável; não fiável],
+  [#strong[atha]], [#emph[\(ind)] então; também; e assim; depois disso],
+  [#strong[nibbindati]], [#emph[\(pr)] fica desencantado (com); fica desinteressado (de); fica desiludido (com)],
+  [#strong[paññā]], [#emph[\(fem)] sabedoria; conhecimento; compreensão; discernimento],
+  [#strong[sabba]], [#emph[\(pron)] todo; cada],
+  [#strong[visuddhi]], [#emph[\(fem)] pureza (de); purificação (de)],
+  [#strong[yadā]], [#emph[\(ind)] quando; sempre que],
+)
+
+"Sabbe saṅkhārā aniccā"ti, \
+#fillin(10cm, "\"Todas as formações são impermanentes\"")
+
+yadā paññāya passati; \
+#fillin(10cm, "quando se vê com sabedoria;")
+
+Atha nibbindati dukkhe, \
+#fillin(10cm, "então fica-se desencantado com o sofrimento,")
+
+esa maggo visuddhiyā. \
+#fillin(10cm, "este é o caminho para a purificação.")
+
+#pagebreak()
+
+=== AN 6.63
+
+#table(
+  columns: 2,
+  row-gutter: 2pt,
+  [#strong[ahaṁ]], [#emph[\(pron)] eu],
+  [#strong[bhikkhu]], [#emph[\(masc)] monge; monástico; mendicante],
+  [#strong[cetanā]], [#emph[\(fem)] intenção; volição; #emph[de ceteti]],
+  [#strong[cetayitvā]], [#emph[\(abs)] tendo desejado; tendo intencionado],
+  [#strong[katama]], [#emph[\(pron)] qual?; qual (dos muitos)?],
+  [#strong[kāya]], [#emph[\(masc)] corpo; corpo físico],
+  [#strong[mano]], [#emph[\(masc)] mente; mental],
+  [#strong[nidānasambhava]], [#emph[\(masc)] causa primária (de); origem da razão (de) #strong[\[nidāna + sambhava\]]],
+  [#strong[phassa]], [#emph[\(masc)] contacto sensorial; impressão sensorial],
+  [#strong[vācā]], [#emph[\(fem)] fala; palavras; declaração; discurso; #emph[de vacati]],
+)
+
+Cetanāhaṁ, bhikkhave, kammaṁ vadāmi. \
+#fillin(10cm, "Intenção, monges, eu chamo ação.")
+
+Cetayitvā kammaṁ karoti -- kāyena vācāya manasā. \
+#fillin(10cm, "Tendo intencionado, age-se — pelo corpo, fala, mente.")
+
+Katamo ca, bhikkhave, kammānaṁ nidānasambhavo? \
+#fillin(10cm, "E qual, monges, é a origem das ações?")
+
+Phasso, bhikkhave, kammānaṁ nidānasambhavo. \
+#fillin(10cm, "O contacto, monges, é a origem das ações.")
+
+#pagebreak()
+
+=== Dhp 21-22
+
+#table(
+  columns: 2,
+  row-gutter: 2pt,
+  [#strong[appamāda]], [#emph[\(masc)] vigilância; cuidado; diligência],
+  [#strong[appamatta]], [#emph[\(pp)] diligente (em); vigilante (sobre); cuidadoso (com)],
+  [#strong[ariya]], [#emph[\(adj)] nobre; distinto],
+  [#strong[evaṁ]], [#emph[\(ind)] assim; deste modo; similarmente],
+  [#strong[gocara]], [#emph[\(masc)] esfera; domínio; campo; alcance],
+  [#strong[maccu]], [#emph[\(masc)] morte; Morte],
+  [#strong[mata]], [#emph[\(pp)] morto; falecido; partido; #emph[pp de marati]],
+  [#strong[mīyati]], [#emph[\(pr)] é morto; morre; #emph[pass de marati]],
+  [#strong[ñatvā]], [#emph[\(abs)] tendo sabido; tendo compreendido],
+  [#strong[pada 2]], [#emph[\(nt)] caminho; trilho; via],
+  [#strong[pamāda]], [#emph[\(masc)] descuido; negligência; desatenção],
+  [#strong[pamatta]], [#emph[\(pp)] descuidado; negligente; desatento],
+  [#strong[pamodati]], [#emph[\(pr)] fica encantado (com); fica muito feliz (com)],
+  [#strong[paṇḍita]], [#emph[\(adj)] sábio; inteligente; astuto; erudito],
+  [#strong[rata]], [#emph[\(pp)] encantado (com); devotado (a); satisfeito (com)],
+  [#strong[visesato]], [#emph[\(ind)] distintamente; claramente],
+  [#strong[yathā]], [#emph[\(ind)] como; tal como; conforme],
+  [#strong[ye]], [#emph[\(pron)] quem quer que; o que quer que; aqueles que; #emph[masc & nt nom pl de ya]],
+)
+
+#grid(columns: (1fr, 1fr), block[
+
 Appamādo amatapadaṁ, \
-pamādo maccuno padaṁ; \
-Appamattā na mīyanti, \
-ye pamattā yathā matā.
+#fillin(7cm, "A diligência é o caminho para o imortal,")
 
+pamādo maccuno padaṁ; \
+#fillin(7cm, "a negligência é o caminho da morte;")
+
+Appamattā na mīyanti, \
+#fillin(7cm, "os diligentes não morrem,")
+
+ye pamattā yathā matā. \
+#fillin(7cm, "os negligentes são como mortos.")
+
+], block[
 Evaṁ visesato ñatvā, \
+#fillin(7cm, "Tendo compreendido isto claramente,")
+
 appamādamhi paṇḍitā; \
+#fillin(7cm, "os sábios (deleitam-se) na diligência;")
+
 Appamāde pamodanti, \
-ariyānaṁ gocare ratā. (Dhp 21-22)
-]
+#fillin(7cm, "regozijam-se na diligência,")
+
+ariyānaṁ gocare ratā. \
+#fillin(7cm, "devotados ao/encantados com o domínio dos nobres.")
+
+])
+
+#pagebreak()
+
+=== DN 22 (introdução)
+
+#table(
+  columns: 2,
+  row-gutter: 2pt,
+  [#strong[adhigama 2]], [#emph[\(masc)] realização; alcance (de) #emph[de adhigacchati]],
+  [#strong[ayaṁ]], [#emph[\(pron)] este; esta pessoa; esta coisa],
+  [#strong[cattāro]], [#emph[\(card)] quatro (4)],
+  [#strong[ekāyana]], [#emph[\(adj)] direto; de sentido único],
+  [#strong[ñāya]], [#emph[\(masc)] via; meio; método; sistema; abordagem],
+  [#strong[parideva]], [#emph[\(masc)] lamentação; choro],
+  [#strong[sacchikiriyā]], [#emph[\(fem)] experiência pessoal (de); realização íntima (de); realização pessoal (de)],
+  [#strong[samatikkama]], [#emph[\(masc)] superação (de); transcendência (de); ir além],
+  [#strong[satipaṭṭhāna 1]], [#emph[\(masc)] atenção plena; estar presente com atenção #strong[\[sati + upaṭṭhāna\]]],
+  [#strong[soka]], [#emph[\(masc)] pesar; tristeza; mágoa (por)],
+  [#strong[yadidaṁ]], [#emph[\(sandhi)] nomeadamente; isto é],
+)
+
+Ekāyano ayaṁ, bhikkhave, \
+#fillin(10cm, "Este é o caminho direto, monges,")
+
+maggo sattānaṁ visuddhiyā, \
+#fillin(10cm, "o caminho para a purificação dos seres,")
+
+sokaparidevānaṁ samatikkamāya \
+#fillin(10cm, "para a superação do pesar e da lamentação,")
+
+dukkhadomanassānaṁ atthaṅgamāya \
+#fillin(10cm, "para o fim do sofrimento e da angústia,")
+
+ñāyassa adhigamāya \
+#fillin(10cm, "para a realização do método correto,")
+
+nibbānassa sacchikiriyāya, \
+#fillin(10cm, "para a realização do Nibbāna,")
+
+yadidaṁ cattāro satipaṭṭhānā. \
+#fillin(10cm, "nomeadamente, os quatro estabelecimentos da atenção plena.")
+
+#pagebreak()
+
+=== AN 4.45
+
+#table(
+  columns: 2,
+  row-gutter: 2pt,
+  [#strong[gamana]], [#emph[\(nt)] ida; caminhada; viagem; #emph[de gacchati]],
+  [#strong[pattabba]], [#emph[\(ptp)] poderia ser alcançado (por); poderia ser encontrado (por); #emph[ptp de pāpunāti]],
+  [#strong[anta]], [#emph[\(masc)] fim (de); limite (de); conclusão (de)],
+  [#strong[appatvā]], [#emph[\(abs)] não tendo alcançado; não tendo chegado (a); #emph[abs de na pāpuṇāti]],
+  [#strong[pamocana]], [#emph[\(nt)] libertação (de); liberação (de)],
+)
+
+Gamanena na pattabbo, \
+#fillin(10cm, "O fim do mundo não é alcançado")
+
+lokassanto kudācanaṁ; \
+#fillin(10cm, "por viajar, alguma vez;")
+
+Na ca appatvā lokantaṁ, \
+#fillin(10cm, "contudo sem alcançar o fim do mundo,")
+
+dukkhā atthi pamocanaṁ. \
+#fillin(10cm, "não há libertação do sofrimento.")
 
 // #pagebreak()
 
