@@ -416,6 +416,7 @@ _adj_ = adjetivo; _ind_ = indeclinável; _pp_ = particípio passado; _pron_ = pr
   [#strong[kena]], [#emph[\(pron)] por quê?; com quê?; #emph[interr, instr sg de ka]],
   [#strong[kusala]], [#emph[\(adj)] saudável; benéfico; salutar],
   [#strong[nibbāna]], [#emph[\(nt)] extinção; apaziguamento; #emph[de nibbāti]],
+  [#strong[piṇḍa]], [#emph[\(masc)] porção de comida; esmola],
   [#strong[puñña]], [#emph[\(nt)] mérito; boa ação],
   [#strong[sakka 3]], [#emph[\(masc)] Sakya; homem da raça Sakya],
   [#strong[sambodha]], [#emph[\(masc)] despertar pleno; compreensão perfeita; iluminação],
@@ -426,6 +427,7 @@ _adj_ = adjetivo; _ind_ = indeclinável; _pp_ = particípio passado; _pron_ = pr
   [#strong[acchādeti]], [veste; dá roupas (a)],
   [#strong[bhāveti]], [cultiva; desenvolve],
   [#strong[karoti]], [faz; age; realiza],
+  [#strong[pavisati]], [#emph[\(pr)] entra; vai (para)],
   [#strong[sammati]], [é acalmado; é apaziguado],
   [#strong[saṁvattati]], [conduz (a); resulta (em); causa],
   [#strong[vimuccati]], [é libertado (de); é livre (de)],
@@ -437,8 +439,8 @@ _adj_ = adjetivo; _ind_ = indeclinável; _pp_ = particípio passado; _pron_ = pr
 
 #set enum(start: 1)
 
-+ Puriso assena gacchati. \
-  #fillin(15cm, "O homem vai a cavalo.")
+// + Puriso assena gacchati. \
+//   #fillin(15cm, "O homem vai a cavalo.")
 
 + Ācariyo sissena saddhiṁ gacchati. (#pali[saddhiṁ] = "juntamente com") \
   #fillin(15cm, "O professor vai juntamente com o aluno.")
@@ -446,7 +448,10 @@ _adj_ = adjetivo; _ind_ = indeclinável; _pp_ = particípio passado; _pron_ = pr
 + Abhiññāya sambodhāya nibbānāya saṁvattati. (SN 56.11) \
   #fillin(15cm, "Conduz ao conhecimento superior, ao despertar, ao Nibbāna.")
 
-A negação '#B[na]' pode estar no início da frase, mas refere-se ao verbo no final. Aqui, leia-se como '#B[na sammati]'. Se o nome #B[vera] fosse negado, seria '#B[na + vera = avera]'.
++ Bhagavā Rājagahaṁ piṇḍāya pavisati. \
+  #fillin(15cm, "O Abençoado entra em Rājagaha para pedir esmola.")
+
+Na estrofe abaixo, manter a negação '#B[na]' separada (em vez de usar a forma unida _avera_) coloca ênfase em '#B[não] pela #B[hostilidade]'.
 
 #set enum(start: 4)
 
@@ -719,6 +724,9 @@ Atthi, bhikkhave, ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ. (Ud 8.3) \
 N'atthi me saraṇaṁ aññaṁ, Buddho me saraṇaṁ varaṁ. \
 #fillin(15cm, "Para mim não há outro refúgio, o Buda é o meu excelente refúgio.")
 
+'Atthi me ajjhattaṁ satisambojjhaṅgo'ti pajānāti. (DN 22) \
+#fillin(15cm, "'Existe o fator de despertar da atenção plena em mim,' ele compreende.")
+
 Santi sattā apparajakkhajātikā, assavanatā dhammassa parihāyanti. (MN 26) \
 #fillin(15cm, "Existem seres com pouca poeira nos olhos. Estão em declínio porque não ouviram o ensinamento.")
 
@@ -779,8 +787,8 @@ block[
 + Kusalaṁ kammaṁ sukhāya saṁvattati. \
   #fillin(6cm, "A ação salutar conduz à felicidade.")
 
-+ Narā phalāni bhuñjanti. \
-  #fillin(6cm, "Os homens comem os frutos.")
++ Mayaṁ phalāni bhuñjāma. \
+  #fillin(6cm, "Nós comemos os frutos.")
 
 + Sissā pupphāni passanti. \
   #fillin(6cm, "Os alunos veem as flores.")
@@ -791,8 +799,8 @@ block[
 + Narā pupphe haranti. \
   #fillin(6cm, "Os homens carregam as flores.")
 
-+ Sisso rūpe passati. \
-  #fillin(6cm, "O aluno vê formas.")
++ Rūpe passāmi. \
+  #fillin(6cm, "Eu vejo formas.")
 
 + Narā kusalāni kammāni karonti. \
   #fillin(6cm, "Os homens praticam ações salutares.")
@@ -835,8 +843,8 @@ Tanto *ajjhattaṁ* como *bahiddhā* são advérbios que qualificam *rūpaṁ* (
 + Os rapazes levam as flores ao monge. \
   #fillin(15cm, "Kumārā bhikkhussa pupphāni haranti.")
 
-+ O aluno cultiva a mente. \
-  #fillin(15cm, "Sisso cittaṁ bhāveti.")
++ Eu cultivo a mente. \
+  #fillin(15cm, "Ahaṁ cittaṁ bhāvemi.")
 
 + Os homens praticam (fazem) ações salutares. \
   #fillin(15cm, "Narā kusalāni kammāni karonti.")
@@ -844,8 +852,8 @@ Tanto *ajjhattaṁ* como *bahiddhā* são advérbios que qualificam *rūpaṁ* (
 + O cozinheiro prepara (cozinha) a comida para os alunos. \
   #fillin(15cm, "Sūdo sissānaṁ bhattaṁ pacati.")
 
-+ Os alunos comem a comida juntamente com o professor. \
-  #fillin(15cm, "Sissā ācariyena saddhiṁ bhattaṁ bhuñjanti.")
++ Nós comemos a comida juntamente com o professor. \
+  #fillin(15cm, "Mayaṁ ācariyena saddhiṁ bhattaṁ bhuñjāma.")
 
 #pagebreak()
 #set enum(start: 1)
@@ -885,10 +893,22 @@ O *Ablativo* exprime separação, origem ou causa: *De onde? De quem/quê? Por c
   [Samaṇo araññasmā āgamma purisamhā vatthaṁ labhati.], [O monge, tendo vindo da floresta, recebe um pano do homem.],
 )
 
+#table(
+  columns: 2,
+  align: (auto,auto,),
+  [#strong[āloka]], [#emph[\(masc)] luz; brilho; claridade],
+  [#strong[arañña]], [#emph[\(nt)] floresta; mata; selva],
+  [#strong[labhati]], [#emph[\(pr)] obtém; recebe; consegue (algo para)],
+  [#strong[suriya]], [#emph[\(masc)] sol],
+  [#strong[vattha]], [#emph[\(nt)] pano; roupa; hábito],
+)
+
 *NOTA:* O idioma Pāli para fazer perguntas não é "perguntar de alguém (abl.)" (idioma português), mas "perguntar a alguém (acus.)". Uma forma de o recordar é que a pergunta é "colocada a" alguém.
 
-Pucchāmi ahaṁ Āyasmantaṁ Nāradaṁ etaṁ pañhaṁ. (SN 12.68) \
+_Pucchāmi ahaṁ Āyasmantaṁ Nāradaṁ etaṁ pañhaṁ._ (SN 12.68) \
 Eu faço esta pergunta ao Ven. Nārada.
+
+#pagebreak()
 
 *(c)* *"Por causa de quê?"* (De que causa?) Indica a causa ou razão.
 
@@ -917,36 +937,42 @@ Eu faço esta pergunta ao Ven. Nārada.
 
 === Vocabulário
 
+#grid(columns: (1fr, 1fr), block[
+
 #table(
   columns: 2,
-  [#strong[asesa]], [#emph[\(adj)] completo; total; sem resíduo],
+  [#underline(offset: 2.25pt)[#B[Nomes]]], [],
+  [#strong[asesa]], [#emph[\(adj)] completo; total; \ sem resíduo],
   [#strong[tveva]], [#emph[\(sandhi)] contudo; mas; #strong[\[tu + eva\]]],
   [#strong[agāra]], [#emph[\(nt)] habitação; edifício; casa],
   [#strong[antalikkha]], [#emph[\(nt)] céu; ar],
   [#strong[antara]], [#emph[\(adj)] interior; interno],
-  [#strong[āsava]], [#emph[\(masc)] efluente; impureza; contaminação],
-  [#strong[avijjā]], [#emph[\(fem)] ignorância; ilusão; desconhecimento],
+  [#strong[āsava]], [#emph[\(masc)] efluente; impureza; \ contaminação],
+  [#strong[avijjā]], [#emph[\(fem)] ignorância; ilusão; \ desconhecimento],
   [#strong[āyasmā]], [#emph[\(masc)] venerável; #emph[nom sg de āyasmant]],
   [#strong[bhaya]], [#emph[\(nt)] medo (de); terror (de)],
   [#strong[dvāra]], [#emph[\(nt)] porta; entrada; portão],
-  [#strong[hetu]], [#emph[\(masc)] razão (de); causa (de); motivo (de)],
+  [#strong[hetu]], [#emph[\(masc)] razão (de); causa (de); \ motivo (de)],
   [#strong[idāni]], [#emph[\(ind)] agora; em breve; atualmente],
   [#strong[ito]], [#emph[\(ind)] (de lugar) daqui; para longe de],
   [#strong[kasmā]], [#emph[\(ind)] porquê?; #emph[interr, abl sg de ka]],
-  [#strong[mahatā]], [#emph[\(adj)] com um grande; com um largo; #emph[masc & nt instr sg de mahanta]],
   [#strong[mandārava]], [#emph[\(masc)] árvore de coral],
   [#strong[pabbajita]], [#emph[\(masc)] monge; monástico; renunciante],
   [#strong[pabbata]], [#emph[\(masc)] rocha, montanha],
   [#strong[padīpa]], [#emph[\(masc)] lâmpada; luz],
+)
+
+], block[
+
+#table(
+  columns: 2,
   [#strong[pāpa]], [#emph[\(masc)] malfeitor; criminoso],
   [#strong[samaṇa]], [#emph[\(masc)] asceta; renunciante; monge],
   [#strong[upāsaka]], [#emph[\(masc)] discípulo leigo; devoto leigo],
   [#strong[vihāra]], [#emph[\(masc)] habitação; residência],
-  [#strong[virāga]], [#emph[\(masc)] desvanecimento do desejo (por); desapego (de); desprendimento (de)],
-)
-
-#table(
-  columns: 2,
+  [#strong[virāga]], [#emph[\(masc)] desvanecimento do desejo (por); \ desapego (de); desprendimento (de)],
+  [], [],
+  [#underline(offset: 2.25pt)[#B[Verbos]]], [],
   [#strong[āgacchati]], [vem (a); chega (a)],
   [#strong[āharati]], [traz; traz de volta; vai buscar],
   [#strong[dhāvati]], [corre (para); corre],
@@ -958,14 +984,13 @@ Eu faço esta pergunta ao Ven. Nārada.
   // [#strong[vūpasammati]], [é extinto; extingue-se completamente],
 )
 
+])
+
 #pagebreak()
 
 === Traduzir para Português
 
 #set enum(start: 1)
-
-+ Purisā Kusinārāya nikkhamanti. (_Kusināra_ é uma cidade.) \
-  #fillin(15cm, "Os homens partem de Kusināra.")
 
 + Kumāro rukkhamhā patati. \
   #fillin(15cm, "O rapaz cai da árvore.")
@@ -976,11 +1001,8 @@ Eu faço esta pergunta ao Ven. Nārada.
 + Sīhā pabbatehi oruhanti. \
   #fillin(15cm, "Os leões descem das montanhas.")
 
-+ Āyasmā Mahākassapo Pāvāya Kusināraṁ gacchati mahatā bhikkhusaṅghena saddhiṁ. (DN 16 simpl.) \
-  #fillin(15cm, "O Ven. Mahākassapo vai de Pāvā para Kusināra juntamente com um grande grupo de monges.")
-
-+ Puriso vihāramhā pattaṁ āharati. \
-  #fillin(15cm, "O homem traz a tigela do mosteiro.")
++ Vihāramhā pattaṁ āharāmi. \
+  #fillin(15cm, "Eu trago a tigela do mosteiro.")
 
 + Dibbāni mandāravapupphāni antalikkhā papatanti. (DN 16) \
   #fillin(15cm, "Flores celestiais de mandārava estão a cair do céu.")
@@ -1003,12 +1025,14 @@ Eu faço esta pergunta ao Ven. Nārada.
 + Avijjāya _(fem.gen.sg., 'da ignorância')_ tveva asesa-virāga-nirodhā saṅkhāra-nirodho; \ saṅkhāra-nirodhā viññāṇa-nirodho... \
   #fillin(15cm, "Mas pelo total desvanecimento e cessação da ignorância, há a cessação das formações; pela cessação das formações, há a cessação da consciência.")
 
+#pagebreak()
+
 === Traduzir para Pāli
 
 #set enum(start: 1)
 
-+ O rapaz cai da árvore. \
-  #fillin(15cm, "Kumāro rukkhasmā / rukkhamhā patati.")
++ O fruto cai da árvore. \
+  #fillin(15cm, "Phalaṁ rukkhasmā / rukkhamhā patati.")
 
 + Os homens partem do mosteiro. \
   #fillin(15cm, "Narā vihārasmā / vihāramhā nikkhamanti.")
@@ -1022,8 +1046,8 @@ Eu faço esta pergunta ao Ven. Nārada.
 + Os devotos leigos saem do mosteiro com os monges. \
   #fillin(15cm, "Upāsakā samaṇehi saddhiṁ vihāramhā nikkhamanti.")
 
-+ O cozinheiro traz a comida da aldeia. \
-  #fillin(15cm, "Sūdo gāmasmā bhattaṁ āharati.")
++ Eu trago a comida da aldeia. \
+  #fillin(15cm, "Gāmasmā bhattaṁ āharāmi.")
 
 #pagebreak()
 
@@ -1063,17 +1087,156 @@ Adicionando os casos *6. Genitivo* e *7. Locativo* (iguais para masc. e nt.), ju
   [8. Vocativo (chamamento)],     [citt#B[a], citt#B[ā]], [citt#B[āni]],
 )
 
+=== O Caso Genitivo
+
+O *Genitivo* exprime posse, relação ou pertença: *"De quem? De quê? De quem é?"*
+
+*Buddhassa*: do Buda. *Buddhānaṁ*: dos Budas.
+
+#table(
+  columns: 2,
+  [Iti Kassapassa patto.], [Esta é a tigela de Kassapa.],
+  [Ācariyassa sisso dhammaṁ suṇāti.], [O aluno do professor ouve o Dhamma.],
+  [Apārutā tesaṁ amatassa dvārā], [Abertas para eles estão as portas do imortal (Mv, DN 14)],
+  [Anuttaraṁ puññakkhettaṁ lokassa. (cântico)], [Um campo de mérito insuperável do mundo.],
+)
+
+#quote[
+_Iti rūpaṁ, iti rūpassa samudayo, iti rūpassa atthaṅgamo._ (DN 22) \
+Isto é a forma, esta é a origem/surgimento da forma, este é o fim da forma.
+
+_Yathā ca uppannassa satisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti._ (DN 22) \
+E como (_Yathā ca_), pelo desenvolvimento (_bhāvanāya_, fem.inst.) \
+do surgido (_uppannassa_) fator de despertar da atenção plena (_satisambojjhaṅgassa_) \
+ele se torna plenamente desenvolvido (_pāripūrī hoti_),
+isso também (_tañca_ = _taṁ + ca_) ele compreende (_pajānāti_).
+
+]
+
+Uma vez que o genitivo e o dativo podem ambos ter a forma (#B[-assa, -ānam]), o significado correto tem de ser compreendido a partir do contexto da frase:
+
+#quote[
+_Dassesi #B[lokassa] (masc.dat.) visuddhi-maggaṁ._ (cântico) \
+Ele mostrou o caminho da pureza #B[ao mundo].
+
+_Yo pana bhikkhu #B[bhikkhussa] (masc.dat.) sāmaṁ cīvaraṁ datvā..._ (NP 25) \
+Se um bhikkhu, tendo dado um manto #B[a um bhikkhu]...
+
+_Yo pana bhikkhu #B[bhikkhussa] (masc.gen.) pattaṁ ... apanidheyya..._ (Pc 60) \
+Se um bhikkhu esconder a tigela #B[de um bhikkhu]...
+
+_#B[sāvakānaṁ] (masc.dat.) dhammaṁ desemi #B[sattānaṁ] (masc.gen.) visuddhiyā (fem.dat.)_ (AN 10.95) \
+Eu ensino o Dhamma #B[aos discípulos] para a purificação #B[dos seres]...
+]
+
+=== O Caso Locativo
+
+O *Locativo* exprime localização, tempo ou circunstância: *"Onde? Quando? Em quem/quê? Sobre quê?"*
+
+*Loke*: no mundo. *Gāmamhi, gāmasmiṁ*: na aldeia. *Gāmesu*: nas aldeias.
+
+#quote[
+_Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme._ (vários) \
+Certa vez o Abençoado estava em Sāvatthī, no Bosque de Jeta, no mosteiro de Anāthapiṇḍika.
+
+_Bhikkhu ... citte cittānupassī viharati_ \
+Um bhikkhu permanece (_viharati_) observando experiências mentais (_cittānupassī_) na mente (_citte_), \
+_ātāpī sampajāno satimā_ \
+ardente, plenamente consciente e atento, \
+_vineyya loke abhijjhādomanassaṁ._ \
+abandonando a ganância e a angústia no mundo. (DN 22)
+
+_Kiñca loke piyarūpaṁ sātarūpaṁ?_ (DN 22) \
+E o que no mundo é agradável e encantador?
+
+_Appamādo ca dhammesu_ (Snp 2.4) \
+ser diligente nas qualidades mentais (Aj Thanissaro) \
+Diligência nas boas qualidades (Aj Sujato)
+
+_Gāme araññe sukha-dukkha-phuṭṭho_ (Ud 2.4) \
+Na aldeia ou na selva, quando tocado pelo prazer ou pela dor
+
+_Ariyasāvako buddhe aveccappasādena samannāgato hoti..._ (DN 16) \
+(Quando) um discípulo dos nobres está dotado de confiança verificada no Buda...
+
+]
+
+#pagebreak()
+
 === Vocabulário
 
-TODO
+#table(
+  columns: 2,
+  row-gutter: 2pt,
+  [#underline(offset: 2.25pt)[#B[Nomes]]], [],
+  [#strong[amata]], [#emph[\(nt)] estado imortal; imortalidade; epíteto do Nibbāna; #emph[pp de na marati]],
+  [#strong[apāruta]], [#emph[\(pp)] aberto],
+  [#strong[attano]], [#emph[\(masc)] para si; para si mesmo; a si mesmo; #emph[dat sg de atta]],
+  [#strong[atthaṅgama]], [#emph[\(masc)] desaparecimento (de); fim (de)],
+  [#strong[bhāvanā]], [#emph[\(fem)] desenvolvimento; cultivo; meditação; #emph[de bhāveti]],
+  [#strong[dvāra]], [#emph[\(nt)] porta; entrada; portão; portal],
+  [#strong[makkaṭa]], [#emph[\(masc)] macaco],
+  [#strong[mañca]], [#emph[\(masc)] cama],
+  [#strong[samaya]], [#emph[\(masc)] tempo; ocasião],
+  [#strong[satta]], [#emph[\(masc)] ser; ser vivo; criatura],
+  [#strong[sāvaka]], [#emph[\(masc)] discípulo; aluno; seguidor; #emph[de suṇāti]],
+  [#strong[tesaṁ]], [#emph[\(pron)] para eles; a eles; àqueles; #emph[masc & nt dat pl de ta]],
+  [#strong[uppanna]], [#emph[\(pp)] surgido; aparecido; nascido (em); #emph[pp de uppajjati]],
+  [], [],
+  [#underline(offset: 2.25pt)[#B[Verbos]]], [],
+  [#strong[dadāti]], [#emph[\(pr)] dá; oferece; doa],
+  [#strong[deseti]], [#emph[\(pr)] prega (a); ensina (a); explica (a)],
+  [#strong[nisīdati]], [#emph[\(pr)] senta-se (em); senta-se],
+  [#strong[pajānāti]], [#emph[\(pr)] sabe; sabe claramente; compreende],
+  [#strong[sayati]], [#emph[\(pr)] deita-se; descansa; dorme],
+  [#strong[vasati]], [#emph[\(pr)] vive; fica; reside (em)],
+)
+
+#pagebreak()
 
 === Traduzir para Português
 
-TODO
+#set enum(start: 1)
+
++ Ācariyassa sissā vihāre vasanti. \
+  #fillin(15cm, "Os alunos do professor vivem no mosteiro.")
+
++ Puriso attano ratane rakkhati. \
+  #fillin(15cm, "O homem guarda os seus próprios tesouros.")
+
++ Sāvakā Buddhassa dhammaṁ suṇanti. \
+  #fillin(15cm, "Os discípulos ouvem o ensinamento do Buda.")
+
++ Rukkhamūle nisīdāmi, makkaṭā rukkhesu caranti. \
+  #fillin(15cm, "Eu sento-me na raiz da árvore, os macacos vagueiam nas árvores.")
+
++ Upāsakassa puttā samaṇehi saddhiṁ vihāraṁ gacchanti. \
+  #fillin(15cm, "Os filhos do devoto leigo vão ao mosteiro com os monges.")
+
++ Puriso Anāthapiṇḍikassa ārāme bhattaṁ pacati. \
+  #fillin(15cm, "O homem cozinha comida no mosteiro de Anāthapiṇḍika.")
+
++ Idha tathāgato loke uppanno arahaṁ sammāsambuddho. (cântico) \
+  #fillin(15cm, "Aqui no mundo o Tathāgata surgiu, o Digno, o Perfeitamente Desperto.")
 
 === Traduzir para Pāli
 
-TODO
+#set enum(start: 1)
+
++ Os discípulos do Buda ficam no mosteiro. \
+  #fillin(15cm, "Buddhassa sāvakā vihāre viharanti/vasanti.")
+
++ Tu vives na aldeia. \
+  #fillin(15cm, "Gāme / gāmamhi / gāmasmiṁ vasasi.")
+
++ Os veados (pl.) correm na floresta. \
+  #fillin(15cm, "Migā araññe dhāvanti.")
+
++ O filho do homem dorme na cama. \
+  #fillin(15cm, "Narassa putto mañce sayati.")
+
++ O leigo dá arroz aos monges. \
+  #fillin(15cm, "Upāsako samaṇānaṁ odanaṁ dadāti.")
 
 #pagebreak()
 
@@ -1145,9 +1308,17 @@ ariyānaṁ gocare ratā. (Dhp 21-22)
 
 TODO
 
+// [#strong[mahatā]], [#emph[\(adj)] com um grande; com um largo; #emph[masc & nt instr sg de mahanta]],
+
 === Traduzir para Português
 
 TODO
+
+// + Purisā Kusinārāya (fem.abl.) nikkhamanti. (_Kusināra_ é uma cidade.) \
+//   #fillin(15cm, "Os homens partem de Kusināra.")
+
+// + Āyasmā Mahākassapo Pāvāya (fem.abl.) Kusināraṁ gacchati mahatā bhikkhusaṅghena saddhiṁ. (DN 16 simpl.) \
+//   #fillin(15cm, "O Ven. Mahākassapo vai de Pāvā para Kusināra juntamente com um grande grupo de monges.")
 
 === Traduzir para Pāli
 
