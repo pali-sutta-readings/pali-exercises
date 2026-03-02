@@ -72,6 +72,7 @@ Alguns pontos rápidos sobre as características da língua Pāli:
 
 *(3a)* "*O que* está ele a comer?" Indica o *objeto* de uma frase.
 
+// anki: table-2col(back, front)
 #table(
   columns: 2,
   [O homem come (mastiga) o leão.], [Naro sīhaṁ khādati.],
@@ -80,6 +81,7 @@ Alguns pontos rápidos sobre as características da língua Pāli:
 
 *(3b)* "*Para onde* está ele a ir?" Indica para onde o sujeito *se dirige* ou *se desloca*. Também chamado "acusativo de movimento".
 
+// anki: table-2col(back, front)
 #table(
   columns: 2,
   [O ancião vai #B[dar um passeio.]], [Thero cārikaṁ carati.],
@@ -109,6 +111,7 @@ Estas qualidades conduzem ao desapego, não ao apego.
 
 #grid(columns: (1fr, 1fr), block[
 
+// anki: vocabtable
 #table(
   columns: 2,
   [#strong[ācariya]], [#emph[\(masc)] professor],
@@ -127,6 +130,7 @@ Estas qualidades conduzem ao desapego, não ao apego.
 
 ], block[
 
+// anki: vocabtable
 #table(
   columns: 2,
   [#strong[bhāsati]], [fala (sobre); diz],
@@ -150,29 +154,29 @@ columns: (1fr, 1fr),
 block[
 #set enum(start: 1)
 
-+ Naro/Puriso gāmaṁ gacchati. \
-  #fillin(6cm, "O homem vai para a aldeia.")
++ Naro/Puriso gāmaṁ gacchati. \ // anki: front
+  #fillin(6cm, "O homem vai para a aldeia.") // anki: back
 
-+ Kumāro assaṁ passati. \
-  #fillin(6cm, "O rapaz vê o cavalo.")
++ Kumāro assaṁ passati. \ // anki: front
+  #fillin(6cm, "O rapaz vê o cavalo.") // anki: back
 
-+ Buddho dhammaṁ bhāsati. \
-  #fillin(6cm, "O Buda fala sobre o Dhamma.")
++ Buddho dhammaṁ bhāsati. \ // anki: front
+  #fillin(6cm, "O Buda fala sobre o Dhamma.") // anki: back
 
-+ Puriso Buddhaṁ saranaṁ gacchati. \
-  #fillin(6cm, "O homem vai ao Buda como refúgio.")
++ Puriso Buddhaṁ saranaṁ gacchati. \ // anki: front
+  #fillin(6cm, "O homem vai ao Buda como refúgio.") // anki: back
 
 ], block[
 #set enum(start: 5)
 
-+ Ācariyo pañhaṁ pucchati. \
-  #fillin(6cm, "O professor faz a pergunta.")
++ Ācariyo pañhaṁ pucchati. \ // anki: front
+  #fillin(6cm, "O professor faz a pergunta.") // anki: back
 
-+ Migo udakaṁ pivati. \
-  #fillin(6cm, "O veado bebe água.")
++ Migo udakaṁ pivati. \ // anki: front
+  #fillin(6cm, "O veado bebe água.") // anki: back
 
-+ Sīho maṁsaṁ rakkhati. \
-  #fillin(6cm, "O leão guarda a carne.")
++ Sīho maṁsaṁ rakkhati. \ // anki: front
+  #fillin(6cm, "O leão guarda a carne.") // anki: back
 
 ])
 
@@ -182,6 +186,7 @@ block[
 
 #grid(columns: (1fr, 1fr), block[
 
+// anki: vocabtable
 #table(
   columns: 2,
   [#strong[cora]], [#emph[\(masc)] ladrão; assaltante],
@@ -194,6 +199,7 @@ block[
 
 ], block[
 
+// anki: vocabtable
 #table(
   columns: 2,
   [#strong[bhuñjati]], [come; consome],
@@ -214,27 +220,27 @@ block[
 
 #set enum(start: 1)
 
-+ O rapaz come o arroz. \
-  #fillin(6cm, "Kumāro odanaṁ bhuñjati.")
++ O rapaz come o arroz. \ // anki: back
+  #fillin(6cm, "Kumāro odanaṁ bhuñjati.") // anki: front
 
-+ O leão vai até à árvore. \
-  #fillin(6cm, "Sīho rukkhaṁ gacchati.")
++ O leão vai até à árvore. \ // anki: back
+  #fillin(6cm, "Sīho rukkhaṁ gacchati.") // anki: front
 
-+ O leão mastiga a carne. \
-  #fillin(6cm, "Sīho maṁsaṁ khādati.")
++ O leão mastiga a carne. \ // anki: back
+  #fillin(6cm, "Sīho maṁsaṁ khādati.") // anki: front
 
 ], block[
 
 #set enum(start: 4)
 
-+ O professor fala ao aluno. \
-  #fillin(6cm, "Ācariyo sissaṁ vadati.")
++ O professor fala ao aluno. \ // anki: back
+  #fillin(6cm, "Ācariyo sissaṁ vadati.") // anki: front
 
-+ O aluno escuta o professor. \
-  #fillin(6cm, "Sisso ācariyaṁ suṇāti.")
++ O aluno escuta o professor. \ // anki: back
+  #fillin(6cm, "Sisso ācariyaṁ suṇāti.") // anki: front
 
-+ A divindade protege o mundo. \
-  #fillin(6cm, "Devo lokaṁ rakkhati.")
++ A divindade protege o mundo. \ // anki: back
+  #fillin(6cm, "Devo lokaṁ rakkhati.") // anki: front
 
 ])
 
@@ -244,6 +250,7 @@ block[
 
 #grid(columns: (1fr, 1fr), block[
 
+// anki: vocabtable
 #table(
   columns: 2,
   [#strong[cora]], [#emph[\(masc)] ladrão; assaltante],
@@ -257,6 +264,7 @@ block[
 
 ], block[
 
+// anki: vocabtable
 #table(
   columns: 2,
   [#strong[carati]], [caminha; vagueia; anda],
@@ -279,26 +287,26 @@ columns: (1fr, 1fr),
 block[
 #set enum(start: 1)
 
-+ Narā magge caranti. \
-  #fillin(6cm, "Os homens caminham nas estradas.")
++ Narā magge caranti. \ // anki: front
+  #fillin(6cm, "Os homens caminham nas estradas.") // anki: back
 
-+ Coro ratane gaṇhāti. \
-  #fillin(6cm, "O ladrão agarra as joias.")
++ Coro ratane gaṇhāti. \ // anki: front
+  #fillin(6cm, "O ladrão agarra as joias.") // anki: back
 
-+ Sūdo macche pacati. \
-  #fillin(6cm, "O cozinheiro está a cozinhar os (pl.) peixes.")
++ Sūdo macche pacati. \ // anki: front
+  #fillin(6cm, "O cozinheiro está a cozinhar os (pl.) peixes.") // anki: back
 
 ], block[
 #set enum(start: 4)
 
-+ Kumāro asse rakkhati. \
-  #fillin(6cm, "O rapaz guarda os cavalos.")
++ Kumāro asse rakkhati. \ // anki: front
+  #fillin(6cm, "O rapaz guarda os cavalos.") // anki: back
 
-+ Migā rukkhe upasaṅkamanti. \
-  #fillin(6cm, "Os veados aproximam-se das árvores.")
++ Migā rukkhe upasaṅkamanti. \ // anki: front
+  #fillin(6cm, "Os veados aproximam-se das árvores.") // anki: back
 
-+ Rājāno (#E[plural]) coraṁ gaṇhanti. \
-  #fillin(6cm, "Os reis prendem o ladrão.")
++ Rājāno (#E[plural]) coraṁ gaṇhanti. \ // anki: front
+  #fillin(6cm, "Os reis prendem o ladrão.") // anki: back
 
 ])
 
@@ -309,26 +317,26 @@ columns: (1fr, 1fr),
 block[
 #set enum(start: 1)
 
-+ Os homens veem as árvores. \
-  #fillin(6cm, "Narā rukkhe passanti.")
++ Os homens veem as árvores. \ // anki: back
+  #fillin(6cm, "Narā rukkhe passanti.") // anki: front
 
-+ Os rapazes carregam as tigelas. \
-  #fillin(6cm, "Kumārā patte haranti.")
++ Os rapazes carregam as tigelas. \ // anki: back
+  #fillin(6cm, "Kumārā patte haranti.") // anki: front
 
-+ Os reis (irreg: #E[rājāno]) protegem as joias. \
-  #fillin(6cm, "Rājāno ratane rakkhanti.")
++ Os reis (irreg: #E[rājāno]) protegem as joias. \ // anki: back
+  #fillin(6cm, "Rājāno ratane rakkhanti.") // anki: front
 
 ], block[
 #set enum(start: 4)
 
-+ O aluno aproxima-se dos professores. \
-  #fillin(6cm, "Sisso ācariye upasaṅkamati.")
++ O aluno aproxima-se dos professores. \ // anki: back
+  #fillin(6cm, "Sisso ācariye upasaṅkamati.") // anki: front
 
-+ Os (pl.) veados bebem água. \
-  #fillin(6cm, "Migā udakaṁ pivanti.")
++ Os (pl.) veados bebem água. \ // anki: back
+  #fillin(6cm, "Migā udakaṁ pivanti.") // anki: front
 
-+ O professor caminha até às aldeias. \
-  #fillin(6cm, "Ācariyo gāme caranti.")
++ O professor caminha até às aldeias. \ // anki: back
+  #fillin(6cm, "Ācariyo gāme caranti.") // anki: front
 
 ])
 
@@ -368,10 +376,11 @@ As partículas *saddhiṁ, saha* usadas com o caso instrumental, exprimem o sign
 
 *Saddhiṁ* é adicionado depois de um nome, *saha* é usado como preposição.
 
+// anki: table-1col
 #table(
   columns: 1,
-  [Aṭṭhi tacena onaddhaṁ, saha vatthebhi _(irreg.)_ sobhati. (MN 82)],
-  [O osso coberto com pele; parece bonito com roupas.],
+  [Aṭṭhi tacena onaddhaṁ, saha vatthebhi _(irreg.)_ sobhati. (MN 82)], // anki: front
+  [O osso coberto com pele; parece bonito com roupas.], // anki: back
 )
 
 - _onaddha_: pp. de onandhati, coberto (com); envolvido (com)
@@ -382,12 +391,14 @@ O *Dativo* exprime: *"A quem? A quê? Para quem? Para quê? Com que propósito?"
 
 *Buddhāya, Buddhassa*: ao ou para o Buda.
 
+// anki: table-1col
 #table(
   columns: 1,
-  [Saṅgho imaṁ kaṭhinadussaṁ āyasmato Amarassa deti. (#link("https://suttacentral.net/pli-tv-kd7/pli/ms")[Vin. Kd 7])],
-  [A Comunidade dá este tecido Kaṭhina ao Ven. Amaro.],
+  [Saṅgho imaṁ kaṭhinadussaṁ āyasmato Amarassa deti. (#link("https://suttacentral.net/pli-tv-kd7/pli/ms")[Vin. Kd 7])], // anki: front
+  [A Comunidade dá este tecido Kaṭhina ao Ven. Amaro.], // anki: back
 )
 
+// anki: table-2col(back, front)
 #table(
   columns: 2,
   [Homenagem ao Buda.], [Namo Buddhāya / Buddhassa.],
@@ -401,6 +412,7 @@ O *Dativo* exprime: *"A quem? A quê? Para quem? Para quê? Com que propósito?"
 
 _adj_ = adjetivo; _ind_ = indeclinável; _pp_ = particípio passado; _pron_ = pronome
 
+// anki: vocabtable
 #table(
   columns: 2,
   row-gutter: 2pt,
@@ -449,39 +461,39 @@ _adj_ = adjetivo; _ind_ = indeclinável; _pp_ = particípio passado; _pron_ = pr
 // + Puriso assena gacchati. \
 //   #fillin(15cm, "O homem vai a cavalo.")
 
-+ Ācariyo sissena saddhiṁ gacchati. (#pali[saddhiṁ] = "juntamente com") \
-  #fillin(15cm, "O professor vai juntamente com o aluno.")
++ Ācariyo sissena saddhiṁ gacchati. (#pali[saddhiṁ] = "juntamente com") \ // anki: front
+  #fillin(15cm, "O professor vai juntamente com o aluno.") // anki: back
 
-+ Abhiññāya sambodhāya nibbānāya saṁvattati. (SN 56.11) \
-  #fillin(15cm, "Conduz ao conhecimento superior, ao despertar, ao Nibbāna.")
++ Abhiññāya sambodhāya nibbānāya saṁvattati. (SN 56.11) \ // anki: front
+  #fillin(15cm, "Conduz ao conhecimento superior, ao despertar, ao Nibbāna.") // anki: back
 
-+ Bhagavā Rājagahaṁ piṇḍāya pavisati. \
-  #fillin(15cm, "O Abençoado entra em Rājagaha para pedir esmola.")
++ Bhagavā Rājagahaṁ piṇḍāya pavisati. \ // anki: front
+  #fillin(15cm, "O Abençoado entra em Rājagaha para pedir esmola.") // anki: back
 
 Na estrofe abaixo, manter a negação '#B[na]' separada (em vez de usar a forma unida _avera_) coloca ênfase em '#B[não] pela #B[hostilidade]'.
 
 #set enum(start: 4)
 
-+ Na hi verena veraṁ sammati. (Dhp 5 simpl.) \
-  #fillin(15cm, "De facto, não pela hostilidade a hostilidade é acalmada.")
++ Na hi verena veraṁ sammati. (Dhp 5 simpl.) \ // anki: front
+  #fillin(15cm, "De facto, não pela hostilidade a hostilidade é acalmada.") // anki: back
 
 // + Puññakammena kusalacittaṁ bhāveti. \
 //   #fillin(15cm, "Pela ação meritória ele desenvolve uma mente saudável.")
 
-+ Kusalehi dhammehi cittaṁ vimuccati. \
-  #fillin(15cm, "Pelas qualidades salutares ele liberta a mente.")
++ Kusalehi dhammehi cittaṁ vimuccati. \ // anki: front
+  #fillin(15cm, "Pelas qualidades salutares ele liberta a mente.") // anki: back
 
-+ Kena ādittaṁ? Dukkhehi domanassehi upāyāsehi ādittaṁ. (SN 35.28 simpl.) \
-  #fillin(15cm, "Por que está a arder? Pelos sofrimentos, tristezas, desesperos está a arder.")
++ Kena ādittaṁ? Dukkhehi domanassehi upāyāsehi ādittaṁ. (SN 35.28 simpl.) \ // anki: front
+  #fillin(15cm, "Por que está a arder? Pelos sofrimentos, tristezas, desesperos está a arder.") // anki: back
 
-+ Kassapo kālena odanaṁ bhuñjati. (#emph[Kassapo] é um nome.) \
-  #fillin(15cm, "Kassapa come arroz no momento certo.")
++ Kassapo kālena odanaṁ bhuñjati. (#emph[Kassapo] é um nome.) \ // anki: front
+  #fillin(15cm, "Kassapa come arroz no momento certo.") // anki: back
 
-+ Sīlasampanno asammūḷho kālaṁ karoti. \
-  #fillin(15cm, "Aquele realizado na virtude morre sem confusão.")
++ Sīlasampanno asammūḷho kālaṁ karoti. \ // anki: front
+  #fillin(15cm, "Aquele realizado na virtude morre sem confusão.") // anki: back
 
-+ Nandiyo sakko bhagavantaṁ upasaṅkamati kālena kālaṁ dassanāya. \ (#emph[Nandiyo] é um nome. #emph[Bhagavant]: o Abençoado.) \
-  #fillin(15cm, "Nandiyo, o Sakya, aproxima-se do Abençoado de tempos a tempos para o ver.")
++ Nandiyo sakko bhagavantaṁ upasaṅkamati kālena kālaṁ dassanāya. \ (#emph[Nandiyo] é um nome. #emph[Bhagavant]: o Abençoado.) \ // anki: front
+  #fillin(15cm, "Nandiyo, o Sakya, aproxima-se do Abençoado de tempos a tempos para o ver.") // anki: back
 
 // + Majjhimā paṭipadā tathāgatena abhisambuddhā. \
 //   #fillin(15cm, "O caminho do meio foi despertado (compreendido) pelo Tathāgata.")
@@ -493,11 +505,11 @@ Na estrofe abaixo, manter a negação '#B[na]' separada (em vez de usar a forma 
 
 #set enum(start: 1)
 
-+ O homem vai juntamente com o rapaz. \
-  #fillin(15cm, "Naro kumārena saddhiṁ gacchati.")
++ O homem vai juntamente com o rapaz. \ // anki: back
+  #fillin(15cm, "Naro kumārena saddhiṁ gacchati.") // anki: front
 
-+ Pela não-hostilidade a hostilidade é acalmada. \
-  #fillin(15cm, "Averena veraṁ sammati.")
++ Pela não-hostilidade a hostilidade é acalmada. \ // anki: back
+  #fillin(15cm, "Averena veraṁ sammati.") // anki: front
 
 #pagebreak()
 
@@ -725,17 +737,17 @@ Ao dirigir-se a um sénior, usa-se a forma da *2.ª pl.* (plural honorífico):
 
 #v(1em)
 
-Atthi, bhikkhave, ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ. (Ud 8.3) \
-#fillin(15cm, "Existe, monges, um não-nascido, não-originado, não-criado, não-fabricado.")
+Atthi, bhikkhave, ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ. (Ud 8.3) \ // anki: front
+#fillin(15cm, "Existe, monges, um não-nascido, não-originado, não-criado, não-fabricado.") // anki: back
 
-N'atthi me saraṇaṁ aññaṁ, Buddho me saraṇaṁ varaṁ. \
-#fillin(15cm, "Para mim não há outro refúgio, o Buda é o meu excelente refúgio.")
+N'atthi me saraṇaṁ aññaṁ, Buddho me saraṇaṁ varaṁ. \ // anki: front
+#fillin(15cm, "Para mim não há outro refúgio, o Buda é o meu excelente refúgio.") // anki: back
 
-'Atthi me ajjhattaṁ satisambojjhaṅgo'ti pajānāti. (DN 22) \
-#fillin(15cm, "'Existe o fator de despertar da atenção plena em mim,' ele compreende.")
+'Atthi me ajjhattaṁ satisambojjhaṅgo'ti pajānāti. (DN 22) \ // anki: front
+#fillin(15cm, "'Existe o fator de despertar da atenção plena em mim,' ele compreende.") // anki: back
 
-Santi sattā apparajakkhajātikā, assavanatā dhammassa parihāyanti. (MN 26) \
-#fillin(15cm, "Existem seres com pouca poeira nos olhos. Estão em declínio porque não ouviram o ensinamento.")
+Santi sattā apparajakkhajātikā, assavanatā dhammassa parihāyanti. (MN 26) \ // anki: front
+#fillin(15cm, "Existem seres com pouca poeira nos olhos. Estão em declínio porque não ouviram o ensinamento.") // anki: back
 
 ==== Presente do Verbo Irregular √hū (ser/estar)
 
@@ -751,13 +763,14 @@ Santi sattā apparajakkhajātikā, assavanatā dhammassa parihāyanti. (MN 26) \
 
 #v(1em)
 
-Ahaṁ sukhito homi, niddukkho homi, avero homi ... \
-#fillin(15cm, "Que eu viva em bem-estar, que eu esteja livre de aflição, que eu esteja livre de hostilidade ...")
+Ahaṁ sukhito homi, niddukkho homi, avero homi ... \ // anki: front
+#fillin(15cm, "Que eu viva em bem-estar, que eu esteja livre de aflição, que eu esteja livre de hostilidade ...") // anki: back
 
 #pagebreak()
 
 === Vocabulário
 
+// anki: vocabtable
 #table(
   columns: 2,
   align: (auto,auto,),
@@ -788,47 +801,47 @@ columns: (1fr, 1fr),
 block[
 #set enum(start: 1)
 
-+ Sissā ācariyassa bhattaṁ haranti. \
-  #fillin(6cm, "Os alunos levam a comida ao professor.")
++ Sissā ācariyassa bhattaṁ haranti. \ // anki: front
+  #fillin(6cm, "Os alunos levam a comida ao professor.") // anki: back
 
-+ Kusalaṁ kammaṁ sukhāya saṁvattati. \
-  #fillin(6cm, "A ação salutar conduz à felicidade.")
++ Kusalaṁ kammaṁ sukhāya saṁvattati. \ // anki: front
+  #fillin(6cm, "A ação salutar conduz à felicidade.") // anki: back
 
-+ Mayaṁ phalāni bhuñjāma. \
-  #fillin(6cm, "Nós comemos os frutos.")
++ Mayaṁ phalāni bhuñjāma. \ // anki: front
+  #fillin(6cm, "Nós comemos os frutos.") // anki: back
 
-+ Sissā pupphāni passanti. \
-  #fillin(6cm, "Os alunos veem as flores.")
++ Sissā pupphāni passanti. \ // anki: front
+  #fillin(6cm, "Os alunos veem as flores.") // anki: back
 
 ], block[
 #set enum(start: 5)
 
-+ Narā pupphe haranti. \
-  #fillin(6cm, "Os homens carregam as flores.")
++ Narā pupphe haranti. \ // anki: front
+  #fillin(6cm, "Os homens carregam as flores.") // anki: back
 
-+ Rūpe passāmi. \
-  #fillin(6cm, "Eu vejo formas.")
++ Rūpe passāmi. \ // anki: front
+  #fillin(6cm, "Eu vejo formas.") // anki: back
 
-+ Narā kusalāni kammāni karonti. \
-  #fillin(6cm, "Os homens praticam ações salutares.")
++ Narā kusalāni kammāni karonti. \ // anki: front
+  #fillin(6cm, "Os homens praticam ações salutares.") // anki: back
 
-+ Dibbāni pupphāni papatanti. \
-  #fillin(6cm, "Flores celestiais estão a cair.")
++ Dibbāni pupphāni papatanti. \ // anki: front
+  #fillin(6cm, "Flores celestiais estão a cair.") // anki: back
 
 ])
 
 #set enum(start: 9)
 
-+ Rūpaṁ anattā, tasmā rūpaṁ ābādhāya saṁvattati. (SN 22.59) \
-  #fillin(15cm, "A forma é não-eu, portanto a forma conduz à aflição.")
++ Rūpaṁ anattā, tasmā rūpaṁ ābādhāya saṁvattati. (SN 22.59) \ // anki: front
+  #fillin(15cm, "A forma é não-eu, portanto a forma conduz à aflição.") // anki: back
 
-+ Taṁ kiṁ maññatha bhikkhave, rūpaṁ niccaṁ vā aniccaṁ vā'ti? Aniccaṁ bhante. \
-  #fillin(15cm, "O que pensam, bhikkhus, a forma é permanente ou impermanente? Impermanente, venerável senhor.")
++ Taṁ kiṁ maññatha bhikkhave, rūpaṁ niccaṁ vā aniccaṁ vā'ti? Aniccaṁ bhante. \ // anki: front
+  #fillin(15cm, "O que pensam, bhikkhus, a forma é permanente ou impermanente? Impermanente, venerável senhor.") // anki: back
 
 *Nicca* e *anicca* são adjetivos que qualificam *rūpa* (nt.), portanto recebem a mesma terminação do nt.acus.sg. *-ṁ*: *rūpaṁ niccaṁ vā aniccaṁ vā*.
 
-+ Yaṁ kiñci rūpaṁ atītānāgata-paccuppannaṁ ajjhattaṁ vā bahiddhā vā ... \
-  #fillin(15cm, "Qualquer que seja a forma, futura, passada ou presente, interna ou externa ...")
++ Yaṁ kiñci rūpaṁ atītānāgata-paccuppannaṁ ajjhattaṁ vā bahiddhā vā ... \ // anki: front
+  #fillin(15cm, "Qualquer que seja a forma, futura, passada ou presente, interna ou externa ...") // anki: back
 
 Tanto *ajjhattaṁ* como *bahiddhā* são advérbios que qualificam *rūpaṁ* (nt.acus.sg.), mas têm origens morfológicas diferentes, daí a terminação diferente:
 
@@ -836,8 +849,8 @@ Tanto *ajjhattaṁ* como *bahiddhā* são advérbios que qualificam *rūpaṁ* (
 
 *Bahiddhā:* *bahi* ('fora') + o sufixo adverbial *-dhā*. Um 'advérbio puro/invariável', que nunca muda de forma (portanto não recebe o *-ṁ* de *rūpaṁ*).
 
-+ Ye keci saṅkhārā atītānāgata-paccuppannā ajjhattā vā bahiddhā vā ... \
-  #fillin(15cm, "Quaisquer que sejam as formações mentais, futuras, passadas ou presentes, internas ou externas ...")
++ Ye keci saṅkhārā atītānāgata-paccuppannā ajjhattā vā bahiddhā vā ... \ // anki: front
+  #fillin(15cm, "Quaisquer que sejam as formações mentais, futuras, passadas ou presentes, internas ou externas ...") // anki: back
 
 *Saṅkhārā* (masc.acus.pl.) tem a terminação *-ā*, portanto *ajjhattā* concorda com a mesma terminação.
 
@@ -847,20 +860,20 @@ Tanto *ajjhattaṁ* como *bahiddhā* são advérbios que qualificam *rūpaṁ* (
 
 #set enum(start: 1)
 
-+ Os rapazes levam as flores ao monge. \
-  #fillin(15cm, "Kumārā bhikkhussa pupphāni haranti.")
++ Os rapazes levam as flores ao monge. \ // anki: back
+  #fillin(15cm, "Kumārā bhikkhussa pupphāni haranti.") // anki: front
 
-+ Eu cultivo a mente. \
-  #fillin(15cm, "Ahaṁ cittaṁ bhāvemi.")
++ Eu cultivo a mente. \ // anki: back
+  #fillin(15cm, "Ahaṁ cittaṁ bhāvemi.") // anki: front
 
-+ Os homens praticam (fazem) ações salutares. \
-  #fillin(15cm, "Narā kusalāni kammāni karonti.")
++ Os homens praticam (fazem) ações salutares. \ // anki: back
+  #fillin(15cm, "Narā kusalāni kammāni karonti.") // anki: front
 
-+ O cozinheiro prepara (cozinha) a comida para os alunos. \
-  #fillin(15cm, "Sūdo sissānaṁ bhattaṁ pacati.")
++ O cozinheiro prepara (cozinha) a comida para os alunos. \ // anki: back
+  #fillin(15cm, "Sūdo sissānaṁ bhattaṁ pacati.") // anki: front
 
-+ Nós comemos a comida juntamente com o professor. \
-  #fillin(15cm, "Mayaṁ ācariyena saddhiṁ bhattaṁ bhuñjāma.")
++ Nós comemos a comida juntamente com o professor. \ // anki: back
+  #fillin(15cm, "Mayaṁ ācariyena saddhiṁ bhattaṁ bhuñjāma.") // anki: front
 
 #pagebreak()
 #set enum(start: 1)
@@ -886,6 +899,7 @@ O *Ablativo* exprime separação, origem ou causa: *De onde? De quem/quê? Por c
 
 *(a)* *"De onde?"* Indica movimento de afastamento, separação, origem.
 
+// anki: table-2col(front, back)
 #table(
   columns: 2,
   [Corā gāmamhā pabbataṁ dhāvanti.], [Os ladrões correm da aldeia para a montanha.],
@@ -894,12 +908,14 @@ O *Ablativo* exprime separação, origem ou causa: *De onde? De quem/quê? Por c
 
 *(b)* *"De quem?"* Perguntar, receber, tomar de alguém.
 
+// anki: table-2col(front, back)
 #table(
   columns: 2,
   [Loko suriyamhā ālokaṁ labhati.], [O mundo recebe luz do sol.],
   [Samaṇo araññasmā āgamma purisamhā vatthaṁ labhati.], [O monge, tendo vindo da floresta, recebe um pano do homem.],
 )
 
+// anki: vocabtable
 #table(
   columns: 2,
   align: (auto,auto,),
@@ -932,10 +948,11 @@ Eu faço esta pergunta ao Ven. Nārada.
 
 #v(-0.5em)
 
+// anki: table-1col
 #table(
   columns: 1,
-  [Yasmā ca kho, bhikkhave, rūpaṁ anattā, #B[tasmā] rūpaṁ ābādhāya saṁvattati. (SN 22.59)],
-  [Porque a forma é não-eu, portanto a forma conduz à aflição.],
+  [Yasmā ca kho, bhikkhave, rūpaṁ anattā, #B[tasmā] rūpaṁ ābādhāya saṁvattati. (SN 22.59)], // anki: front
+  [Porque a forma é não-eu, portanto a forma conduz à aflição.], // anki: back
 )
 
 #v(-0.5em)
@@ -946,6 +963,7 @@ Eu faço esta pergunta ao Ven. Nārada.
 
 #grid(columns: (1fr, 1fr), block[
 
+// anki: vocabtable
 #table(
   columns: 2,
   [#underline(offset: 2.25pt)[#B[Nomes]]], [],
@@ -971,6 +989,7 @@ Eu faço esta pergunta ao Ven. Nārada.
 
 ], block[
 
+// anki: vocabtable
 #table(
   columns: 2,
   [#strong[pāpa]], [#emph[\(masc)] malfeitor; criminoso],
@@ -999,38 +1018,38 @@ Eu faço esta pergunta ao Ven. Nārada.
 
 #set enum(start: 1)
 
-+ Kumāro rukkhamhā patati. \
-  #fillin(15cm, "O rapaz cai da árvore.")
++ Kumāro rukkhamhā patati. \ // anki: front
+  #fillin(15cm, "O rapaz cai da árvore.") // anki: back
 
-+ Corā pabbatasmā gāmaṁ dhāvanti. \
-  #fillin(15cm, "Os ladrões correm da montanha para a aldeia.")
++ Corā pabbatasmā gāmaṁ dhāvanti. \ // anki: front
+  #fillin(15cm, "Os ladrões correm da montanha para a aldeia.") // anki: back
 
-+ Sīhā pabbatehi oruhanti. \
-  #fillin(15cm, "Os leões descem das montanhas.")
++ Sīhā pabbatehi oruhanti. \ // anki: front
+  #fillin(15cm, "Os leões descem das montanhas.") // anki: back
 
-+ Vihāramhā pattaṁ āharāmi. \
-  #fillin(15cm, "Eu trago a tigela do mosteiro.")
++ Vihāramhā pattaṁ āharāmi. \ // anki: front
+  #fillin(15cm, "Eu trago a tigela do mosteiro.") // anki: back
 
-+ Dibbāni mandāravapupphāni antalikkhā papatanti. (DN 16) \
-  #fillin(15cm, "Flores celestiais de mandārava estão a cair do céu.")
++ Dibbāni mandāravapupphāni antalikkhā papatanti. (DN 16) \ // anki: front
+  #fillin(15cm, "Flores celestiais de mandārava estão a cair do céu.") // anki: back
 
-+ Upāsakā samaṇehi saddhiṁ vihārasmā nikkhamanti. \
-  #fillin(15cm, "Os devotos leigos saem do mosteiro com os monges.")
++ Upāsakā samaṇehi saddhiṁ vihārasmā nikkhamanti. \ // anki: front
+  #fillin(15cm, "Os devotos leigos saem do mosteiro com os monges.") // anki: back
 
-+ Idāni kasmā so puriso ito nikkhamati? \
-  #fillin(15cm, "Por que é que esse homem parte agora daqui?")
++ Idāni kasmā so puriso ito nikkhamati? \ // anki: front
+  #fillin(15cm, "Por que é que esse homem parte agora daqui?") // anki: back
 
 // + Gāmamhā āgataṁ purisaṁ na passāmi. (#pali[āgataṁ] = pp. "que veio") \
 //   #fillin(15cm, "Não vejo o homem que veio da aldeia.")
 
-+ Na kho panāhaṁ cīvarahetu agārasmā anagāriyaṁ pabbajito. (MN 17) \
-  #fillin(15cm, "Não foi por causa dos mantos que eu renunciei à vida doméstica para a vida sem lar.")
++ Na kho panāhaṁ cīvarahetu agārasmā anagāriyaṁ pabbajito. (MN 17) \ // anki: front
+  #fillin(15cm, "Não foi por causa dos mantos que eu renunciei à vida doméstica para a vida sem lar.") // anki: back
 
-+ Anupādāya āsavehi cittāni vimucciṁsu. (SN 35.28) \
-  #fillin(15cm, "Por não se apegarem, as suas mentes foram libertadas das impurezas.")
++ Anupādāya āsavehi cittāni vimucciṁsu. (SN 35.28) \ // anki: front
+  #fillin(15cm, "Por não se apegarem, as suas mentes foram libertadas das impurezas.") // anki: back
 
-+ Avijjāya _(fem.gen.sg., 'da ignorância')_ tveva asesa-virāga-nirodhā saṅkhāra-nirodho; \ saṅkhāra-nirodhā viññāṇa-nirodho... \
-  #fillin(15cm, "Mas pelo total desvanecimento e cessação da ignorância, há a cessação das formações; pela cessação das formações, há a cessação da consciência.")
++ Avijjāya _(fem.gen.sg., 'da ignorância')_ tveva asesa-virāga-nirodhā saṅkhāra-nirodho; \ saṅkhāra-nirodhā viññāṇa-nirodho... \ // anki: front
+  #fillin(15cm, "Mas pelo total desvanecimento e cessação da ignorância, há a cessação das formações; pela cessação das formações, há a cessação da consciência.") // anki: back
 
 #pagebreak()
 
@@ -1038,23 +1057,23 @@ Eu faço esta pergunta ao Ven. Nārada.
 
 #set enum(start: 1)
 
-+ O fruto cai da árvore. \
-  #fillin(15cm, "Phalaṁ rukkhasmā / rukkhamhā patati.")
++ O fruto cai da árvore. \ // anki: back
+  #fillin(15cm, "Phalaṁ rukkhasmā / rukkhamhā patati.") // anki: front
 
-+ Os homens partem do mosteiro. \
-  #fillin(15cm, "Narā vihārasmā / vihāramhā nikkhamanti.")
++ Os homens partem do mosteiro. \ // anki: back
+  #fillin(15cm, "Narā vihārasmā / vihāramhā nikkhamanti.") // anki: front
 
-+ O ladrão corre da aldeia para a montanha. \
-  #fillin(15cm, "Coro gāmamhā pabbataṁ dhāvati.")
++ O ladrão corre da aldeia para a montanha. \ // anki: back
+  #fillin(15cm, "Coro gāmamhā pabbataṁ dhāvati.") // anki: front
 
-+ O homem traz o cavalo da aldeia. \
-  #fillin(15cm, "Naro gāmasmā assaṁ āharati.")
++ O homem traz o cavalo da aldeia. \ // anki: back
+  #fillin(15cm, "Naro gāmasmā assaṁ āharati.") // anki: front
 
-+ Os devotos leigos saem do mosteiro com os monges. \
-  #fillin(15cm, "Upāsakā samaṇehi saddhiṁ vihāramhā nikkhamanti.")
++ Os devotos leigos saem do mosteiro com os monges. \ // anki: back
+  #fillin(15cm, "Upāsakā samaṇehi saddhiṁ vihāramhā nikkhamanti.") // anki: front
 
-+ Eu trago a comida da aldeia. \
-  #fillin(15cm, "Gāmasmā bhattaṁ āharāmi.")
++ Eu trago a comida da aldeia. \ // anki: back
+  #fillin(15cm, "Gāmasmā bhattaṁ āharāmi.") // anki: front
 
 #pagebreak()
 
@@ -1100,6 +1119,7 @@ O *Genitivo* exprime posse, relação ou pertença: *"De quem? De quê? De quem 
 
 *Buddhassa*: do Buda. *Buddhānaṁ*: dos Budas.
 
+// anki: table-2col(back, front)
 #table(
   columns: 2,
   [Iti Kassapassa patto.], [Esta é a tigela de Kassapa.],
@@ -1109,31 +1129,34 @@ O *Genitivo* exprime posse, relação ou pertença: *"De quem? De quê? De quem 
 )
 
 #quote[
-_Iti rūpaṁ, iti rūpassa samudayo, iti rūpassa atthaṅgamo._ (DN 22) \
-Isto é a forma, esta é a origem/surgimento da forma, este é o fim da forma.
+_Iti rūpaṁ, iti rūpassa samudayo, iti rūpassa atthaṅgamo._ (DN 22) \ // anki: front
+Isto é a forma, esta é a origem/surgimento da forma, este é o fim da forma. // anki: back
 
+// anki: front-start
 _Yathā ca uppannassa satisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti._ (DN 22) \
+// anki: front-end-back-start
 E como (_Yathā ca_), pelo desenvolvimento (_bhāvanāya_, fem.inst.) \
 do surgido (_uppannassa_) fator de despertar da atenção plena (_satisambojjhaṅgassa_) \
 ele se torna plenamente desenvolvido (_pāripūrī hoti_),
 isso também (_tañca_ = _taṁ + ca_) ele compreende (_pajānāti_).
+// anki: back-end
 
 ]
 
 Uma vez que o genitivo e o dativo podem ambos ter a forma (#B[-assa, -ānam]), o significado correto tem de ser compreendido a partir do contexto da frase:
 
 #quote[
-_Dassesi #B[lokassa] (masc.dat.) visuddhi-maggaṁ._ (cântico) \
-Ele mostrou o caminho da pureza #B[ao mundo].
+_Dassesi #B[lokassa] (masc.dat.) visuddhi-maggaṁ._ (cântico) \ // anki: front
+Ele mostrou o caminho da pureza #B[ao mundo]. // anki: back
 
-_Yo pana bhikkhu #B[bhikkhussa] (masc.dat.) sāmaṁ cīvaraṁ datvā..._ (NP 25) \
-Se um bhikkhu, tendo dado um manto #B[a um bhikkhu]...
+_Yo pana bhikkhu #B[bhikkhussa] (masc.dat.) sāmaṁ cīvaraṁ datvā..._ (NP 25) \ // anki: front
+Se um bhikkhu, tendo dado um manto #B[a um bhikkhu]... // anki: back
 
-_Yo pana bhikkhu #B[bhikkhussa] (masc.gen.) pattaṁ ... apanidheyya..._ (Pc 60) \
-Se um bhikkhu esconder a tigela #B[de um bhikkhu]...
+_Yo pana bhikkhu #B[bhikkhussa] (masc.gen.) pattaṁ ... apanidheyya..._ (Pc 60) \ // anki: front
+Se um bhikkhu esconder a tigela #B[de um bhikkhu]... // anki: back
 
-_#B[sāvakānaṁ] (masc.dat.) dhammaṁ desemi #B[sattānaṁ] (masc.gen.) visuddhiyā (fem.dat.)_ (AN 10.95) \
-Eu ensino o Dhamma #B[aos discípulos] para a purificação #B[dos seres]...
+_#B[sāvakānaṁ] (masc.dat.) dhammaṁ desemi #B[sattānaṁ] (masc.gen.) visuddhiyā (fem.dat.)_ (AN 10.95) \ // anki: front
+Eu ensino o Dhamma #B[aos discípulos] para a purificação #B[dos seres]... // anki: back
 ]
 
 === O Caso Locativo
@@ -1143,28 +1166,34 @@ O *Locativo* exprime localização, tempo ou circunstância: *"Onde? Quando? Em 
 *Loke*: no mundo. *Gāmamhi, gāmasmiṁ*: na aldeia. *Gāmesu*: nas aldeias.
 
 #quote[
-_Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme._ (vários) \
-Certa vez o Abençoado estava em Sāvatthī, no Bosque de Jeta, no mosteiro de Anāthapiṇḍika.
+_Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme._ (vários) \ // anki: front
+Certa vez o Abençoado estava em Sāvatthī, no Bosque de Jeta, no mosteiro de Anāthapiṇḍika. // anki: back
 
+// anki: front-start
 _Bhikkhu ... citte cittānupassī viharati_ \
+// anki: front-end-back-start
 Um bhikkhu permanece (_viharati_) observando experiências mentais (_cittānupassī_) na mente (_citte_), \
 _ātāpī sampajāno satimā_ \
 ardente, plenamente consciente e atento, \
 _vineyya loke abhijjhādomanassaṁ._ \
 abandonando a ganância e a angústia no mundo. (DN 22)
+// anki: back-end
 
-_Kiñca loke piyarūpaṁ sātarūpaṁ?_ (DN 22) \
-E o que no mundo é agradável e encantador?
+_Kiñca loke piyarūpaṁ sātarūpaṁ?_ (DN 22) \ // anki: front
+E o que no mundo é agradável e encantador? // anki: back
 
+// anki: front-start
 _Appamādo ca dhammesu_ (Snp 2.4) \
+// anki: front-end-back-start
 ser diligente nas qualidades mentais (Aj Thanissaro) \
 Diligência nas boas qualidades (Aj Sujato)
+// anki: back-end
 
-_Gāme araññe sukha-dukkha-phuṭṭho_ (Ud 2.4) \
-Na aldeia ou na selva, quando tocado pelo prazer ou pela dor
+_Gāme araññe sukha-dukkha-phuṭṭho_ (Ud 2.4) \ // anki: front
+Na aldeia ou na selva, quando tocado pelo prazer ou pela dor // anki: back
 
-_Ariyasāvako buddhe aveccappasādena samannāgato hoti..._ (DN 16) \
-(Quando) um discípulo dos nobres está dotado de confiança verificada no Buda...
+_Ariyasāvako buddhe aveccappasādena samannāgato hoti..._ (DN 16) \ // anki: front
+(Quando) um discípulo dos nobres está dotado de confiança verificada no Buda... // anki: back
 
 ]
 
@@ -1172,6 +1201,7 @@ _Ariyasāvako buddhe aveccappasādena samannāgato hoti..._ (DN 16) \
 
 === Vocabulário
 
+// anki: vocabtable
 #table(
   columns: 2,
   row-gutter: 2pt,
@@ -1205,45 +1235,45 @@ _Ariyasāvako buddhe aveccappasādena samannāgato hoti..._ (DN 16) \
 
 #set enum(start: 1)
 
-+ Ācariyassa sissā vihāre vasanti. \
-  #fillin(15cm, "Os alunos do professor vivem no mosteiro.")
++ Ācariyassa sissā vihāre vasanti. \ // anki: front
+  #fillin(15cm, "Os alunos do professor vivem no mosteiro.") // anki: back
 
-+ Puriso attano ratane rakkhati. \
-  #fillin(15cm, "O homem guarda os seus próprios tesouros.")
++ Puriso attano ratane rakkhati. \ // anki: front
+  #fillin(15cm, "O homem guarda os seus próprios tesouros.") // anki: back
 
-+ Sāvakā Buddhassa dhammaṁ suṇanti. \
-  #fillin(15cm, "Os discípulos ouvem o ensinamento do Buda.")
++ Sāvakā Buddhassa dhammaṁ suṇanti. \ // anki: front
+  #fillin(15cm, "Os discípulos ouvem o ensinamento do Buda.") // anki: back
 
-+ Rukkhamūle nisīdāmi, makkaṭā rukkhesu caranti. \
-  #fillin(15cm, "Eu sento-me na raiz da árvore, os macacos vagueiam nas árvores.")
++ Rukkhamūle nisīdāmi, makkaṭā rukkhesu caranti. \ // anki: front
+  #fillin(15cm, "Eu sento-me na raiz da árvore, os macacos vagueiam nas árvores.") // anki: back
 
-+ Upāsakassa puttā samaṇehi saddhiṁ vihāraṁ gacchanti. \
-  #fillin(15cm, "Os filhos do devoto leigo vão ao mosteiro com os monges.")
++ Upāsakassa puttā samaṇehi saddhiṁ vihāraṁ gacchanti. \ // anki: front
+  #fillin(15cm, "Os filhos do devoto leigo vão ao mosteiro com os monges.") // anki: back
 
-+ Puriso Anāthapiṇḍikassa ārāme bhattaṁ pacati. \
-  #fillin(15cm, "O homem cozinha comida no mosteiro de Anāthapiṇḍika.")
++ Puriso Anāthapiṇḍikassa ārāme bhattaṁ pacati. \ // anki: front
+  #fillin(15cm, "O homem cozinha comida no mosteiro de Anāthapiṇḍika.") // anki: back
 
-+ Idha tathāgato loke uppanno arahaṁ sammāsambuddho. (cântico) \
-  #fillin(15cm, "Aqui no mundo o Tathāgata surgiu, o Digno, o Perfeitamente Desperto.")
++ Idha tathāgato loke uppanno arahaṁ sammāsambuddho. (cântico) \ // anki: front
+  #fillin(15cm, "Aqui no mundo o Tathāgata surgiu, o Digno, o Perfeitamente Desperto.") // anki: back
 
 === Traduzir para Pāli
 
 #set enum(start: 1)
 
-+ Os discípulos do Buda ficam no mosteiro. \
-  #fillin(15cm, "Buddhassa sāvakā vihāre viharanti/vasanti.")
++ Os discípulos do Buda ficam no mosteiro. \ // anki: back
+  #fillin(15cm, "Buddhassa sāvakā vihāre viharanti/vasanti.") // anki: front
 
-+ Tu vives na aldeia. \
-  #fillin(15cm, "Gāme / gāmamhi / gāmasmiṁ vasasi.")
++ Tu vives na aldeia. \ // anki: back
+  #fillin(15cm, "Gāme / gāmamhi / gāmasmiṁ vasasi.") // anki: front
 
-+ Os veados (pl.) correm na floresta. \
-  #fillin(15cm, "Migā araññe dhāvanti.")
++ Os veados (pl.) correm na floresta. \ // anki: back
+  #fillin(15cm, "Migā araññe dhāvanti.") // anki: front
 
-+ O filho do homem dorme na cama. \
-  #fillin(15cm, "Narassa putto mañce sayati.")
++ O filho do homem dorme na cama. \ // anki: back
+  #fillin(15cm, "Narassa putto mañce sayati.") // anki: front
 
-+ O leigo dá arroz aos monges. \
-  #fillin(15cm, "Upāsako samaṇānaṁ odanaṁ dadāti.")
++ O leigo dá arroz aos monges. \ // anki: back
+  #fillin(15cm, "Upāsako samaṇānaṁ odanaṁ dadāti.") // anki: front
 
 #pagebreak()
 
@@ -1251,6 +1281,7 @@ _Ariyasāvako buddhe aveccappasādena samannāgato hoti..._ (DN 16) \
 
 === Dhp 5
 
+// anki: vocabtable
 #table(
   columns: 2,
   row-gutter: 2pt,
@@ -1262,22 +1293,23 @@ _Ariyasāvako buddhe aveccappasādena samannāgato hoti..._ (DN 16) \
   [#strong[sanantana]], [#emph[\(adj)] eterno; perpétuo; perene; antigo],
 )
 
-Na hi verena verāni \
-#fillin(10cm, "Não pela hostilidade as hostilidades")
+Na hi verena verāni \ // anki: front
+#fillin(10cm, "Não pela hostilidade as hostilidades") // anki: back
 
-sammantīdha kudācanaṁ; \
-#fillin(10cm, "são alguma vez acalmadas aqui;")
+sammantīdha kudācanaṁ; \ // anki: front
+#fillin(10cm, "são alguma vez acalmadas aqui;") // anki: back
 
-Averena ca sammanti, \
-#fillin(10cm, "pela não-hostilidade elas são acalmadas,")
+Averena ca sammanti, \ // anki: front
+#fillin(10cm, "pela não-hostilidade elas são acalmadas,") // anki: back
 
-esa dhammo sanantano. \
-#fillin(10cm, "esta é uma lei eterna.")
+esa dhammo sanantano. \ // anki: front
+#fillin(10cm, "esta é uma lei eterna.") // anki: back
 
 #pagebreak()
 
 === Dhp 277
 
+// anki: vocabtable
 #table(
   columns: 2,
   row-gutter: 2pt,
@@ -1290,22 +1322,23 @@ esa dhammo sanantano. \
   [#strong[yadā]], [#emph[\(ind)] quando; sempre que],
 )
 
-"Sabbe saṅkhārā aniccā"ti, \
-#fillin(10cm, "\"Todas as formações são impermanentes\"")
+"Sabbe saṅkhārā aniccā"ti, \ // anki: front
+#fillin(10cm, "\"Todas as formações são impermanentes\"") // anki: back
 
-yadā paññāya passati; \
-#fillin(10cm, "quando se vê com sabedoria;")
+yadā paññāya passati; \ // anki: front
+#fillin(10cm, "quando se vê com sabedoria;") // anki: back
 
-Atha nibbindati dukkhe, \
-#fillin(10cm, "então fica-se desencantado com o sofrimento,")
+Atha nibbindati dukkhe, \ // anki: front
+#fillin(10cm, "então fica-se desencantado com o sofrimento,") // anki: back
 
-esa maggo visuddhiyā. \
-#fillin(10cm, "este é o caminho para a purificação.")
+esa maggo visuddhiyā. \ // anki: front
+#fillin(10cm, "este é o caminho para a purificação.") // anki: back
 
 #pagebreak()
 
 === AN 6.63
 
+// anki: vocabtable
 #table(
   columns: 2,
   row-gutter: 2pt,
@@ -1321,22 +1354,23 @@ esa maggo visuddhiyā. \
   [#strong[vācā]], [#emph[\(fem)] fala; palavras; declaração; discurso; #emph[de vacati]],
 )
 
-Cetanāhaṁ, bhikkhave, kammaṁ vadāmi. \
-#fillin(10cm, "Intenção, monges, eu chamo ação.")
+Cetanāhaṁ, bhikkhave, kammaṁ vadāmi. \ // anki: front
+#fillin(10cm, "Intenção, monges, eu chamo ação.") // anki: back
 
-Cetayitvā kammaṁ karoti -- kāyena vācāya manasā. \
-#fillin(10cm, "Tendo intencionado, age-se — pelo corpo, fala, mente.")
+Cetayitvā kammaṁ karoti -- kāyena vācāya manasā. \ // anki: front
+#fillin(10cm, "Tendo intencionado, age-se — pelo corpo, fala, mente.") // anki: back
 
-Katamo ca, bhikkhave, kammānaṁ nidānasambhavo? \
-#fillin(10cm, "E qual, monges, é a origem das ações?")
+Katamo ca, bhikkhave, kammānaṁ nidānasambhavo? \ // anki: front
+#fillin(10cm, "E qual, monges, é a origem das ações?") // anki: back
 
-Phasso, bhikkhave, kammānaṁ nidānasambhavo. \
-#fillin(10cm, "O contacto, monges, é a origem das ações.")
+Phasso, bhikkhave, kammānaṁ nidānasambhavo. \ // anki: front
+#fillin(10cm, "O contacto, monges, é a origem das ações.") // anki: back
 
 #pagebreak()
 
 === Dhp 21-22
 
+// anki: vocabtable
 #table(
   columns: 2,
   row-gutter: 2pt,
@@ -1362,30 +1396,30 @@ Phasso, bhikkhave, kammānaṁ nidānasambhavo. \
 
 #grid(columns: (1fr, 1fr), block[
 
-Appamādo amatapadaṁ, \
-#fillin(7cm, "A diligência é o caminho para o imortal,")
+Appamādo amatapadaṁ, \ // anki: front
+#fillin(7cm, "A diligência é o caminho para o imortal,") // anki: back
 
-pamādo maccuno padaṁ; \
-#fillin(7cm, "a negligência é o caminho da morte;")
+pamādo maccuno padaṁ; \ // anki: front
+#fillin(7cm, "a negligência é o caminho da morte;") // anki: back
 
-Appamattā na mīyanti, \
-#fillin(7cm, "os diligentes não morrem,")
+Appamattā na mīyanti, \ // anki: front
+#fillin(7cm, "os diligentes não morrem,") // anki: back
 
-ye pamattā yathā matā. \
-#fillin(7cm, "os negligentes são como mortos.")
+ye pamattā yathā matā. \ // anki: front
+#fillin(7cm, "os negligentes são como mortos.") // anki: back
 
 ], block[
-Evaṁ visesato ñatvā, \
-#fillin(7cm, "Tendo compreendido isto claramente,")
+Evaṁ visesato ñatvā, \ // anki: front
+#fillin(7cm, "Tendo compreendido isto claramente,") // anki: back
 
-appamādamhi paṇḍitā; \
-#fillin(7cm, "os sábios (deleitam-se) na diligência;")
+appamādamhi paṇḍitā; \ // anki: front
+#fillin(7cm, "os sábios (deleitam-se) na diligência;") // anki: back
 
-Appamāde pamodanti, \
-#fillin(7cm, "regozijam-se na diligência,")
+Appamāde pamodanti, \ // anki: front
+#fillin(7cm, "regozijam-se na diligência,") // anki: back
 
-ariyānaṁ gocare ratā. \
-#fillin(7cm, "devotados ao/encantados com o domínio dos nobres.")
+ariyānaṁ gocare ratā. \ // anki: front
+#fillin(7cm, "devotados ao/encantados com o domínio dos nobres.") // anki: back
 
 ])
 
@@ -1393,6 +1427,7 @@ ariyānaṁ gocare ratā. \
 
 === DN 22 (introdução)
 
+// anki: vocabtable
 #table(
   columns: 2,
   row-gutter: 2pt,
@@ -1409,31 +1444,32 @@ ariyānaṁ gocare ratā. \
   [#strong[yadidaṁ]], [#emph[\(sandhi)] nomeadamente; isto é],
 )
 
-Ekāyano ayaṁ, bhikkhave, \
-#fillin(10cm, "Este é o caminho direto, monges,")
+Ekāyano ayaṁ, bhikkhave, \ // anki: front
+#fillin(10cm, "Este é o caminho direto, monges,") // anki: back
 
-maggo sattānaṁ visuddhiyā, \
-#fillin(10cm, "o caminho para a purificação dos seres,")
+maggo sattānaṁ visuddhiyā, \ // anki: front
+#fillin(10cm, "o caminho para a purificação dos seres,") // anki: back
 
-sokaparidevānaṁ samatikkamāya \
-#fillin(10cm, "para a superação do pesar e da lamentação,")
+sokaparidevānaṁ samatikkamāya \ // anki: front
+#fillin(10cm, "para a superação do pesar e da lamentação,") // anki: back
 
-dukkhadomanassānaṁ atthaṅgamāya \
-#fillin(10cm, "para o fim do sofrimento e da angústia,")
+dukkhadomanassānaṁ atthaṅgamāya \ // anki: front
+#fillin(10cm, "para o fim do sofrimento e da angústia,") // anki: back
 
-ñāyassa adhigamāya \
-#fillin(10cm, "para a realização do método correto,")
+ñāyassa adhigamāya \ // anki: front
+#fillin(10cm, "para a realização do método correto,") // anki: back
 
-nibbānassa sacchikiriyāya, \
-#fillin(10cm, "para a realização do Nibbāna,")
+nibbānassa sacchikiriyāya, \ // anki: front
+#fillin(10cm, "para a realização do Nibbāna,") // anki: back
 
-yadidaṁ cattāro satipaṭṭhānā. \
-#fillin(10cm, "nomeadamente, os quatro estabelecimentos da atenção plena.")
+yadidaṁ cattāro satipaṭṭhānā. \ // anki: front
+#fillin(10cm, "nomeadamente, os quatro estabelecimentos da atenção plena.") // anki: back
 
 #pagebreak()
 
 === AN 4.45
 
+// anki: vocabtable
 #table(
   columns: 2,
   row-gutter: 2pt,
@@ -1444,17 +1480,17 @@ yadidaṁ cattāro satipaṭṭhānā. \
   [#strong[pamocana]], [#emph[\(nt)] libertação (de); liberação (de)],
 )
 
-Gamanena na pattabbo, \
-#fillin(10cm, "O fim do mundo não é alcançado")
+Gamanena na pattabbo, \ // anki: front
+#fillin(10cm, "O fim do mundo não é alcançado") // anki: back
 
-lokassanto kudācanaṁ; \
-#fillin(10cm, "por viajar, alguma vez;")
+lokassanto kudācanaṁ; \ // anki: front
+#fillin(10cm, "por viajar, alguma vez;") // anki: back
 
-Na ca appatvā lokantaṁ, \
-#fillin(10cm, "contudo sem alcançar o fim do mundo,")
+Na ca appatvā lokantaṁ, \ // anki: front
+#fillin(10cm, "contudo sem alcançar o fim do mundo,") // anki: back
 
-dukkhā atthi pamocanaṁ. \
-#fillin(10cm, "não há libertação do sofrimento.")
+dukkhā atthi pamocanaṁ. \ // anki: front
+#fillin(10cm, "não há libertação do sofrimento.") // anki: back
 
 // #pagebreak()
 
