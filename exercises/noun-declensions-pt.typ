@@ -9,6 +9,10 @@
 
 == Método
 
+#grid(
+columns: (115mm, 80mm),
+column-gutter: 5mm,
+block[
 Pratique escrever as tabelas de declinação de memória em papel, adicionando gradualmente novas linhas à medida que novos casos são introduzidos.
 
 Primeiro escreva apenas as duas linhas dos nomes masculinos com radical -a: os casos nominativo e acusativo.
@@ -16,6 +20,12 @@ Primeiro escreva apenas as duas linhas dos nomes masculinos com radical -a: os c
 Depois pratique as frases de exemplo. Quando uma nova secção começar, pratique escrever a tabela de declinação novamente, agora com mais dois casos (instrumental e dativo), e assim por diante.
 
 A ordem dos casos é tradicional. Nas gramáticas são chamados 1.º caso, 2.º caso, etc. Para treinar o reconhecimento habitual, é bom praticá-los nessa ordem.
+],
+block[
+#v(-5mm)
+#image("images/declensions-on-paper-clean.jpg", width: 80mm)
+]
+)
 
 == Termos gramaticais
 
@@ -34,10 +44,7 @@ A ordem dos casos é tradicional. Nas gramáticas são chamados 1.º caso, 2.º 
 
 Abreviaturas:
 
-- _adj_ = adjetivo
-- _ind_ = indeclinável
-- _pp_ = particípio passado
-- _pron_ = pronome
+_adj_ = adjetivo, _ind_ = indeclinável, _pp_ = particípio passado, _pron_ = pronome
 
 #pagebreak()
 

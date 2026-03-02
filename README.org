@@ -2,6 +2,88 @@
 
 * Declension Exercises
 
+* Anki Deck Generator
+
+Generate Anki flashcard decks from annotated Typst exercise files.
+
+** Requirements
+
+- Python 3.14+
+- Anki with AnkiConnect add-on installed and running
+
+- https://ankiweb.net/shared/info/2055492159
+- https://git.sr.ht/~foosoft/anki-connect
+
+** Installation
+
+#+begin_src bash
+poetry install
+#+end_src
+
+** Usage
+
+*** Dry run (preview without syncing)
+
+#+begin_src bash
+poetry run generate-anki --dry-run exercises/noun-declensions-en.typ
+#+end_src
+
+Shows deck names, card counts, and card content without connecting to Anki.
+
+*** Sync to Anki
+
+#+begin_src bash
+poetry run generate-anki exercises/noun-declensions-en.typ
+#+end_src
+
+Syncs decks to Anki. Existing decks with matching names are deleted and recreated.
+Duplicate cards within a deck are skipped with a warning.
+
+*** Export as .apkg file
+
+#+begin_src bash
+# Export to <deck-name>.apkg in current directory
+poetry run generate-anki exercises/noun-declensions-en.typ --export
+
+# Export to specific path
+poetry run generate-anki exercises/noun-declensions-en.typ --export ~/Downloads/pali-decks.apkg
+#+end_src
+
+Exports the toplevel deck (including all sub-decks) as a portable .apkg file.
+
+*** Multiple files
+
+#+begin_src bash
+poetry run generate-anki file1.typ file2.typ file3.typ
+#+end_src
+
+** Annotation Format
+
+Typst files are annotated with =// anki:= comments. See =tests/data/exercises-to-anki.typ= for examples.
+
+| Annotation                        | Description                                      |
+|-----------------------------------+--------------------------------------------------|
+| =// anki: front=                  | Mark line as card front                          |
+| =// anki: back=                   | Mark line as card back                           |
+| =// anki: front-start=            | Start multi-line front content                   |
+| =// anki: front-end=              | End multi-line front content                     |
+| =// anki: back-start=             | Start multi-line back content                    |
+| =// anki: back-end=               | End multi-line back content                      |
+| =// anki: front-end-back-start=   | End front and start back (for adjacent blocks)   |
+| =// anki: vocabtable=             | Parse vocabulary table (col1=word, col2=definition) |
+| =// anki: table-1col=             | Table with front/back annotations on each row    |
+| =// anki: table-2col(front,back)= | Two-column table mapping columns to front/back   |
+
+** Running Tests
+
+#+begin_src bash
+# Unit tests (no Anki required)
+poetry run pytest tests/unit/ -v
+
+# Integration tests (requires Anki + AnkiConnect)
+poetry run pytest tests/integration/ -v
+#+end_src
+
 * Custom Skills
 
 : /translate-noun-declensions Spanish es

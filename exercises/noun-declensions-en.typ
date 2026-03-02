@@ -9,6 +9,10 @@
 
 == Method
 
+#grid(
+columns: (115mm, 80mm),
+column-gutter: 5mm,
+block[
 Practise writing out the declension tables on paper from memory, gradually adding rows as new cases are introduced.
 
 First write out just the two rows of masculine -a stem nouns: nominative and accusative cases.
@@ -16,6 +20,12 @@ First write out just the two rows of masculine -a stem nouns: nominative and acc
 Then practise the example sentences. When the new section starts, practise writing out the declension table again, now with two more cases (instrumental and dative), and so on.
 
 The order of the cases is traditional. In grammar books they are called 1st case, 2nd case, etc. For the sake of training habitual recognition, it is good to practise them in that order.
+],
+block[
+#v(-5mm)
+#image("images/declensions-on-paper-clean.jpg", width: 80mm)
+]
+)
 
 == Grammatical terms
 
@@ -34,10 +44,7 @@ The order of the cases is traditional. In grammar books they are called 1st case
 
 Abbreviations:
 
-- _adj_ = adjective
-- _ind_ = indeclinable
-- _pp_ = past participle
-- _pron_ = pronoun
+_adj_ = adjective, _ind_ = indeclinable, _pp_ = past participle, _pron_ = pronoun
 
 #pagebreak()
 
