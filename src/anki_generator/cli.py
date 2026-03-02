@@ -4,7 +4,7 @@ import argparse
 import sys
 from pathlib import Path
 
-from .anki_client import AnkiConnectError, check_connection, sync_decks
+from .anki_client import AnkiConnectError, check_connection, export_package, sync_decks
 from .parser import parse_file
 
 
@@ -28,6 +28,14 @@ def main() -> int:
         "--dry-run",
         action="store_true",
         help="Parse files and print deck info without syncing to Anki",
+    )
+    parser.add_argument(
+        "--export",
+        nargs="?",
+        const="",
+        default=None,
+        metavar="PATH",
+        help="Export deck as .apkg file. Optional path (default: <deck-name>.apkg in current dir)",
     )
 
     args = parser.parse_args()
@@ -75,6 +83,31 @@ def main() -> int:
     except AnkiConnectError as e:
         print(f"Error syncing to Anki: {e}", file=sys.stderr)
         return 1
+
+    # Export if requested
+    if args.export is not None:
+        # Get toplevel deck name (part before :: or full name if no ::)
+        first_deck = all_decks[0]["name"]
+        toplevel_deck = first_deck.split("::")[0]
+
+        # Determine export path
+        if args.export:
+            export_path = Path(args.export).resolve()
+        else:
+            # Default: <deck-name>.apkg in current directory
+            safe_name = toplevel_deck.replace("/", "-").replace("\\", "-")
+            export_path = Path.cwd() / f"{safe_name}.apkg"
+
+        try:
+            success = export_package(toplevel_deck, str(export_path))
+            if success:
+                print(f"\nExported: {export_path}")
+            else:
+                print(f"Error: Export failed for deck '{toplevel_deck}'", file=sys.stderr)
+                return 1
+        except AnkiConnectError as e:
+            print(f"Error exporting deck: {e}", file=sys.stderr)
+            return 1
 
     return 0
 

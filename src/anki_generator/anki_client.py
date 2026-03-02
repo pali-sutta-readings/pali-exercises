@@ -184,3 +184,17 @@ def sync_decks(parse_result: ParseResult) -> dict[str, int]:
             result[deck_name] = 0
 
     return result
+
+
+def export_package(deck: str, path: str, include_sched: bool = False) -> bool:
+    """Export a deck as an .apkg file.
+
+    Args:
+        deck: The name of the deck to export.
+        path: The absolute path where the .apkg file will be saved.
+        include_sched: Whether to include scheduling data (default False).
+
+    Returns:
+        True if export was successful, False otherwise.
+    """
+    return invoke("exportPackage", deck=deck, path=path, includeSched=include_sched)
