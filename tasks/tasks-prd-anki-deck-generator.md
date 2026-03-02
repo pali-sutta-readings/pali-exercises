@@ -25,13 +25,13 @@
 ## Tasks
 
 - [ ] 1.0 Annotate `exercises/noun-declensions-en.typ` with `// anki:` comments
-  - [ ] 1.1 Annotate Level 1 vocabulary tables with `// anki: vocabtable`
-  - [ ] 1.2 Annotate Level 1 "Translate into English" exercises: each `+ Pāli sentence \ #fillin(...)` pair gets `// anki: front` and `// anki: back`
-  - [ ] 1.3 Annotate Level 1 "Translate into Pāli" exercises: each `+ English sentence \ #fillin(...)` pair gets `// anki: back` and `// anki: front`
-  - [ ] 1.4 Annotate Level 2 vocabulary table with `// anki: vocabtable`
-  - [ ] 1.5 Annotate Level 2 example sentences (inline `// anki: front` / `// anki: back`, multi-line blocks where needed, `// anki: table-1col` and `// anki: table-2col` for tables)
-  - [ ] 1.6 Annotate Level 2 "Translate into English" and "Translate into Pāli" exercises
-  - [ ] 1.7 Annotate Levels 3–6 following the same patterns: vocabulary tables, example sentences, translation exercises
+  - [x] 1.1 Annotate Level 1 vocabulary tables with `// anki: vocabtable`
+  - [x] 1.2 Annotate Level 1 "Translate into English" exercises: each `+ Pāli sentence \ #fillin(...)` pair gets `// anki: front` and `// anki: back`
+  - [x] 1.3 Annotate Level 1 "Translate into Pāli" exercises: each `+ English sentence \ #fillin(...)` pair gets `// anki: back` and `// anki: front`
+  - [x] 1.4 Annotate Level 2 vocabulary table with `// anki: vocabtable`
+  - [x] 1.5 Annotate Level 2 example sentences (inline `// anki: front` / `// anki: back`, multi-line blocks where needed, `// anki: table-1col` and `// anki: table-2col` for tables)
+  - [x] 1.6 Annotate Level 2 "Translate into English" and "Translate into Pāli" exercises
+  - [x] 1.7 Annotate Levels 3–6 following the same patterns: vocabulary tables, example sentences, translation exercises
   - [ ] 1.8 Verify the Typst file still compiles to an identical PDF (annotations are in comments only)
 
 - [ ] 2.0 Initialize Poetry project and test infrastructure
