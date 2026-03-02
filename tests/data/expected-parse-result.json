@@ -1,0 +1,75 @@
+{
+  "decks": [
+    {
+      "name": "Noun Declensions::Level 1: Masculine -a stems, Nominative & Accusative",
+      "cards": [
+        {
+          "front": "Ācariyo sissaṁ vadati.",
+          "back": "The teacher tells the student."
+        },
+        {
+          "front": "Narā magge caranti.",
+          "back": "The men walk on the roads."
+        }
+      ]
+    },
+    {
+      "name": "Noun Declensions::Level 2: Masculine -a stems, Instrumental & Dative",
+      "cards": [
+        {
+          "front": "Na hi verena verāni",
+          "back": "Not by hostility are hostilities"
+        },
+        {
+          "front": "<i>Pucchāmi ahaṁ Āyasmantaṁ Nāradaṁ etaṁ pañhaṁ.</i> (SN 12.68)",
+          "back": "I ask the Ven. Nārada this question."
+        },
+        {
+          "front": "<i>Dassesi <b>lokassa</b> (masc.dat.) visuddhi-maggaṁ.</i> (chanting)",
+          "back": "He showed the path of purity <b>to the world</b>."
+        },
+        {
+          "front": "<i>Yathā ca uppannassa satisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti.</i> (DN 22)",
+          "back": "And how (<i>Yathā ca</i>), by the development (<i>bhāvanāya</i>, fem.inst.) of the arisen (<i>uppannassa</i>) enlightenment factor of mindfulness (<i>satisambojjhaṅgassa</i>) it becomes fully developed (<i>pāripūrī hoti</i>), that also (<i>tañca</i> = <i>taṁ + ca</i>) he understands (<i>pajānāti</i>)."
+        },
+        {
+          "front": "Aṭṭhi tacena onaddhaṁ, saha vatthebhi <i>(irreg.)</i> sobhati. (MN 82)",
+          "back": "Bone covered with skin; it looks beautiful with clothes."
+        },
+        {
+          "front": "Saṅgho imaṁ kaṭhinadussaṁ āyasmato Amarassa deti. (<a href=\"https://suttacentral.net/pli-tv-kd7/pli/ms\">Vin. Kd 7</a>)",
+          "back": "The Community gives this Kaṭhina-cloth to Ven. Amaro."
+        },
+        {
+          "front": "abhiññā",
+          "back": "<i>(fem)</i> direct knowledge; higher understanding <i>from abhijānāti</i>"
+        },
+        {
+          "front": "abyābajjha",
+          "back": "<i>(adj)</i> without ill-will; with goodwill"
+        },
+        {
+          "front": "acchādeti",
+          "back": "dresses; clothes; give clothes (to)"
+        },
+        {
+          "front": "bhāveti",
+          "back": "cultivates; develops"
+        }
+      ]
+    },
+    {
+      "name": "Noun Declensions::Level 4: Masculine -a stems, Ablative",
+      "cards": [
+        {
+          "front": "Corā gāmamhā pabbataṁ dhāvanti.",
+          "back": "Thieves run from the village to the mountain."
+        },
+        {
+          "front": "Kumāro rukkhasmā papatati.",
+          "back": "The boy falls from the tree."
+        }
+      ]
+    }
+  ]
+}

@@ -246,7 +246,6 @@ block[
 // anki: vocabtable
 #table(
   columns: 2,
-  [#strong[cora]], [#emph[\(masc)] thief; robber],
   [#strong[maccha]], [#emph[\(masc)] fish],
   [#strong[magga]], [#emph[\(masc)] road; path; track; way],
   [#strong[patta]], [#emph[\(masc)] bowl; alms bowl],

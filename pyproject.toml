@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "anki-generator"
+version = "0.1.0"
+description = "Generate Anki decks from annotated Typst exercise files"
+authors = ["Gambhiro"]
+readme = "README.org"
+packages = [{include = "anki_generator", from = "src"}]
+
+[tool.poetry.scripts]
+generate-anki = "anki_generator.cli:main"
+
+[tool.poetry.dependencies]
+python = "^3.14"
+requests = "^2.31"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0"
+
+[tool.pytest.ini_options]
+markers = [
+    "integration: marks tests as integration tests (require running Anki instance)",
+]
+testpaths = ["tests"]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
