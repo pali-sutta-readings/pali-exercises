@@ -44,9 +44,7 @@ block[
 - *Osnova:* Rezultat povezave korena s pripono; je funkcionalna podlaga za sklanjanje.
 - *Sklanjanje:* Postopek dodajanja sklonskih končnic osnovi za označevanje slovničnih razmerij med besedami (spol, število in sklon).
 
-Kratice:
-
-_prid_ = pridevnik, _nesk_ = nesklonljiv, _pp_ = pretekli deležnik, _zaim_ = zaimek
+Kratice: _prid_ = pridevnik, _nesk_ = nesklonljiv, _pp_ = pretekli deležnik, _zaim_ = zaimek
 
 #pagebreak()
 

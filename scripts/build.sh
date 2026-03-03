@@ -13,6 +13,7 @@ declare -A LANG_MAP=(
     ["it"]="Italian"
     ["pt"]="Portuguese"
     ["si"]="Slovenian"
+    ["cs"]="Czech"
 )
 
 get_lang_name() {

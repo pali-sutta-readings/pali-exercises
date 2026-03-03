@@ -44,9 +44,7 @@ block[
 - *Tő:* A gyök és a képző összekapcsolásából adódó alak; ez a ragozás kiindulási alapja.
 - *Ragozás (deklináció):* Esetvégződések hozzáadása a tőhöz, amelyek jelzik a szó nyelvtani viszonyát más szavakhoz (nem, szám és eset).
 
-Rövidítések:
-
-_adj_ = melléknév, _ind_ = ragozhatlan, _pp_ = múlt idejű melléknévi igenév, _pron_ = névmás
+Rövidítések: _adj_ = melléknév, _ind_ = ragozhatlan, _pp_ = múlt idejű melléknévi igenév, _pron_ = névmás
 
 #pagebreak()
 

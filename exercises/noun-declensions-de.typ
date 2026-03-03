@@ -31,6 +31,8 @@ block[
 
 == Grammatische Begriffe
 
+#v(-1.0em)
+
 #table(
   columns: 5,
   [*Präfix*], [*Wurzel*], [*Suffix*], [*Stamm*], [*Deklination*],
@@ -44,9 +46,7 @@ block[
 - *Stamm:* Die resultierende Form der Wurzel in Verbindung mit einem Suffix; er ist die funktionale Basis für die Flexion.
 - *Deklination:* Der Prozess des Anfügens von Kasusendungen an einen Stamm, um dessen grammatische Beziehung zu anderen Wörtern anzuzeigen (Genus, Numerus und Kasus).
 
-Abkürzungen:
-
-_Adj_ = Adjektiv, _ind_ = indeklinabel, _pp_ = Partizip Perfekt, _Pron_ = Pronomen
+Abkürzungen: _Adj_ = Adjektiv, _ind_ = indeklinabel, _pp_ = Partizip Perfekt, _Pron_ = Pronomen
 
 #pagebreak()
 

@@ -31,6 +31,8 @@ block[
 
 == Termes grammaticaux
 
+#v(-1.0em)
+
 #table(
   columns: 5,
   [*Préfixe*], [*Racine*], [*Suffixe*], [*Thème*], [*Déclinaison*],
@@ -44,9 +46,7 @@ block[
 - *Thème :* La forme résultant de la combinaison de la racine avec un suffixe ; c'est la base fonctionnelle de la flexion.
 - *Déclinaison :* Le processus d'ajout des terminaisons de cas à un thème pour indiquer sa relation grammaticale avec les autres mots (genre, nombre et cas).
 
-Abréviations :
-
-_adj_ = adjectif, _ind_ = indéclinable, _pp_ = participe passé, _pron_ = pronom
+Abréviations : _adj_ = adjectif, _ind_ = indéclinable, _pp_ = participe passé, _pron_ = pronom
 
 #pagebreak()
 

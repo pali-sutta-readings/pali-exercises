@@ -44,9 +44,7 @@ block[
 - *Stem:* The resultant form of the root combined with a suffix; it is the functional base for inflection.
 - *Declination:* The process of adding case endings to a stem to indicate its grammatical relationship to other words (gender, number, and case).
 
-Abbreviations:
-
-_adj_ = adjective, _ind_ = indeclinable, _pp_ = past participle, _pron_ = pronoun
+Abbreviations: _adj_ = adjective, _ind_ = indeclinable, _pp_ = past participle, _pron_ = pronoun
 
 #pagebreak()
 

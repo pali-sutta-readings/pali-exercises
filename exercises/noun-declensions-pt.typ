@@ -44,9 +44,7 @@ block[
 - *Tema:* A forma resultante da raiz combinada com um sufixo; é a base funcional para a flexão.
 - *Declinação:* O processo de adicionar terminações de caso a um tema para indicar a sua relação gramatical com outras palavras (género, número e caso).
 
-Abreviaturas:
-
-_adj_ = adjetivo, _ind_ = indeclinável, _pp_ = particípio passado, _pron_ = pronome
+Abreviaturas: _adj_ = adjetivo, _ind_ = indeclinável, _pp_ = particípio passado, _pron_ = pronome
 
 #pagebreak()
 
@@ -581,10 +579,13 @@ _kuṭumbiko aḍḍho mahaddhano mahābhogo:_ o chefe de família, rico, tem mu
 
 Embora a ordem das palavras varie relativamente livremente, Sujeito Objeto Verbo é a mais comum:
 
+#v(-0.5em)
+
 #table(
   columns: 4,
   stroke: none,
   align: (auto,auto,auto,auto,),
+  row-gutter: 2pt,
   [Dārako], [samaṇaṁ], [\(hoti.)], [],
   [#emph[nom.sg.]], [#emph[acus.sg.]], [#emph[pr.3.ª.sg.]], [],
   [o rapaz], [um monge], [ele é], [O rapaz é um monge.],
@@ -598,6 +599,7 @@ Numa frase atributiva, _hoti_ é frequentemente omitido pois pode ser facilmente
   columns: 2,
   stroke: none,
   align: (auto,auto,),
+  row-gutter: 2pt,
   [Dārako], [samaṇo.],
   [#emph[nom.sg.]], [#emph[nom.sg.]],
 )
@@ -606,10 +608,13 @@ Os nominativos podem formar pares, leia-os como frases equacionais: _A_ é o _B_
 
 _Kammaṁ khettaṁ viññāṇaṁ bījaṁ taṇhā sneho._ (AN 3.76)
 
+#v(-0.5em)
+
 #table(
   columns: 3,
   stroke: none,
   align: (auto,auto,auto,),
+  row-gutter: 2pt,
   [kammaṁ → khettaṁ], [viññāṇaṁ → bījaṁ], [taṇhā → sneho.],
   [a ação é o campo], [a consciência é a semente], [o desejo é a seiva.],
 )
@@ -617,10 +622,13 @@ _Kammaṁ khettaṁ viññāṇaṁ bījaṁ taṇhā sneho._ (AN 3.76)
 _Appamādo amatapadaṁ_ \
 _pamādo maccuno padaṁ_ (Dhp 21) \
 
+#v(-0.5em)
+
 #table(
   columns: 3,
   stroke: none,
   align: (auto,auto,auto,),
+  row-gutter: 2pt,
   [Appamādo], [→], [amatapadaṁ],
   [_masc.nom.sg._], [], [_nt.nom.sg._],
   [a diligência], [], [é o caminho para o imortal (_amata_) (_pada_)],
@@ -1204,8 +1212,6 @@ _Ariyasāvako buddhe aveccappasādena samannāgato hoti..._ (DN 16) \ // anki: f
 (Quando) um discípulo dos nobres está dotado de confiança verificada no Buda... // anki: back
 
 ]
-
-#pagebreak()
 
 === Vocabulário
 

@@ -44,9 +44,7 @@ block[
 - *Kmen:* Výsledný tvar kořene spojeného s příponou; je funkčním základem pro skloňování.
 - *Deklinace:* Proces přidávání pádových koncovek ke kmeni pro vyjádření jeho gramatického vztahu k ostatním slovům (rod, číslo a pád).
 
-Zkratky:
-
-_adj_ = přídavné jméno, _ind_ = nesklonné, _pp_ = příčestí minulé, _pron_ = zájmeno
+Zkratky: _adj_ = přídavné jméno, _ind_ = nesklonné, _pp_ = příčestí minulé, _pron_ = zájmeno
 
 #pagebreak()
 

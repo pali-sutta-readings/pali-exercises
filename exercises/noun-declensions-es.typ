@@ -44,9 +44,7 @@ block[
 - *Raíz temática:* La forma resultante de la raíz combinada con un sufijo; es la base funcional para la flexión.
 - *Declinación:* El proceso de añadir terminaciones de caso a una raíz temática para indicar su relación gramatical con otras palabras (género, número y caso).
 
-Abreviaturas:
-
-_adj_ = adjetivo, _ind_ = indeclinable, _pp_ = participio pasado, _pron_ = pronombre
+Abreviaturas: _adj_ = adjetivo, _ind_ = indeclinable, _pp_ = participio pasado, _pron_ = pronombre
 
 #pagebreak()
 
@@ -975,6 +973,7 @@ Le hago esta pregunta al Ven. Nārada.
 // anki: vocabtable
 #table(
   columns: 2,
+  row-gutter: 2pt,
   [#underline(offset: 2.25pt)[#B[Nombres]]], [],
   [#strong[asesa]], [#emph[\(adj)] completo; total; \ sin residuo],
   [#strong[tveva]], [#emph[\(sandhi)] sin embargo; pero; #strong[\[tu + eva\]]],
@@ -1001,6 +1000,7 @@ Le hago esta pregunta al Ven. Nārada.
 // anki: vocabtable
 #table(
   columns: 2,
+  row-gutter: 2pt,
   [#strong[pāpa]], [#emph[\(masc)] malhechor; criminal],
   [#strong[samaṇa]], [#emph[\(masc)] asceta; renunciante; monje],
   [#strong[upāsaka]], [#emph[\(masc)] discípulo laico; devoto laico],
@@ -1133,7 +1133,7 @@ El *Genitivo* expresa posesión, relación o pertenencia: *"¿De quién? ¿De qu
   columns: 2,
   [Iti Kassapassa patto.], [Este es el cuenco de Kassapa.],
   [Ācariyassa sisso dhammaṁ suṇāti.], [El estudiante del maestro escucha el Dhamma.],
-  [Apārutā tesaṁ amatassa dvārā], [Abiertas para ellos están las puertas de lo inmortal (Mv, DN 14)],
+  [Apārutā tesaṁ amatassa dvārā (Mv, DN 14)], [Abiertas para ellos están las puertas de lo inmortal],
   [Anuttaraṁ puññakkhettaṁ lokassa. (cántico)], [Un campo de mérito insuperable del mundo.],
 )
 
@@ -1211,8 +1211,6 @@ _Ariyasāvako buddhe aveccappasādena samannāgato hoti..._ (DN 16) \ // anki: f
 (Cuando) un discípulo de los nobles está dotado de confianza verificada en el Buddha... // anki: back
 
 ]
-
-#pagebreak()
 
 === Vocabulario
 

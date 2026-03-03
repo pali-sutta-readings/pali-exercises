@@ -44,9 +44,7 @@ block[
 - *Tema:* La forma risultante dalla radice combinata con un suffisso; è la base funzionale per la flessione.
 - *Declinazione:* Il processo di aggiunta delle desinenze dei casi a un tema per indicare la sua relazione grammaticale con le altre parole (genere, numero e caso).
 
-Abbreviazioni:
-
-_adj_ = aggettivo, _ind_ = indeclinabile, _pp_ = participio passato, _pron_ = pronome
+Abbreviazioni: _adj_ = aggettivo, _ind_ = indeclinabile, _pp_ = participio passato, _pron_ = pronome
 
 #pagebreak()
 
