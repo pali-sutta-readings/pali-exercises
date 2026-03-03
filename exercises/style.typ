@@ -80,7 +80,7 @@
   content
 }
 
-#let answerkey = true
+#let answerkey = lower(sys.inputs.at("answerkey", default: "true")) == "true"
 
 // Custom table of contents with Thai title
 // Shows level-1 and level-2 headings only
