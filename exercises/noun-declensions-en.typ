@@ -1174,9 +1174,15 @@ At one time the Blessed One was staying at Sāvatthī, at Jeta's Grove, Anāthap
 _Bhikkhu ... citte cittānupassī viharati_ \
 // anki: front-end-back-start
 A bhikkhu remains (_viharati_) watching mental experiences (_cittānupassī_) (in) the mind (_citte_), \
+// anki: back-end
+// anki: front-start
 _ātāpī sampajāno satimā_ \
+// anki: front-end-back-start
 ardent, fully aware and mindful, \
+// anki: back-end
+// anki: front-start
 _vineyya loke abhijjhādomanassaṁ._ \
+// anki: front-end-back-start
 putting aside greed and distress in the world. (DN 22)
 // anki: back-end
 
