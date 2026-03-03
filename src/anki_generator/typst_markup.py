@@ -124,9 +124,14 @@ def cleanup_typst(text: str) -> str:
     """
     result = text
 
-    # Remove trailing backslash (line continuation)
-    result = re.sub(r'\s*\\$', '', result)
-    result = re.sub(r'\s*\\\s*$', '', result)
+    # Convert backslash + newline to <br>
+    result = re.sub(r'\\\s*\n', '<br>', result)
+
+    # Convert trailing backslash (no newline after) to <br>
+    result = re.sub(r'\s*\\$', '<br>', result, flags=re.MULTILINE)
+
+    # Convert middle backslash (followed by non-whitespace) to <br>
+    result = re.sub(r'\s*\\\s+(?=\S)', '<br>', result)
 
     # Remove #h(...) horizontal space
     result = re.sub(r'#h\s*\([^)]*\)', '', result)
@@ -140,8 +145,9 @@ def cleanup_typst(text: str) -> str:
     # Remove #set enum(...)
     result = re.sub(r'#set\s+enum\s*\([^)]*\)', '', result)
 
-    # Remove list marker at start of line
+    # Remove list marker at start of line (+ or numbered)
     result = re.sub(r'^\s*\+\s*', '', result)
+    result = re.sub(r'^\s*\d+\.\s*', '', result, flags=re.MULTILINE)
 
     # Remove #box[...] -> keep content
     result = re.sub(r'#box\[([^\]]*)\]', r'\1', result)
@@ -155,6 +161,9 @@ def cleanup_typst(text: str) -> str:
 
     # Clean up multiple spaces
     result = re.sub(r'  +', ' ', result)
+
+    # Strip trailing <br> (when backslash was at end of content)
+    result = re.sub(r'<br>\s*$', '', result)
 
     return result.strip()
 

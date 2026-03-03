@@ -141,7 +141,7 @@ class TestTypstToHtml:
 class TestCleanupTypst:
     """Tests for cleanup_typst function."""
 
-    def test_removes_trailing_backslash(self):
+    def test_strips_trailing_backslash(self):
         text = "Line with backslash \\"
         assert cleanup_typst(text) == "Line with backslash"
 
@@ -194,7 +194,7 @@ class TestProcessCardText:
         result = process_card_text(text)
         assert "Naro gāmaṁ gacchati." in result
         assert "// anki" not in result
-        assert "\\" not in result
+        assert "<br>" not in result
 
     def test_processes_back_fillin_line(self):
         text = '  #fillin(6cm, "The man goes.") // anki: back'
