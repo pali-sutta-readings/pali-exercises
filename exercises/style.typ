@@ -101,6 +101,14 @@
       "Índice"
     } else if (language == "it") {
       "Indice"
+    } else if (language == "fr") {
+      "Table des matières"
+    } else if (language == "si") {
+      "Kazalo"
+    } else if (language == "de") {
+      "Inhaltsverzeichnis"
+    } else if (language == "hu") {
+      "Tartalomjegyzék"
     } else if (language == "es") {
       "Índice"
     } else if (language == "ca") {
@@ -235,6 +243,14 @@
       "Chave de Respostas"
     } else if (language == "it") {
       "Risposte Esatte"
+    } else if (language == "fr") {
+      "Corrigé"
+    } else if (language == "si") {
+      "Rešitve"
+    } else if (language == "de") {
+      "Lösungsschlüssel"
+    } else if (language == "hu") {
+      "Megoldókulcs"
     } else if (language == "es") {
       "Clave de Respuestas"
     } else if (language == "ca") {
@@ -263,6 +279,51 @@
     v(1em)
 
     [#table-of-contents(language: language)]
+
+    [#v(1fr)]
+
+    let disclaimer-note-text = if (language == "en") {
+      [#emph[The translation from the English text was made by Claude AI.]]
+    } else if (language == "pt") {
+      [#emph[A tradução do texto em inglês foi feita por Claude AI.]]
+    } else if (language == "it") {
+      [#emph[La traduzione dal testo inglese è stata realizzata da Claude AI.]]
+    } else if (language == "fr") {
+      [#emph[La traduction du texte anglais a été réalisée par Claude AI.]]
+    } else if (language == "si") {
+      [#emph[Prevod iz angleškega besedila je pripravil Claude AI.]]
+    } else if (language == "de") {
+      [#emph[Die Übersetzung aus dem englischen Text wurde von Claude AI erstellt.]]
+    } else if (language == "hu") {
+      [#emph[Az angol szöveg fordítását a Claude AI készítette.]]
+    } else if (language == "es") {
+      [#emph[La traducción del texto en inglés fue realizada por Claude AI.]]
+    } else if (language == "ca") {
+      [#emph[La traducció del text en anglès ha estat realitzada per Claude AI.]]
+    } else {
+      []
+    }
+
+    // No need to display the disclaimer for the original English.
+    if (language != "en") {
+      block[
+        #set text(font: document-style.fonts.body, size: 12pt)
+        #align(center)[
+          #disclaimer-note-text
+        ]
+      ]
+
+      v(10mm)
+    }
+
+    [
+      #underline(offset: 4pt)[#text(
+        font: document-style.fonts.body,
+        size: document-style.sizes.body,
+      )[
+          #link("https://github.com/pali-sutta-readings/pali-exercises/releases")
+      ]]
+    ]
   }
 
   // ============================================================================
