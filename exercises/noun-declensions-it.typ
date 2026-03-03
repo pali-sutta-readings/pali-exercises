@@ -1176,9 +1176,15 @@ Una volta il Beato dimorava a Sāvatthī, nel Boschetto di Jeta, nel monastero d
 _Bhikkhu ... citte cittānupassī viharati_ \
 // anki: front-end-back-start
 Un bhikkhu dimora (_viharati_) contemplando le esperienze mentali (_cittānupassī_) nella mente (_citte_), \
+// anki: back-end
+// anki: front-start
 _ātāpī sampajāno satimā_ \
+// anki: front-end-back-start
 ardente, pienamente consapevole e attento, \
+// anki: back-end
+// anki: front-start
 _vineyya loke abhijjhādomanassaṁ._ \
+// anki: front-end-back-start
 mettendo da parte avidità e angoscia nel mondo. (DN 22)
 // anki: back-end
 

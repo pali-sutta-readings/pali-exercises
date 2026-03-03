@@ -1189,9 +1189,15 @@ En un temps, le Bienheureux séjournait à Sāvatthī, au Bois de Jeta, dans le 
 _Bhikkhu ... citte cittānupassī viharati_ \
 // anki: front-end-back-start
 Un bhikkhu demeure (_viharati_) observant les expériences mentales (_cittānupassī_) (dans) l'esprit (_citte_), \
+// anki: back-end
+// anki: front-start
 _ātāpī sampajāno satimā_ \
+// anki: front-end-back-start
 ardent, pleinement conscient et attentif, \
+// anki: back-end
+// anki: front-start
 _vineyya loke abhijjhādomanassaṁ._ \
+// anki: front-end-back-start
 mettant de côté l'avidité et la détresse dans le monde. (DN 22)
 // anki: back-end
 

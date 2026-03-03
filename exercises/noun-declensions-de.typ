@@ -1190,9 +1190,15 @@ Einst weilte der Erhabene bei Sāvatthī, im Jeta-Hain, in Anāthapiṇḍikas K
 _Bhikkhu ... citte cittānupassī viharati_ \
 // anki: front-end-back-start
 Ein Mönch verweilt (_viharati_), Geisteszustände betrachtend (_cittānupassī_) (im) Geist (_citte_), \
+// anki: back-end
+// anki: front-start
 _ātāpī sampajāno satimā_ \
+// anki: front-end-back-start
 eifrig, klar bewusst und achtsam, \
+// anki: back-end
+// anki: front-start
 _vineyya loke abhijjhādomanassaṁ._ \
+// anki: front-end-back-start
 Begierde und Kummer in der Welt ablegend. (DN 22)
 // anki: back-end
 

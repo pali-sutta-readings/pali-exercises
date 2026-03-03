@@ -1176,9 +1176,15 @@ Nekoč je Blaženi prebival v Sāvatthīju, v Jetinem gaju, v Anāthapiṇḍiko
 _Bhikkhu ... citte cittānupassī viharati_ \
 // anki: front-end-back-start
 Menih prebiva (_viharati_) opazujoč duševne izkušnje (_cittānupassī_) (v) umu (_citte_), \
+// anki: back-end
+// anki: front-start
 _ātāpī sampajāno satimā_ \
+// anki: front-end-back-start
 goreč, polno zavedajoč se in pozoren, \
+// anki: back-end
+// anki: front-start
 _vineyya loke abhijjhādomanassaṁ._ \
+// anki: front-end-back-start
 odlagajoč pohlep in žalost na svetu. (DN 22)
 // anki: back-end
 

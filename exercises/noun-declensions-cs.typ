@@ -1178,9 +1178,15 @@ Jednou Vznešený přebýval v Sávatthí, v Džétově háji, v Anáthapindikov
 _Bhikkhu ... citte cittānupassī viharati_ \
 // anki: front-end-back-start
 Mnich prodlévá (_viharati_) pozorováním duševních stavů (_cittānupassī_) v mysli (_citte_), \
+// anki: back-end
+// anki: front-start
 _ātāpī sampajāno satimā_ \
+// anki: front-end-back-start
 horlivý, jasně chápající a bdělý, \
+// anki: back-end
+// anki: front-start
 _vineyya loke abhijjhādomanassaṁ._ \
+// anki: front-end-back-start
 odloživ chtivost a zármutek ve světě. (DN 22)
 // anki: back-end
 

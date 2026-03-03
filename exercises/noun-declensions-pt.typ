@@ -1173,9 +1173,15 @@ Certa vez o Abençoado estava em Sāvatthī, no Bosque de Jeta, no mosteiro de A
 _Bhikkhu ... citte cittānupassī viharati_ \
 // anki: front-end-back-start
 Um bhikkhu permanece (_viharati_) observando experiências mentais (_cittānupassī_) na mente (_citte_), \
+// anki: back-end
+// anki: front-start
 _ātāpī sampajāno satimā_ \
+// anki: front-end-back-start
 ardente, plenamente consciente e atento, \
+// anki: back-end
+// anki: front-start
 _vineyya loke abhijjhādomanassaṁ._ \
+// anki: front-end-back-start
 abandonando a ganância e a angústia no mundo. (DN 22)
 // anki: back-end
 

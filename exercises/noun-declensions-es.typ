@@ -1180,9 +1180,15 @@ En una ocasión el Bienaventurado moraba en Sāvatthī, en la Arboleda de Jeta, 
 _Bhikkhu ... citte cittānupassī viharati_ \
 // anki: front-end-back-start
 Un bhikkhu permanece (_viharati_) observando experiencias mentales (_cittānupassī_) en la mente (_citte_), \
+// anki: back-end
+// anki: front-start
 _ātāpī sampajāno satimā_ \
+// anki: front-end-back-start
 ardiente, plenamente consciente y atento, \
+// anki: back-end
+// anki: front-start
 _vineyya loke abhijjhādomanassaṁ._ \
+// anki: front-end-back-start
 abandonando la codicia y la angustia en el mundo. (DN 22)
 // anki: back-end
 
