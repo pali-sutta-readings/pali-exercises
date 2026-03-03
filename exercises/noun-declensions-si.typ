@@ -1399,29 +1399,29 @@ Phasso, bhikkhave, kammānaṁ nidānasambhavo. \ // anki: front
 
 #grid(columns: (1fr, 1fr), block[
 
-Appamādo amatapadaṁ, \ // anki: front
+1. Appamādo amatapadaṁ, \ // anki: front
 #fillin(7cm, "Prizadevnost je pot k nesmrtnemu,") // anki: back
 
-pamādo maccuno padaṁ; \ // anki: front
+2. pamādo maccuno padaṁ; \ // anki: front
 #fillin(7cm, "nepazljivost je pot smrti;") // anki: back
 
-Appamattā na mīyanti, \ // anki: front
+3. Appamattā na mīyanti, \ // anki: front
 #fillin(7cm, "prizadevni ne umrejo,") // anki: back
 
-ye pamattā yathā matā. \ // anki: front
+4. ye pamattā yathā matā. \ // anki: front
 #fillin(7cm, "nepazljivi so kot mrtvi.") // anki: back
 
 ], block[
-Evaṁ visesato ñatvā, \ // anki: front
+5. Evaṁ visesato ñatvā, \ // anki: front
 #fillin(7cm, "Ko so to jasno spoznali,") // anki: back
 
-appamādamhi paṇḍitā; \ // anki: front
+6. appamādamhi paṇḍitā; \ // anki: front
 #fillin(7cm, "modreci (se veselijo) prizadevnosti;") // anki: back
 
-Appamāde pamodanti, \ // anki: front
+7. Appamāde pamodanti, \ // anki: front
 #fillin(7cm, "se veselijo prizadevnosti,") // anki: back
 
-ariyānaṁ gocare ratā. \ // anki: front
+8. ariyānaṁ gocare ratā. \ // anki: front
 #fillin(7cm, "predani/navdušeni nad področjem plemenitih.") // anki: back
 
 ])

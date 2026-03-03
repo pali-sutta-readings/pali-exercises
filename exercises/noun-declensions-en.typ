@@ -1397,29 +1397,29 @@ Phasso, bhikkhave, kammānaṁ nidānasambhavo. \ // anki: front
 
 #grid(columns: (1fr, 1fr), block[
 
-Appamādo amatapadaṁ, \ // anki: front
+1. Appamādo amatapadaṁ, \ // anki: front
 #fillin(7cm, "Heedfulness is the path to the deathless,") // anki: back
 
-pamādo maccuno padaṁ; \ // anki: front
+2. pamādo maccuno padaṁ; \ // anki: front
 #fillin(7cm, "heedlessness is the path of death;") // anki: back
 
-Appamattā na mīyanti, \ // anki: front
+3. Appamattā na mīyanti, \ // anki: front
 #fillin(7cm, "the heedful do not die,") // anki: back
 
-ye pamattā yathā matā. \ // anki: front
+4. ye pamattā yathā matā. \ // anki: front
 #fillin(7cm, "the heedless are as if dead.") // anki: back
 
 ], block[
-Evaṁ visesato ñatvā, \ // anki: front
+5. Evaṁ visesato ñatvā, \ // anki: front
 #fillin(7cm, "Having clearly understood this,") // anki: back
 
-appamādamhi paṇḍitā; \ // anki: front
+6. appamādamhi paṇḍitā; \ // anki: front
 #fillin(7cm, "the wise (delight) in heedfulness;") // anki: back
 
-Appamāde pamodanti, \ // anki: front
+7. Appamāde pamodanti, \ // anki: front
 #fillin(7cm, "they rejoice in heedfulness,") // anki: back
 
-ariyānaṁ gocare ratā. \ // anki: front
+8. ariyānaṁ gocare ratā. \ // anki: front
 #fillin(7cm, "devoted to/delighted with the domain of the noble ones.") // anki: back
   
 ])

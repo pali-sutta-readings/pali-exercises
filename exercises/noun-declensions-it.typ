@@ -1405,29 +1405,29 @@ Phasso, bhikkhave, kammānaṁ nidānasambhavo. \ // anki: front
 
 #grid(columns: (1fr, 1fr), block[
 
-Appamādo amatapadaṁ, \ // anki: front
+1. Appamādo amatapadaṁ, \ // anki: front
 #fillin(7cm, "La vigilanza è il sentiero verso l'immortale,") // anki: back
 
-pamādo maccuno padaṁ; \ // anki: front
+2. pamādo maccuno padaṁ; \ // anki: front
 #fillin(7cm, "la negligenza è il sentiero della morte;") // anki: back
 
-Appamattā na mīyanti, \ // anki: front
+3. Appamattā na mīyanti, \ // anki: front
 #fillin(7cm, "i vigili non muoiono,") // anki: back
 
-ye pamattā yathā matā. \ // anki: front
+4. ye pamattā yathā matā. \ // anki: front
 #fillin(7cm, "i negligenti sono come morti.") // anki: back
 
 ], block[
-Evaṁ visesato ñatvā, \ // anki: front
+5. Evaṁ visesato ñatvā, \ // anki: front
 #fillin(7cm, "Avendo compreso chiaramente ciò,") // anki: back
 
-appamādamhi paṇḍitā; \ // anki: front
+6. appamādamhi paṇḍitā; \ // anki: front
 #fillin(7cm, "i saggi (si rallegrano) nella vigilanza;") // anki: back
 
-Appamāde pamodanti, \ // anki: front
+7. Appamāde pamodanti, \ // anki: front
 #fillin(7cm, "si rallegrano nella vigilanza,") // anki: back
 
-ariyānaṁ gocare ratā. \ // anki: front
+8. ariyānaṁ gocare ratā. \ // anki: front
 #fillin(7cm, "devoti al/compiaciuti del dominio dei nobili.") // anki: back
 
 ])

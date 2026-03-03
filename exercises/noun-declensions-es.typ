@@ -1403,29 +1403,29 @@ Phasso, bhikkhave, kammānaṁ nidānasambhavo. \ // anki: front
 
 #grid(columns: (1fr, 1fr), block[
 
-Appamādo amatapadaṁ, \ // anki: front
+1. Appamādo amatapadaṁ, \ // anki: front
 #fillin(7cm, "La diligencia es el sendero de lo inmortal,") // anki: back
 
-pamādo maccuno padaṁ; \ // anki: front
+2. pamādo maccuno padaṁ; \ // anki: front
 #fillin(7cm, "la negligencia es el sendero de la muerte;") // anki: back
 
-Appamattā na mīyanti, \ // anki: front
+3. Appamattā na mīyanti, \ // anki: front
 #fillin(7cm, "los diligentes no mueren,") // anki: back
 
-ye pamattā yathā matā. \ // anki: front
+4. ye pamattā yathā matā. \ // anki: front
 #fillin(7cm, "los negligentes son como muertos.") // anki: back
 
 ], block[
-Evaṁ visesato ñatvā, \ // anki: front
+5. Evaṁ visesato ñatvā, \ // anki: front
 #fillin(7cm, "Habiendo comprendido esto claramente,") // anki: back
 
-appamādamhi paṇḍitā; \ // anki: front
+6. appamādamhi paṇḍitā; \ // anki: front
 #fillin(7cm, "los sabios (se deleitan) en la diligencia;") // anki: back
 
-Appamāde pamodanti, \ // anki: front
+7. Appamāde pamodanti, \ // anki: front
 #fillin(7cm, "se regocijan en la diligencia,") // anki: back
 
-ariyānaṁ gocare ratā. \ // anki: front
+8. ariyānaṁ gocare ratā. \ // anki: front
 #fillin(7cm, "dedicados al/encantados con el dominio de los nobles.") // anki: back
 
 ])
