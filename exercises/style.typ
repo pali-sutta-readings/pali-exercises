@@ -301,7 +301,7 @@
     } else if (language == "ca") {
       [#emph[La traducció del text en anglès ha estat realitzada per Claude AI.]]
     } else {
-      []
+      [#emph[The translation from the English text was made by Claude AI.]]
     }
 
     // No need to display the disclaimer for the original English.
