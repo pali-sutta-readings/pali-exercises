@@ -1,4 +1,52 @@
 // ============================================================================
+// LANGUAGE STRINGS
+// ============================================================================
+
+#let language-strings = (
+  "contents": (
+    "en": "Contents",
+    "pt": "Índice",
+    "it": "Indice",
+    "fr": "Table des matières",
+    "si": "Kazalo",
+    "de": "Inhaltsverzeichnis",
+    "hu": "Tartalomjegyzék",
+    "es": "Índice",
+    "ca": "Índex",
+  ),
+  "answer-key": (
+    "en": "Answer Key",
+    "pt": "Chave de Respostas",
+    "it": "Risposte Esatte",
+    "fr": "Corrigé",
+    "si": "Rešitve",
+    "de": "Lösungsschlüssel",
+    "hu": "Megoldókulcs",
+    "es": "Clave de Respuestas",
+    "ca": "Solucions",
+  ),
+  "disclaimer-note-text": (
+    "en": [#emph[The translation from the English text was made by Claude AI.]],
+    "pt": [#emph[A tradução do texto em inglês foi feita por Claude AI.]],
+    "it": [#emph[La traduzione dal testo inglese è stata realizzata da Claude AI.]],
+    "fr": [#emph[La traduction du texte anglais a été réalisée par Claude AI.]],
+    "si": [#emph[Prevod iz angleškega besedila je pripravil Claude AI.]],
+    "de": [#emph[Die Übersetzung aus dem englischen Text wurde von Claude AI erstellt.]],
+    "hu": [#emph[Az angol szöveg fordítását a Claude AI készítette.]],
+    "es": [#emph[La traducción del texto en inglés fue realizada por Claude AI.]],
+    "ca": [#emph[La traducció del text en anglès ha estat realitzada per Claude AI.]],
+  ),
+)
+
+#let get-lang-string(key, lang) = {
+  if language-strings.keys().contains(key) {
+    let string-dict = language-strings.at(key)
+    return string-dict.at(lang, default: string-dict.at("en"))
+  }
+  none
+}
+
+// ============================================================================
 // TYPOGRAPHY CONFIGURATION
 // ============================================================================
 
@@ -95,29 +143,7 @@
     weight: "regular",
   )
 
-    let contents-text = if (language == "en") {
-      "Contents"
-    } else if (language == "pt") {
-      "Índice"
-    } else if (language == "it") {
-      "Indice"
-    } else if (language == "fr") {
-      "Table des matières"
-    } else if (language == "si") {
-      "Kazalo"
-    } else if (language == "de") {
-      "Inhaltsverzeichnis"
-    } else if (language == "hu") {
-      "Tartalomjegyzék"
-    } else if (language == "es") {
-      "Índice"
-    } else if (language == "ca") {
-      "Índex"
-    } else {
-      "Contents"
-    }
-
-  [#contents-text]
+  [#get-lang-string("contents", language)]
 
   v(2em)
 
@@ -237,28 +263,6 @@
       v(1em)
     }
 
-    let answer-key-text = if (language == "en") {
-      "Answer Key"
-    } else if (language == "pt") {
-      "Chave de Respostas"
-    } else if (language == "it") {
-      "Risposte Esatte"
-    } else if (language == "fr") {
-      "Corrigé"
-    } else if (language == "si") {
-      "Rešitve"
-    } else if (language == "de") {
-      "Lösungsschlüssel"
-    } else if (language == "hu") {
-      "Megoldókulcs"
-    } else if (language == "es") {
-      "Clave de Respuestas"
-    } else if (language == "ca") {
-      "Solucions"
-    } else {
-      "Answer Key"
-    }
-
     // v(1.5cm)
     // line(length: 40%, stroke: 0.5pt + luma(180))
     // v(0.4cm)
@@ -271,7 +275,7 @@
           weight: "bold",
           spacing: 4pt,
           tracking: 1pt,
-        )[#upper[#answer-key-text]]
+        )[#upper[#get-lang-string("answer-key", language)]]
       }
     ]
 
@@ -282,34 +286,12 @@
 
     [#v(1fr)]
 
-    let disclaimer-note-text = if (language == "en") {
-      [#emph[The translation from the English text was made by Claude AI.]]
-    } else if (language == "pt") {
-      [#emph[A tradução do texto em inglês foi feita por Claude AI.]]
-    } else if (language == "it") {
-      [#emph[La traduzione dal testo inglese è stata realizzata da Claude AI.]]
-    } else if (language == "fr") {
-      [#emph[La traduction du texte anglais a été réalisée par Claude AI.]]
-    } else if (language == "si") {
-      [#emph[Prevod iz angleškega besedila je pripravil Claude AI.]]
-    } else if (language == "de") {
-      [#emph[Die Übersetzung aus dem englischen Text wurde von Claude AI erstellt.]]
-    } else if (language == "hu") {
-      [#emph[Az angol szöveg fordítását a Claude AI készítette.]]
-    } else if (language == "es") {
-      [#emph[La traducción del texto en inglés fue realizada por Claude AI.]]
-    } else if (language == "ca") {
-      [#emph[La traducció del text en anglès ha estat realitzada per Claude AI.]]
-    } else {
-      [#emph[The translation from the English text was made by Claude AI.]]
-    }
-
     // No need to display the disclaimer for the original English.
     if (language != "en") {
       block[
         #set text(font: document-style.fonts.body, size: 12pt)
         #align(center)[
-          #disclaimer-note-text
+          #get-lang-string("disclaimer-note-text", language)
         ]
       ]
 
