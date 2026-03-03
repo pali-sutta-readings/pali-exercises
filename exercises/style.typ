@@ -13,6 +13,7 @@
     "hu": "Tartalomjegyzék",
     "es": "Índice",
     "ca": "Índex",
+    "cs": "Obsah",
   ),
   "answer-key": (
     "en": "Answer Key",
@@ -24,6 +25,7 @@
     "hu": "Megoldókulcs",
     "es": "Clave de Respuestas",
     "ca": "Solucions",
+    "cs": "Klíč odpovědí",
   ),
   "disclaimer-note-text": (
     "en": [#emph[The translation from the English text was made by Claude AI.]],
@@ -35,6 +37,7 @@
     "hu": [#emph[Az angol szöveg fordítását a Claude AI készítette.]],
     "es": [#emph[La traducción del texto en inglés fue realizada por Claude AI.]],
     "ca": [#emph[La traducció del text en anglès ha estat realitzada per Claude AI.]],
+    "cs": [#emph[Překlad z anglického textu byl vytvořen pomocí Claude AI.]],
   ),
 )
 
