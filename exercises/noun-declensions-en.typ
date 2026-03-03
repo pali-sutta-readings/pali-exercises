@@ -1125,7 +1125,7 @@ The *Genitive* expresses possession, relation, or belonging: *"Of whom? Of what?
   columns: 2,
   [Iti Kassapassa patto.], [This is Kassapa's bowl.],
   [Ācariyassa sisso dhammaṁ suṇāti.], [The teacher's student listens to the Dhamma.],
-  [Apārutā tesaṁ amatassa dvārā], [Open for them are the doors of the deathless (Mv, DN 14)],
+  [Apārutā tesaṁ amatassa dvārā (Mv, DN 14)], [Open for them are the doors of the deathless],
   [Anuttaraṁ puññakkhettaṁ lokassa. (chanting)], [An unsurpassed field of merit of the world.],
 )
 
