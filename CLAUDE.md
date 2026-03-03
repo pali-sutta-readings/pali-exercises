@@ -8,15 +8,28 @@ This folder contains tools for creating graduated Pāli language study material 
 
 ```
 pali-exercises/
+├── AGENTS.md              ← you are here (symlink to CLAUDE.md)
 ├── CLAUDE.md              ← you are here
 ├── README.org
 ├── download_resources.sh  ← fetches reference material into resources/
+├── pyproject.toml         ← Python project (Anki generator)
+├── docs/                  ← feature documentation
 ├── resources/             ← downloaded Pāli reference materials
 │   └── grammar/           ← grammar references, declension tables, verb conjugation
-└── exercises/             ← exercise .typ files and compiled PDFs
-    ├── style.typ
-    └── noun-declensions.typ
+├── exercises/             ← exercise .typ files and compiled PDFs
+│   ├── style.typ
+│   └── noun-declensions.typ
+└── tests/
+    ├── unit/              ← unit tests
+    ├── integration/       ← integration tests (requires Anki + AnkiConnect)
+    └── data/              ← test data files
 ```
+
+## Anki Deck Generator
+
+This project includes a Python tool that generates Anki flashcard decks from annotated Typst exercise files.
+
+See `docs/anki-deck-generator.org` for further description.
 
 ## How to generate new exercises
 
