@@ -1,4 +1,5 @@
 exercises/*.pdf
+build/
 
 # Emacs temp files
 auto/
