@@ -614,6 +614,8 @@ _Kammaṁ khettaṁ viññāṇaṁ bījaṁ taṇhā sneho._ (AN 3.76)
 _Appamādo amatapadaṁ_ \
 _pamādo maccuno padaṁ_ (Dhp 21) \
 
+#v(-0.5em)
+
 #table(
   columns: 3,
   stroke: none,
@@ -1183,6 +1185,8 @@ mettendo da parte avidità e angoscia nel mondo. (DN 22)
 _Kiñca loke piyarūpaṁ sātarūpaṁ?_ (DN 22) \ // anki: front
 E cosa nel mondo è piacevole e gradevole? // anki: back
 
+#v(-0.5em)
+
 // anki: front-start
 _Appamādo ca dhammesu_ (Snp 2.4) \
 // anki: front-end-back-start
@@ -1190,8 +1194,12 @@ essere diligenti nelle qualità mentali (Aj Thanissaro) \
 Diligenza nelle buone qualità (Aj Sujato)
 // anki: back-end
 
+#v(-0.5em)
+
 _Gāme araññe sukha-dukkha-phuṭṭho_ (Ud 2.4) \ // anki: front
 Nel villaggio o nella foresta, quando a contatto con piacere o dolore // anki: back
+
+#v(-0.5em)
 
 _Ariyasāvako buddhe aveccappasādena samannāgato hoti..._ (DN 16) \ // anki: front
 (Quando) un discepolo dei nobili è dotato di fiducia verificata nel Buddha... // anki: back
