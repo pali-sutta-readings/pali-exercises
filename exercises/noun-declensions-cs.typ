@@ -1,7 +1,7 @@
 #import "style.typ": document-setup, table-of-contents, quote, tblfill, B, E, pali, red, Bred, fillin, note
 
 #show: document-setup.with(
-  title: "Cvičení z pálí",
+  title: "Cvičení z Pálí",
   language: "cs",
 )
 
