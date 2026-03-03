@@ -19,6 +19,8 @@ Primero escriba solo las dos filas de los nombres masculinos en -a: los casos no
 
 Luego practique las oraciones de ejemplo. Cuando comience la nueva sección, practique escribir la tabla de declinación de nuevo, ahora con dos casos más (instrumental y dativo), y así sucesivamente.
 
+Incluso al leer los ejercicios en PDF, escribir las soluciones a mano en papel forma recuerdos más fuertes que escribir a máquina.
+
 El orden de los casos es tradicional. En los libros de gramática se denominan 1.º caso, 2.º caso, etc. Para entrenar el reconocimiento habitual, es conveniente practicarlos en ese orden.
 ],
 block[

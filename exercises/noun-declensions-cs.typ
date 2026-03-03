@@ -19,6 +19,8 @@ Nejprve napište pouze dva řádky mužského rodu s kmenem na -a: nominativ a a
 
 Poté procvičujte příkladové věty. Když začne nová sekce, znovu napište deklinační tabulku, tentokrát se dvěma dalšími pády (instrumentál a dativ) atd.
 
+I když čtete cvičení z PDF, ruční psaní řešení na papír vytváří silnější paměťové stopy než psaní na klávesnici.
+
 Pořadí pádů je tradiční. V gramatikách se nazývají 1. pád, 2. pád atd. Pro trénování automatického rozpoznávání je dobré procvičovat je v tomto pořadí.
 ],
 block[

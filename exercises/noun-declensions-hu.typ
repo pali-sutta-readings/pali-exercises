@@ -19,6 +19,8 @@ Először csak a hímnemű -a tövű főnevek két sorát írd le: az alanyesete
 
 Ezután gyakorold a példamondatokat. Amikor az új rész elkezdődik, ismét gyakorold a ragozási táblázat leírását, most már két további esettel (eszközhatározó eset és részeshatározó eset), és így tovább.
 
+Még ha PDF-ből olvasod is a gyakorlatokat, a megoldások kézzel papírra írása erősebb emlékeket képez, mint a gépelés.
+
 Az esetek sorrendje hagyományos. A nyelvtankönyvekben 1. eset, 2. eset stb. néven szerepelnek. A begyakorlás érdekében jó ebben a sorrendben gyakorolni őket.
 ],
 block[

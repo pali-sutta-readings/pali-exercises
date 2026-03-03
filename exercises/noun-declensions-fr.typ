@@ -19,6 +19,8 @@ Commencez par écrire uniquement les deux lignes des noms masculins à thème en
 
 Puis entraînez-vous avec les phrases d'exemple. Lorsqu'une nouvelle section commence, entraînez-vous à écrire à nouveau la table de déclinaison, cette fois avec deux cas supplémentaires (instrumental et datif), et ainsi de suite.
 
+Même en lisant les exercices en PDF, écrire les solutions à la main sur papier forme des souvenirs plus durables que la saisie au clavier.
+
 L'ordre des cas est traditionnel. Dans les grammaires, ils sont appelés 1er cas, 2e cas, etc. Pour entraîner la reconnaissance automatique, il est bon de les pratiquer dans cet ordre.
 ],
 block[

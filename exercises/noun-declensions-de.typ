@@ -19,6 +19,8 @@ Schreiben Sie zunächst nur die zwei Zeilen der maskulinen -a-Stamm-Nomen: Nomin
 
 Dann üben Sie die Beispielsätze. Wenn der neue Abschnitt beginnt, üben Sie erneut das Schreiben der Deklinationstabelle, jetzt mit zwei weiteren Fällen (Instrumental und Dativ), und so weiter.
 
+Auch wenn Sie die Übungen als PDF lesen, bildet das handschriftliche Aufschreiben der Lösungen auf Papier stärkere Erinnerungen als das Tippen.
+
 Die Reihenfolge der Fälle ist traditionell. In Grammatikbüchern werden sie als 1. Fall, 2. Fall usw. bezeichnet. Für das Training der gewohnheitsmäßigen Erkennung ist es gut, sie in dieser Reihenfolge zu üben.
 ],
 block[

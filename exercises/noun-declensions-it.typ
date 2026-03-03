@@ -19,6 +19,8 @@ Prima scrivere solo le due righe dei nomi maschili con tema in -a: i casi nomina
 
 Poi esercitarsi con le frasi di esempio. Quando inizia la nuova sezione, esercitarsi a scrivere di nuovo la tabella di declinazione, ora con altri due casi (strumentale e dativo), e così via.
 
+Anche leggendo gli esercizi in PDF, scrivere le soluzioni a mano su carta forma ricordi più solidi rispetto alla digitazione.
+
 L'ordine dei casi è tradizionale. Nelle grammatiche vengono chiamati 1° caso, 2° caso, ecc. Per allenare il riconoscimento automatico, è utile esercitarsi in quell'ordine.
 ],
 block[

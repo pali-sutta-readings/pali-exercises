@@ -19,6 +19,8 @@ Najprej zapišite samo dve vrstici sklanjatve moških samostalnikov z osnovo na 
 
 Nato vadite primere stavkov. Ko se začne nov razdelek, znova napišite tabelo sklanjanja, tokrat z dvema novima sklonoma (orodnik in dajalnik), in tako naprej.
 
+Tudi ko vaje berete iz PDF-ja, ročno zapisovanje rešitev na papir ustvarja trdnejše spomine kot tipkanje.
+
 Vrstni red sklonov je tradicionalen. V slovnicah jih imenujejo 1. sklon, 2. sklon itd. Za urjenje prepoznavanja je dobro, da jih vadite v tem vrstnem redu.
 ],
 block[

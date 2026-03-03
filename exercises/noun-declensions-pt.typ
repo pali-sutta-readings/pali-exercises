@@ -19,6 +19,8 @@ Primeiro escreva apenas as duas linhas dos nomes masculinos com radical -a: os c
 
 Depois pratique as frases de exemplo. Quando uma nova secção começar, pratique escrever a tabela de declinação novamente, agora com mais dois casos (instrumental e dativo), e assim por diante.
 
+Mesmo ao ler os exercícios em PDF, escrever as soluções à mão no papel forma memórias mais fortes do que digitar.
+
 A ordem dos casos é tradicional. Nas gramáticas são chamados 1.º caso, 2.º caso, etc. Para treinar o reconhecimento habitual, é bom praticá-los nessa ordem.
 ],
 block[
