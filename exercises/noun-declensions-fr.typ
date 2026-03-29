@@ -487,13 +487,13 @@ Dans la strophe ci-dessous, le fait de garder la négation '#B[na]' séparée (a
 + Kena ādittaṁ? Dukkhehi domanassehi upāyāsehi ādittaṁ. (SN 35.28 simpl.) \ // anki: front
   #fillin(15cm, "Par quoi est-ce embrasé ? Par les souffrances, les chagrins, les désespoirs c'est embrasé.") // anki: back
 
-+ Kassapo kālena odanaṁ bhuñjati. (#emph[Kassapo] est un nom propre.) \ // anki: front
++ Kassapo kālena odanaṁ bhuñjati. (#emph[Kassapa] est un nom propre.) \ // anki: front
   #fillin(15cm, "Kassapa mange le riz au bon moment.") // anki: back
 
 + Sīlasampanno asammūḷho kālaṁ karoti. \ // anki: front
   #fillin(15cm, "Celui qui est accompli en vertu meurt sans confusion.") // anki: back
 
-+ Nandiyo sakko bhagavantaṁ upasaṅkamati kālena kālaṁ dassanāya. \ (#emph[Nandiyo] est un nom propre. #emph[Bhagavant] : le Bienheureux.) \ // anki: front
++ Nandiyo sakko bhagavantaṁ upasaṅkamati kālena kālaṁ dassanāya. \ (#emph[Nandiya] est un nom propre. #emph[Bhagavant] : le Bienheureux.) \ // anki: front
   #fillin(15cm, "Nandiyo le Sakya s'approche du Bienheureux de temps en temps pour le voir.") // anki: back
 
 // + Majjhimā paṭipadā tathāgatena abhisambuddhā. \

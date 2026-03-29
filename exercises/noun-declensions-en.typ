@@ -485,13 +485,13 @@ In the stanza below, keeping the negation '#B[na]' separate (instead of using th
 + Kena ādittaṁ? Dukkhehi domanassehi upāyāsehi ādittaṁ. (SN 35.28 simpl.) \ // anki: front
   #fillin(15cm, "By what it is burning? By sufferings, griefs, despairs it is burning.") // anki: back
 
-+ Kassapo kālena odanaṁ bhuñjati. (#emph[Kassapo] is a name.) \ // anki: front
++ Kassapo kālena odanaṁ bhuñjati. (#emph[Kassapa] is a name.) \ // anki: front
   #fillin(15cm, "Kassapa eats rice at the right time.") // anki: back
 
 + Sīlasampanno asammūḷho kālaṁ karoti. \ // anki: front
   #fillin(15cm, "The one accomplished in virtue dies without confusion.") // anki: back
 
-+ Nandiyo sakko bhagavantaṁ upasaṅkamati kālena kālaṁ dassanāya. \ (#emph[Nandiyo] is a name. #emph[Bhagavant]: the Blessed One.) \ // anki: front
++ Nandiyo sakko bhagavantaṁ upasaṅkamati kālena kālaṁ dassanāya. \ (#emph[Nandiya] is a name. #emph[Bhagavant]: the Blessed One.) \ // anki: front
   #fillin(15cm, "Nandiyo the Sakyan approaches the Blessed One from time to time to see him.") // anki: back
 
 // + Majjhimā paṭipadā tathāgatena abhisambuddhā. \

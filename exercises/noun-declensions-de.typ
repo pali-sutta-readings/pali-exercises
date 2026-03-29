@@ -487,13 +487,13 @@ In der folgenden Strophe betont die getrennte Verneinung '#B[na]' (statt der zus
 + Kena ādittaṁ? Dukkhehi domanassehi upāyāsehi ādittaṁ. (SN 35.28 vereinf.) \ // anki: front
   #fillin(15cm, "Wodurch brennt es? Durch Leiden, Kummer, Verzweiflung brennt es.") // anki: back
 
-+ Kassapo kālena odanaṁ bhuñjati. (#emph[Kassapo] ist ein Name.) \ // anki: front
++ Kassapo kālena odanaṁ bhuñjati. (#emph[Kassapa] ist ein Name.) \ // anki: front
   #fillin(15cm, "Kassapa isst zur rechten Zeit Reis.") // anki: back
 
 + Sīlasampanno asammūḷho kālaṁ karoti. \ // anki: front
   #fillin(15cm, "Der in Tugend Vollendete stirbt unverwirrt.") // anki: back
 
-+ Nandiyo sakko bhagavantaṁ upasaṅkamati kālena kālaṁ dassanāya. \ (#emph[Nandiyo] ist ein Name. #emph[Bhagavant]: der Erhabene.) \ // anki: front
++ Nandiyo sakko bhagavantaṁ upasaṅkamati kālena kālaṁ dassanāya. \ (#emph[Nandiya] ist ein Name. #emph[Bhagavant]: der Erhabene.) \ // anki: front
   #fillin(15cm, "Nandiyo der Sakyer nähert sich dem Erhabenen von Zeit zu Zeit, um ihn zu sehen.") // anki: back
 
 // + Majjhimā paṭipadā tathāgatena abhisambuddhā. \

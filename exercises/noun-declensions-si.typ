@@ -485,13 +485,13 @@ V spodnji kitici ohranjanje zanikanja '#B[na]' ločeno (namesto združene oblike
 + Kena ādittaṁ? Dukkhehi domanassehi upāyāsehi ādittaṁ. (SN 35.28 poenost.) \ // anki: front
   #fillin(15cm, "S čim gori? S trpljenji, žalostmi, obupi gori.") // anki: back
 
-+ Kassapo kālena odanaṁ bhuñjati. (#emph[Kassapo] je ime.) \ // anki: front
++ Kassapo kālena odanaṁ bhuñjati. (#emph[Kassapa] je ime.) \ // anki: front
   #fillin(15cm, "Kassapa je riž ob pravem času.") // anki: back
 
 + Sīlasampanno asammūḷho kālaṁ karoti. \ // anki: front
   #fillin(15cm, "Tisti, izpopolnjen v čednosti, umre nezmeden.") // anki: back
 
-+ Nandiyo sakko bhagavantaṁ upasaṅkamati kālena kālaṁ dassanāya. \ (#emph[Nandiyo] je ime. #emph[Bhagavant]: Blaženi.) \ // anki: front
++ Nandiyo sakko bhagavantaṁ upasaṅkamati kālena kālaṁ dassanāya. \ (#emph[Nandiya] je ime. #emph[Bhagavant]: Blaženi.) \ // anki: front
   #fillin(15cm, "Nandiyo Sakijec od časa do časa pristopi k Blaženemu, da bi ga videl.") // anki: back
 
 // + Majjhimā paṭipadā tathāgatena abhisambuddhā. \

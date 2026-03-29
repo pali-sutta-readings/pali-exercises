@@ -485,13 +485,13 @@ V následující strofě oddělení záporu „#B[na]" (místo spojeného tvaru 
 + Kena ādittaṁ? Dukkhehi domanassehi upāyāsehi ādittaṁ. (SN 35.28 zjedn.) \ // anki: front
   #fillin(15cm, "Čím to hoří? Utrpeními, žaly, zoufalstvími to hoří.") // anki: back
 
-+ Kassapo kālena odanaṁ bhuñjati. (#emph[Kassapo] je jméno.) \ // anki: front
++ Kassapo kālena odanaṁ bhuñjati. (#emph[Kassapa] je jméno.) \ // anki: front
   #fillin(15cm, "Kassapa jí rýži ve správný čas.") // anki: back
 
 + Sīlasampanno asammūḷho kālaṁ karoti. \ // anki: front
   #fillin(15cm, "Ten, kdo je dokonalé mravnosti, umírá bez zmatení.") // anki: back
 
-+ Nandiyo sakko bhagavantaṁ upasaṅkamati kālena kālaṁ dassanāya. \ (#emph[Nandiyo] je jméno. #emph[Bhagavant]: Vznešený.) \ // anki: front
++ Nandiyo sakko bhagavantaṁ upasaṅkamati kālena kālaṁ dassanāya. \ (#emph[Nandiya] je jméno. #emph[Bhagavant]: Vznešený.) \ // anki: front
   #fillin(15cm, "Nandiyo Sakjovec přistupuje k Vznešenému čas od času, aby ho spatřil.") // anki: back
 
 // + Majjhimā paṭipadā tathāgatena abhisambuddhā. \

@@ -302,12 +302,24 @@
     }
 
     [
-      #underline(offset: 4pt)[#text(
+      #text(
         font: document-style.fonts.body,
         size: document-style.sizes.body,
       )[
+          *Pāli Exercises* \
           #link("https://github.com/pali-sutta-readings/pali-exercises/releases")
-      ]]
+
+          *Simsapa Dhamma Reader* \
+          #link("https://github.com/simsapa/simsapa-ng/releases/") \
+          See short demo video in the release notes \
+          Note: Database download is approx. 700 MB
+
+          *Digital Pāli Dictionary (integrated in Simsapa)* \
+          #link("https://dpdict.net/")
+
+          *Pāli Sutta Readings (includes chanting analysis)* \
+          #link("https://pali-sutta-readings.github.io/")
+      ]
     ]
   }
 

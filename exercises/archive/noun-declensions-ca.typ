@@ -460,13 +460,13 @@ La negació '#B[na]' pot anar al principi de la frase, però es refereix al verb
 + Kena ādittaṁ? Dukkhehi domanassehi upāyāsehi ādittaṁ. (SN 35.28 simpl.) \
   #fillin(15cm, "Per què crema? Pels sofriments, les angoixes, les desesperacions crema.")
 
-+ Kassapo kālena odanaṁ bhuñjati. (#emph[Kassapo] és un nom.) \
++ Kassapo kālena odanaṁ bhuñjati. (#emph[Kassapa] és un nom.) \
   #fillin(15cm, "Kassapa menja arròs al moment adequat.")
 
 + Sīlasampanno asammūḷho kālaṁ karoti. \
   #fillin(15cm, "El consumat en virtut mor sense confusió.")
 
-+ Nandiyo sakko bhagavantaṁ upasaṅkamati kālena kālaṁ dassanāya. \ (#emph[Nandiyo] és un nom. #emph[Bhagavant]: el Benaurat.) \
++ Nandiyo sakko bhagavantaṁ upasaṅkamati kālena kālaṁ dassanāya. \ (#emph[Nandiya] és un nom. #emph[Bhagavant]: el Benaurat.) \
   #fillin(15cm, "Nandiyo el Sakya s'acosta al Benaurat de tant en tant per veure'l.")
 
 // + Majjhimā paṭipadā tathāgatena abhisambuddhā. \

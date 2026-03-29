@@ -486,13 +486,13 @@ En la estrofa siguiente, mantener la negación '#B[na]' separada (en vez de usar
 + Kena ādittaṁ? Dukkhehi domanassehi upāyāsehi ādittaṁ. (SN 35.28 simpl.) \ // anki: front
   #fillin(15cm, "¿Por qué está ardiendo? Por los sufrimientos, pesares, desesperaciones está ardiendo.") // anki: back
 
-+ Kassapo kālena odanaṁ bhuñjati. (#emph[Kassapo] es un nombre.) \ // anki: front
++ Kassapo kālena odanaṁ bhuñjati. (#emph[Kassapa] es un nombre.) \ // anki: front
   #fillin(15cm, "Kassapa come el arroz en el momento adecuado.") // anki: back
 
 + Sīlasampanno asammūḷho kālaṁ karoti. \ // anki: front
   #fillin(15cm, "El consumado en virtud muere sin confusión.") // anki: back
 
-+ Nandiyo sakko bhagavantaṁ upasaṅkamati kālena kālaṁ dassanāya. \ (#emph[Nandiyo] es un nombre. #emph[Bhagavant]: el Bienaventurado.) \ // anki: front
++ Nandiyo sakko bhagavantaṁ upasaṅkamati kālena kālaṁ dassanāya. \ (#emph[Nandiya] es un nombre. #emph[Bhagavant]: el Bienaventurado.) \ // anki: front
   #fillin(15cm, "Nandiyo el sakya se acerca al Bienaventurado de vez en cuando para verlo.") // anki: back
 
 // + Majjhimā paṭipadā tathāgatena abhisambuddhā. \
